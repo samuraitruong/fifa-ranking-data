@@ -1,0 +1,185 @@
+,date,rank,country,ct,points,previousPoints,flag,delta
+0,1996-09-25T00:00:00,1,Brazil,BRA,68,68.0,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,0.0
+1,1996-09-25T00:00:00,2,Germany,GER,64,64.0,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,0.0
+2,1996-09-25T00:00:00,3,France,FRA,62,61.0,https://api.fifa.com/api/v1/picture/flags-sq-4/fra,1.0
+3,1996-09-25T00:00:00,4,Czech Republic,CZE,61,60.0,https://api.fifa.com/api/v1/picture/flags-sq-4/cze,1.0
+4,1996-09-25T00:00:00,5,Russia,RUS,60,59.0,https://api.fifa.com/api/v1/picture/flags-sq-4/rus,1.0
+5,1996-09-25T00:00:00,6,Italy,ITA,59,60.0,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,-1.0
+6,1996-09-25T00:00:00,7,Netherlands,NED,59,59.0,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,0.0
+7,1996-09-25T00:00:00,8,Sweden,SWE,58,58.0,https://api.fifa.com/api/v1/picture/flags-sq-4/swe,0.0
+8,1996-09-25T00:00:00,9,Denmark,DEN,58,57.0,https://api.fifa.com/api/v1/picture/flags-sq-4/den,1.0
+9,1996-09-25T00:00:00,10,Spain,ESP,58,59.0,https://api.fifa.com/api/v1/picture/flags-sq-4/esp,-1.0
+10,1996-09-25T00:00:00,11,Colombia,COL,58,55.0,https://api.fifa.com/api/v1/picture/flags-sq-4/col,3.0
+11,1996-09-25T00:00:00,12,England,ENG,56,55.0,https://api.fifa.com/api/v1/picture/flags-sq-4/eng,1.0
+12,1996-09-25T00:00:00,13,Mexico,MEX,55,54.0,https://api.fifa.com/api/v1/picture/flags-sq-4/mex,1.0
+13,1996-09-25T00:00:00,14,Portugal,POR,54,55.0,https://api.fifa.com/api/v1/picture/flags-sq-4/por,-1.0
+14,1996-09-25T00:00:00,15,Romania,ROU,53,52.0,https://api.fifa.com/api/v1/picture/flags-sq-4/rou,1.0
+15,1996-09-25T00:00:00,16,Zambia,ZAM,53,53.0,https://api.fifa.com/api/v1/picture/flags-sq-4/zam,0.0
+16,1996-09-25T00:00:00,17,South Africa,RSA,53,52.0,https://api.fifa.com/api/v1/picture/flags-sq-4/rsa,1.0
+17,1996-09-25T00:00:00,18,USA,USA,53,51.0,https://api.fifa.com/api/v1/picture/flags-sq-4/usa,2.0
+18,1996-09-25T00:00:00,19,Ghana,GHA,52,52.0,https://api.fifa.com/api/v1/picture/flags-sq-4/gha,0.0
+19,1996-09-25T00:00:00,20,Japan,JPN,51,48.0,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn,3.0
+20,1996-09-25T00:00:00,21,Bulgaria,BUL,51,52.0,https://api.fifa.com/api/v1/picture/flags-sq-4/bul,-1.0
+21,1996-09-25T00:00:00,22,Argentina,ARG,51,50.0,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,1.0
+22,1996-09-25T00:00:00,23,Norway,NOR,51,49.0,https://api.fifa.com/api/v1/picture/flags-sq-4/nor,2.0
+23,1996-09-25T00:00:00,24,Tunisia,TUN,51,51.0,https://api.fifa.com/api/v1/picture/flags-sq-4/tun,0.0
+24,1996-09-25T00:00:00,25,Croatia,CRO,51,51.0,https://api.fifa.com/api/v1/picture/flags-sq-4/cro,0.0
+25,1996-09-25T00:00:00,26,Chile,CHI,50,51.0,https://api.fifa.com/api/v1/picture/flags-sq-4/chi,-1.0
+26,1996-09-25T00:00:00,27,Morocco,MAR,48,45.0,https://api.fifa.com/api/v1/picture/flags-sq-4/mar,3.0
+27,1996-09-25T00:00:00,28,Egypt,EGY,48,48.0,https://api.fifa.com/api/v1/picture/flags-sq-4/egy,0.0
+28,1996-09-25T00:00:00,29,Côte d'Ivoire,CIV,47,47.0,https://api.fifa.com/api/v1/picture/flags-sq-4/civ,0.0
+29,1996-09-25T00:00:00,30,Greece,GRE,47,46.0,https://api.fifa.com/api/v1/picture/flags-sq-4/gre,1.0
+30,1996-09-25T00:00:00,31,Ecuador,ECU,47,46.0,https://api.fifa.com/api/v1/picture/flags-sq-4/ecu,1.0
+31,1996-09-25T00:00:00,32,Republic of Ireland,IRL,46,44.0,https://api.fifa.com/api/v1/picture/flags-sq-4/irl,2.0
+32,1996-09-25T00:00:00,33,Turkey,TUR,46,47.0,https://api.fifa.com/api/v1/picture/flags-sq-4/tur,-1.0
+33,1996-09-25T00:00:00,34,Trinidad and Tobago,TRI,46,46.0,https://api.fifa.com/api/v1/picture/flags-sq-4/tri,0.0
+34,1996-09-25T00:00:00,35,Switzerland,SUI,45,46.0,https://api.fifa.com/api/v1/picture/flags-sq-4/sui,-1.0
+35,1996-09-25T00:00:00,36,Bolivia,BOL,45,45.0,https://api.fifa.com/api/v1/picture/flags-sq-4/bol,0.0
+36,1996-09-25T00:00:00,37,Belgium,BEL,45,41.0,https://api.fifa.com/api/v1/picture/flags-sq-4/bel,4.0
+37,1996-09-25T00:00:00,38,Jamaica,JAM,44,42.0,https://api.fifa.com/api/v1/picture/flags-sq-4/jam,2.0
+38,1996-09-25T00:00:00,39,Scotland,SCO,44,44.0,https://api.fifa.com/api/v1/picture/flags-sq-4/sco,0.0
+39,1996-09-25T00:00:00,40,Slovakia,SVK,44,43.0,https://api.fifa.com/api/v1/picture/flags-sq-4/svk,1.0
+40,1996-09-25T00:00:00,41,Korea Republic,KOR,42,42.0,https://api.fifa.com/api/v1/picture/flags-sq-4/kor,0.0
+41,1996-09-25T00:00:00,42,Saudi Arabia,KSA,42,42.0,https://api.fifa.com/api/v1/picture/flags-sq-4/ksa,0.0
+42,1996-09-25T00:00:00,43,Honduras,HON,41,40.0,https://api.fifa.com/api/v1/picture/flags-sq-4/hon,1.0
+43,1996-09-25T00:00:00,44,Algeria,ALG,41,41.0,https://api.fifa.com/api/v1/picture/flags-sq-4/alg,0.0
+44,1996-09-25T00:00:00,45,Paraguay,PAR,41,40.0,https://api.fifa.com/api/v1/picture/flags-sq-4/par,1.0
+45,1996-09-25T00:00:00,46,Austria,AUT,41,42.0,https://api.fifa.com/api/v1/picture/flags-sq-4/aut,-1.0
+46,1996-09-25T00:00:00,47,Cameroon,CMR,40,40.0,https://api.fifa.com/api/v1/picture/flags-sq-4/cmr,0.0
+47,1996-09-25T00:00:00,48,Gabon,GAB,40,40.0,https://api.fifa.com/api/v1/picture/flags-sq-4/gab,0.0
+48,1996-09-25T00:00:00,49,Israel,ISR,39,37.0,https://api.fifa.com/api/v1/picture/flags-sq-4/isr,2.0
+49,1996-09-25T00:00:00,50,Thailand,THA,39,38.0,https://api.fifa.com/api/v1/picture/flags-sq-4/tha,1.0
+50,1996-09-25T00:00:00,51,Nigeria,NGA,39,39.0,https://api.fifa.com/api/v1/picture/flags-sq-4/nga,0.0
+51,1996-09-25T00:00:00,52,Australia,AUS,38,36.0,https://api.fifa.com/api/v1/picture/flags-sq-4/aus,2.0
+52,1996-09-25T00:00:00,53,Uruguay,URU,37,36.0,https://api.fifa.com/api/v1/picture/flags-sq-4/uru,1.0
+53,1996-09-25T00:00:00,54,Iceland,ISL,37,37.0,https://api.fifa.com/api/v1/picture/flags-sq-4/isl,0.0
+54,1996-09-25T00:00:00,55,China PR,CHN,37,37.0,https://api.fifa.com/api/v1/picture/flags-sq-4/chn,0.0
+55,1996-09-25T00:00:00,56,Poland,POL,37,37.0,https://api.fifa.com/api/v1/picture/flags-sq-4/pol,0.0
+56,1996-09-25T00:00:00,57,Cuba,CUB,36,38.0,https://api.fifa.com/api/v1/picture/flags-sq-4/cub,-2.0
+57,1996-09-25T00:00:00,58,Lithuania,LTU,36,36.0,https://api.fifa.com/api/v1/picture/flags-sq-4/ltu,0.0
+58,1996-09-25T00:00:00,58,Peru,PER,36,35.0,https://api.fifa.com/api/v1/picture/flags-sq-4/per,1.0
+59,1996-09-25T00:00:00,60,Zaire,ZAI,36,36.0,https://api.fifa.com/api/v1/picture/flags-sq-4/zai,0.0
+60,1996-09-25T00:00:00,61,Sierra Leone,SLE,36,36.0,https://api.fifa.com/api/v1/picture/flags-sq-4/sle,0.0
+61,1996-09-25T00:00:00,62,Slovenia,SVN,36,36.0,https://api.fifa.com/api/v1/picture/flags-sq-4/svn,0.0
+62,1996-09-25T00:00:00,63,United Arab Emirates,UAE,36,33.0,https://api.fifa.com/api/v1/picture/flags-sq-4/uae,3.0
+63,1996-09-25T00:00:00,64,Senegal,SEN,35,36.0,https://api.fifa.com/api/v1/picture/flags-sq-4/sen,-1.0
+64,1996-09-25T00:00:00,65,Northern Ireland,NIR,35,35.0,https://api.fifa.com/api/v1/picture/flags-sq-4/nir,0.0
+65,1996-09-25T00:00:00,66,IR Iran,IRN,35,35.0,https://api.fifa.com/api/v1/picture/flags-sq-4/irn,0.0
+66,1996-09-25T00:00:00,67,Zimbabwe,ZIM,34,34.0,https://api.fifa.com/api/v1/picture/flags-sq-4/zim,0.0
+67,1996-09-25T00:00:00,68,Wales,WAL,34,32.0,https://api.fifa.com/api/v1/picture/flags-sq-4/wal,2.0
+68,1996-09-25T00:00:00,69,Ukraine,UKR,33,32.0,https://api.fifa.com/api/v1/picture/flags-sq-4/ukr,1.0
+69,1996-09-25T00:00:00,70,Yugoslavia,YUG,33,35.0,https://api.fifa.com/api/v1/picture/flags-sq-4/yug,-2.0
+70,1996-09-25T00:00:00,71,Finland,FIN,33,33.0,https://api.fifa.com/api/v1/picture/flags-sq-4/fin,0.0
+71,1996-09-25T00:00:00,72,El Salvador,SLV,33,30.0,https://api.fifa.com/api/v1/picture/flags-sq-4/slv,3.0
+72,1996-09-25T00:00:00,73,Costa Rica,CRC,33,29.0,https://api.fifa.com/api/v1/picture/flags-sq-4/crc,4.0
+73,1996-09-25T00:00:00,74,Hungary,HUN,33,29.0,https://api.fifa.com/api/v1/picture/flags-sq-4/hun,4.0
+74,1996-09-25T00:00:00,75,Latvia,LVA,32,33.0,https://api.fifa.com/api/v1/picture/flags-sq-4/lva,-1.0
+75,1996-09-25T00:00:00,76,Tanzania,TAN,32,32.0,https://api.fifa.com/api/v1/picture/flags-sq-4/tan,0.0
+76,1996-09-25T00:00:00,77,Angola,ANG,32,32.0,https://api.fifa.com/api/v1/picture/flags-sq-4/ang,0.0
+77,1996-09-25T00:00:00,78,Canada,CAN,31,28.0,https://api.fifa.com/api/v1/picture/flags-sq-4/can,3.0
+78,1996-09-25T00:00:00,79,Cyprus,CYP,31,29.0,https://api.fifa.com/api/v1/picture/flags-sq-4/cyp,2.0
+79,1996-09-25T00:00:00,80,Kuwait,KUW,30,31.0,https://api.fifa.com/api/v1/picture/flags-sq-4/kuw,-1.0
+80,1996-09-25T00:00:00,81,Mali,MLI,30,30.0,https://api.fifa.com/api/v1/picture/flags-sq-4/mli,0.0
+81,1996-09-25T00:00:00,82,Oman,OMA,30,29.0,https://api.fifa.com/api/v1/picture/flags-sq-4/oma,1.0
+82,1996-09-25T00:00:00,83,Mozambique,MOZ,30,30.0,https://api.fifa.com/api/v1/picture/flags-sq-4/moz,0.0
+83,1996-09-25T00:00:00,84,Qatar,QAT,29,30.0,https://api.fifa.com/api/v1/picture/flags-sq-4/qat,-1.0
+84,1996-09-25T00:00:00,85,Sudan,SDN,29,25.0,https://api.fifa.com/api/v1/picture/flags-sq-4/sdn,4.0
+85,1996-09-25T00:00:00,86,Togo,TOG,29,24.0,https://api.fifa.com/api/v1/picture/flags-sq-4/tog,5.0
+86,1996-09-25T00:00:00,87,St. Vincent and the Grenadines,VIN,29,29.0,https://api.fifa.com/api/v1/picture/flags-sq-4/vin,0.0
+87,1996-09-25T00:00:00,88,Belarus,BLR,29,26.0,https://api.fifa.com/api/v1/picture/flags-sq-4/blr,3.0
+88,1996-09-25T00:00:00,89,Malawi,MWI,29,29.0,https://api.fifa.com/api/v1/picture/flags-sq-4/mwi,0.0
+89,1996-09-25T00:00:00,90,Guinea,GUI,28,28.0,https://api.fifa.com/api/v1/picture/flags-sq-4/gui,0.0
+90,1996-09-25T00:00:00,91,Malaysia,MAS,28,21.0,https://api.fifa.com/api/v1/picture/flags-sq-4/mas,7.0
+91,1996-09-25T00:00:00,92,Georgia,GEO,28,28.0,https://api.fifa.com/api/v1/picture/flags-sq-4/geo,0.0
+92,1996-09-25T00:00:00,93,Singapore,SIN,28,28.0,https://api.fifa.com/api/v1/picture/flags-sq-4/sin,0.0
+93,1996-09-25T00:00:00,94,FYR Macedonia,MKD,28,28.0,https://api.fifa.com/api/v1/picture/flags-sq-4/mkd,0.0
+94,1996-09-25T00:00:00,95,Uganda,UGA,27,26.0,https://api.fifa.com/api/v1/picture/flags-sq-4/uga,1.0
+95,1996-09-25T00:00:00,96,Lebanon,LBN,27,26.0,https://api.fifa.com/api/v1/picture/flags-sq-4/lbn,1.0
+96,1996-09-25T00:00:00,97,Liberia,LBR,26,26.0,https://api.fifa.com/api/v1/picture/flags-sq-4/lbr,0.0
+97,1996-09-25T00:00:00,98,Myanmar,MYA,26,24.0,https://api.fifa.com/api/v1/picture/flags-sq-4/mya,2.0
+98,1996-09-25T00:00:00,99,Kenya,KEN,25,24.0,https://api.fifa.com/api/v1/picture/flags-sq-4/ken,1.0
+99,1996-09-25T00:00:00,100,Ethiopia,ETH,25,22.0,https://api.fifa.com/api/v1/picture/flags-sq-4/eth,3.0
+100,1996-09-25T00:00:00,100,Vietnam,VIE,25,20.0,https://api.fifa.com/api/v1/picture/flags-sq-4/vie,5.0
+101,1996-09-25T00:00:00,102,Burkina Faso,BFA,24,24.0,https://api.fifa.com/api/v1/picture/flags-sq-4/bfa,0.0
+102,1996-09-25T00:00:00,102,Mauritania,MTN,24,24.0,https://api.fifa.com/api/v1/picture/flags-sq-4/mtn,0.0
+103,1996-09-25T00:00:00,104,Barbados,BRB,23,23.0,https://api.fifa.com/api/v1/picture/flags-sq-4/brb,0.0
+104,1996-09-25T00:00:00,105,Panama,PAN,23,22.0,https://api.fifa.com/api/v1/picture/flags-sq-4/pan,1.0
+105,1996-09-25T00:00:00,106,Namibia,NAM,23,19.0,https://api.fifa.com/api/v1/picture/flags-sq-4/nam,4.0
+106,1996-09-25T00:00:00,107,Congo,CGO,23,23.0,https://api.fifa.com/api/v1/picture/flags-sq-4/cgo,0.0
+107,1996-09-25T00:00:00,108,Haiti,HAI,23,23.0,https://api.fifa.com/api/v1/picture/flags-sq-4/hai,0.0
+108,1996-09-25T00:00:00,109,Indonesia,IDN,22,16.0,https://api.fifa.com/api/v1/picture/flags-sq-4/idn,6.0
+109,1996-09-25T00:00:00,110,Uzbekistan,UZB,22,22.0,https://api.fifa.com/api/v1/picture/flags-sq-4/uzb,0.0
+110,1996-09-25T00:00:00,111,Albania,ALB,22,23.0,https://api.fifa.com/api/v1/picture/flags-sq-4/alb,-1.0
+111,1996-09-25T00:00:00,112,St. Kitts and Nevis,SKN,20,20.0,https://api.fifa.com/api/v1/picture/flags-sq-4/skn,0.0
+112,1996-09-25T00:00:00,113,Guatemala,GUA,20,20.0,https://api.fifa.com/api/v1/picture/flags-sq-4/gua,0.0
+113,1996-09-25T00:00:00,114,Armenia,ARM,20,19.0,https://api.fifa.com/api/v1/picture/flags-sq-4/arm,1.0
+114,1996-09-25T00:00:00,115,Estonia,EST,20,20.0,https://api.fifa.com/api/v1/picture/flags-sq-4/est,0.0
+115,1996-09-25T00:00:00,116,Gambia,GAM,20,20.0,https://api.fifa.com/api/v1/picture/flags-sq-4/gam,0.0
+116,1996-09-25T00:00:00,117,India,IND,19,19.0,https://api.fifa.com/api/v1/picture/flags-sq-4/ind,0.0
+117,1996-09-25T00:00:00,118,Venezuela,VEN,19,19.0,https://api.fifa.com/api/v1/picture/flags-sq-4/ven,0.0
+118,1996-09-25T00:00:00,119,Moldova,MDA,19,19.0,https://api.fifa.com/api/v1/picture/flags-sq-4/mda,0.0
+119,1996-09-25T00:00:00,120,Malta,MLT,19,19.0,https://api.fifa.com/api/v1/picture/flags-sq-4/mlt,0.0
+120,1996-09-25T00:00:00,121,Azerbaijan,AZE,19,15.0,https://api.fifa.com/api/v1/picture/flags-sq-4/aze,4.0
+121,1996-09-25T00:00:00,122,Hong Kong,HKG,19,19.0,https://api.fifa.com/api/v1/picture/flags-sq-4/hkg,0.0
+122,1996-09-25T00:00:00,123,Guinea-Bissau,GNB,19,19.0,https://api.fifa.com/api/v1/picture/flags-sq-4/gnb,0.0
+123,1996-09-25T00:00:00,124,Luxembourg,LUX,18,19.0,https://api.fifa.com/api/v1/picture/flags-sq-4/lux,-1.0
+124,1996-09-25T00:00:00,125,Niger,NIG,18,19.0,https://api.fifa.com/api/v1/picture/flags-sq-4/nig,-1.0
+125,1996-09-25T00:00:00,126,Grenada,GRN,18,18.0,https://api.fifa.com/api/v1/picture/flags-sq-4/grn,0.0
+126,1996-09-25T00:00:00,127,Iraq,IRQ,18,18.0,https://api.fifa.com/api/v1/picture/flags-sq-4/irq,0.0
+127,1996-09-25T00:00:00,128,Suriname,SUR,18,18.0,https://api.fifa.com/api/v1/picture/flags-sq-4/sur,0.0
+128,1996-09-25T00:00:00,129,Bangladesh,BAN,17,17.0,https://api.fifa.com/api/v1/picture/flags-sq-4/ban,0.0
+129,1996-09-25T00:00:00,130,Syria,SYR,17,17.0,https://api.fifa.com/api/v1/picture/flags-sq-4/syr,0.0
+130,1996-09-25T00:00:00,131,Dominican Republic,DOM,17,17.0,https://api.fifa.com/api/v1/picture/flags-sq-4/dom,0.0
+131,1996-09-25T00:00:00,132,Bahrain,BHR,17,17.0,https://api.fifa.com/api/v1/picture/flags-sq-4/bhr,0.0
+132,1996-09-25T00:00:00,133,Faroe Islands,FRO,16,14.0,https://api.fifa.com/api/v1/picture/flags-sq-4/fro,2.0
+133,1996-09-25T00:00:00,134,St. Lucia,LCA,16,16.0,https://api.fifa.com/api/v1/picture/flags-sq-4/lca,0.0
+134,1996-09-25T00:00:00,135,Burundi,BDI,14,15.0,https://api.fifa.com/api/v1/picture/flags-sq-4/bdi,-1.0
+135,1996-09-25T00:00:00,136,New Zealand,NZL,14,14.0,https://api.fifa.com/api/v1/picture/flags-sq-4/nzl,0.0
+136,1996-09-25T00:00:00,137,Sri Lanka,SRI,14,14.0,https://api.fifa.com/api/v1/picture/flags-sq-4/sri,0.0
+137,1996-09-25T00:00:00,138,Yemen,YEM,13,13.0,https://api.fifa.com/api/v1/picture/flags-sq-4/yem,0.0
+138,1996-09-25T00:00:00,139,Madagascar,MAD,13,13.0,https://api.fifa.com/api/v1/picture/flags-sq-4/mad,0.0
+139,1996-09-25T00:00:00,140,Dominica,DMA,12,12.0,https://api.fifa.com/api/v1/picture/flags-sq-4/dma,0.0
+140,1996-09-25T00:00:00,141,Korea DPR,PRK,12,12.0,https://api.fifa.com/api/v1/picture/flags-sq-4/prk,0.0
+141,1996-09-25T00:00:00,142,Turkmenistan,TKM,12,12.0,https://api.fifa.com/api/v1/picture/flags-sq-4/tkm,0.0
+142,1996-09-25T00:00:00,144,Laos,LAO,11,7.0,https://api.fifa.com/api/v1/picture/flags-sq-4/lao,4.0
+143,1996-09-25T00:00:00,145,Jordan,JOR,10,10.0,https://api.fifa.com/api/v1/picture/flags-sq-4/jor,0.0
+144,1996-09-25T00:00:00,146,Mauritius,MRI,10,9.0,https://api.fifa.com/api/v1/picture/flags-sq-4/mri,1.0
+145,1996-09-25T00:00:00,147,Antigua and Barbuda,ATG,10,10.0,https://api.fifa.com/api/v1/picture/flags-sq-4/atg,0.0
+146,1996-09-25T00:00:00,148,Puerto Rico,PUR,10,10.0,https://api.fifa.com/api/v1/picture/flags-sq-4/pur,0.0
+147,1996-09-25T00:00:00,149,Nepal,NEP,9,9.0,https://api.fifa.com/api/v1/picture/flags-sq-4/nep,0.0
+148,1996-09-25T00:00:00,150,Cayman Islands,CAY,9,9.0,https://api.fifa.com/api/v1/picture/flags-sq-4/cay,0.0
+149,1996-09-25T00:00:00,151,Benin,BEN,9,7.0,https://api.fifa.com/api/v1/picture/flags-sq-4/ben,2.0
+150,1996-09-25T00:00:00,152,Cape Verde Islands,CPV,9,9.0,https://api.fifa.com/api/v1/picture/flags-sq-4/cpv,0.0
+151,1996-09-25T00:00:00,153,Guyana,GUY,8,8.0,https://api.fifa.com/api/v1/picture/flags-sq-4/guy,0.0
+152,1996-09-25T00:00:00,154,Tahiti,TAH,8,8.0,https://api.fifa.com/api/v1/picture/flags-sq-4/tah,0.0
+153,1996-09-25T00:00:00,155,Fiji,FIJ,8,8.0,https://api.fifa.com/api/v1/picture/flags-sq-4/fij,0.0
+154,1996-09-25T00:00:00,156,Eswatini,SWZ,7,7.0,https://api.fifa.com/api/v1/picture/flags-sq-4/swz,0.0
+155,1996-09-25T00:00:00,157,Kazakhstan,KAZ,6,6.0,https://api.fifa.com/api/v1/picture/flags-sq-4/kaz,0.0
+156,1996-09-25T00:00:00,158,Lesotho,LES,6,6.0,https://api.fifa.com/api/v1/picture/flags-sq-4/les,0.0
+157,1996-09-25T00:00:00,159,Bermuda,BER,6,6.0,https://api.fifa.com/api/v1/picture/flags-sq-4/ber,0.0
+158,1996-09-25T00:00:00,160,Botswana,BOT,6,6.0,https://api.fifa.com/api/v1/picture/flags-sq-4/bot,0.0
+159,1996-09-25T00:00:00,161,Tajikistan,TJK,6,6.0,https://api.fifa.com/api/v1/picture/flags-sq-4/tjk,0.0
+160,1996-09-25T00:00:00,162,San Marino,SMR,6,6.0,https://api.fifa.com/api/v1/picture/flags-sq-4/smr,0.0
+161,1996-09-25T00:00:00,163,Liechtenstein,LIE,6,6.0,https://api.fifa.com/api/v1/picture/flags-sq-4/lie,0.0
+162,1996-09-25T00:00:00,164,Rwanda,RWA,5,4.0,https://api.fifa.com/api/v1/picture/flags-sq-4/rwa,1.0
+163,1996-09-25T00:00:00,165,Philippines,PHI,5,2.0,https://api.fifa.com/api/v1/picture/flags-sq-4/phi,3.0
+164,1996-09-25T00:00:00,166,Kyrgyz Republic,KGZ,5,5.0,https://api.fifa.com/api/v1/picture/flags-sq-4/kgz,0.0
+165,1996-09-25T00:00:00,167,Brunei Darussalam,BRU,4,2.0,https://api.fifa.com/api/v1/picture/flags-sq-4/bru,2.0
+166,1996-09-25T00:00:00,168,Solomon Islands,SOL,4,1.0,https://api.fifa.com/api/v1/picture/flags-sq-4/sol,3.0
+167,1996-09-25T00:00:00,169,Macau,MAC,4,4.0,https://api.fifa.com/api/v1/picture/flags-sq-4/mac,0.0
+168,1996-09-25T00:00:00,170,Pakistan,PAK,4,4.0,https://api.fifa.com/api/v1/picture/flags-sq-4/pak,0.0
+169,1996-09-25T00:00:00,171,Maldives,MDV,3,3.0,https://api.fifa.com/api/v1/picture/flags-sq-4/mdv,0.0
+170,1996-09-25T00:00:00,172,Chinese Taipei,TPE,3,3.0,https://api.fifa.com/api/v1/picture/flags-sq-4/tpe,0.0
+171,1996-09-25T00:00:00,173,Bosnia and Herzegovina,BIH,3,2.0,https://api.fifa.com/api/v1/picture/flags-sq-4/bih,1.0
+172,1996-09-25T00:00:00,174,Somalia,SOM,2,2.0,https://api.fifa.com/api/v1/picture/flags-sq-4/som,0.0
+173,1996-09-25T00:00:00,175,Nicaragua,NCA,2,2.0,https://api.fifa.com/api/v1/picture/flags-sq-4/nca,0.0
+174,1996-09-25T00:00:00,176,Seychelles,SEY,2,0.0,https://api.fifa.com/api/v1/picture/flags-sq-4/sey,
+175,1996-09-25T00:00:00,177,Vanuatu,VAN,2,0.0,https://api.fifa.com/api/v1/picture/flags-sq-4/van,
+176,1996-09-25T00:00:00,178,Aruba,ARU,1,1.0,https://api.fifa.com/api/v1/picture/flags-sq-4/aru,0.0
+177,1996-09-25T00:00:00,179,Papua New Guinea,PNG,1,,https://api.fifa.com/api/v1/picture/flags-sq-4/png,
+178,1996-09-25T00:00:00,180,Belize,BLZ,1,1.0,https://api.fifa.com/api/v1/picture/flags-sq-4/blz,0.0
+179,1996-09-25T00:00:00,181,Libya,LBY,0,0.0,https://api.fifa.com/api/v1/picture/flags-sq-4/lby,
+180,1996-09-25T00:00:00,182,Djibouti,DJI,0,0.0,https://api.fifa.com/api/v1/picture/flags-sq-4/dji,
+181,1996-09-25T00:00:00,183,Cambodia,CAM,0,0.0,https://api.fifa.com/api/v1/picture/flags-sq-4/cam,
+182,1996-09-25T00:00:00,184,Chad,CHA,0,0.0,https://api.fifa.com/api/v1/picture/flags-sq-4/cha,
+183,1996-09-25T00:00:00,184,Guam,GUM,0,0.0,https://api.fifa.com/api/v1/picture/flags-sq-4/gum,

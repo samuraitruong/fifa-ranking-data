@@ -1,0 +1,2075 @@
+[
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "1",
+        "country": "Spain",
+        "ct": "ESP",
+        "points": 1883,
+        "previousPoints": 1883,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/esp",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "2",
+        "country": "Netherlands",
+        "ct": "NED",
+        "points": 1659,
+        "previousPoints": 1659,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ned",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1524,
+        "previousPoints": 1536,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -12
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "4",
+        "country": "Germany",
+        "ct": "GER",
+        "points": 1464,
+        "previousPoints": 1464,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ger",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "5",
+        "country": "Argentina",
+        "ct": "ARG",
+        "points": 1288,
+        "previousPoints": 1289,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arg",
+        "delta": -1
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "6",
+        "country": "Uruguay",
+        "ct": "URU",
+        "points": 1152,
+        "previousPoints": 1152,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uru",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "7",
+        "country": "England",
+        "ct": "ENG",
+        "points": 1125,
+        "previousPoints": 1125,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eng",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "8",
+        "country": "Portugal",
+        "ct": "POR",
+        "points": 1062,
+        "previousPoints": 1062,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/por",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "9",
+        "country": "Egypt",
+        "ct": "EGY",
+        "points": 1053,
+        "previousPoints": 1053,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/egy",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "10",
+        "country": "Chile",
+        "ct": "CHI",
+        "points": 988,
+        "previousPoints": 988,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chi",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "11",
+        "country": "Italy",
+        "ct": "ITA",
+        "points": 982,
+        "previousPoints": 982,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ita",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "12",
+        "country": "Greece",
+        "ct": "GRE",
+        "points": 975,
+        "previousPoints": 975,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gre",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "13",
+        "country": "Serbia",
+        "ct": "SRB",
+        "points": 969,
+        "previousPoints": 969,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/srb",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "14",
+        "country": "Croatia",
+        "ct": "CRO",
+        "points": 968,
+        "previousPoints": 968,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cro",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "15",
+        "country": "Paraguay",
+        "ct": "PAR",
+        "points": 961,
+        "previousPoints": 961,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/par",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "16",
+        "country": "Russia",
+        "ct": "RUS",
+        "points": 956,
+        "previousPoints": 956,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rus",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "17",
+        "country": "Switzerland",
+        "ct": "SUI",
+        "points": 940,
+        "previousPoints": 940,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sui",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "18",
+        "country": "USA",
+        "ct": "USA",
+        "points": 931,
+        "previousPoints": 969,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/usa",
+        "delta": -38
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "19",
+        "country": "Slovenia",
+        "ct": "SVN",
+        "points": 917,
+        "previousPoints": 917,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svn",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "20",
+        "country": "Australia",
+        "ct": "AUS",
+        "points": 911,
+        "previousPoints": 911,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aus",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "21",
+        "country": "France",
+        "ct": "FRA",
+        "points": 890,
+        "previousPoints": 890,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fra",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "22",
+        "country": "Norway",
+        "ct": "NOR",
+        "points": 878,
+        "previousPoints": 878,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nor",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "23",
+        "country": "Ghana",
+        "ct": "GHA",
+        "points": 874,
+        "previousPoints": 874,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gha",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "24",
+        "country": "Ukraine",
+        "ct": "UKR",
+        "points": 870,
+        "previousPoints": 870,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ukr",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "25",
+        "country": "Mexico",
+        "ct": "MEX",
+        "points": 853,
+        "previousPoints": 872,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mex",
+        "delta": -19
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "26",
+        "country": "C\u00f4te d'Ivoire",
+        "ct": "CIV",
+        "points": 843,
+        "previousPoints": 843,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/civ",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "27",
+        "country": "Slovakia",
+        "ct": "SVK",
+        "points": 829,
+        "previousPoints": 829,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svk",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "28",
+        "country": "Turkey",
+        "ct": "TUR",
+        "points": 810,
+        "previousPoints": 810,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tur",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "29",
+        "country": "Denmark",
+        "ct": "DEN",
+        "points": 785,
+        "previousPoints": 785,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/den",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "30",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 773,
+        "previousPoints": 773,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "31",
+        "country": "Czech Republic",
+        "ct": "CZE",
+        "points": 769,
+        "previousPoints": 769,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cze",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "32",
+        "country": "Japan",
+        "ct": "JPN",
+        "points": 768,
+        "previousPoints": 768,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jpn",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "33",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 759,
+        "previousPoints": 759,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "34",
+        "country": "Gabon",
+        "ct": "GAB",
+        "points": 755,
+        "previousPoints": 755,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gab",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "35",
+        "country": "Sweden",
+        "ct": "SWE",
+        "points": 747,
+        "previousPoints": 747,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swe",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "36",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 734,
+        "previousPoints": 725,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 9
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "36",
+        "country": "Republic of Ireland",
+        "ct": "IRL",
+        "points": 734,
+        "previousPoints": 734,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irl",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "38",
+        "country": "Israel",
+        "ct": "ISR",
+        "points": 733,
+        "previousPoints": 733,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isr",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "39",
+        "country": "Peru",
+        "ct": "PER",
+        "points": 726,
+        "previousPoints": 726,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/per",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "40",
+        "country": "Cameroon",
+        "ct": "CMR",
+        "points": 710,
+        "previousPoints": 710,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cmr",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "41",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 699,
+        "previousPoints": 699,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "42",
+        "country": "Romania",
+        "ct": "ROU",
+        "points": 697,
+        "previousPoints": 697,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rou",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "43",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 672,
+        "previousPoints": 672,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "44",
+        "country": "Korea Republic",
+        "ct": "KOR",
+        "points": 651,
+        "previousPoints": 660,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kor",
+        "delta": -9
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "45",
+        "country": "Burkina Faso",
+        "ct": "BFA",
+        "points": 646,
+        "previousPoints": 646,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bfa",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "46",
+        "country": "Honduras",
+        "ct": "HON",
+        "points": 627,
+        "previousPoints": 644,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hon",
+        "delta": -17
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "47",
+        "country": "Venezuela",
+        "ct": "VEN",
+        "points": 592,
+        "previousPoints": 592,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ven",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "48",
+        "country": "Belgium",
+        "ct": "BEL",
+        "points": 589,
+        "previousPoints": 589,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bel",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "49",
+        "country": "Latvia",
+        "ct": "LVA",
+        "points": 579,
+        "previousPoints": 579,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lva",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "50",
+        "country": "Bolivia",
+        "ct": "BOL",
+        "points": 577,
+        "previousPoints": 570,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bol",
+        "delta": 7
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "51",
+        "country": "Finland",
+        "ct": "FIN",
+        "points": 576,
+        "previousPoints": 576,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fin",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "52",
+        "country": "Lithuania",
+        "ct": "LTU",
+        "points": 571,
+        "previousPoints": 571,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ltu",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "53",
+        "country": "Costa Rica",
+        "ct": "CRC",
+        "points": 562,
+        "previousPoints": 584,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/crc",
+        "delta": -22
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "54",
+        "country": "New Zealand",
+        "ct": "NZL",
+        "points": 557,
+        "previousPoints": 557,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nzl",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "55",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 548,
+        "previousPoints": 548,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "56",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 547,
+        "previousPoints": 547,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "57",
+        "country": "Bosnia and Herzegovina",
+        "ct": "BIH",
+        "points": 546,
+        "previousPoints": 546,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bih",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "58",
+        "country": "Ecuador",
+        "ct": "ECU",
+        "points": 545,
+        "previousPoints": 545,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ecu",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "59",
+        "country": "Northern Ireland",
+        "ct": "NIR",
+        "points": 540,
+        "previousPoints": 540,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nir",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "60",
+        "country": "Austria",
+        "ct": "AUT",
+        "points": 536,
+        "previousPoints": 536,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aut",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "61",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 535,
+        "previousPoints": 535,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "62",
+        "country": "Hungary",
+        "ct": "HUN",
+        "points": 534,
+        "previousPoints": 534,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hun",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "63",
+        "country": "Cyprus",
+        "ct": "CYP",
+        "points": 523,
+        "previousPoints": 523,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cyp",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "64",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 519,
+        "previousPoints": 519,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "65",
+        "country": "IR Iran",
+        "ct": "IRN",
+        "points": 517,
+        "previousPoints": 522,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irn",
+        "delta": -5
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "66",
+        "country": "FYR Macedonia",
+        "ct": "MKD",
+        "points": 504,
+        "previousPoints": 504,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mkd",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "66",
+        "country": "South Africa",
+        "ct": "RSA",
+        "points": 504,
+        "previousPoints": 504,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rsa",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "68",
+        "country": "Bahrain",
+        "ct": "BHR",
+        "points": 466,
+        "previousPoints": 460,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhr",
+        "delta": 6
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "69",
+        "country": "Uganda",
+        "ct": "UGA",
+        "points": 459,
+        "previousPoints": 457,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uga",
+        "delta": 2
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "70",
+        "country": "Saudi Arabia",
+        "ct": "KSA",
+        "points": 455,
+        "previousPoints": 471,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ksa",
+        "delta": -16
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "70",
+        "country": "Albania",
+        "ct": "ALB",
+        "points": 455,
+        "previousPoints": 455,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alb",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "72",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 449,
+        "previousPoints": 446,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 3
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "73",
+        "country": "Montenegro",
+        "ct": "MNE",
+        "points": 448,
+        "previousPoints": 448,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mne",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "74",
+        "country": "Malawi",
+        "ct": "MWI",
+        "points": 424,
+        "previousPoints": 425,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mwi",
+        "delta": -1
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "75",
+        "country": "Togo",
+        "ct": "TOG",
+        "points": 421,
+        "previousPoints": 421,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tog",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "76",
+        "country": "Trinidad and Tobago",
+        "ct": "TRI",
+        "points": 418,
+        "previousPoints": 405,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tri",
+        "delta": 13
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "77",
+        "country": "China PR",
+        "ct": "CHN",
+        "points": 406,
+        "previousPoints": 393,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chn",
+        "delta": 13
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "78",
+        "country": "Belarus",
+        "ct": "BLR",
+        "points": 403,
+        "previousPoints": 403,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blr",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "79",
+        "country": "Iceland",
+        "ct": "ISL",
+        "points": 385,
+        "previousPoints": 385,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isl",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "80",
+        "country": "Mozambique",
+        "ct": "MOZ",
+        "points": 381,
+        "previousPoints": 377,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/moz",
+        "delta": 4
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "81",
+        "country": "Oman",
+        "ct": "OMA",
+        "points": 377,
+        "previousPoints": 374,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/oma",
+        "delta": 3
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "82",
+        "country": "Jamaica",
+        "ct": "JAM",
+        "points": 372,
+        "previousPoints": 368,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jam",
+        "delta": 4
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "83",
+        "country": "Morocco",
+        "ct": "MAR",
+        "points": 371,
+        "previousPoints": 371,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mar",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "84",
+        "country": "Wales",
+        "ct": "WAL",
+        "points": 366,
+        "previousPoints": 366,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/wal",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "85",
+        "country": "Kuwait",
+        "ct": "KUW",
+        "points": 365,
+        "previousPoints": 365,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kuw",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "86",
+        "country": "El Salvador",
+        "ct": "SLV",
+        "points": 360,
+        "previousPoints": 343,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/slv",
+        "delta": 17
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "87",
+        "country": "Angola",
+        "ct": "ANG",
+        "points": 357,
+        "previousPoints": 356,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ang",
+        "delta": 1
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "88",
+        "country": "Uzbekistan",
+        "ct": "UZB",
+        "points": 351,
+        "previousPoints": 352,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uzb",
+        "delta": -1
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "89",
+        "country": "Moldova",
+        "ct": "MDA",
+        "points": 350,
+        "previousPoints": 350,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mda",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "90",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 348,
+        "previousPoints": 351,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -3
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "91",
+        "country": "Senegal",
+        "ct": "SEN",
+        "points": 338,
+        "previousPoints": 338,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sen",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "92",
+        "country": "Syria",
+        "ct": "SYR",
+        "points": 336,
+        "previousPoints": 334,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/syr",
+        "delta": 2
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "93",
+        "country": "Botswana",
+        "ct": "BOT",
+        "points": 329,
+        "previousPoints": 331,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bot",
+        "delta": -2
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "94",
+        "country": "Estonia",
+        "ct": "EST",
+        "points": 321,
+        "previousPoints": 321,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/est",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "94",
+        "country": "Libya",
+        "ct": "LBY",
+        "points": 321,
+        "previousPoints": 318,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lby",
+        "delta": 3
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "96",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 318,
+        "previousPoints": 318,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "97",
+        "country": "Panama",
+        "ct": "PAN",
+        "points": 314,
+        "previousPoints": 323,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pan",
+        "delta": -9
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "98",
+        "country": "Jordan",
+        "ct": "JOR",
+        "points": 300,
+        "previousPoints": 300,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jor",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "98",
+        "country": "Qatar",
+        "ct": "QAT",
+        "points": 300,
+        "previousPoints": 300,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/qat",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "100",
+        "country": "Korea DPR",
+        "ct": "PRK",
+        "points": 288,
+        "previousPoints": 284,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/prk",
+        "delta": 4
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "101",
+        "country": "Canada",
+        "ct": "CAN",
+        "points": 287,
+        "previousPoints": 295,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/can",
+        "delta": -8
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "102",
+        "country": "Guinea",
+        "ct": "GUI",
+        "points": 286,
+        "previousPoints": 286,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gui",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "103",
+        "country": "Gambia",
+        "ct": "GAM",
+        "points": 285,
+        "previousPoints": 285,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gam",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "104",
+        "country": "Thailand",
+        "ct": "THA",
+        "points": 276,
+        "previousPoints": 273,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tha",
+        "delta": 3
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "105",
+        "country": "Azerbaijan",
+        "ct": "AZE",
+        "points": 266,
+        "previousPoints": 266,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aze",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "106",
+        "country": "Iraq",
+        "ct": "IRQ",
+        "points": 263,
+        "previousPoints": 276,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irq",
+        "delta": -13
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "106",
+        "country": "Congo",
+        "ct": "CGO",
+        "points": 263,
+        "previousPoints": 263,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cgo",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "108",
+        "country": "Cape Verde Islands",
+        "ct": "CPV",
+        "points": 261,
+        "previousPoints": 261,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cpv",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "109",
+        "country": "Yemen",
+        "ct": "YEM",
+        "points": 249,
+        "previousPoints": 248,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yem",
+        "delta": 1
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "110",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 237,
+        "previousPoints": 237,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "111",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 235,
+        "previousPoints": 233,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 2
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "111",
+        "country": "Tanzania",
+        "ct": "TAN",
+        "points": 235,
+        "previousPoints": 235,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tan",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "113",
+        "country": "Zimbabwe",
+        "ct": "ZIM",
+        "points": 224,
+        "previousPoints": 238,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zim",
+        "delta": -14
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "114",
+        "country": "Cuba",
+        "ct": "CUB",
+        "points": 215,
+        "previousPoints": 215,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cub",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "115",
+        "country": "Namibia",
+        "ct": "NAM",
+        "points": 213,
+        "previousPoints": 203,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nam",
+        "delta": 10
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "116",
+        "country": "Kenya",
+        "ct": "KEN",
+        "points": 210,
+        "previousPoints": 210,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ken",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "117",
+        "country": "Luxembourg",
+        "ct": "LUX",
+        "points": 209,
+        "previousPoints": 209,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lux",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "118",
+        "country": "Faroe Islands",
+        "ct": "FRO",
+        "points": 206,
+        "previousPoints": 206,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fro",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "119",
+        "country": "Guatemala",
+        "ct": "GUA",
+        "points": 201,
+        "previousPoints": 204,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gua",
+        "delta": -3
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "120",
+        "country": "Singapore",
+        "ct": "SIN",
+        "points": 198,
+        "previousPoints": 198,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sin",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "120",
+        "country": "Sudan",
+        "ct": "SDN",
+        "points": 198,
+        "previousPoints": 198,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sdn",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "122",
+        "country": "Guyana",
+        "ct": "GUY",
+        "points": 190,
+        "previousPoints": 203,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/guy",
+        "delta": -13
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "123",
+        "country": "Congo DR",
+        "ct": "COD",
+        "points": 187,
+        "previousPoints": 185,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cod",
+        "delta": 2
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "124",
+        "country": "Chad",
+        "ct": "CHA",
+        "points": 185,
+        "previousPoints": 185,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cha",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "125",
+        "country": "Kazakhstan",
+        "ct": "KAZ",
+        "points": 184,
+        "previousPoints": 184,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kaz",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "126",
+        "country": "Suriname",
+        "ct": "SUR",
+        "points": 181,
+        "previousPoints": 187,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sur",
+        "delta": -6
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "127",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 174,
+        "previousPoints": 174,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "127",
+        "country": "Vietnam",
+        "ct": "VIE",
+        "points": 174,
+        "previousPoints": 179,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vie",
+        "delta": -5
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "129",
+        "country": "Antigua and Barbuda",
+        "ct": "ATG",
+        "points": 168,
+        "previousPoints": 168,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/atg",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "130",
+        "country": "Fiji",
+        "ct": "FIJ",
+        "points": 167,
+        "previousPoints": 167,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fij",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "131",
+        "country": "Haiti",
+        "ct": "HAI",
+        "points": 166,
+        "previousPoints": 167,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hai",
+        "delta": -1
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "132",
+        "country": "Grenada",
+        "ct": "GRN",
+        "points": 163,
+        "previousPoints": 158,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/grn",
+        "delta": 5
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "133",
+        "country": "Turkmenistan",
+        "ct": "TKM",
+        "points": 152,
+        "previousPoints": 150,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tkm",
+        "delta": 2
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "133",
+        "country": "Hong Kong",
+        "ct": "HKG",
+        "points": 152,
+        "previousPoints": 152,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hkg",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "135",
+        "country": "Indonesia",
+        "ct": "IDN",
+        "points": 143,
+        "previousPoints": 141,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/idn",
+        "delta": 2
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "136",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 136,
+        "previousPoints": 155,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -19
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "137",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 130,
+        "previousPoints": 130,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "138",
+        "country": "India",
+        "ct": "IND",
+        "points": 129,
+        "previousPoints": 160,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ind",
+        "delta": -31
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "139",
+        "country": "Malaysia",
+        "ct": "MAS",
+        "points": 128,
+        "previousPoints": 124,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mas",
+        "delta": 4
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "140",
+        "country": "Myanmar",
+        "ct": "MYA",
+        "points": 127,
+        "previousPoints": 122,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mya",
+        "delta": 5
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "141",
+        "country": "Liechtenstein",
+        "ct": "LIE",
+        "points": 126,
+        "previousPoints": 126,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lie",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "142",
+        "country": "Burundi",
+        "ct": "BDI",
+        "points": 125,
+        "previousPoints": 125,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bdi",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "143",
+        "country": "Maldives",
+        "ct": "MDV",
+        "points": 117,
+        "previousPoints": 117,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mdv",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "144",
+        "country": "Ethiopia",
+        "ct": "ETH",
+        "points": 116,
+        "previousPoints": 115,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eth",
+        "delta": 1
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "145",
+        "country": "St. Kitts and Nevis",
+        "ct": "SKN",
+        "points": 110,
+        "previousPoints": 110,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/skn",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "145",
+        "country": "Equatorial Guinea",
+        "ct": "EQG",
+        "points": 110,
+        "previousPoints": 110,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eqg",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "145",
+        "country": "Niger",
+        "ct": "NIG",
+        "points": 110,
+        "previousPoints": 110,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nig",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "148",
+        "country": "Tajikistan",
+        "ct": "TJK",
+        "points": 106,
+        "previousPoints": 144,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tjk",
+        "delta": -38
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "148",
+        "country": "Lebanon",
+        "ct": "LIB",
+        "points": 106,
+        "previousPoints": 106,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lib",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "148",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 106,
+        "previousPoints": 121,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -15
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "151",
+        "country": "Malta",
+        "ct": "MLT",
+        "points": 105,
+        "previousPoints": 105,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mlt",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "152",
+        "country": "Bangladesh",
+        "ct": "BAN",
+        "points": 104,
+        "previousPoints": 104,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ban",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "153",
+        "country": "Sri Lanka",
+        "ct": "SRI",
+        "points": 101,
+        "previousPoints": 96,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sri",
+        "delta": 5
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "154",
+        "country": "New Caledonia",
+        "ct": "NCL",
+        "points": 99,
+        "previousPoints": 82,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ncl",
+        "delta": 17
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "155",
+        "country": "Lesotho",
+        "ct": "LES",
+        "points": 96,
+        "previousPoints": 101,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/les",
+        "delta": -5
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "156",
+        "country": "Liberia",
+        "ct": "LBR",
+        "points": 94,
+        "previousPoints": 94,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbr",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "157",
+        "country": "Eritrea",
+        "ct": "ERI",
+        "points": 92,
+        "previousPoints": 92,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eri",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "158",
+        "country": "Bermuda",
+        "ct": "BER",
+        "points": 91,
+        "previousPoints": 91,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ber",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "159",
+        "country": "Nepal",
+        "ct": "NEP",
+        "points": 88,
+        "previousPoints": 94,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nep",
+        "delta": -6
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "160",
+        "country": "St. Vincent / Grenadines",
+        "ct": "VIN",
+        "points": 87,
+        "previousPoints": 87,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "161",
+        "country": "Nicaragua",
+        "ct": "NCA",
+        "points": 86,
+        "previousPoints": 86,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nca",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "162",
+        "country": "Vanuatu",
+        "ct": "VAN",
+        "points": 84,
+        "previousPoints": 75,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/van",
+        "delta": 9
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "163",
+        "country": "Kyrgyz Republic",
+        "ct": "KGZ",
+        "points": 78,
+        "previousPoints": 74,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kgz",
+        "delta": 4
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "164",
+        "country": "Pakistan",
+        "ct": "PAK",
+        "points": 75,
+        "previousPoints": 75,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pak",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "165",
+        "country": "Philippines",
+        "ct": "PHI",
+        "points": 67,
+        "previousPoints": 67,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/phi",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "165",
+        "country": "Netherlands Antilles",
+        "ct": "ANT",
+        "points": 67,
+        "previousPoints": 108,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ant",
+        "delta": -41
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "165",
+        "country": "Chinese Taipei",
+        "ct": "TPE",
+        "points": 67,
+        "previousPoints": 69,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tpe",
+        "delta": -2
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "168",
+        "country": "Mauritania",
+        "ct": "MTN",
+        "points": 62,
+        "previousPoints": 62,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mtn",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "169",
+        "country": "Solomon Islands",
+        "ct": "SOL",
+        "points": 60,
+        "previousPoints": 60,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sol",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "170",
+        "country": "Puerto Rico",
+        "ct": "PUR",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pur",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "171",
+        "country": "Palestine",
+        "ct": "PLE",
+        "points": 50,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ple",
+        "delta": 2
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "172",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "173",
+        "country": "Somalia",
+        "ct": "SOM",
+        "points": 39,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/som",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "173",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 39,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "173",
+        "country": "Cayman Islands",
+        "ct": "CAY",
+        "points": 39,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cay",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "176",
+        "country": "Samoa",
+        "ct": "SAM",
+        "points": 38,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sam",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "177",
+        "country": "Bahamas",
+        "ct": "BAH",
+        "points": 34,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bah",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "178",
+        "country": "Dominica",
+        "ct": "DMA",
+        "points": 33,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dma",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "178",
+        "country": "Cambodia",
+        "ct": "CAM",
+        "points": 33,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cam",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "180",
+        "country": "Mongolia",
+        "ct": "MNG",
+        "points": 32,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mng",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "180",
+        "country": "Belize",
+        "ct": "BLZ",
+        "points": 32,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blz",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "180",
+        "country": "Turks and Caicos Islands",
+        "ct": "TCA",
+        "points": 32,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tca",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "183",
+        "country": "Mauritius",
+        "ct": "MRI",
+        "points": 27,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mri",
+        "delta": -10
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "184",
+        "country": "Dominican Republic",
+        "ct": "DOM",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dom",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "185",
+        "country": "Seychelles",
+        "ct": "SEY",
+        "points": 24,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sey",
+        "delta": -13
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "186",
+        "country": "Tonga",
+        "ct": "TGA",
+        "points": 23,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tga",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "187",
+        "country": "Brunei Darussalam",
+        "ct": "BRU",
+        "points": 21,
+        "previousPoints": 21,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bru",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "188",
+        "country": "St. Lucia",
+        "ct": "LCA",
+        "points": 19,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lca",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "188",
+        "country": "Guinea-Bissau",
+        "ct": "GNB",
+        "points": 19,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gnb",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "188",
+        "country": "Tahiti",
+        "ct": "TAH",
+        "points": 19,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tah",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "191",
+        "country": "Djibouti",
+        "ct": "DJI",
+        "points": 18,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dji",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "191",
+        "country": "British Virgin Islands",
+        "ct": "VGB",
+        "points": 18,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vgb",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "193",
+        "country": "Cook Islands",
+        "ct": "COK",
+        "points": 17,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cok",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "193",
+        "country": "Guam",
+        "ct": "GUM",
+        "points": 17,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gum",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "195",
+        "country": "Afghanistan",
+        "ct": "AFG",
+        "points": 13,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/afg",
+        "delta": -4
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "196",
+        "country": "Macau",
+        "ct": "MAC",
+        "points": 12,
+        "previousPoints": 12,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mac",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "197",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "198",
+        "country": "Aruba",
+        "ct": "ARU",
+        "points": 7,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aru",
+        "delta": -4
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "199",
+        "country": "US Virgin Islands",
+        "ct": "VIR",
+        "points": 5,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vir",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "200",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "201",
+        "country": "Andorra",
+        "ct": "AND",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/and",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "202",
+        "country": "Central African Republic",
+        "ct": "CTA",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cta"
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "202",
+        "country": "Papua New Guinea",
+        "ct": "PNG",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/png"
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "202",
+        "country": "San Marino",
+        "ct": "SMR",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/smr"
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "202",
+        "country": "Anguilla",
+        "ct": "AIA",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aia"
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "202",
+        "country": "Montserrat",
+        "ct": "MSR",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/msr"
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "202",
+        "country": "American Samoa",
+        "ct": "ASA",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/asa"
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "208",
+        "country": "Sao Tome e Principe",
+        "ct": "STP",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/stp"
+    }
+]

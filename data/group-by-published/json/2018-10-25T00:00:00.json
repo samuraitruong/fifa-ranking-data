@@ -1,0 +1,2112 @@
+[
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "1",
+        "country": "Belgium",
+        "ct": "BEL",
+        "points": 1733,
+        "previousPoints": 1729,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bel",
+        "delta": 4
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "2",
+        "country": "France",
+        "ct": "FRA",
+        "points": 1732,
+        "previousPoints": 1729,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fra",
+        "delta": 3
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1669,
+        "previousPoints": 1663,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 6
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "4",
+        "country": "Croatia",
+        "ct": "CRO",
+        "points": 1635,
+        "previousPoints": 1634,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cro",
+        "delta": 1
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "5",
+        "country": "England",
+        "ct": "ENG",
+        "points": 1619,
+        "previousPoints": 1612,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eng",
+        "delta": 7
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "6",
+        "country": "Uruguay",
+        "ct": "URU",
+        "points": 1617,
+        "previousPoints": 1632,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uru",
+        "delta": -15
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "7",
+        "country": "Portugal",
+        "ct": "POR",
+        "points": 1616,
+        "previousPoints": 1606,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/por",
+        "delta": 10
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "8",
+        "country": "Switzerland",
+        "ct": "SUI",
+        "points": 1598,
+        "previousPoints": 1598,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sui",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "9",
+        "country": "Spain",
+        "ct": "ESP",
+        "points": 1594,
+        "previousPoints": 1597,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/esp",
+        "delta": -3
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "10",
+        "country": "Denmark",
+        "ct": "DEN",
+        "points": 1584,
+        "previousPoints": 1581,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/den",
+        "delta": 3
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "11",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1575,
+        "previousPoints": 1567,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 8
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "12",
+        "country": "Argentina",
+        "ct": "ARG",
+        "points": 1573,
+        "previousPoints": 1575,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arg",
+        "delta": -2
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "13",
+        "country": "Chile",
+        "ct": "CHI",
+        "points": 1568,
+        "previousPoints": 1568,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chi",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "14",
+        "country": "Germany",
+        "ct": "GER",
+        "points": 1555,
+        "previousPoints": 1568,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ger",
+        "delta": -13
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "15",
+        "country": "Netherlands",
+        "ct": "NED",
+        "points": 1550,
+        "previousPoints": 1540,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ned",
+        "delta": 10
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "16",
+        "country": "Mexico",
+        "ct": "MEX",
+        "points": 1549,
+        "previousPoints": 1550,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mex",
+        "delta": -1
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "17",
+        "country": "Sweden",
+        "ct": "SWE",
+        "points": 1548,
+        "previousPoints": 1550,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swe",
+        "delta": -2
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "18",
+        "country": "Wales",
+        "ct": "WAL",
+        "points": 1538,
+        "previousPoints": 1536,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/wal",
+        "delta": 2
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "19",
+        "country": "Italy",
+        "ct": "ITA",
+        "points": 1533,
+        "previousPoints": 1526,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ita",
+        "delta": 7
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "20",
+        "country": "Peru",
+        "ct": "PER",
+        "points": 1530,
+        "previousPoints": 1525,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/per",
+        "delta": 5
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "21",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1523,
+        "previousPoints": 1537,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -14
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "22",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 1515,
+        "previousPoints": 1503,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 12
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "23",
+        "country": "USA",
+        "ct": "USA",
+        "points": 1506,
+        "previousPoints": 1510,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/usa",
+        "delta": -4
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "24",
+        "country": "Austria",
+        "ct": "AUT",
+        "points": 1502,
+        "previousPoints": 1499,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aut",
+        "delta": 3
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "25",
+        "country": "Senegal",
+        "ct": "SEN",
+        "points": 1501,
+        "previousPoints": 1492,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sen",
+        "delta": 9
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "26",
+        "country": "Romania",
+        "ct": "ROU",
+        "points": 1491,
+        "previousPoints": 1489,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rou",
+        "delta": 2
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "27",
+        "country": "Ukraine",
+        "ct": "UKR",
+        "points": 1490,
+        "previousPoints": 1483,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ukr",
+        "delta": 7
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "28",
+        "country": "Slovakia",
+        "ct": "SVK",
+        "points": 1483,
+        "previousPoints": 1491,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svk",
+        "delta": -8
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "29",
+        "country": "Venezuela",
+        "ct": "VEN",
+        "points": 1479,
+        "previousPoints": 1476,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ven",
+        "delta": 3
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "30",
+        "country": "IR Iran",
+        "ct": "IRN",
+        "points": 1478,
+        "previousPoints": 1474,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irn",
+        "delta": 4
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "31",
+        "country": "Paraguay",
+        "ct": "PAR",
+        "points": 1477,
+        "previousPoints": 1477,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/par",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "32",
+        "country": "Bosnia and Herzegovina",
+        "ct": "BIH",
+        "points": 1476,
+        "previousPoints": 1468,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bih",
+        "delta": 8
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "33",
+        "country": "Republic of Ireland",
+        "ct": "IRL",
+        "points": 1473,
+        "previousPoints": 1478,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irl",
+        "delta": -5
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "34",
+        "country": "Northern Ireland",
+        "ct": "NIR",
+        "points": 1472,
+        "previousPoints": 1487,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nir",
+        "delta": -15
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "35",
+        "country": "Serbia",
+        "ct": "SRB",
+        "points": 1471,
+        "previousPoints": 1463,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/srb",
+        "delta": 8
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "36",
+        "country": "Iceland",
+        "ct": "ISL",
+        "points": 1458,
+        "previousPoints": 1461,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isl",
+        "delta": -3
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "37",
+        "country": "Costa Rica",
+        "ct": "CRC",
+        "points": 1452,
+        "previousPoints": 1460,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/crc",
+        "delta": -8
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "38",
+        "country": "Turkey",
+        "ct": "TUR",
+        "points": 1449,
+        "previousPoints": 1456,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tur",
+        "delta": -7
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "39",
+        "country": "Montenegro",
+        "ct": "MNE",
+        "points": 1440,
+        "previousPoints": 1444,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mne",
+        "delta": -4
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "40",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 1435,
+        "previousPoints": 1448,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -13
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "41",
+        "country": "Russia",
+        "ct": "RUS",
+        "points": 1433,
+        "previousPoints": 1423,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rus",
+        "delta": 10
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "42",
+        "country": "Australia",
+        "ct": "AUS",
+        "points": 1432,
+        "previousPoints": 1431,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aus",
+        "delta": 1
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "42",
+        "country": "Greece",
+        "ct": "GRE",
+        "points": 1432,
+        "previousPoints": 1433,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gre",
+        "delta": -1
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "44",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 1431,
+        "previousPoints": 1415,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 16
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "45",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 1428,
+        "previousPoints": 1430,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -2
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "46",
+        "country": "Congo DR",
+        "ct": "COD",
+        "points": 1423,
+        "previousPoints": 1447,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cod",
+        "delta": -24
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "47",
+        "country": "Morocco",
+        "ct": "MAR",
+        "points": 1422,
+        "previousPoints": 1425,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mar",
+        "delta": -3
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "48",
+        "country": "Czech Republic",
+        "ct": "CZE",
+        "points": 1420,
+        "previousPoints": 1418,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cze",
+        "delta": 2
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "48",
+        "country": "Norway",
+        "ct": "NOR",
+        "points": 1420,
+        "previousPoints": 1405,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nor",
+        "delta": 15
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "50",
+        "country": "Japan",
+        "ct": "JPN",
+        "points": 1409,
+        "previousPoints": 1398,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jpn",
+        "delta": 11
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "51",
+        "country": "Cameroon",
+        "ct": "CMR",
+        "points": 1408,
+        "previousPoints": 1408,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cmr",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "52",
+        "country": "Ghana",
+        "ct": "GHA",
+        "points": 1407,
+        "previousPoints": 1407,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gha",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "53",
+        "country": "Korea Republic",
+        "ct": "KOR",
+        "points": 1401,
+        "previousPoints": 1395,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kor",
+        "delta": 6
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "53",
+        "country": "Jamaica",
+        "ct": "JAM",
+        "points": 1401,
+        "previousPoints": 1401,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jam",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "55",
+        "country": "Hungary",
+        "ct": "HUN",
+        "points": 1400,
+        "previousPoints": 1409,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hun",
+        "delta": -9
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "56",
+        "country": "Finland",
+        "ct": "FIN",
+        "points": 1392,
+        "previousPoints": 1378,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fin",
+        "delta": 14
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "57",
+        "country": "Burkina Faso",
+        "ct": "BFA",
+        "points": 1390,
+        "previousPoints": 1391,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bfa",
+        "delta": -1
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "58",
+        "country": "Egypt",
+        "ct": "EGY",
+        "points": 1378,
+        "previousPoints": 1364,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/egy",
+        "delta": 14
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "59",
+        "country": "Bolivia",
+        "ct": "BOL",
+        "points": 1376,
+        "previousPoints": 1378,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bol",
+        "delta": -2
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "60",
+        "country": "Albania",
+        "ct": "ALB",
+        "points": 1372,
+        "previousPoints": 1383,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alb",
+        "delta": -11
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "61",
+        "country": "Ecuador",
+        "ct": "ECU",
+        "points": 1371,
+        "previousPoints": 1378,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ecu",
+        "delta": -7
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "62",
+        "country": "Honduras",
+        "ct": "HON",
+        "points": 1367,
+        "previousPoints": 1368,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hon",
+        "delta": -1
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "62",
+        "country": "Slovenia",
+        "ct": "SVN",
+        "points": 1367,
+        "previousPoints": 1376,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svn",
+        "delta": -9
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "64",
+        "country": "C\u00f4te d'Ivoire",
+        "ct": "CIV",
+        "points": 1356,
+        "previousPoints": 1351,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/civ",
+        "delta": 5
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "65",
+        "country": "Guinea",
+        "ct": "GUI",
+        "points": 1354,
+        "previousPoints": 1353,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gui",
+        "delta": 1
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "66",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 1352,
+        "previousPoints": 1365,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -13
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "67",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 1339,
+        "previousPoints": 1343,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -4
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "68",
+        "country": "Cape Verde Islands",
+        "ct": "CPV",
+        "points": 1338,
+        "previousPoints": 1350,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cpv",
+        "delta": -12
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "68",
+        "country": "FYR Macedonia",
+        "ct": "MKD",
+        "points": 1338,
+        "previousPoints": 1344,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mkd",
+        "delta": -6
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "70",
+        "country": "El Salvador",
+        "ct": "SLV",
+        "points": 1335,
+        "previousPoints": 1332,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/slv",
+        "delta": 3
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "70",
+        "country": "Panama",
+        "ct": "PAN",
+        "points": 1335,
+        "previousPoints": 1339,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pan",
+        "delta": -4
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "72",
+        "country": "Saudi Arabia",
+        "ct": "KSA",
+        "points": 1334,
+        "previousPoints": 1337,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ksa",
+        "delta": -3
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "73",
+        "country": "South Africa",
+        "ct": "RSA",
+        "points": 1321,
+        "previousPoints": 1325,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rsa",
+        "delta": -4
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "74",
+        "country": "Syria",
+        "ct": "SYR",
+        "points": 1320,
+        "previousPoints": 1322,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/syr",
+        "delta": -2
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "75",
+        "country": "China PR",
+        "ct": "CHN",
+        "points": 1317,
+        "previousPoints": 1313,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chn",
+        "delta": 4
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "76",
+        "country": "Canada",
+        "ct": "CAN",
+        "points": 1310,
+        "previousPoints": 1307,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/can",
+        "delta": 3
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "77",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 1308,
+        "previousPoints": 1316,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -8
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "78",
+        "country": "Belarus",
+        "ct": "BLR",
+        "points": 1307,
+        "previousPoints": 1304,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blr",
+        "delta": 3
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "79",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 1306,
+        "previousPoints": 1303,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 3
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "79",
+        "country": "Uganda",
+        "ct": "UGA",
+        "points": 1306,
+        "previousPoints": 1291,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uga",
+        "delta": 15
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "81",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 1305,
+        "previousPoints": 1308,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -3
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "82",
+        "country": "Lebanon",
+        "ct": "LBN",
+        "points": 1300,
+        "previousPoints": 1308,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbn",
+        "delta": -8
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "83",
+        "country": "Gabon",
+        "ct": "GAB",
+        "points": 1288,
+        "previousPoints": 1274,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gab",
+        "delta": 14
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "84",
+        "country": "Luxembourg",
+        "ct": "LUX",
+        "points": 1287,
+        "previousPoints": 1292,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lux",
+        "delta": -5
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "84",
+        "country": "Oman",
+        "ct": "OMA",
+        "points": 1287,
+        "previousPoints": 1287,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/oma",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "86",
+        "country": "Cyprus",
+        "ct": "CYP",
+        "points": 1279,
+        "previousPoints": 1283,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cyp",
+        "delta": -4
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "87",
+        "country": "Congo",
+        "ct": "CGO",
+        "points": 1277,
+        "previousPoints": 1289,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cgo",
+        "delta": -12
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "87",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 1277,
+        "previousPoints": 1273,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 4
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "89",
+        "country": "Iraq",
+        "ct": "IRQ",
+        "points": 1270,
+        "previousPoints": 1272,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irq",
+        "delta": -2
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "90",
+        "country": "Kyrgyz Republic",
+        "ct": "KGZ",
+        "points": 1268,
+        "previousPoints": 1265,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kgz",
+        "delta": 3
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "91",
+        "country": "Israel",
+        "ct": "ISR",
+        "points": 1267,
+        "previousPoints": 1247,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isr",
+        "delta": 20
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "92",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 1265,
+        "previousPoints": 1254,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 11
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "93",
+        "country": "Trinidad and Tobago",
+        "ct": "TRI",
+        "points": 1263,
+        "previousPoints": 1269,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tri",
+        "delta": -6
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "94",
+        "country": "Uzbekistan",
+        "ct": "UZB",
+        "points": 1254,
+        "previousPoints": 1245,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uzb",
+        "delta": 9
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "95",
+        "country": "Faroe Islands",
+        "ct": "FRO",
+        "points": 1251,
+        "previousPoints": 1261,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fro",
+        "delta": -10
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "96",
+        "country": "Qatar",
+        "ct": "QAT",
+        "points": 1248,
+        "previousPoints": 1247,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/qat",
+        "delta": 1
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "97",
+        "country": "India",
+        "ct": "IND",
+        "points": 1245,
+        "previousPoints": 1244,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ind",
+        "delta": 1
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "98",
+        "country": "Estonia",
+        "ct": "EST",
+        "points": 1237,
+        "previousPoints": 1240,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/est",
+        "delta": -3
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "99",
+        "country": "Palestine",
+        "ct": "PLE",
+        "points": 1233,
+        "previousPoints": 1225,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ple",
+        "delta": 8
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "100",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 1224,
+        "previousPoints": 1205,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 19
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "101",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 1222,
+        "previousPoints": 1225,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -3
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "102",
+        "country": "Vietnam",
+        "ct": "VIE",
+        "points": 1220,
+        "previousPoints": 1220,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vie",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "103",
+        "country": "Haiti",
+        "ct": "HAI",
+        "points": 1216,
+        "previousPoints": 1212,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hai",
+        "delta": 4
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "104",
+        "country": "Mauritania",
+        "ct": "MTN",
+        "points": 1213,
+        "previousPoints": 1217,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mtn",
+        "delta": -4
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "105",
+        "country": "Libya",
+        "ct": "LBY",
+        "points": 1210,
+        "previousPoints": 1226,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lby",
+        "delta": -16
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "105",
+        "country": "Kenya",
+        "ct": "KEN",
+        "points": 1210,
+        "previousPoints": 1204,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ken",
+        "delta": 6
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "107",
+        "country": "Azerbaijan",
+        "ct": "AZE",
+        "points": 1207,
+        "previousPoints": 1202,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aze",
+        "delta": 5
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "108",
+        "country": "Niger",
+        "ct": "NIG",
+        "points": 1195,
+        "previousPoints": 1207,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nig",
+        "delta": -12
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "109",
+        "country": "Namibia",
+        "ct": "NAM",
+        "points": 1192,
+        "previousPoints": 1170,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nam",
+        "delta": 22
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "110",
+        "country": "Korea DPR",
+        "ct": "PRK",
+        "points": 1191,
+        "previousPoints": 1196,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/prk",
+        "delta": -5
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "110",
+        "country": "Zimbabwe",
+        "ct": "ZIM",
+        "points": 1191,
+        "previousPoints": 1167,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zim",
+        "delta": 24
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "112",
+        "country": "Jordan",
+        "ct": "JOR",
+        "points": 1189,
+        "previousPoints": 1189,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jor",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "113",
+        "country": "Bahrain",
+        "ct": "BHR",
+        "points": 1182,
+        "previousPoints": 1181,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhr",
+        "delta": 1
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "113",
+        "country": "Central African Republic",
+        "ct": "CTA",
+        "points": 1182,
+        "previousPoints": 1187,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cta",
+        "delta": -5
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "115",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 1172,
+        "previousPoints": 1172,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "116",
+        "country": "Philippines",
+        "ct": "PHI",
+        "points": 1171,
+        "previousPoints": 1172,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/phi",
+        "delta": -1
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "117",
+        "country": "Kazakhstan",
+        "ct": "KAZ",
+        "points": 1166,
+        "previousPoints": 1160,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kaz",
+        "delta": 6
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "118",
+        "country": "Tajikistan",
+        "ct": "TJK",
+        "points": 1161,
+        "previousPoints": 1156,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tjk",
+        "delta": 5
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "119",
+        "country": "New Zealand",
+        "ct": "NZL",
+        "points": 1157,
+        "previousPoints": 1157,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nzl",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "119",
+        "country": "Guinea-Bissau",
+        "ct": "GNB",
+        "points": 1157,
+        "previousPoints": 1149,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gnb",
+        "delta": 8
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "121",
+        "country": "Thailand",
+        "ct": "THA",
+        "points": 1154,
+        "previousPoints": 1144,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tha",
+        "delta": 10
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "122",
+        "country": "Mozambique",
+        "ct": "MOZ",
+        "points": 1151,
+        "previousPoints": 1175,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/moz",
+        "delta": -24
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "123",
+        "country": "Togo",
+        "ct": "TOG",
+        "points": 1144,
+        "previousPoints": 1139,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tog",
+        "delta": 5
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "124",
+        "country": "Chinese Taipei",
+        "ct": "TPE",
+        "points": 1139,
+        "previousPoints": 1139,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tpe",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "125",
+        "country": "Malawi",
+        "ct": "MWI",
+        "points": 1129,
+        "previousPoints": 1129,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mwi",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "126",
+        "country": "Antigua and Barbuda",
+        "ct": "ATG",
+        "points": 1126,
+        "previousPoints": 1122,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/atg",
+        "delta": 4
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "127",
+        "country": "Nicaragua",
+        "ct": "NCA",
+        "points": 1125,
+        "previousPoints": 1121,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nca",
+        "delta": 4
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "128",
+        "country": "Turkmenistan",
+        "ct": "TKM",
+        "points": 1120,
+        "previousPoints": 1120,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tkm",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "129",
+        "country": "Lithuania",
+        "ct": "LTU",
+        "points": 1117,
+        "previousPoints": 1123,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ltu",
+        "delta": -6
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "130",
+        "country": "Angola",
+        "ct": "ANG",
+        "points": 1113,
+        "previousPoints": 1108,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ang",
+        "delta": 5
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "131",
+        "country": "Yemen",
+        "ct": "YEM",
+        "points": 1112,
+        "previousPoints": 1112,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yem",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "132",
+        "country": "Latvia",
+        "ct": "LVA",
+        "points": 1111,
+        "previousPoints": 1116,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lva",
+        "delta": -5
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "133",
+        "country": "St. Kitts and Nevis",
+        "ct": "SKN",
+        "points": 1109,
+        "previousPoints": 1109,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/skn",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "133",
+        "country": "Andorra",
+        "ct": "AND",
+        "points": 1109,
+        "previousPoints": 1121,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/and",
+        "delta": -12
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "135",
+        "country": "Sudan",
+        "ct": "SDN",
+        "points": 1105,
+        "previousPoints": 1114,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sdn",
+        "delta": -9
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "136",
+        "country": "Tanzania",
+        "ct": "TAN",
+        "points": 1101,
+        "previousPoints": 1089,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tan",
+        "delta": 12
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "137",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 1099,
+        "previousPoints": 1092,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 7
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "138",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 1092,
+        "previousPoints": 1093,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "139",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 1088,
+        "previousPoints": 1101,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -13
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "140",
+        "country": "Botswana",
+        "ct": "BOT",
+        "points": 1081,
+        "previousPoints": 1077,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bot",
+        "delta": 4
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "141",
+        "country": "Myanmar",
+        "ct": "MYA",
+        "points": 1080,
+        "previousPoints": 1092,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mya",
+        "delta": -12
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "142",
+        "country": "Burundi",
+        "ct": "BDI",
+        "points": 1074,
+        "previousPoints": 1061,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bdi",
+        "delta": 13
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "143",
+        "country": "Solomon Islands",
+        "ct": "SOL",
+        "points": 1073,
+        "previousPoints": 1073,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sol",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "144",
+        "country": "Hong Kong",
+        "ct": "HKG",
+        "points": 1071,
+        "previousPoints": 1076,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hkg",
+        "delta": -5
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "145",
+        "country": "Afghanistan",
+        "ct": "AFG",
+        "points": 1068,
+        "previousPoints": 1068,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/afg",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "146",
+        "country": "Equatorial Guinea",
+        "ct": "EQG",
+        "points": 1067,
+        "previousPoints": 1086,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eqg",
+        "delta": -19
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "147",
+        "country": "Guatemala",
+        "ct": "GUA",
+        "points": 1064,
+        "previousPoints": 1064,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gua",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "148",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 1062,
+        "previousPoints": 1060,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 2
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "149",
+        "country": "Lesotho",
+        "ct": "LES",
+        "points": 1055,
+        "previousPoints": 1070,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/les",
+        "delta": -15
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "150",
+        "country": "Ethiopia",
+        "ct": "ETH",
+        "points": 1054,
+        "previousPoints": 1060,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eth",
+        "delta": -6
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "151",
+        "country": "Maldives",
+        "ct": "MDV",
+        "points": 1049,
+        "previousPoints": 1049,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mdv",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "152",
+        "country": "Dominican Republic",
+        "ct": "DOM",
+        "points": 1045,
+        "previousPoints": 1040,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dom",
+        "delta": 5
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "153",
+        "country": "Suriname",
+        "ct": "SUR",
+        "points": 1040,
+        "previousPoints": 1035,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sur",
+        "delta": 5
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "154",
+        "country": "Liberia",
+        "ct": "LBR",
+        "points": 1035,
+        "previousPoints": 1023,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbr",
+        "delta": 12
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "155",
+        "country": "New Caledonia",
+        "ct": "NCL",
+        "points": 1032,
+        "previousPoints": 1032,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ncl",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "156",
+        "country": "Mauritius",
+        "ct": "MRI",
+        "points": 1022,
+        "previousPoints": 1022,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mri",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "157",
+        "country": "Kuwait",
+        "ct": "KUW",
+        "points": 1020,
+        "previousPoints": 1014,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kuw",
+        "delta": 6
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "157",
+        "country": "Tahiti",
+        "ct": "TAH",
+        "points": 1020,
+        "previousPoints": 1020,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tah",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "159",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 1005,
+        "previousPoints": 1019,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": -14
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "160",
+        "country": "Indonesia",
+        "ct": "IDN",
+        "points": 1004,
+        "previousPoints": 997,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/idn",
+        "delta": 7
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "161",
+        "country": "Nepal",
+        "ct": "NEP",
+        "points": 1001,
+        "previousPoints": 1004,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nep",
+        "delta": -3
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "162",
+        "country": "Vanuatu",
+        "ct": "VAN",
+        "points": 1000,
+        "previousPoints": 1000,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/van",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "162",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 1000,
+        "previousPoints": 1003,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -3
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "164",
+        "country": "Belize",
+        "ct": "BLZ",
+        "points": 995,
+        "previousPoints": 1004,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blz",
+        "delta": -9
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "165",
+        "country": "Singapore",
+        "ct": "SIN",
+        "points": 991,
+        "previousPoints": 982,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sin",
+        "delta": 9
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "166",
+        "country": "Papua New Guinea",
+        "ct": "PNG",
+        "points": 984,
+        "previousPoints": 984,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/png",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "167",
+        "country": "Fiji",
+        "ct": "FIJ",
+        "points": 981,
+        "previousPoints": 981,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fij",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "168",
+        "country": "St. Lucia",
+        "ct": "LCA",
+        "points": 977,
+        "previousPoints": 982,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lca",
+        "delta": -5
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "169",
+        "country": "Malaysia",
+        "ct": "MAS",
+        "points": 974,
+        "previousPoints": 972,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mas",
+        "delta": 2
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "170",
+        "country": "Cambodia",
+        "ct": "CAM",
+        "points": 973,
+        "previousPoints": 979,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cam",
+        "delta": -6
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "171",
+        "country": "Moldova",
+        "ct": "MDA",
+        "points": 969,
+        "previousPoints": 958,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mda",
+        "delta": 11
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "172",
+        "country": "Grenada",
+        "ct": "GRN",
+        "points": 968,
+        "previousPoints": 976,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/grn",
+        "delta": -8
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "173",
+        "country": "Gambia",
+        "ct": "GAM",
+        "points": 967,
+        "previousPoints": 972,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gam",
+        "delta": -5
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "174",
+        "country": "Chad",
+        "ct": "CHA",
+        "points": 956,
+        "previousPoints": 956,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cha",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "175",
+        "country": "St. Vincent / Grenadines",
+        "ct": "VIN",
+        "points": 955,
+        "previousPoints": 955,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "175",
+        "country": "Puerto Rico",
+        "ct": "PUR",
+        "points": 955,
+        "previousPoints": 955,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pur",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "177",
+        "country": "Cuba",
+        "ct": "CUB",
+        "points": 954,
+        "previousPoints": 946,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cub",
+        "delta": 8
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "178",
+        "country": "Dominica",
+        "ct": "DMA",
+        "points": 950,
+        "previousPoints": 953,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dma",
+        "delta": -3
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "179",
+        "country": "Guyana",
+        "ct": "GUY",
+        "points": 943,
+        "previousPoints": 937,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/guy",
+        "delta": 6
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "180",
+        "country": "Bermuda",
+        "ct": "BER",
+        "points": 940,
+        "previousPoints": 940,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ber",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "181",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 937,
+        "previousPoints": 946,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -9
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "182",
+        "country": "Liechtenstein",
+        "ct": "LIE",
+        "points": 936,
+        "previousPoints": 947,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lie",
+        "delta": -11
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "183",
+        "country": "Malta",
+        "ct": "MLT",
+        "points": 927,
+        "previousPoints": 928,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mlt",
+        "delta": -1
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "184",
+        "country": "Macau",
+        "ct": "MAC",
+        "points": 925,
+        "previousPoints": 925,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mac",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "185",
+        "country": "Aruba",
+        "ct": "ARU",
+        "points": 924,
+        "previousPoints": 924,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aru",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "186",
+        "country": "Mongolia",
+        "ct": "MNG",
+        "points": 923,
+        "previousPoints": 922,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mng",
+        "delta": 1
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "187",
+        "country": "Sao Tome e Principe",
+        "ct": "STP",
+        "points": 920,
+        "previousPoints": 920,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/stp",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "188",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 917,
+        "previousPoints": 917,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "188",
+        "country": "Seychelles",
+        "ct": "SEY",
+        "points": 917,
+        "previousPoints": 913,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sey",
+        "delta": 4
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "190",
+        "country": "Gibraltar",
+        "ct": "GIB",
+        "points": 911,
+        "previousPoints": 891,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gib",
+        "delta": 20
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "191",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 910,
+        "previousPoints": 909,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 1
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "192",
+        "country": "Cook Islands",
+        "ct": "COK",
+        "points": 908,
+        "previousPoints": 908,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cok",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "192",
+        "country": "American Samoa",
+        "ct": "ASA",
+        "points": 908,
+        "previousPoints": 908,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/asa",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "194",
+        "country": "Guam",
+        "ct": "GUM",
+        "points": 907,
+        "previousPoints": 907,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gum",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "194",
+        "country": "Bangladesh",
+        "ct": "BAN",
+        "points": 907,
+        "previousPoints": 907,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ban",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "196",
+        "country": "Brunei Darussalam",
+        "ct": "BRU",
+        "points": 903,
+        "previousPoints": 903,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bru",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "197",
+        "country": "Djibouti",
+        "ct": "DJI",
+        "points": 896,
+        "previousPoints": 896,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dji",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "197",
+        "country": "Samoa",
+        "ct": "SAM",
+        "points": 896,
+        "previousPoints": 896,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sam",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "199",
+        "country": "Pakistan",
+        "ct": "PAK",
+        "points": 890,
+        "previousPoints": 890,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pak",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "200",
+        "country": "US Virgin Islands",
+        "ct": "VIR",
+        "points": 887,
+        "previousPoints": 889,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vir",
+        "delta": -2
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "201",
+        "country": "Sri Lanka",
+        "ct": "SRI",
+        "points": 886,
+        "previousPoints": 890,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sri",
+        "delta": -4
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "202",
+        "country": "Montserrat",
+        "ct": "MSR",
+        "points": 879,
+        "previousPoints": 870,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/msr",
+        "delta": 9
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "203",
+        "country": "Cayman Islands",
+        "ct": "CAY",
+        "points": 873,
+        "previousPoints": 878,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cay",
+        "delta": -5
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "204",
+        "country": "Tonga",
+        "ct": "TGA",
+        "points": 868,
+        "previousPoints": 868,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tga",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "204",
+        "country": "Eritrea",
+        "ct": "ERI",
+        "points": 868,
+        "previousPoints": 868,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eri",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "204",
+        "country": "Somalia",
+        "ct": "SOM",
+        "points": 868,
+        "previousPoints": 868,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/som",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "207",
+        "country": "British Virgin Islands",
+        "ct": "VGB",
+        "points": 867,
+        "previousPoints": 872,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vgb",
+        "delta": -5
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "208",
+        "country": "Anguilla",
+        "ct": "AIA",
+        "points": 864,
+        "previousPoints": 868,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aia",
+        "delta": -4
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "209",
+        "country": "San Marino",
+        "ct": "SMR",
+        "points": 862,
+        "previousPoints": 871,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/smr",
+        "delta": -9
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "210",
+        "country": "Bahamas",
+        "ct": "BAH",
+        "points": 858,
+        "previousPoints": 862,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bah",
+        "delta": -4
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "211",
+        "country": "Turks and Caicos Islands",
+        "ct": "TCA",
+        "points": 855,
+        "previousPoints": 862,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tca",
+        "delta": -7
+    }
+]

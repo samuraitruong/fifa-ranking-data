@@ -1,0 +1,2042 @@
+[
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 841,
+        "previousPoints": 840,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "2",
+        "country": "Czech Republic",
+        "ct": "CZE",
+        "points": 796,
+        "previousPoints": 783,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cze",
+        "delta": 13
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "3",
+        "country": "Netherlands",
+        "ct": "NED",
+        "points": 791,
+        "previousPoints": 797,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ned",
+        "delta": -6
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "4",
+        "country": "Argentina",
+        "ct": "ARG",
+        "points": 774,
+        "previousPoints": 778,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arg",
+        "delta": -4
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "5",
+        "country": "France",
+        "ct": "FRA",
+        "points": 772,
+        "previousPoints": 776,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fra",
+        "delta": -4
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "6",
+        "country": "Spain",
+        "ct": "ESP",
+        "points": 771,
+        "previousPoints": 764,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/esp",
+        "delta": 7
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "7",
+        "country": "Mexico",
+        "ct": "MEX",
+        "points": 768,
+        "previousPoints": 769,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mex",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "8",
+        "country": "USA",
+        "ct": "USA",
+        "points": 766,
+        "previousPoints": 768,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/usa",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "9",
+        "country": "England",
+        "ct": "ENG",
+        "points": 757,
+        "previousPoints": 754,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eng",
+        "delta": 3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "10",
+        "country": "Portugal",
+        "ct": "POR",
+        "points": 754,
+        "previousPoints": 754,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/por",
+        "delta": 0
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "11",
+        "country": "Turkey",
+        "ct": "TUR",
+        "points": 749,
+        "previousPoints": 743,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tur",
+        "delta": 6
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "12",
+        "country": "Italy",
+        "ct": "ITA",
+        "points": 741,
+        "previousPoints": 736,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ita",
+        "delta": 5
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "13",
+        "country": "Denmark",
+        "ct": "DEN",
+        "points": 732,
+        "previousPoints": 730,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/den",
+        "delta": 2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "14",
+        "country": "Sweden",
+        "ct": "SWE",
+        "points": 731,
+        "previousPoints": 733,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swe",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "15",
+        "country": "Japan",
+        "ct": "JPN",
+        "points": 713,
+        "previousPoints": 711,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jpn",
+        "delta": 2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "16",
+        "country": "Germany",
+        "ct": "GER",
+        "points": 710,
+        "previousPoints": 712,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ger",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "17",
+        "country": "Greece",
+        "ct": "GRE",
+        "points": 708,
+        "previousPoints": 706,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gre",
+        "delta": 2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "18",
+        "country": "Uruguay",
+        "ct": "URU",
+        "points": 706,
+        "previousPoints": 709,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uru",
+        "delta": -3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "19",
+        "country": "IR Iran",
+        "ct": "IRN",
+        "points": 702,
+        "previousPoints": 699,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irn",
+        "delta": 3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "20",
+        "country": "Croatia",
+        "ct": "CRO",
+        "points": 701,
+        "previousPoints": 702,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cro",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "21",
+        "country": "Costa Rica",
+        "ct": "CRC",
+        "points": 699,
+        "previousPoints": 700,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/crc",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "22",
+        "country": "Cameroon",
+        "ct": "CMR",
+        "points": 697,
+        "previousPoints": 691,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cmr",
+        "delta": 6
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "23",
+        "country": "Republic of Ireland",
+        "ct": "IRL",
+        "points": 696,
+        "previousPoints": 699,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irl",
+        "delta": -3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "23",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 696,
+        "previousPoints": 691,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 5
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "25",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 692,
+        "previousPoints": 691,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "25",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 692,
+        "previousPoints": 691,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "27",
+        "country": "Romania",
+        "ct": "ROU",
+        "points": 686,
+        "previousPoints": 681,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rou",
+        "delta": 5
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "28",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 683,
+        "previousPoints": 689,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -6
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "29",
+        "country": "Korea Republic",
+        "ct": "KOR",
+        "points": 682,
+        "previousPoints": 680,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kor",
+        "delta": 2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "30",
+        "country": "Senegal",
+        "ct": "SEN",
+        "points": 672,
+        "previousPoints": 663,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sen",
+        "delta": 9
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "30",
+        "country": "Paraguay",
+        "ct": "PAR",
+        "points": 672,
+        "previousPoints": 664,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/par",
+        "delta": 8
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "32",
+        "country": "Saudi Arabia",
+        "ct": "KSA",
+        "points": 669,
+        "previousPoints": 670,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ksa",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "33",
+        "country": "Egypt",
+        "ct": "EGY",
+        "points": 663,
+        "previousPoints": 667,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/egy",
+        "delta": -4
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "34",
+        "country": "Russia",
+        "ct": "RUS",
+        "points": 662,
+        "previousPoints": 671,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rus",
+        "delta": -9
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "35",
+        "country": "Morocco",
+        "ct": "MAR",
+        "points": 655,
+        "previousPoints": 659,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mar",
+        "delta": -4
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "36",
+        "country": "Switzerland",
+        "ct": "SUI",
+        "points": 654,
+        "previousPoints": 644,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sui",
+        "delta": 10
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "37",
+        "country": "Ecuador",
+        "ct": "ECU",
+        "points": 650,
+        "previousPoints": 655,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ecu",
+        "delta": -5
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "38",
+        "country": "Norway",
+        "ct": "NOR",
+        "points": 649,
+        "previousPoints": 653,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nor",
+        "delta": -4
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "39",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 638,
+        "previousPoints": 616,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 22
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "40",
+        "country": "Ukraine",
+        "ct": "UKR",
+        "points": 627,
+        "previousPoints": 636,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ukr",
+        "delta": -9
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "41",
+        "country": "C\u00f4te d'Ivoire",
+        "ct": "CIV",
+        "points": 626,
+        "previousPoints": 611,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/civ",
+        "delta": 15
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "41",
+        "country": "Honduras",
+        "ct": "HON",
+        "points": 626,
+        "previousPoints": 626,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hon",
+        "delta": 0
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "43",
+        "country": "Jamaica",
+        "ct": "JAM",
+        "points": 625,
+        "previousPoints": 626,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jam",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "44",
+        "country": "Israel",
+        "ct": "ISR",
+        "points": 622,
+        "previousPoints": 622,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isr",
+        "delta": 0
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "45",
+        "country": "Slovakia",
+        "ct": "SVK",
+        "points": 619,
+        "previousPoints": 618,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svk",
+        "delta": 1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "45",
+        "country": "Finland",
+        "ct": "FIN",
+        "points": 619,
+        "previousPoints": 619,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fin",
+        "delta": 0
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "47",
+        "country": "Serbia and Montenegro",
+        "ct": "SCG",
+        "points": 612,
+        "previousPoints": 623,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/scg",
+        "delta": -11
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "48",
+        "country": "South Africa",
+        "ct": "RSA",
+        "points": 611,
+        "previousPoints": 616,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rsa",
+        "delta": -5
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "49",
+        "country": "Australia",
+        "ct": "AUS",
+        "points": 610,
+        "previousPoints": 594,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aus",
+        "delta": 16
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "50",
+        "country": "Ghana",
+        "ct": "GHA",
+        "points": 608,
+        "previousPoints": 599,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gha",
+        "delta": 9
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "51",
+        "country": "Trinidad and Tobago",
+        "ct": "TRI",
+        "points": 607,
+        "previousPoints": 596,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tri",
+        "delta": 11
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "52",
+        "country": "Belgium",
+        "ct": "BEL",
+        "points": 603,
+        "previousPoints": 606,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bel",
+        "delta": -3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "53",
+        "country": "Bahrain",
+        "ct": "BHR",
+        "points": 601,
+        "previousPoints": 593,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhr",
+        "delta": 8
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "54",
+        "country": "Zimbabwe",
+        "ct": "ZIM",
+        "points": 600,
+        "previousPoints": 598,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zim",
+        "delta": 2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "55",
+        "country": "Guatemala",
+        "ct": "GUA",
+        "points": 584,
+        "previousPoints": 582,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gua",
+        "delta": 2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "56",
+        "country": "Togo",
+        "ct": "TOG",
+        "points": 582,
+        "previousPoints": 606,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tog",
+        "delta": -24
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "57",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 579,
+        "previousPoints": 576,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "58",
+        "country": "Uzbekistan",
+        "ct": "UZB",
+        "points": 578,
+        "previousPoints": 581,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uzb",
+        "delta": -3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "59",
+        "country": "Belarus",
+        "ct": "BLR",
+        "points": 573,
+        "previousPoints": 559,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blr",
+        "delta": 14
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "59",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 573,
+        "previousPoints": 576,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "61",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 572,
+        "previousPoints": 570,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "62",
+        "country": "Angola",
+        "ct": "ANG",
+        "points": 570,
+        "previousPoints": 573,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ang",
+        "delta": -3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "63",
+        "country": "Chile",
+        "ct": "CHI",
+        "points": 562,
+        "previousPoints": 556,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chi",
+        "delta": 6
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "63",
+        "country": "Slovenia",
+        "ct": "SVN",
+        "points": 562,
+        "previousPoints": 571,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svn",
+        "delta": -9
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "65",
+        "country": "Bosnia and Herzegovina",
+        "ct": "BIH",
+        "points": 560,
+        "previousPoints": 560,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bih",
+        "delta": 0
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "65",
+        "country": "Peru",
+        "ct": "PER",
+        "points": 560,
+        "previousPoints": 567,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/per",
+        "delta": -7
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "67",
+        "country": "Venezuela",
+        "ct": "VEN",
+        "points": 556,
+        "previousPoints": 557,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ven",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "68",
+        "country": "Kuwait",
+        "ct": "KUW",
+        "points": 555,
+        "previousPoints": 561,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kuw",
+        "delta": -6
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "69",
+        "country": "China PR",
+        "ct": "CHN",
+        "points": 554,
+        "previousPoints": 563,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chn",
+        "delta": -9
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "70",
+        "country": "Latvia",
+        "ct": "LVA",
+        "points": 552,
+        "previousPoints": 564,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lva",
+        "delta": -12
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "71",
+        "country": "Hungary",
+        "ct": "HUN",
+        "points": 551,
+        "previousPoints": 562,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hun",
+        "delta": -11
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "72",
+        "country": "Austria",
+        "ct": "AUT",
+        "points": 550,
+        "previousPoints": 550,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aut",
+        "delta": 0
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "72",
+        "country": "Wales",
+        "ct": "WAL",
+        "points": 550,
+        "previousPoints": 555,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/wal",
+        "delta": -5
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "74",
+        "country": "Iraq",
+        "ct": "IRQ",
+        "points": 546,
+        "previousPoints": 561,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irq",
+        "delta": -15
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "75",
+        "country": "Cuba",
+        "ct": "CUB",
+        "points": 545,
+        "previousPoints": 545,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cub",
+        "delta": 0
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "76",
+        "country": "Congo DR",
+        "ct": "COD",
+        "points": 542,
+        "previousPoints": 548,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cod",
+        "delta": -6
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "77",
+        "country": "Estonia",
+        "ct": "EST",
+        "points": 541,
+        "previousPoints": 535,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/est",
+        "delta": 6
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "78",
+        "country": "Panama",
+        "ct": "PAN",
+        "points": 535,
+        "previousPoints": 537,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pan",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "79",
+        "country": "Oman",
+        "ct": "OMA",
+        "points": 534,
+        "previousPoints": 536,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/oma",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "80",
+        "country": "Guinea",
+        "ct": "GUI",
+        "points": 531,
+        "previousPoints": 526,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gui",
+        "delta": 5
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "81",
+        "country": "Qatar",
+        "ct": "QAT",
+        "points": 527,
+        "previousPoints": 543,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/qat",
+        "delta": -16
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "82",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 524,
+        "previousPoints": 526,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "83",
+        "country": "Libya",
+        "ct": "LBY",
+        "points": 523,
+        "previousPoints": 519,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lby",
+        "delta": 4
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "84",
+        "country": "Jordan",
+        "ct": "JOR",
+        "points": 521,
+        "previousPoints": 537,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jor",
+        "delta": -16
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "85",
+        "country": "Albania",
+        "ct": "ALB",
+        "points": 517,
+        "previousPoints": 517,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alb",
+        "delta": 0
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "85",
+        "country": "Korea DPR",
+        "ct": "PRK",
+        "points": 517,
+        "previousPoints": 514,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/prk",
+        "delta": 3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "87",
+        "country": "Canada",
+        "ct": "CAN",
+        "points": 512,
+        "previousPoints": 514,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/can",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "88",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 510,
+        "previousPoints": 507,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "89",
+        "country": "Burkina Faso",
+        "ct": "BFA",
+        "points": 505,
+        "previousPoints": 508,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bfa",
+        "delta": -3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "90",
+        "country": "FYR Macedonia",
+        "ct": "MKD",
+        "points": 502,
+        "previousPoints": 490,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mkd",
+        "delta": 12
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "91",
+        "country": "Haiti",
+        "ct": "HAI",
+        "points": 496,
+        "previousPoints": 498,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hai",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "92",
+        "country": "Kenya",
+        "ct": "KEN",
+        "points": 495,
+        "previousPoints": 504,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ken",
+        "delta": -9
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "93",
+        "country": "Sudan",
+        "ct": "SDN",
+        "points": 487,
+        "previousPoints": 486,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sdn",
+        "delta": 1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "93",
+        "country": "Iceland",
+        "ct": "ISL",
+        "points": 487,
+        "previousPoints": 491,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isl",
+        "delta": -4
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "95",
+        "country": "Singapore",
+        "ct": "SIN",
+        "points": 482,
+        "previousPoints": 477,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sin",
+        "delta": 5
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "96",
+        "country": "Bolivia",
+        "ct": "BOL",
+        "points": 474,
+        "previousPoints": 476,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bol",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "97",
+        "country": "Cyprus",
+        "ct": "CYP",
+        "points": 472,
+        "previousPoints": 457,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cyp",
+        "delta": 15
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "98",
+        "country": "Lithuania",
+        "ct": "LTU",
+        "points": 465,
+        "previousPoints": 475,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ltu",
+        "delta": -10
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "99",
+        "country": "Botswana",
+        "ct": "BOT",
+        "points": 463,
+        "previousPoints": 463,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bot",
+        "delta": 0
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "100",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 462,
+        "previousPoints": 462,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "101",
+        "country": "Northern Ireland",
+        "ct": "NIR",
+        "points": 460,
+        "previousPoints": 451,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nir",
+        "delta": 9
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "102",
+        "country": "Gabon",
+        "ct": "GAB",
+        "points": 459,
+        "previousPoints": 459,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gab",
+        "delta": 0
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "103",
+        "country": "Indonesia",
+        "ct": "IDN",
+        "points": 455,
+        "previousPoints": 472,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/idn",
+        "delta": -17
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "104",
+        "country": "Malawi",
+        "ct": "MWI",
+        "points": 450,
+        "previousPoints": 450,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mwi",
+        "delta": 0
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "105",
+        "country": "Thailand",
+        "ct": "THA",
+        "points": 449,
+        "previousPoints": 461,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tha",
+        "delta": -12
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "106",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 446,
+        "previousPoints": 450,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -4
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "107",
+        "country": "Syria",
+        "ct": "SYR",
+        "points": 442,
+        "previousPoints": 447,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/syr",
+        "delta": -5
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "108",
+        "country": "Moldova",
+        "ct": "MDA",
+        "points": 441,
+        "previousPoints": 441,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mda",
+        "delta": 0
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "109",
+        "country": "Uganda",
+        "ct": "UGA",
+        "points": 434,
+        "previousPoints": 436,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uga",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "110",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 430,
+        "previousPoints": 437,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -7
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "111",
+        "country": "Congo",
+        "ct": "CGO",
+        "points": 413,
+        "previousPoints": 414,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cgo",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "112",
+        "country": "Turkmenistan",
+        "ct": "TKM",
+        "points": 401,
+        "previousPoints": 415,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tkm",
+        "delta": -14
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "113",
+        "country": "Azerbaijan",
+        "ct": "AZE",
+        "points": 400,
+        "previousPoints": 406,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aze",
+        "delta": -6
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "114",
+        "country": "Vietnam",
+        "ct": "VIE",
+        "points": 399,
+        "previousPoints": 413,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vie",
+        "delta": -14
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "115",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 396,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "116",
+        "country": "Malaysia",
+        "ct": "MAS",
+        "points": 393,
+        "previousPoints": 405,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mas",
+        "delta": -12
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "117",
+        "country": "Hong Kong",
+        "ct": "HKG",
+        "points": 390,
+        "previousPoints": 386,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hkg",
+        "delta": 4
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "118",
+        "country": "New Zealand",
+        "ct": "NZL",
+        "points": 388,
+        "previousPoints": 404,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nzl",
+        "delta": -16
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "119",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 387,
+        "previousPoints": 388,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "120",
+        "country": "Cape Verde Islands",
+        "ct": "CPV",
+        "points": 372,
+        "previousPoints": 373,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cpv",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "120",
+        "country": "El Salvador",
+        "ct": "SLV",
+        "points": 372,
+        "previousPoints": 386,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/slv",
+        "delta": -14
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "120",
+        "country": "Lebanon",
+        "ct": "LBN",
+        "points": 372,
+        "previousPoints": 385,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbn",
+        "delta": -13
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "123",
+        "country": "Malta",
+        "ct": "MLT",
+        "points": 371,
+        "previousPoints": 368,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mlt",
+        "delta": 3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "124",
+        "country": "Liechtenstein",
+        "ct": "LIE",
+        "points": 365,
+        "previousPoints": 367,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lie",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "125",
+        "country": "St. Lucia",
+        "ct": "LCA",
+        "points": 359,
+        "previousPoints": 399,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lca",
+        "delta": -40
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "126",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 358,
+        "previousPoints": 355,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "127",
+        "country": "Andorra",
+        "ct": "AND",
+        "points": 356,
+        "previousPoints": 354,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/and",
+        "delta": 2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "128",
+        "country": "Ethiopia",
+        "ct": "ETH",
+        "points": 351,
+        "previousPoints": 354,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eth",
+        "delta": -3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "128",
+        "country": "St. Kitts and Nevis",
+        "ct": "SKN",
+        "points": 351,
+        "previousPoints": 371,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/skn",
+        "delta": -20
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "130",
+        "country": "Mozambique",
+        "ct": "MOZ",
+        "points": 344,
+        "previousPoints": 350,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/moz",
+        "delta": -6
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "131",
+        "country": "Faroe Islands",
+        "ct": "FRO",
+        "points": 332,
+        "previousPoints": 338,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fro",
+        "delta": -6
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "131",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 332,
+        "previousPoints": 340,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -8
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "133",
+        "country": "Liberia",
+        "ct": "LBR",
+        "points": 328,
+        "previousPoints": 338,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbr",
+        "delta": -10
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "134",
+        "country": "Yemen",
+        "ct": "YEM",
+        "points": 325,
+        "previousPoints": 348,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yem",
+        "delta": -23
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "135",
+        "country": "India",
+        "ct": "IND",
+        "points": 324,
+        "previousPoints": 344,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ind",
+        "delta": -20
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "136",
+        "country": "Fiji",
+        "ct": "FIJ",
+        "points": 323,
+        "previousPoints": 329,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fij",
+        "delta": -6
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "137",
+        "country": "Palestine",
+        "ct": "PLE",
+        "points": 322,
+        "previousPoints": 332,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ple",
+        "delta": -10
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "138",
+        "country": "Solomon Islands",
+        "ct": "SOL",
+        "points": 316,
+        "previousPoints": 326,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sol",
+        "delta": -10
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "139",
+        "country": "Kazakhstan",
+        "ct": "KAZ",
+        "points": 315,
+        "previousPoints": 320,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kaz",
+        "delta": -5
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "140",
+        "country": "Tahiti",
+        "ct": "TAH",
+        "points": 313,
+        "previousPoints": 326,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tah",
+        "delta": -13
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "141",
+        "country": "Tajikistan",
+        "ct": "TJK",
+        "points": 309,
+        "previousPoints": 304,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tjk",
+        "delta": 5
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "142",
+        "country": "Myanmar",
+        "ct": "MYA",
+        "points": 308,
+        "previousPoints": 311,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mya",
+        "delta": -3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "143",
+        "country": "Burundi",
+        "ct": "BDI",
+        "points": 305,
+        "previousPoints": 308,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bdi",
+        "delta": -3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "144",
+        "country": "Mauritius",
+        "ct": "MRI",
+        "points": 292,
+        "previousPoints": 299,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mri",
+        "delta": -7
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "144",
+        "country": "Sri Lanka",
+        "ct": "SRI",
+        "points": 292,
+        "previousPoints": 301,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sri",
+        "delta": -9
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "146",
+        "country": "Lesotho",
+        "ct": "LES",
+        "points": 283,
+        "previousPoints": 289,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/les",
+        "delta": -6
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "147",
+        "country": "Maldives",
+        "ct": "MDV",
+        "points": 282,
+        "previousPoints": 292,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mdv",
+        "delta": -10
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "148",
+        "country": "Vanuatu",
+        "ct": "VAN",
+        "points": 276,
+        "previousPoints": 285,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/van",
+        "delta": -9
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "149",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 273,
+        "previousPoints": 263,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 10
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "150",
+        "country": "Grenada",
+        "ct": "GRN",
+        "points": 269,
+        "previousPoints": 278,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/grn",
+        "delta": -9
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "151",
+        "country": "Suriname",
+        "ct": "SUR",
+        "points": 257,
+        "previousPoints": 262,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sur",
+        "delta": -5
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "152",
+        "country": "Luxembourg",
+        "ct": "LUX",
+        "points": 256,
+        "previousPoints": 258,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lux",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "153",
+        "country": "Kyrgyz Republic",
+        "ct": "KGZ",
+        "points": 245,
+        "previousPoints": 258,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kgz",
+        "delta": -13
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "154",
+        "country": "Nicaragua",
+        "ct": "NCA",
+        "points": 244,
+        "previousPoints": 244,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nca",
+        "delta": 0
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "155",
+        "country": "Antigua and Barbuda",
+        "ct": "ATG",
+        "points": 243,
+        "previousPoints": 251,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/atg",
+        "delta": -8
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "156",
+        "country": "Chinese Taipei",
+        "ct": "TPE",
+        "points": 241,
+        "previousPoints": 250,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tpe",
+        "delta": -9
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "157",
+        "country": "San Marino",
+        "ct": "SMR",
+        "points": 238,
+        "previousPoints": 239,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/smr",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "158",
+        "country": "Chad",
+        "ct": "CHA",
+        "points": 232,
+        "previousPoints": 235,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cha",
+        "delta": -3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "158",
+        "country": "Bermuda",
+        "ct": "BER",
+        "points": 232,
+        "previousPoints": 233,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ber",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "160",
+        "country": "Namibia",
+        "ct": "NAM",
+        "points": 224,
+        "previousPoints": 229,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nam",
+        "delta": -5
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "161",
+        "country": "Gambia",
+        "ct": "GAM",
+        "points": 215,
+        "previousPoints": 223,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gam",
+        "delta": -8
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "162",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 204,
+        "previousPoints": 209,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -5
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "163",
+        "country": "British Virgin Islands",
+        "ct": "VGB",
+        "points": 202,
+        "previousPoints": 204,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vgb",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "164",
+        "country": "Papua New Guinea",
+        "ct": "PNG",
+        "points": 197,
+        "previousPoints": 203,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/png",
+        "delta": -6
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "165",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 195,
+        "previousPoints": 202,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -7
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "167",
+        "country": "Guyana",
+        "ct": "GUY",
+        "points": 185,
+        "previousPoints": 185,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/guy",
+        "delta": 0
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "168",
+        "country": "Pakistan",
+        "ct": "PAK",
+        "points": 180,
+        "previousPoints": 182,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pak",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "169",
+        "country": "Dominica",
+        "ct": "DMA",
+        "points": 179,
+        "previousPoints": 186,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dma",
+        "delta": -7
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "170",
+        "country": "Bangladesh",
+        "ct": "BAN",
+        "points": 176,
+        "previousPoints": 183,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ban",
+        "delta": -7
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "171",
+        "country": "Equatorial Guinea",
+        "ct": "EQG",
+        "points": 173,
+        "previousPoints": 176,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eqg",
+        "delta": -3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "172",
+        "country": "Eritrea",
+        "ct": "ERI",
+        "points": 169,
+        "previousPoints": 175,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eri",
+        "delta": -6
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "173",
+        "country": "Dominican Republic",
+        "ct": "DOM",
+        "points": 164,
+        "previousPoints": 169,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dom",
+        "delta": -5
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "174",
+        "country": "Seychelles",
+        "ct": "SEY",
+        "points": 156,
+        "previousPoints": 160,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sey",
+        "delta": -4
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "175",
+        "country": "Tanzania",
+        "ct": "TAN",
+        "points": 150,
+        "previousPoints": 156,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tan",
+        "delta": -6
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "176",
+        "country": "Cayman Islands",
+        "ct": "CAY",
+        "points": 149,
+        "previousPoints": 151,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cay",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "176",
+        "country": "Niger",
+        "ct": "NIG",
+        "points": 149,
+        "previousPoints": 154,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nig",
+        "delta": -5
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "178",
+        "country": "Mauritania",
+        "ct": "MTN",
+        "points": 144,
+        "previousPoints": 149,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mtn",
+        "delta": -5
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "179",
+        "country": "Mongolia",
+        "ct": "MNG",
+        "points": 138,
+        "previousPoints": 139,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mng",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "180",
+        "country": "Samoa",
+        "ct": "SAM",
+        "points": 137,
+        "previousPoints": 143,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sam",
+        "delta": -6
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "181",
+        "country": "Belize",
+        "ct": "BLZ",
+        "points": 136,
+        "previousPoints": 138,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blz",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "181",
+        "country": "Nepal",
+        "ct": "NEP",
+        "points": 136,
+        "previousPoints": 142,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nep",
+        "delta": -6
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "183",
+        "country": "Central African Republic",
+        "ct": "CTA",
+        "points": 132,
+        "previousPoints": 135,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cta",
+        "delta": -3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "184",
+        "country": "Tonga",
+        "ct": "TGA",
+        "points": 114,
+        "previousPoints": 119,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tga",
+        "delta": -5
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "185",
+        "country": "Cambodia",
+        "ct": "CAM",
+        "points": 107,
+        "previousPoints": 110,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cam",
+        "delta": -3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "185",
+        "country": "New Caledonia",
+        "ct": "NCL",
+        "points": 107,
+        "previousPoints": 109,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ncl",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "187",
+        "country": "Philippines",
+        "ct": "PHI",
+        "points": 90,
+        "previousPoints": 92,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/phi",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "188",
+        "country": "Somalia",
+        "ct": "SOM",
+        "points": 88,
+        "previousPoints": 89,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/som",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "189",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 85,
+        "previousPoints": 87,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "190",
+        "country": "Macau",
+        "ct": "MAC",
+        "points": 78,
+        "previousPoints": 80,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mac",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "191",
+        "country": "Guinea-Bissau",
+        "ct": "GNB",
+        "points": 75,
+        "previousPoints": 78,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gnb",
+        "delta": -3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "192",
+        "country": "Bahamas",
+        "ct": "BAH",
+        "points": 72,
+        "previousPoints": 75,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bah",
+        "delta": -3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "193",
+        "country": "Puerto Rico",
+        "ct": "PUR",
+        "points": 71,
+        "previousPoints": 72,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pur",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "194",
+        "country": "Cook Islands",
+        "ct": "COK",
+        "points": 70,
+        "previousPoints": 74,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cok",
+        "delta": -4
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "195",
+        "country": "US Virgin Islands",
+        "ct": "VIR",
+        "points": 63,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vir",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "196",
+        "country": "Sao Tome e Principe",
+        "ct": "STP",
+        "points": 59,
+        "previousPoints": 61,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/stp",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "197",
+        "country": "Anguilla",
+        "ct": "AIA",
+        "points": 55,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aia",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "198",
+        "country": "Afghanistan",
+        "ct": "AFG",
+        "points": 54,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/afg",
+        "delta": 2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "199",
+        "country": "Brunei Darussalam",
+        "ct": "BRU",
+        "points": 51,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bru",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "200",
+        "country": "Aruba",
+        "ct": "ARU",
+        "points": 49,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aru",
+        "delta": -3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "201",
+        "country": "Djibouti",
+        "ct": "DJI",
+        "points": 33,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dji",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "202",
+        "country": "Montserrat",
+        "ct": "MSR",
+        "points": 31,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/msr",
+        "delta": -3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "203",
+        "country": "Turks and Caicos Islands",
+        "ct": "TCA",
+        "points": 23,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tca",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "204",
+        "country": "Guam",
+        "ct": "GUM",
+        "points": 20,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gum",
+        "delta": 0
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "205",
+        "country": "American Samoa",
+        "ct": "ASA",
+        "points": 15,
+        "previousPoints": 16,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/asa",
+        "delta": -1
+    }
+]

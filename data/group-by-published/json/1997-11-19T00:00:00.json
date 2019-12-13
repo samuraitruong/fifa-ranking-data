@@ -1,0 +1,1908 @@
+[
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 72,
+        "previousPoints": 72,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "2",
+        "country": "Germany",
+        "ct": "GER",
+        "points": 65,
+        "previousPoints": 63,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ger",
+        "delta": 2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "3",
+        "country": "Spain",
+        "ct": "ESP",
+        "points": 63,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/esp",
+        "delta": -2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "4",
+        "country": "Czech Republic",
+        "ct": "CZE",
+        "points": 62,
+        "previousPoints": 62,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cze",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "5",
+        "country": "Romania",
+        "ct": "ROU",
+        "points": 62,
+        "previousPoints": 62,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rou",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "6",
+        "country": "England",
+        "ct": "ENG",
+        "points": 61,
+        "previousPoints": 61,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eng",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "7",
+        "country": "France",
+        "ct": "FRA",
+        "points": 60,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fra",
+        "delta": 2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "8",
+        "country": "Denmark",
+        "ct": "DEN",
+        "points": 60,
+        "previousPoints": 61,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/den",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "9",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 60,
+        "previousPoints": 60,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "10",
+        "country": "Italy",
+        "ct": "ITA",
+        "points": 60,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ita",
+        "delta": 2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "11",
+        "country": "Mexico",
+        "ct": "MEX",
+        "points": 60,
+        "previousPoints": 60,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mex",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "12",
+        "country": "Netherlands",
+        "ct": "NED",
+        "points": 59,
+        "previousPoints": 61,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ned",
+        "delta": -2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "13",
+        "country": "Russia",
+        "ct": "RUS",
+        "points": 58,
+        "previousPoints": 60,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rus",
+        "delta": -2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "14",
+        "country": "Norway",
+        "ct": "NOR",
+        "points": 58,
+        "previousPoints": 59,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nor",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "15",
+        "country": "Sweden",
+        "ct": "SWE",
+        "points": 58,
+        "previousPoints": 57,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swe",
+        "delta": 1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "16",
+        "country": "Morocco",
+        "ct": "MAR",
+        "points": 58,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mar",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "17",
+        "country": "Chile",
+        "ct": "CHI",
+        "points": 58,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chi",
+        "delta": 4
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "18",
+        "country": "Japan",
+        "ct": "JPN",
+        "points": 58,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jpn",
+        "delta": 2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "19",
+        "country": "Argentina",
+        "ct": "ARG",
+        "points": 57,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arg",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "20",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 56,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "21",
+        "country": "Croatia",
+        "ct": "CRO",
+        "points": 56,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cro",
+        "delta": 3
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "22",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 56,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 4
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "23",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 56,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "24",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 55,
+        "previousPoints": 57,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "25",
+        "country": "Bolivia",
+        "ct": "BOL",
+        "points": 55,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bol",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "26",
+        "country": "Austria",
+        "ct": "AUT",
+        "points": 55,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aut",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "27",
+        "country": "Portugal",
+        "ct": "POR",
+        "points": 54,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/por",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "28",
+        "country": "Ecuador",
+        "ct": "ECU",
+        "points": 54,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ecu",
+        "delta": 1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "29",
+        "country": "USA",
+        "ct": "USA",
+        "points": 54,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/usa",
+        "delta": 2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "30",
+        "country": "Paraguay",
+        "ct": "PAR",
+        "points": 54,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/par",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "31",
+        "country": "Korea Republic",
+        "ct": "KOR",
+        "points": 53,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kor",
+        "delta": 1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "32",
+        "country": "Australia",
+        "ct": "AUS",
+        "points": 53,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aus",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "33",
+        "country": "Slovakia",
+        "ct": "SVK",
+        "points": 53,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svk",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "34",
+        "country": "Saudi Arabia",
+        "ct": "KSA",
+        "points": 53,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ksa",
+        "delta": 2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "35",
+        "country": "South Africa",
+        "ct": "RSA",
+        "points": 53,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rsa",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "36",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 52,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "37",
+        "country": "Egypt",
+        "ct": "EGY",
+        "points": 51,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/egy",
+        "delta": -2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "38",
+        "country": "Peru",
+        "ct": "PER",
+        "points": 51,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/per",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "39",
+        "country": "Jamaica",
+        "ct": "JAM",
+        "points": 51,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jam",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "40",
+        "country": "Greece",
+        "ct": "GRE",
+        "points": 50,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gre",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "41",
+        "country": "Belgium",
+        "ct": "BEL",
+        "points": 50,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bel",
+        "delta": 4
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "42",
+        "country": "Turkey",
+        "ct": "TUR",
+        "points": 50,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tur",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "43",
+        "country": "Uruguay",
+        "ct": "URU",
+        "points": 49,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uru",
+        "delta": 4
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "44",
+        "country": "Lithuania",
+        "ct": "LTU",
+        "points": 47,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ltu",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "45",
+        "country": "Republic of Ireland",
+        "ct": "IRL",
+        "points": 47,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irl",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "46",
+        "country": "Kuwait",
+        "ct": "KUW",
+        "points": 47,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kuw",
+        "delta": 1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "47",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 46,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "48",
+        "country": "C\u00f4te d'Ivoire",
+        "ct": "CIV",
+        "points": 46,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/civ",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "49",
+        "country": "Ukraine",
+        "ct": "UKR",
+        "points": 46,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ukr",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "50",
+        "country": "IR Iran",
+        "ct": "IRN",
+        "points": 46,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irn",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "51",
+        "country": "Cameroon",
+        "ct": "CMR",
+        "points": 46,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cmr",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "52",
+        "country": "Costa Rica",
+        "ct": "CRC",
+        "points": 45,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/crc",
+        "delta": 1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "53",
+        "country": "Ghana",
+        "ct": "GHA",
+        "points": 45,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gha",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "54",
+        "country": "Angola",
+        "ct": "ANG",
+        "points": 45,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ang",
+        "delta": 1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "55",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 45,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "56",
+        "country": "China PR",
+        "ct": "CHN",
+        "points": 44,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chn",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "57",
+        "country": "Thailand",
+        "ct": "THA",
+        "points": 44,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tha",
+        "delta": 2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "58",
+        "country": "Trinidad and Tobago",
+        "ct": "TRI",
+        "points": 44,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tri",
+        "delta": 1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "59",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 44,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "60",
+        "country": "Israel",
+        "ct": "ISR",
+        "points": 44,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isr",
+        "delta": 1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "61",
+        "country": "Finland",
+        "ct": "FIN",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fin",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "62",
+        "country": "Switzerland",
+        "ct": "SUI",
+        "points": 42,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sui",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "63",
+        "country": "Canada",
+        "ct": "CAN",
+        "points": 41,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/can",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "64",
+        "country": "Gabon",
+        "ct": "GAB",
+        "points": 41,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gab",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "65",
+        "country": "Honduras",
+        "ct": "HON",
+        "points": 41,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hon",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "66",
+        "country": "Mozambique",
+        "ct": "MOZ",
+        "points": 40,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/moz",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "67",
+        "country": "Guinea",
+        "ct": "GUI",
+        "points": 40,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gui",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "68",
+        "country": "El Salvador",
+        "ct": "SLV",
+        "points": 40,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/slv",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "69",
+        "country": "Qatar",
+        "ct": "QAT",
+        "points": 39,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/qat",
+        "delta": 7
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "70",
+        "country": "Zimbabwe",
+        "ct": "ZIM",
+        "points": 39,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zim",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "71",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 39,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "72",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 39,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "73",
+        "country": "Latvia",
+        "ct": "LVA",
+        "points": 38,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lva",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "74",
+        "country": "Iceland",
+        "ct": "ISL",
+        "points": 38,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isl",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "75",
+        "country": "Togo",
+        "ct": "TOG",
+        "points": 38,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tog",
+        "delta": 1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "76",
+        "country": "Iraq",
+        "ct": "IRQ",
+        "points": 38,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irq",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "77",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 38,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "78",
+        "country": "Hungary",
+        "ct": "HUN",
+        "points": 37,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hun",
+        "delta": -3
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "79",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 37,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "80",
+        "country": "Oman",
+        "ct": "OMA",
+        "points": 36,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/oma",
+        "delta": 1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "81",
+        "country": "Uzbekistan",
+        "ct": "UZB",
+        "points": 36,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uzb",
+        "delta": 1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "82",
+        "country": "Senegal",
+        "ct": "SEN",
+        "points": 36,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sen",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "83",
+        "country": "Northern Ireland",
+        "ct": "NIR",
+        "points": 36,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nir",
+        "delta": -2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "84",
+        "country": "Cyprus",
+        "ct": "CYP",
+        "points": 36,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cyp",
+        "delta": -2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "85",
+        "country": "Namibia",
+        "ct": "NAM",
+        "points": 35,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nam",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "86",
+        "country": "FYR Macedonia",
+        "ct": "MKD",
+        "points": 35,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mkd",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "87",
+        "country": "Malaysia",
+        "ct": "MAS",
+        "points": 35,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mas",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "88",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 35,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "89",
+        "country": "Guatemala",
+        "ct": "GUA",
+        "points": 35,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gua",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "90",
+        "country": "Cuba",
+        "ct": "CUB",
+        "points": 34,
+        "previousPoints": 29,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cub",
+        "delta": 5
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "91",
+        "country": "Lebanon",
+        "ct": "LBN",
+        "points": 34,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbn",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "92",
+        "country": "Liberia",
+        "ct": "LBR",
+        "points": 33,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbr",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "93",
+        "country": "Kenya",
+        "ct": "KEN",
+        "points": 33,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ken",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "94",
+        "country": "Slovenia",
+        "ct": "SVN",
+        "points": 33,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svn",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "95",
+        "country": "Malawi",
+        "ct": "MWI",
+        "points": 33,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mwi",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "96",
+        "country": "Indonesia",
+        "ct": "IDN",
+        "points": 33,
+        "previousPoints": 30,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/idn",
+        "delta": 3
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "97",
+        "country": "Tanzania",
+        "ct": "TAN",
+        "points": 33,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tan",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "98",
+        "country": "Wales",
+        "ct": "WAL",
+        "points": 31,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/wal",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "99",
+        "country": "Syria",
+        "ct": "SYR",
+        "points": 31,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/syr",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "100",
+        "country": "Uganda",
+        "ct": "UGA",
+        "points": 31,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uga",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "101",
+        "country": "Bosnia and Herzegovina",
+        "ct": "BIH",
+        "points": 30,
+        "previousPoints": 30,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bih",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "102",
+        "country": "Congo",
+        "ct": "CGO",
+        "points": 30,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cgo",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "103",
+        "country": "Estonia",
+        "ct": "EST",
+        "points": 29,
+        "previousPoints": 30,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/est",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "104",
+        "country": "Sudan",
+        "ct": "SDN",
+        "points": 29,
+        "previousPoints": 29,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sdn",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "105",
+        "country": "Singapore",
+        "ct": "SIN",
+        "points": 29,
+        "previousPoints": 27,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sin",
+        "delta": 2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "106",
+        "country": "Burkina Faso",
+        "ct": "BFA",
+        "points": 28,
+        "previousPoints": 27,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bfa",
+        "delta": 1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "107",
+        "country": "Vietnam",
+        "ct": "VIE",
+        "points": 28,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vie",
+        "delta": 5
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "108",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 28,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "109",
+        "country": "Kazakhstan",
+        "ct": "KAZ",
+        "points": 27,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kaz",
+        "delta": 1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "110",
+        "country": "Belarus",
+        "ct": "BLR",
+        "points": 27,
+        "previousPoints": 27,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blr",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "111",
+        "country": "Grenada",
+        "ct": "GRN",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/grn",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "112",
+        "country": "India",
+        "ct": "IND",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ind",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "113",
+        "country": "Myanmar",
+        "ct": "MYA",
+        "points": 26,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mya",
+        "delta": 2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "114",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "115",
+        "country": "Venezuela",
+        "ct": "VEN",
+        "points": 25,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ven",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "116",
+        "country": "Panama",
+        "ct": "PAN",
+        "points": 25,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pan",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "117",
+        "country": "Albania",
+        "ct": "ALB",
+        "points": 25,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alb",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "118",
+        "country": "Faroe Islands",
+        "ct": "FRO",
+        "points": 24,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fro",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "119",
+        "country": "Tajikistan",
+        "ct": "TJK",
+        "points": 24,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tjk",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "120",
+        "country": "New Zealand",
+        "ct": "NZL",
+        "points": 22,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nzl",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "121",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 22,
+        "previousPoints": 22,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "122",
+        "country": "Bahrain",
+        "ct": "BHR",
+        "points": 22,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhr",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "123",
+        "country": "Jordan",
+        "ct": "JOR",
+        "points": 21,
+        "previousPoints": 21,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jor",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "124",
+        "country": "Azerbaijan",
+        "ct": "AZE",
+        "points": 21,
+        "previousPoints": 21,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aze",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "125",
+        "country": "Ethiopia",
+        "ct": "ETH",
+        "points": 20,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eth",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "126",
+        "country": "Haiti",
+        "ct": "HAI",
+        "points": 20,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hai",
+        "delta": 2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "127",
+        "country": "St. Kitts and Nevis",
+        "ct": "SKN",
+        "points": 19,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/skn",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "128",
+        "country": "Yemen",
+        "ct": "YEM",
+        "points": 19,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yem",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "129",
+        "country": "Hong Kong",
+        "ct": "HKG",
+        "points": 19,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hkg",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "130",
+        "country": "Solomon Islands",
+        "ct": "SOL",
+        "points": 18,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sol",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "131",
+        "country": "Moldova",
+        "ct": "MDA",
+        "points": 18,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mda",
+        "delta": -2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "132",
+        "country": "Malta",
+        "ct": "MLT",
+        "points": 18,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mlt",
+        "delta": -2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "133",
+        "country": "Turkmenistan",
+        "ct": "TKM",
+        "points": 18,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tkm",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "134",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 18,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "135",
+        "country": "Mauritania",
+        "ct": "MTN",
+        "points": 18,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mtn",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "136",
+        "country": "Sri Lanka",
+        "ct": "SRI",
+        "points": 17,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sri",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "137",
+        "country": "Luxembourg",
+        "ct": "LUX",
+        "points": 17,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lux",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "138",
+        "country": "Dominica",
+        "ct": "DMA",
+        "points": 16,
+        "previousPoints": 16,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dma",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "139",
+        "country": "Bangladesh",
+        "ct": "BAN",
+        "points": 16,
+        "previousPoints": 16,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ban",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "140",
+        "country": "Kyrgyz Republic",
+        "ct": "KGZ",
+        "points": 16,
+        "previousPoints": 16,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kgz",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "141",
+        "country": "St. Lucia",
+        "ct": "LCA",
+        "points": 15,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lca",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "142",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 14,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 3
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "143",
+        "country": "Gambia",
+        "ct": "GAM",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gam",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "144",
+        "country": "Dominican Republic",
+        "ct": "DOM",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dom",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "145",
+        "country": "Libya",
+        "ct": "LBY",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lby",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "146",
+        "country": "Fiji",
+        "ct": "FIJ",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fij",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "147",
+        "country": "Suriname",
+        "ct": "SUR",
+        "points": 12,
+        "previousPoints": 12,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sur",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "148",
+        "country": "Guinea-Bissau",
+        "ct": "GNB",
+        "points": 12,
+        "previousPoints": 12,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gnb",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "149",
+        "country": "Niger",
+        "ct": "NIG",
+        "points": 11,
+        "previousPoints": 12,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nig",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "150",
+        "country": "Lesotho",
+        "ct": "LES",
+        "points": 11,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/les",
+        "delta": 3
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "151",
+        "country": "Mauritius",
+        "ct": "MRI",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mri",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "152",
+        "country": "Burundi",
+        "ct": "BDI",
+        "points": 10,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bdi",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "153",
+        "country": "Pakistan",
+        "ct": "PAK",
+        "points": 10,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pak",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "154",
+        "country": "Chinese Taipei",
+        "ct": "TPE",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tpe",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "155",
+        "country": "Nepal",
+        "ct": "NEP",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nep",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "157",
+        "country": "Macau",
+        "ct": "MAC",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mac",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "158",
+        "country": "Antigua and Barbuda",
+        "ct": "ATG",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/atg",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "159",
+        "country": "Liechtenstein",
+        "ct": "LIE",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lie",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "160",
+        "country": "Maldives",
+        "ct": "MDV",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mdv",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "161",
+        "country": "Tahiti",
+        "ct": "TAH",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tah",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "162",
+        "country": "Botswana",
+        "ct": "BOT",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bot",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "163",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "164",
+        "country": "Cayman Islands",
+        "ct": "CAY",
+        "points": 7,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cay",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "165",
+        "country": "Korea DPR",
+        "ct": "PRK",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/prk",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "166",
+        "country": "Puerto Rico",
+        "ct": "PUR",
+        "points": 6,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pur",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "167",
+        "country": "Papua New Guinea",
+        "ct": "PNG",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/png",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "168",
+        "country": "Guyana",
+        "ct": "GUY",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/guy",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "169",
+        "country": "Cambodia",
+        "ct": "CAM",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cam",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "170",
+        "country": "Cape Verde Islands",
+        "ct": "CPV",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cpv",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "171",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 5,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "172",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 5,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "173",
+        "country": "San Marino",
+        "ct": "SMR",
+        "points": 5,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/smr",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "174",
+        "country": "Bermuda",
+        "ct": "BER",
+        "points": 5,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ber",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "175",
+        "country": "Tonga",
+        "ct": "TGA",
+        "points": 5,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tga",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "176",
+        "country": "Philippines",
+        "ct": "PHI",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/phi",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "177",
+        "country": "Aruba",
+        "ct": "ARU",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aru",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "178",
+        "country": "Brunei Darussalam",
+        "ct": "BRU",
+        "points": 3,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bru",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "179",
+        "country": "Belize",
+        "ct": "BLZ",
+        "points": 3,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blz",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "180",
+        "country": "British Virgin Islands",
+        "ct": "VGB",
+        "points": 3,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vgb",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "181",
+        "country": "Seychelles",
+        "ct": "SEY",
+        "points": 3,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sey",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "182",
+        "country": "Nicaragua",
+        "ct": "NCA",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nca",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "183",
+        "country": "Samoa",
+        "ct": "SAM",
+        "points": 2,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sam",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "184",
+        "country": "Chad",
+        "ct": "CHA",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cha",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "185",
+        "country": "Andorra",
+        "ct": "AND",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/and",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "186",
+        "country": "Vanuatu",
+        "ct": "VAN",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/van",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "187",
+        "country": "Somalia",
+        "ct": "SOM",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/som",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "188",
+        "country": "Central African Republic",
+        "ct": "CTA",
+        "points": 1,
+        "previousPoints": 1,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cta",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "189",
+        "country": "Djibouti",
+        "ct": "DJI",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dji"
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "190",
+        "country": "Anguilla",
+        "ct": "AIA",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aia"
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "191",
+        "country": "Cook Islands",
+        "ct": "COK",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cok"
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "192",
+        "country": "Guam",
+        "ct": "GUM",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gum"
+    }
+]

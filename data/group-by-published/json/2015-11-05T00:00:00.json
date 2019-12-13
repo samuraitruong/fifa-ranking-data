@@ -1,0 +1,2089 @@
+[
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "1",
+        "country": "Belgium",
+        "ct": "BEL",
+        "points": 1440,
+        "previousPoints": 1387,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bel",
+        "delta": 53
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "2",
+        "country": "Germany",
+        "ct": "GER",
+        "points": 1388,
+        "previousPoints": 1401,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ger",
+        "delta": -13
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "3",
+        "country": "Argentina",
+        "ct": "ARG",
+        "points": 1383,
+        "previousPoints": 1419,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arg",
+        "delta": -36
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "4",
+        "country": "Portugal",
+        "ct": "POR",
+        "points": 1364,
+        "previousPoints": 1235,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/por",
+        "delta": 129
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "5",
+        "country": "Chile",
+        "ct": "CHI",
+        "points": 1288,
+        "previousPoints": 1177,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chi",
+        "delta": 111
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "6",
+        "country": "Spain",
+        "ct": "ESP",
+        "points": 1287,
+        "previousPoints": 1223,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/esp",
+        "delta": 64
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "7",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1233,
+        "previousPoints": 1228,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 5
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "8",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1208,
+        "previousPoints": 1204,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 4
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "9",
+        "country": "England",
+        "ct": "ENG",
+        "points": 1179,
+        "previousPoints": 1161,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eng",
+        "delta": 18
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "10",
+        "country": "Austria",
+        "ct": "AUT",
+        "points": 1130,
+        "previousPoints": 1100,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aut",
+        "delta": 30
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "11",
+        "country": "Switzerland",
+        "ct": "SUI",
+        "points": 1073,
+        "previousPoints": 1044,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sui",
+        "delta": 29
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "12",
+        "country": "Uruguay",
+        "ct": "URU",
+        "points": 1051,
+        "previousPoints": 919,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uru",
+        "delta": 132
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "13",
+        "country": "Italy",
+        "ct": "ITA",
+        "points": 1040,
+        "previousPoints": 962,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ita",
+        "delta": 78
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "14",
+        "country": "Romania",
+        "ct": "ROU",
+        "points": 1039,
+        "previousPoints": 1042,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rou",
+        "delta": -3
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "15",
+        "country": "Wales",
+        "ct": "WAL",
+        "points": 1032,
+        "previousPoints": 1195,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/wal",
+        "delta": -163
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "16",
+        "country": "Netherlands",
+        "ct": "NED",
+        "points": 976,
+        "previousPoints": 1004,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ned",
+        "delta": -28
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "17",
+        "country": "Czech Republic",
+        "ct": "CZE",
+        "points": 974,
+        "previousPoints": 983,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cze",
+        "delta": -9
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "18",
+        "country": "Turkey",
+        "ct": "TUR",
+        "points": 941,
+        "previousPoints": 717,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tur",
+        "delta": 224
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "19",
+        "country": "Croatia",
+        "ct": "CRO",
+        "points": 924,
+        "previousPoints": 965,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cro",
+        "delta": -41
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "20",
+        "country": "Bosnia and Herzegovina",
+        "ct": "BIH",
+        "points": 923,
+        "previousPoints": 787,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bih",
+        "delta": 136
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "21",
+        "country": "Ecuador",
+        "ct": "ECU",
+        "points": 921,
+        "previousPoints": 765,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ecu",
+        "delta": 156
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "22",
+        "country": "C\u00f4te d'Ivoire",
+        "ct": "CIV",
+        "points": 890,
+        "previousPoints": 916,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/civ",
+        "delta": -26
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "23",
+        "country": "Russia",
+        "ct": "RUS",
+        "points": 885,
+        "previousPoints": 845,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rus",
+        "delta": 40
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "24",
+        "country": "Mexico",
+        "ct": "MEX",
+        "points": 881,
+        "previousPoints": 842,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mex",
+        "delta": 39
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "24",
+        "country": "France",
+        "ct": "FRA",
+        "points": 881,
+        "previousPoints": 899,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fra",
+        "delta": -18
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "26",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 872,
+        "previousPoints": 927,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -55
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "27",
+        "country": "Slovakia",
+        "ct": "SVK",
+        "points": 857,
+        "previousPoints": 936,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svk",
+        "delta": -79
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "28",
+        "country": "Ukraine",
+        "ct": "UKR",
+        "points": 806,
+        "previousPoints": 874,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ukr",
+        "delta": -68
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "29",
+        "country": "Northern Ireland",
+        "ct": "NIR",
+        "points": 797,
+        "previousPoints": 724,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nir",
+        "delta": 73
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "30",
+        "country": "Ghana",
+        "ct": "GHA",
+        "points": 793,
+        "previousPoints": 849,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gha",
+        "delta": -56
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "31",
+        "country": "Iceland",
+        "ct": "ISL",
+        "points": 792,
+        "previousPoints": 882,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isl",
+        "delta": -90
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "32",
+        "country": "Cape Verde Islands",
+        "ct": "CPV",
+        "points": 762,
+        "previousPoints": 701,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cpv",
+        "delta": 61
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "33",
+        "country": "Hungary",
+        "ct": "HUN",
+        "points": 759,
+        "previousPoints": 741,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hun",
+        "delta": 18
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "33",
+        "country": "USA",
+        "ct": "USA",
+        "points": 759,
+        "previousPoints": 807,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/usa",
+        "delta": -48
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "35",
+        "country": "Denmark",
+        "ct": "DEN",
+        "points": 743,
+        "previousPoints": 835,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/den",
+        "delta": -92
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "36",
+        "country": "Albania",
+        "ct": "ALB",
+        "points": 723,
+        "previousPoints": 755,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alb",
+        "delta": -32
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "37",
+        "country": "Greece",
+        "ct": "GRE",
+        "points": 718,
+        "previousPoints": 676,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gre",
+        "delta": 42
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "38",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 712,
+        "previousPoints": 680,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 32
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "39",
+        "country": "Senegal",
+        "ct": "SEN",
+        "points": 678,
+        "previousPoints": 713,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sen",
+        "delta": -35
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "40",
+        "country": "Costa Rica",
+        "ct": "CRC",
+        "points": 671,
+        "previousPoints": 691,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/crc",
+        "delta": -20
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "41",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 668,
+        "previousPoints": 722,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -54
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "42",
+        "country": "Republic of Ireland",
+        "ct": "IRL",
+        "points": 659,
+        "previousPoints": 587,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irl",
+        "delta": 72
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "43",
+        "country": "IR Iran",
+        "ct": "IRN",
+        "points": 651,
+        "previousPoints": 703,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irn",
+        "delta": -52
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "44",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 649,
+        "previousPoints": 702,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -53
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "45",
+        "country": "Sweden",
+        "ct": "SWE",
+        "points": 647,
+        "previousPoints": 672,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swe",
+        "delta": -25
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "46",
+        "country": "Norway",
+        "ct": "NOR",
+        "points": 637,
+        "previousPoints": 739,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nor",
+        "delta": -102
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "47",
+        "country": "Paraguay",
+        "ct": "PAR",
+        "points": 610,
+        "previousPoints": 552,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/par",
+        "delta": 58
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "48",
+        "country": "Korea Republic",
+        "ct": "KOR",
+        "points": 606,
+        "previousPoints": 590,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kor",
+        "delta": 16
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "49",
+        "country": "Serbia",
+        "ct": "SRB",
+        "points": 605,
+        "previousPoints": 538,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/srb",
+        "delta": 67
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "50",
+        "country": "Japan",
+        "ct": "JPN",
+        "points": 603,
+        "previousPoints": 582,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jpn",
+        "delta": 21
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "51",
+        "country": "Cameroon",
+        "ct": "CMR",
+        "points": 597,
+        "previousPoints": 640,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cmr",
+        "delta": -43
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "52",
+        "country": "Congo",
+        "ct": "CGO",
+        "points": 593,
+        "previousPoints": 636,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cgo",
+        "delta": -43
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "53",
+        "country": "Guinea",
+        "ct": "GUI",
+        "points": 589,
+        "previousPoints": 582,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gui",
+        "delta": 7
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "54",
+        "country": "Trinidad and Tobago",
+        "ct": "TRI",
+        "points": 588,
+        "previousPoints": 564,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tri",
+        "delta": 24
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "55",
+        "country": "Congo DR",
+        "ct": "COD",
+        "points": 587,
+        "previousPoints": 563,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cod",
+        "delta": 24
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "56",
+        "country": "Finland",
+        "ct": "FIN",
+        "points": 586,
+        "previousPoints": 534,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fin",
+        "delta": 52
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "57",
+        "country": "Egypt",
+        "ct": "EGY",
+        "points": 583,
+        "previousPoints": 620,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/egy",
+        "delta": -37
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "57",
+        "country": "Peru",
+        "ct": "PER",
+        "points": 583,
+        "previousPoints": 623,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/per",
+        "delta": -40
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "59",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 582,
+        "previousPoints": 600,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -18
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "60",
+        "country": "Australia",
+        "ct": "AUS",
+        "points": 573,
+        "previousPoints": 567,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aus",
+        "delta": 6
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "61",
+        "country": "Jamaica",
+        "ct": "JAM",
+        "points": 559,
+        "previousPoints": 576,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jam",
+        "delta": -17
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "61",
+        "country": "Israel",
+        "ct": "ISR",
+        "points": 559,
+        "previousPoints": 659,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isr",
+        "delta": -100
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "63",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 552,
+        "previousPoints": 546,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 6
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "64",
+        "country": "Slovenia",
+        "ct": "SVN",
+        "points": 547,
+        "previousPoints": 662,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svn",
+        "delta": -115
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "65",
+        "country": "Panama",
+        "ct": "PAN",
+        "points": 515,
+        "previousPoints": 529,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pan",
+        "delta": -14
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "66",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 497,
+        "previousPoints": 414,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 83
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "67",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 495,
+        "previousPoints": 491,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 4
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "68",
+        "country": "Uganda",
+        "ct": "UGA",
+        "points": 491,
+        "previousPoints": 455,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uga",
+        "delta": 36
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "69",
+        "country": "Equatorial Guinea",
+        "ct": "EQG",
+        "points": 487,
+        "previousPoints": 510,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eqg",
+        "delta": -23
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "70",
+        "country": "Belarus",
+        "ct": "BLR",
+        "points": 479,
+        "previousPoints": 350,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blr",
+        "delta": 129
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "71",
+        "country": "Uzbekistan",
+        "ct": "UZB",
+        "points": 477,
+        "previousPoints": 464,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uzb",
+        "delta": 13
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "71",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 477,
+        "previousPoints": 487,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -10
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "73",
+        "country": "Haiti",
+        "ct": "HAI",
+        "points": 470,
+        "previousPoints": 418,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hai",
+        "delta": 52
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "73",
+        "country": "Gabon",
+        "ct": "GAB",
+        "points": 470,
+        "previousPoints": 529,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gab",
+        "delta": -59
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "75",
+        "country": "South Africa",
+        "ct": "RSA",
+        "points": 461,
+        "previousPoints": 465,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rsa",
+        "delta": -4
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "76",
+        "country": "Cyprus",
+        "ct": "CYP",
+        "points": 444,
+        "previousPoints": 300,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cyp",
+        "delta": 144
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "77",
+        "country": "Bolivia",
+        "ct": "BOL",
+        "points": 442,
+        "previousPoints": 510,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bol",
+        "delta": -68
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "78",
+        "country": "Montenegro",
+        "ct": "MNE",
+        "points": 426,
+        "previousPoints": 470,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mne",
+        "delta": -44
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "79",
+        "country": "Morocco",
+        "ct": "MAR",
+        "points": 422,
+        "previousPoints": 407,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mar",
+        "delta": 15
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "80",
+        "country": "Saudi Arabia",
+        "ct": "KSA",
+        "points": 417,
+        "previousPoints": 384,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ksa",
+        "delta": 33
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "80",
+        "country": "Antigua and Barbuda",
+        "ct": "ATG",
+        "points": 417,
+        "previousPoints": 400,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/atg",
+        "delta": 17
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "82",
+        "country": "Jordan",
+        "ct": "JOR",
+        "points": 411,
+        "previousPoints": 348,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jor",
+        "delta": 63
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "83",
+        "country": "Venezuela",
+        "ct": "VEN",
+        "points": 408,
+        "previousPoints": 501,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ven",
+        "delta": -93
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "84",
+        "country": "China PR",
+        "ct": "CHN",
+        "points": 403,
+        "previousPoints": 405,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chn",
+        "delta": -2
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "85",
+        "country": "Qatar",
+        "ct": "QAT",
+        "points": 397,
+        "previousPoints": 365,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/qat",
+        "delta": 32
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "86",
+        "country": "Liberia",
+        "ct": "LBR",
+        "points": 394,
+        "previousPoints": 360,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbr",
+        "delta": 34
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "87",
+        "country": "Iraq",
+        "ct": "IRQ",
+        "points": 392,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irq",
+        "delta": -4
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "88",
+        "country": "Togo",
+        "ct": "TOG",
+        "points": 386,
+        "previousPoints": 411,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tog",
+        "delta": -25
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "89",
+        "country": "Faroe Islands",
+        "ct": "FRO",
+        "points": 385,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fro",
+        "delta": -11
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "90",
+        "country": "Estonia",
+        "ct": "EST",
+        "points": 370,
+        "previousPoints": 388,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/est",
+        "delta": -18
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "91",
+        "country": "Guatemala",
+        "ct": "GUA",
+        "points": 367,
+        "previousPoints": 401,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gua",
+        "delta": -34
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "92",
+        "country": "Oman",
+        "ct": "OMA",
+        "points": 365,
+        "previousPoints": 338,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/oma",
+        "delta": 27
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "93",
+        "country": "Burkina Faso",
+        "ct": "BFA",
+        "points": 363,
+        "previousPoints": 427,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bfa",
+        "delta": -64
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "94",
+        "country": "El Salvador",
+        "ct": "SLV",
+        "points": 361,
+        "previousPoints": 363,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/slv",
+        "delta": -2
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "95",
+        "country": "Honduras",
+        "ct": "HON",
+        "points": 359,
+        "previousPoints": 379,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hon",
+        "delta": -20
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "96",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 356,
+        "previousPoints": 364,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -8
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "97",
+        "country": "Malawi",
+        "ct": "MWI",
+        "points": 351,
+        "previousPoints": 339,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mwi",
+        "delta": 12
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "98",
+        "country": "Angola",
+        "ct": "ANG",
+        "points": 344,
+        "previousPoints": 353,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ang",
+        "delta": -9
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "99",
+        "country": "Latvia",
+        "ct": "LVA",
+        "points": 342,
+        "previousPoints": 335,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lva",
+        "delta": 7
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "100",
+        "country": "Nicaragua",
+        "ct": "NCA",
+        "points": 341,
+        "previousPoints": 360,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nca",
+        "delta": -19
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "101",
+        "country": "St. Kitts and Nevis",
+        "ct": "SKN",
+        "points": 340,
+        "previousPoints": 303,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/skn",
+        "delta": 37
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "102",
+        "country": "Canada",
+        "ct": "CAN",
+        "points": 335,
+        "previousPoints": 333,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/can",
+        "delta": 2
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "103",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 333,
+        "previousPoints": 341,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -8
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "104",
+        "country": "Mauritania",
+        "ct": "MTN",
+        "points": 328,
+        "previousPoints": 379,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mtn",
+        "delta": -51
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "105",
+        "country": "Niger",
+        "ct": "NIG",
+        "points": 327,
+        "previousPoints": 287,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nig",
+        "delta": 40
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "105",
+        "country": "Botswana",
+        "ct": "BOT",
+        "points": 327,
+        "previousPoints": 305,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bot",
+        "delta": 22
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "107",
+        "country": "Burundi",
+        "ct": "BDI",
+        "points": 321,
+        "previousPoints": 302,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bdi",
+        "delta": 19
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "108",
+        "country": "Cuba",
+        "ct": "CUB",
+        "points": 312,
+        "previousPoints": 294,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cub",
+        "delta": 18
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "109",
+        "country": "Zimbabwe",
+        "ct": "ZIM",
+        "points": 305,
+        "previousPoints": 313,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zim",
+        "delta": -8
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "110",
+        "country": "Central African Republic",
+        "ct": "CTA",
+        "points": 302,
+        "previousPoints": 271,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cta",
+        "delta": 31
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "111",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 301,
+        "previousPoints": 308,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -7
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "112",
+        "country": "Aruba",
+        "ct": "ARU",
+        "points": 299,
+        "previousPoints": 299,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aru",
+        "delta": 0
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "113",
+        "country": "Libya",
+        "ct": "LBY",
+        "points": 297,
+        "previousPoints": 328,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lby",
+        "delta": -31
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "114",
+        "country": "Ethiopia",
+        "ct": "ETH",
+        "points": 294,
+        "previousPoints": 315,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eth",
+        "delta": -21
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "115",
+        "country": "Bahrain",
+        "ct": "BHR",
+        "points": 293,
+        "previousPoints": 283,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhr",
+        "delta": 10
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "115",
+        "country": "Azerbaijan",
+        "ct": "AZE",
+        "points": 293,
+        "previousPoints": 328,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aze",
+        "delta": -35
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "117",
+        "country": "Belize",
+        "ct": "BLZ",
+        "points": 292,
+        "previousPoints": 292,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blz",
+        "delta": 0
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "118",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 290,
+        "previousPoints": 262,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 28
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "118",
+        "country": "Namibia",
+        "ct": "NAM",
+        "points": 290,
+        "previousPoints": 274,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nam",
+        "delta": 16
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "120",
+        "country": "Korea DPR",
+        "ct": "PRK",
+        "points": 288,
+        "previousPoints": 252,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/prk",
+        "delta": 36
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "121",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 281,
+        "previousPoints": 286,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -5
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "121",
+        "country": "Turkmenistan",
+        "ct": "TKM",
+        "points": 281,
+        "previousPoints": 172,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tkm",
+        "delta": 109
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "123",
+        "country": "Lithuania",
+        "ct": "LTU",
+        "points": 279,
+        "previousPoints": 298,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ltu",
+        "delta": -19
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "124",
+        "country": "Kyrgyz Republic",
+        "ct": "KGZ",
+        "points": 277,
+        "previousPoints": 195,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kgz",
+        "delta": 82
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "125",
+        "country": "Kenya",
+        "ct": "KEN",
+        "points": 274,
+        "previousPoints": 245,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ken",
+        "delta": 29
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "125",
+        "country": "Mozambique",
+        "ct": "MOZ",
+        "points": 274,
+        "previousPoints": 327,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/moz",
+        "delta": -53
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "127",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 271,
+        "previousPoints": 377,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -106
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "128",
+        "country": "Sudan",
+        "ct": "SDN",
+        "points": 267,
+        "previousPoints": 399,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sdn",
+        "delta": -132
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "129",
+        "country": "St. Vincent / Grenadines",
+        "ct": "VIN",
+        "points": 262,
+        "previousPoints": 284,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -22
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "130",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 258,
+        "previousPoints": 224,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 34
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "131",
+        "country": "Kazakhstan",
+        "ct": "KAZ",
+        "points": 256,
+        "previousPoints": 199,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kaz",
+        "delta": 57
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "132",
+        "country": "Syria",
+        "ct": "SYR",
+        "points": 254,
+        "previousPoints": 283,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/syr",
+        "delta": -29
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "133",
+        "country": "Kuwait",
+        "ct": "KUW",
+        "points": 252,
+        "previousPoints": 260,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kuw",
+        "delta": -8
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "134",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 246,
+        "previousPoints": 198,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 48
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "135",
+        "country": "Tanzania",
+        "ct": "TAN",
+        "points": 245,
+        "previousPoints": 218,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tan",
+        "delta": 27
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "136",
+        "country": "Chad",
+        "ct": "CHA",
+        "points": 240,
+        "previousPoints": 100,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cha",
+        "delta": 140
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "137",
+        "country": "Philippines",
+        "ct": "PHI",
+        "points": 236,
+        "previousPoints": 238,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/phi",
+        "delta": -2
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "138",
+        "country": "Palestine",
+        "ct": "PLE",
+        "points": 233,
+        "previousPoints": 246,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ple",
+        "delta": -13
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "139",
+        "country": "FYR Macedonia",
+        "ct": "MKD",
+        "points": 230,
+        "previousPoints": 239,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mkd",
+        "delta": -9
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "140",
+        "country": "Lebanon",
+        "ct": "LIB",
+        "points": 228,
+        "previousPoints": 201,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lib",
+        "delta": 27
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "141",
+        "country": "Guinea-Bissau",
+        "ct": "GNB",
+        "points": 216,
+        "previousPoints": 193,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gnb",
+        "delta": 23
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "142",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 206,
+        "previousPoints": 175,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 31
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "143",
+        "country": "St. Lucia",
+        "ct": "LCA",
+        "points": 204,
+        "previousPoints": 208,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lca",
+        "delta": -4
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "144",
+        "country": "Thailand",
+        "ct": "THA",
+        "points": 202,
+        "previousPoints": 196,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tha",
+        "delta": 6
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "145",
+        "country": "Hong Kong",
+        "ct": "HKG",
+        "points": 199,
+        "previousPoints": 180,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hkg",
+        "delta": 19
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "146",
+        "country": "Luxembourg",
+        "ct": "LUX",
+        "points": 197,
+        "previousPoints": 199,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lux",
+        "delta": -2
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "147",
+        "country": "Vietnam",
+        "ct": "VIE",
+        "points": 193,
+        "previousPoints": 187,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vie",
+        "delta": 6
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "147",
+        "country": "Lesotho",
+        "ct": "LES",
+        "points": 193,
+        "previousPoints": 201,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/les",
+        "delta": -8
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "149",
+        "country": "Dominican Republic",
+        "ct": "DOM",
+        "points": 187,
+        "previousPoints": 290,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dom",
+        "delta": -103
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "150",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 182,
+        "previousPoints": 181,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 1
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "151",
+        "country": "Bermuda",
+        "ct": "BER",
+        "points": 181,
+        "previousPoints": 209,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ber",
+        "delta": -28
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "152",
+        "country": "Guyana",
+        "ct": "GUY",
+        "points": 179,
+        "previousPoints": 210,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/guy",
+        "delta": -31
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "152",
+        "country": "Singapore",
+        "ct": "SIN",
+        "points": 179,
+        "previousPoints": 164,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sin",
+        "delta": 15
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "154",
+        "country": "Moldova",
+        "ct": "MDA",
+        "points": 177,
+        "previousPoints": 239,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mda",
+        "delta": -62
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "155",
+        "country": "Guam",
+        "ct": "GUM",
+        "points": 170,
+        "previousPoints": 183,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gum",
+        "delta": -13
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "156",
+        "country": "Afghanistan",
+        "ct": "AFG",
+        "points": 168,
+        "previousPoints": 183,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/afg",
+        "delta": -15
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "157",
+        "country": "Sao Tome e Principe",
+        "ct": "STP",
+        "points": 165,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/stp",
+        "delta": 117
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "158",
+        "country": "Malta",
+        "ct": "MLT",
+        "points": 164,
+        "previousPoints": 164,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mlt",
+        "delta": 0
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "159",
+        "country": "New Zealand",
+        "ct": "NZL",
+        "points": 163,
+        "previousPoints": 188,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nzl",
+        "delta": -25
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "160",
+        "country": "Tajikistan",
+        "ct": "TJK",
+        "points": 159,
+        "previousPoints": 156,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tjk",
+        "delta": 3
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "161",
+        "country": "Myanmar",
+        "ct": "MYA",
+        "points": 157,
+        "previousPoints": 147,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mya",
+        "delta": 10
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "162",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 155,
+        "previousPoints": 118,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 37
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "163",
+        "country": "Liechtenstein",
+        "ct": "LIE",
+        "points": 154,
+        "previousPoints": 170,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lie",
+        "delta": -16
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "164",
+        "country": "Samoa",
+        "ct": "SAM",
+        "points": 152,
+        "previousPoints": 152,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sam",
+        "delta": 0
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "165",
+        "country": "American Samoa",
+        "ct": "ASA",
+        "points": 145,
+        "previousPoints": 145,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/asa",
+        "delta": 0
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "166",
+        "country": "Maldives",
+        "ct": "MDV",
+        "points": 141,
+        "previousPoints": 96,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mdv",
+        "delta": 45
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "167",
+        "country": "Grenada",
+        "ct": "GRN",
+        "points": 137,
+        "previousPoints": 159,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/grn",
+        "delta": -22
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "168",
+        "country": "Gambia",
+        "ct": "GAM",
+        "points": 135,
+        "previousPoints": 154,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gam",
+        "delta": -19
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "169",
+        "country": "Cook Islands",
+        "ct": "COK",
+        "points": 132,
+        "previousPoints": 132,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cok",
+        "delta": 0
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "170",
+        "country": "Puerto Rico",
+        "ct": "PUR",
+        "points": 129,
+        "previousPoints": 134,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pur",
+        "delta": -5
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "171",
+        "country": "Malaysia",
+        "ct": "MAS",
+        "points": 127,
+        "previousPoints": 111,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mas",
+        "delta": 16
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "172",
+        "country": "India",
+        "ct": "IND",
+        "points": 122,
+        "previousPoints": 128,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ind",
+        "delta": -6
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "173",
+        "country": "Mauritius",
+        "ct": "MRI",
+        "points": 117,
+        "previousPoints": 123,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mri",
+        "delta": -6
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "174",
+        "country": "Indonesia",
+        "ct": "IDN",
+        "points": 108,
+        "previousPoints": 111,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/idn",
+        "delta": -3
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "175",
+        "country": "Dominica",
+        "ct": "DMA",
+        "points": 104,
+        "previousPoints": 102,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dma",
+        "delta": 2
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "176",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 90,
+        "previousPoints": 85,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 5
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "177",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 89,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 41
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "178",
+        "country": "US Virgin Islands",
+        "ct": "VIR",
+        "points": 88,
+        "previousPoints": 88,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vir",
+        "delta": 0
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "179",
+        "country": "Yemen",
+        "ct": "YEM",
+        "points": 81,
+        "previousPoints": 82,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yem",
+        "delta": -1
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "180",
+        "country": "Bangladesh",
+        "ct": "BAN",
+        "points": 80,
+        "previousPoints": 77,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ban",
+        "delta": 3
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "180",
+        "country": "New Caledonia",
+        "ct": "NCL",
+        "points": 80,
+        "previousPoints": 120,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ncl",
+        "delta": -40
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "180",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 80,
+        "previousPoints": 106,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -26
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "183",
+        "country": "Cambodia",
+        "ct": "CAM",
+        "points": 78,
+        "previousPoints": 66,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cam",
+        "delta": 12
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "184",
+        "country": "Suriname",
+        "ct": "SUR",
+        "points": 77,
+        "previousPoints": 79,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sur",
+        "delta": -2
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "185",
+        "country": "Pakistan",
+        "ct": "PAK",
+        "points": 76,
+        "previousPoints": 89,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pak",
+        "delta": -13
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "186",
+        "country": "Brunei Darussalam",
+        "ct": "BRU",
+        "points": 74,
+        "previousPoints": 61,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bru",
+        "delta": 13
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "187",
+        "country": "Chinese Taipei",
+        "ct": "TPE",
+        "points": 71,
+        "previousPoints": 69,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tpe",
+        "delta": 2
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "188",
+        "country": "Montserrat",
+        "ct": "MSR",
+        "points": 67,
+        "previousPoints": 67,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/msr",
+        "delta": 0
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "189",
+        "country": "Seychelles",
+        "ct": "SEY",
+        "points": 60,
+        "previousPoints": 67,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sey",
+        "delta": -7
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "190",
+        "country": "Fiji",
+        "ct": "FIJ",
+        "points": 59,
+        "previousPoints": 59,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fij",
+        "delta": 0
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "191",
+        "country": "Tahiti",
+        "ct": "TAH",
+        "points": 56,
+        "previousPoints": 60,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tah",
+        "delta": -4
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "192",
+        "country": "Nepal",
+        "ct": "NEP",
+        "points": 51,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nep",
+        "delta": 0
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "193",
+        "country": "Cayman Islands",
+        "ct": "CAY",
+        "points": 49,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cay",
+        "delta": 0
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "194",
+        "country": "Sri Lanka",
+        "ct": "SRI",
+        "points": 45,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sri",
+        "delta": -4
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "195",
+        "country": "Macau",
+        "ct": "MAC",
+        "points": 44,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mac",
+        "delta": -4
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "196",
+        "country": "San Marino",
+        "ct": "SMR",
+        "points": 35,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/smr",
+        "delta": 0
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "197",
+        "country": "Turks and Caicos Islands",
+        "ct": "TCA",
+        "points": 33,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tca",
+        "delta": 0
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "198",
+        "country": "British Virgin Islands",
+        "ct": "VGB",
+        "points": 27,
+        "previousPoints": 27,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vgb",
+        "delta": 0
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "199",
+        "country": "Solomon Islands",
+        "ct": "SOL",
+        "points": 26,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sol",
+        "delta": -7
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "200",
+        "country": "Tonga",
+        "ct": "TGA",
+        "points": 17,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tga",
+        "delta": 0
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "201",
+        "country": "Vanuatu",
+        "ct": "VAN",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/van",
+        "delta": 0
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "202",
+        "country": "Eritrea",
+        "ct": "ERI",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eri",
+        "delta": 0
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "203",
+        "country": "Mongolia",
+        "ct": "MNG",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mng",
+        "delta": 0
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "203",
+        "country": "Somalia",
+        "ct": "SOM",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/som",
+        "delta": 0
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "205",
+        "country": "Andorra",
+        "ct": "AND",
+        "points": 5,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/and",
+        "delta": 0
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "206",
+        "country": "Papua New Guinea",
+        "ct": "PNG",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/png",
+        "delta": 0
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "207",
+        "country": "Anguilla",
+        "ct": "AIA",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aia"
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "207",
+        "country": "Bahamas",
+        "ct": "BAH",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bah"
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "207",
+        "country": "Djibouti",
+        "ct": "DJI",
+        "points": 0,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dji"
+    }
+]

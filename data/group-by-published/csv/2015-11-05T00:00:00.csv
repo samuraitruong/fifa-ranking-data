@@ -1,0 +1,210 @@
+,date,rank,country,ct,points,previousPoints,flag,delta
+0,2015-11-05T00:00:00,1,Belgium,BEL,1440,1387,https://api.fifa.com/api/v1/picture/flags-sq-4/bel,53.0
+1,2015-11-05T00:00:00,2,Germany,GER,1388,1401,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,-13.0
+2,2015-11-05T00:00:00,3,Argentina,ARG,1383,1419,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,-36.0
+3,2015-11-05T00:00:00,4,Portugal,POR,1364,1235,https://api.fifa.com/api/v1/picture/flags-sq-4/por,129.0
+4,2015-11-05T00:00:00,5,Chile,CHI,1288,1177,https://api.fifa.com/api/v1/picture/flags-sq-4/chi,111.0
+5,2015-11-05T00:00:00,6,Spain,ESP,1287,1223,https://api.fifa.com/api/v1/picture/flags-sq-4/esp,64.0
+6,2015-11-05T00:00:00,7,Colombia,COL,1233,1228,https://api.fifa.com/api/v1/picture/flags-sq-4/col,5.0
+7,2015-11-05T00:00:00,8,Brazil,BRA,1208,1204,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,4.0
+8,2015-11-05T00:00:00,9,England,ENG,1179,1161,https://api.fifa.com/api/v1/picture/flags-sq-4/eng,18.0
+9,2015-11-05T00:00:00,10,Austria,AUT,1130,1100,https://api.fifa.com/api/v1/picture/flags-sq-4/aut,30.0
+10,2015-11-05T00:00:00,11,Switzerland,SUI,1073,1044,https://api.fifa.com/api/v1/picture/flags-sq-4/sui,29.0
+11,2015-11-05T00:00:00,12,Uruguay,URU,1051,919,https://api.fifa.com/api/v1/picture/flags-sq-4/uru,132.0
+12,2015-11-05T00:00:00,13,Italy,ITA,1040,962,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,78.0
+13,2015-11-05T00:00:00,14,Romania,ROU,1039,1042,https://api.fifa.com/api/v1/picture/flags-sq-4/rou,-3.0
+14,2015-11-05T00:00:00,15,Wales,WAL,1032,1195,https://api.fifa.com/api/v1/picture/flags-sq-4/wal,-163.0
+15,2015-11-05T00:00:00,16,Netherlands,NED,976,1004,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,-28.0
+16,2015-11-05T00:00:00,17,Czech Republic,CZE,974,983,https://api.fifa.com/api/v1/picture/flags-sq-4/cze,-9.0
+17,2015-11-05T00:00:00,18,Turkey,TUR,941,717,https://api.fifa.com/api/v1/picture/flags-sq-4/tur,224.0
+18,2015-11-05T00:00:00,19,Croatia,CRO,924,965,https://api.fifa.com/api/v1/picture/flags-sq-4/cro,-41.0
+19,2015-11-05T00:00:00,20,Bosnia and Herzegovina,BIH,923,787,https://api.fifa.com/api/v1/picture/flags-sq-4/bih,136.0
+20,2015-11-05T00:00:00,21,Ecuador,ECU,921,765,https://api.fifa.com/api/v1/picture/flags-sq-4/ecu,156.0
+21,2015-11-05T00:00:00,22,Côte d'Ivoire,CIV,890,916,https://api.fifa.com/api/v1/picture/flags-sq-4/civ,-26.0
+22,2015-11-05T00:00:00,23,Russia,RUS,885,845,https://api.fifa.com/api/v1/picture/flags-sq-4/rus,40.0
+23,2015-11-05T00:00:00,24,Mexico,MEX,881,842,https://api.fifa.com/api/v1/picture/flags-sq-4/mex,39.0
+24,2015-11-05T00:00:00,24,France,FRA,881,899,https://api.fifa.com/api/v1/picture/flags-sq-4/fra,-18.0
+25,2015-11-05T00:00:00,26,Algeria,ALG,872,927,https://api.fifa.com/api/v1/picture/flags-sq-4/alg,-55.0
+26,2015-11-05T00:00:00,27,Slovakia,SVK,857,936,https://api.fifa.com/api/v1/picture/flags-sq-4/svk,-79.0
+27,2015-11-05T00:00:00,28,Ukraine,UKR,806,874,https://api.fifa.com/api/v1/picture/flags-sq-4/ukr,-68.0
+28,2015-11-05T00:00:00,29,Northern Ireland,NIR,797,724,https://api.fifa.com/api/v1/picture/flags-sq-4/nir,73.0
+29,2015-11-05T00:00:00,30,Ghana,GHA,793,849,https://api.fifa.com/api/v1/picture/flags-sq-4/gha,-56.0
+30,2015-11-05T00:00:00,31,Iceland,ISL,792,882,https://api.fifa.com/api/v1/picture/flags-sq-4/isl,-90.0
+31,2015-11-05T00:00:00,32,Cape Verde Islands,CPV,762,701,https://api.fifa.com/api/v1/picture/flags-sq-4/cpv,61.0
+32,2015-11-05T00:00:00,33,Hungary,HUN,759,741,https://api.fifa.com/api/v1/picture/flags-sq-4/hun,18.0
+33,2015-11-05T00:00:00,33,USA,USA,759,807,https://api.fifa.com/api/v1/picture/flags-sq-4/usa,-48.0
+34,2015-11-05T00:00:00,35,Denmark,DEN,743,835,https://api.fifa.com/api/v1/picture/flags-sq-4/den,-92.0
+35,2015-11-05T00:00:00,36,Albania,ALB,723,755,https://api.fifa.com/api/v1/picture/flags-sq-4/alb,-32.0
+36,2015-11-05T00:00:00,37,Greece,GRE,718,676,https://api.fifa.com/api/v1/picture/flags-sq-4/gre,42.0
+37,2015-11-05T00:00:00,38,Poland,POL,712,680,https://api.fifa.com/api/v1/picture/flags-sq-4/pol,32.0
+38,2015-11-05T00:00:00,39,Senegal,SEN,678,713,https://api.fifa.com/api/v1/picture/flags-sq-4/sen,-35.0
+39,2015-11-05T00:00:00,40,Costa Rica,CRC,671,691,https://api.fifa.com/api/v1/picture/flags-sq-4/crc,-20.0
+40,2015-11-05T00:00:00,41,Tunisia,TUN,668,722,https://api.fifa.com/api/v1/picture/flags-sq-4/tun,-54.0
+41,2015-11-05T00:00:00,42,Republic of Ireland,IRL,659,587,https://api.fifa.com/api/v1/picture/flags-sq-4/irl,72.0
+42,2015-11-05T00:00:00,43,IR Iran,IRN,651,703,https://api.fifa.com/api/v1/picture/flags-sq-4/irn,-52.0
+43,2015-11-05T00:00:00,44,Scotland,SCO,649,702,https://api.fifa.com/api/v1/picture/flags-sq-4/sco,-53.0
+44,2015-11-05T00:00:00,45,Sweden,SWE,647,672,https://api.fifa.com/api/v1/picture/flags-sq-4/swe,-25.0
+45,2015-11-05T00:00:00,46,Norway,NOR,637,739,https://api.fifa.com/api/v1/picture/flags-sq-4/nor,-102.0
+46,2015-11-05T00:00:00,47,Paraguay,PAR,610,552,https://api.fifa.com/api/v1/picture/flags-sq-4/par,58.0
+47,2015-11-05T00:00:00,48,Korea Republic,KOR,606,590,https://api.fifa.com/api/v1/picture/flags-sq-4/kor,16.0
+48,2015-11-05T00:00:00,49,Serbia,SRB,605,538,https://api.fifa.com/api/v1/picture/flags-sq-4/srb,67.0
+49,2015-11-05T00:00:00,50,Japan,JPN,603,582,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn,21.0
+50,2015-11-05T00:00:00,51,Cameroon,CMR,597,640,https://api.fifa.com/api/v1/picture/flags-sq-4/cmr,-43.0
+51,2015-11-05T00:00:00,52,Congo,CGO,593,636,https://api.fifa.com/api/v1/picture/flags-sq-4/cgo,-43.0
+52,2015-11-05T00:00:00,53,Guinea,GUI,589,582,https://api.fifa.com/api/v1/picture/flags-sq-4/gui,7.0
+53,2015-11-05T00:00:00,54,Trinidad and Tobago,TRI,588,564,https://api.fifa.com/api/v1/picture/flags-sq-4/tri,24.0
+54,2015-11-05T00:00:00,55,Congo DR,COD,587,563,https://api.fifa.com/api/v1/picture/flags-sq-4/cod,24.0
+55,2015-11-05T00:00:00,56,Finland,FIN,586,534,https://api.fifa.com/api/v1/picture/flags-sq-4/fin,52.0
+56,2015-11-05T00:00:00,57,Egypt,EGY,583,620,https://api.fifa.com/api/v1/picture/flags-sq-4/egy,-37.0
+57,2015-11-05T00:00:00,57,Peru,PER,583,623,https://api.fifa.com/api/v1/picture/flags-sq-4/per,-40.0
+58,2015-11-05T00:00:00,59,Nigeria,NGA,582,600,https://api.fifa.com/api/v1/picture/flags-sq-4/nga,-18.0
+59,2015-11-05T00:00:00,60,Australia,AUS,573,567,https://api.fifa.com/api/v1/picture/flags-sq-4/aus,6.0
+60,2015-11-05T00:00:00,61,Jamaica,JAM,559,576,https://api.fifa.com/api/v1/picture/flags-sq-4/jam,-17.0
+61,2015-11-05T00:00:00,61,Israel,ISR,559,659,https://api.fifa.com/api/v1/picture/flags-sq-4/isr,-100.0
+62,2015-11-05T00:00:00,63,Mali,MLI,552,546,https://api.fifa.com/api/v1/picture/flags-sq-4/mli,6.0
+63,2015-11-05T00:00:00,64,Slovenia,SVN,547,662,https://api.fifa.com/api/v1/picture/flags-sq-4/svn,-115.0
+64,2015-11-05T00:00:00,65,Panama,PAN,515,529,https://api.fifa.com/api/v1/picture/flags-sq-4/pan,-14.0
+65,2015-11-05T00:00:00,66,Bulgaria,BUL,497,414,https://api.fifa.com/api/v1/picture/flags-sq-4/bul,83.0
+66,2015-11-05T00:00:00,67,United Arab Emirates,UAE,495,491,https://api.fifa.com/api/v1/picture/flags-sq-4/uae,4.0
+67,2015-11-05T00:00:00,68,Uganda,UGA,491,455,https://api.fifa.com/api/v1/picture/flags-sq-4/uga,36.0
+68,2015-11-05T00:00:00,69,Equatorial Guinea,EQG,487,510,https://api.fifa.com/api/v1/picture/flags-sq-4/eqg,-23.0
+69,2015-11-05T00:00:00,70,Belarus,BLR,479,350,https://api.fifa.com/api/v1/picture/flags-sq-4/blr,129.0
+70,2015-11-05T00:00:00,71,Uzbekistan,UZB,477,464,https://api.fifa.com/api/v1/picture/flags-sq-4/uzb,13.0
+71,2015-11-05T00:00:00,71,Zambia,ZAM,477,487,https://api.fifa.com/api/v1/picture/flags-sq-4/zam,-10.0
+72,2015-11-05T00:00:00,73,Haiti,HAI,470,418,https://api.fifa.com/api/v1/picture/flags-sq-4/hai,52.0
+73,2015-11-05T00:00:00,73,Gabon,GAB,470,529,https://api.fifa.com/api/v1/picture/flags-sq-4/gab,-59.0
+74,2015-11-05T00:00:00,75,South Africa,RSA,461,465,https://api.fifa.com/api/v1/picture/flags-sq-4/rsa,-4.0
+75,2015-11-05T00:00:00,76,Cyprus,CYP,444,300,https://api.fifa.com/api/v1/picture/flags-sq-4/cyp,144.0
+76,2015-11-05T00:00:00,77,Bolivia,BOL,442,510,https://api.fifa.com/api/v1/picture/flags-sq-4/bol,-68.0
+77,2015-11-05T00:00:00,78,Montenegro,MNE,426,470,https://api.fifa.com/api/v1/picture/flags-sq-4/mne,-44.0
+78,2015-11-05T00:00:00,79,Morocco,MAR,422,407,https://api.fifa.com/api/v1/picture/flags-sq-4/mar,15.0
+79,2015-11-05T00:00:00,80,Saudi Arabia,KSA,417,384,https://api.fifa.com/api/v1/picture/flags-sq-4/ksa,33.0
+80,2015-11-05T00:00:00,80,Antigua and Barbuda,ATG,417,400,https://api.fifa.com/api/v1/picture/flags-sq-4/atg,17.0
+81,2015-11-05T00:00:00,82,Jordan,JOR,411,348,https://api.fifa.com/api/v1/picture/flags-sq-4/jor,63.0
+82,2015-11-05T00:00:00,83,Venezuela,VEN,408,501,https://api.fifa.com/api/v1/picture/flags-sq-4/ven,-93.0
+83,2015-11-05T00:00:00,84,China PR,CHN,403,405,https://api.fifa.com/api/v1/picture/flags-sq-4/chn,-2.0
+84,2015-11-05T00:00:00,85,Qatar,QAT,397,365,https://api.fifa.com/api/v1/picture/flags-sq-4/qat,32.0
+85,2015-11-05T00:00:00,86,Liberia,LBR,394,360,https://api.fifa.com/api/v1/picture/flags-sq-4/lbr,34.0
+86,2015-11-05T00:00:00,87,Iraq,IRQ,392,396,https://api.fifa.com/api/v1/picture/flags-sq-4/irq,-4.0
+87,2015-11-05T00:00:00,88,Togo,TOG,386,411,https://api.fifa.com/api/v1/picture/flags-sq-4/tog,-25.0
+88,2015-11-05T00:00:00,89,Faroe Islands,FRO,385,396,https://api.fifa.com/api/v1/picture/flags-sq-4/fro,-11.0
+89,2015-11-05T00:00:00,90,Estonia,EST,370,388,https://api.fifa.com/api/v1/picture/flags-sq-4/est,-18.0
+90,2015-11-05T00:00:00,91,Guatemala,GUA,367,401,https://api.fifa.com/api/v1/picture/flags-sq-4/gua,-34.0
+91,2015-11-05T00:00:00,92,Oman,OMA,365,338,https://api.fifa.com/api/v1/picture/flags-sq-4/oma,27.0
+92,2015-11-05T00:00:00,93,Burkina Faso,BFA,363,427,https://api.fifa.com/api/v1/picture/flags-sq-4/bfa,-64.0
+93,2015-11-05T00:00:00,94,El Salvador,SLV,361,363,https://api.fifa.com/api/v1/picture/flags-sq-4/slv,-2.0
+94,2015-11-05T00:00:00,95,Honduras,HON,359,379,https://api.fifa.com/api/v1/picture/flags-sq-4/hon,-20.0
+95,2015-11-05T00:00:00,96,Rwanda,RWA,356,364,https://api.fifa.com/api/v1/picture/flags-sq-4/rwa,-8.0
+96,2015-11-05T00:00:00,97,Malawi,MWI,351,339,https://api.fifa.com/api/v1/picture/flags-sq-4/mwi,12.0
+97,2015-11-05T00:00:00,98,Angola,ANG,344,353,https://api.fifa.com/api/v1/picture/flags-sq-4/ang,-9.0
+98,2015-11-05T00:00:00,99,Latvia,LVA,342,335,https://api.fifa.com/api/v1/picture/flags-sq-4/lva,7.0
+99,2015-11-05T00:00:00,100,Nicaragua,NCA,341,360,https://api.fifa.com/api/v1/picture/flags-sq-4/nca,-19.0
+100,2015-11-05T00:00:00,101,St. Kitts and Nevis,SKN,340,303,https://api.fifa.com/api/v1/picture/flags-sq-4/skn,37.0
+101,2015-11-05T00:00:00,102,Canada,CAN,335,333,https://api.fifa.com/api/v1/picture/flags-sq-4/can,2.0
+102,2015-11-05T00:00:00,103,Benin,BEN,333,341,https://api.fifa.com/api/v1/picture/flags-sq-4/ben,-8.0
+103,2015-11-05T00:00:00,104,Mauritania,MTN,328,379,https://api.fifa.com/api/v1/picture/flags-sq-4/mtn,-51.0
+104,2015-11-05T00:00:00,105,Niger,NIG,327,287,https://api.fifa.com/api/v1/picture/flags-sq-4/nig,40.0
+105,2015-11-05T00:00:00,105,Botswana,BOT,327,305,https://api.fifa.com/api/v1/picture/flags-sq-4/bot,22.0
+106,2015-11-05T00:00:00,107,Burundi,BDI,321,302,https://api.fifa.com/api/v1/picture/flags-sq-4/bdi,19.0
+107,2015-11-05T00:00:00,108,Cuba,CUB,312,294,https://api.fifa.com/api/v1/picture/flags-sq-4/cub,18.0
+108,2015-11-05T00:00:00,109,Zimbabwe,ZIM,305,313,https://api.fifa.com/api/v1/picture/flags-sq-4/zim,-8.0
+109,2015-11-05T00:00:00,110,Central African Republic,CTA,302,271,https://api.fifa.com/api/v1/picture/flags-sq-4/cta,31.0
+110,2015-11-05T00:00:00,111,Georgia,GEO,301,308,https://api.fifa.com/api/v1/picture/flags-sq-4/geo,-7.0
+111,2015-11-05T00:00:00,112,Aruba,ARU,299,299,https://api.fifa.com/api/v1/picture/flags-sq-4/aru,0.0
+112,2015-11-05T00:00:00,113,Libya,LBY,297,328,https://api.fifa.com/api/v1/picture/flags-sq-4/lby,-31.0
+113,2015-11-05T00:00:00,114,Ethiopia,ETH,294,315,https://api.fifa.com/api/v1/picture/flags-sq-4/eth,-21.0
+114,2015-11-05T00:00:00,115,Bahrain,BHR,293,283,https://api.fifa.com/api/v1/picture/flags-sq-4/bhr,10.0
+115,2015-11-05T00:00:00,115,Azerbaijan,AZE,293,328,https://api.fifa.com/api/v1/picture/flags-sq-4/aze,-35.0
+116,2015-11-05T00:00:00,117,Belize,BLZ,292,292,https://api.fifa.com/api/v1/picture/flags-sq-4/blz,0.0
+117,2015-11-05T00:00:00,118,Madagascar,MAD,290,262,https://api.fifa.com/api/v1/picture/flags-sq-4/mad,28.0
+118,2015-11-05T00:00:00,118,Namibia,NAM,290,274,https://api.fifa.com/api/v1/picture/flags-sq-4/nam,16.0
+119,2015-11-05T00:00:00,120,Korea DPR,PRK,288,252,https://api.fifa.com/api/v1/picture/flags-sq-4/prk,36.0
+120,2015-11-05T00:00:00,121,Sierra Leone,SLE,281,286,https://api.fifa.com/api/v1/picture/flags-sq-4/sle,-5.0
+121,2015-11-05T00:00:00,121,Turkmenistan,TKM,281,172,https://api.fifa.com/api/v1/picture/flags-sq-4/tkm,109.0
+122,2015-11-05T00:00:00,123,Lithuania,LTU,279,298,https://api.fifa.com/api/v1/picture/flags-sq-4/ltu,-19.0
+123,2015-11-05T00:00:00,124,Kyrgyz Republic,KGZ,277,195,https://api.fifa.com/api/v1/picture/flags-sq-4/kgz,82.0
+124,2015-11-05T00:00:00,125,Kenya,KEN,274,245,https://api.fifa.com/api/v1/picture/flags-sq-4/ken,29.0
+125,2015-11-05T00:00:00,125,Mozambique,MOZ,274,327,https://api.fifa.com/api/v1/picture/flags-sq-4/moz,-53.0
+126,2015-11-05T00:00:00,127,Armenia,ARM,271,377,https://api.fifa.com/api/v1/picture/flags-sq-4/arm,-106.0
+127,2015-11-05T00:00:00,128,Sudan,SDN,267,399,https://api.fifa.com/api/v1/picture/flags-sq-4/sdn,-132.0
+128,2015-11-05T00:00:00,129,St. Vincent / Grenadines,VIN,262,284,https://api.fifa.com/api/v1/picture/flags-sq-4/vin,-22.0
+129,2015-11-05T00:00:00,130,Swaziland,SWZ,258,224,https://api.fifa.com/api/v1/picture/flags-sq-4/swz,34.0
+130,2015-11-05T00:00:00,131,Kazakhstan,KAZ,256,199,https://api.fifa.com/api/v1/picture/flags-sq-4/kaz,57.0
+131,2015-11-05T00:00:00,132,Syria,SYR,254,283,https://api.fifa.com/api/v1/picture/flags-sq-4/syr,-29.0
+132,2015-11-05T00:00:00,133,Kuwait,KUW,252,260,https://api.fifa.com/api/v1/picture/flags-sq-4/kuw,-8.0
+133,2015-11-05T00:00:00,134,South Sudan,SSD,246,198,https://api.fifa.com/api/v1/picture/flags-sq-4/ssd,48.0
+134,2015-11-05T00:00:00,135,Tanzania,TAN,245,218,https://api.fifa.com/api/v1/picture/flags-sq-4/tan,27.0
+135,2015-11-05T00:00:00,136,Chad,CHA,240,100,https://api.fifa.com/api/v1/picture/flags-sq-4/cha,140.0
+136,2015-11-05T00:00:00,137,Philippines,PHI,236,238,https://api.fifa.com/api/v1/picture/flags-sq-4/phi,-2.0
+137,2015-11-05T00:00:00,138,Palestine,PLE,233,246,https://api.fifa.com/api/v1/picture/flags-sq-4/ple,-13.0
+138,2015-11-05T00:00:00,139,FYR Macedonia,MKD,230,239,https://api.fifa.com/api/v1/picture/flags-sq-4/mkd,-9.0
+139,2015-11-05T00:00:00,140,Lebanon,LIB,228,201,https://api.fifa.com/api/v1/picture/flags-sq-4/lib,27.0
+140,2015-11-05T00:00:00,141,Guinea-Bissau,GNB,216,193,https://api.fifa.com/api/v1/picture/flags-sq-4/gnb,23.0
+141,2015-11-05T00:00:00,142,Barbados,BRB,206,175,https://api.fifa.com/api/v1/picture/flags-sq-4/brb,31.0
+142,2015-11-05T00:00:00,143,St. Lucia,LCA,204,208,https://api.fifa.com/api/v1/picture/flags-sq-4/lca,-4.0
+143,2015-11-05T00:00:00,144,Thailand,THA,202,196,https://api.fifa.com/api/v1/picture/flags-sq-4/tha,6.0
+144,2015-11-05T00:00:00,145,Hong Kong,HKG,199,180,https://api.fifa.com/api/v1/picture/flags-sq-4/hkg,19.0
+145,2015-11-05T00:00:00,146,Luxembourg,LUX,197,199,https://api.fifa.com/api/v1/picture/flags-sq-4/lux,-2.0
+146,2015-11-05T00:00:00,147,Vietnam,VIE,193,187,https://api.fifa.com/api/v1/picture/flags-sq-4/vie,6.0
+147,2015-11-05T00:00:00,147,Lesotho,LES,193,201,https://api.fifa.com/api/v1/picture/flags-sq-4/les,-8.0
+148,2015-11-05T00:00:00,149,Dominican Republic,DOM,187,290,https://api.fifa.com/api/v1/picture/flags-sq-4/dom,-103.0
+149,2015-11-05T00:00:00,150,Curacao,CUW,182,181,https://api.fifa.com/api/v1/picture/flags-sq-4/cuw,1.0
+150,2015-11-05T00:00:00,151,Bermuda,BER,181,209,https://api.fifa.com/api/v1/picture/flags-sq-4/ber,-28.0
+151,2015-11-05T00:00:00,152,Guyana,GUY,179,210,https://api.fifa.com/api/v1/picture/flags-sq-4/guy,-31.0
+152,2015-11-05T00:00:00,152,Singapore,SIN,179,164,https://api.fifa.com/api/v1/picture/flags-sq-4/sin,15.0
+153,2015-11-05T00:00:00,154,Moldova,MDA,177,239,https://api.fifa.com/api/v1/picture/flags-sq-4/mda,-62.0
+154,2015-11-05T00:00:00,155,Guam,GUM,170,183,https://api.fifa.com/api/v1/picture/flags-sq-4/gum,-13.0
+155,2015-11-05T00:00:00,156,Afghanistan,AFG,168,183,https://api.fifa.com/api/v1/picture/flags-sq-4/afg,-15.0
+156,2015-11-05T00:00:00,157,Sao Tome e Principe,STP,165,48,https://api.fifa.com/api/v1/picture/flags-sq-4/stp,117.0
+157,2015-11-05T00:00:00,158,Malta,MLT,164,164,https://api.fifa.com/api/v1/picture/flags-sq-4/mlt,0.0
+158,2015-11-05T00:00:00,159,New Zealand,NZL,163,188,https://api.fifa.com/api/v1/picture/flags-sq-4/nzl,-25.0
+159,2015-11-05T00:00:00,160,Tajikistan,TJK,159,156,https://api.fifa.com/api/v1/picture/flags-sq-4/tjk,3.0
+160,2015-11-05T00:00:00,161,Myanmar,MYA,157,147,https://api.fifa.com/api/v1/picture/flags-sq-4/mya,10.0
+161,2015-11-05T00:00:00,162,Timor-Leste,TLS,155,118,https://api.fifa.com/api/v1/picture/flags-sq-4/tls,37.0
+162,2015-11-05T00:00:00,163,Liechtenstein,LIE,154,170,https://api.fifa.com/api/v1/picture/flags-sq-4/lie,-16.0
+163,2015-11-05T00:00:00,164,Samoa,SAM,152,152,https://api.fifa.com/api/v1/picture/flags-sq-4/sam,0.0
+164,2015-11-05T00:00:00,165,American Samoa,ASA,145,145,https://api.fifa.com/api/v1/picture/flags-sq-4/asa,0.0
+165,2015-11-05T00:00:00,166,Maldives,MDV,141,96,https://api.fifa.com/api/v1/picture/flags-sq-4/mdv,45.0
+166,2015-11-05T00:00:00,167,Grenada,GRN,137,159,https://api.fifa.com/api/v1/picture/flags-sq-4/grn,-22.0
+167,2015-11-05T00:00:00,168,Gambia,GAM,135,154,https://api.fifa.com/api/v1/picture/flags-sq-4/gam,-19.0
+168,2015-11-05T00:00:00,169,Cook Islands,COK,132,132,https://api.fifa.com/api/v1/picture/flags-sq-4/cok,0.0
+169,2015-11-05T00:00:00,170,Puerto Rico,PUR,129,134,https://api.fifa.com/api/v1/picture/flags-sq-4/pur,-5.0
+170,2015-11-05T00:00:00,171,Malaysia,MAS,127,111,https://api.fifa.com/api/v1/picture/flags-sq-4/mas,16.0
+171,2015-11-05T00:00:00,172,India,IND,122,128,https://api.fifa.com/api/v1/picture/flags-sq-4/ind,-6.0
+172,2015-11-05T00:00:00,173,Mauritius,MRI,117,123,https://api.fifa.com/api/v1/picture/flags-sq-4/mri,-6.0
+173,2015-11-05T00:00:00,174,Indonesia,IDN,108,111,https://api.fifa.com/api/v1/picture/flags-sq-4/idn,-3.0
+174,2015-11-05T00:00:00,175,Dominica,DMA,104,102,https://api.fifa.com/api/v1/picture/flags-sq-4/dma,2.0
+175,2015-11-05T00:00:00,176,Laos,LAO,90,85,https://api.fifa.com/api/v1/picture/flags-sq-4/lao,5.0
+176,2015-11-05T00:00:00,177,Comoros,COM,89,48,https://api.fifa.com/api/v1/picture/flags-sq-4/com,41.0
+177,2015-11-05T00:00:00,178,US Virgin Islands,VIR,88,88,https://api.fifa.com/api/v1/picture/flags-sq-4/vir,0.0
+178,2015-11-05T00:00:00,179,Yemen,YEM,81,82,https://api.fifa.com/api/v1/picture/flags-sq-4/yem,-1.0
+179,2015-11-05T00:00:00,180,Bangladesh,BAN,80,77,https://api.fifa.com/api/v1/picture/flags-sq-4/ban,3.0
+180,2015-11-05T00:00:00,180,New Caledonia,NCL,80,120,https://api.fifa.com/api/v1/picture/flags-sq-4/ncl,-40.0
+181,2015-11-05T00:00:00,180,Bhutan,BHU,80,106,https://api.fifa.com/api/v1/picture/flags-sq-4/bhu,-26.0
+182,2015-11-05T00:00:00,183,Cambodia,CAM,78,66,https://api.fifa.com/api/v1/picture/flags-sq-4/cam,12.0
+183,2015-11-05T00:00:00,184,Suriname,SUR,77,79,https://api.fifa.com/api/v1/picture/flags-sq-4/sur,-2.0
+184,2015-11-05T00:00:00,185,Pakistan,PAK,76,89,https://api.fifa.com/api/v1/picture/flags-sq-4/pak,-13.0
+185,2015-11-05T00:00:00,186,Brunei Darussalam,BRU,74,61,https://api.fifa.com/api/v1/picture/flags-sq-4/bru,13.0
+186,2015-11-05T00:00:00,187,Chinese Taipei,TPE,71,69,https://api.fifa.com/api/v1/picture/flags-sq-4/tpe,2.0
+187,2015-11-05T00:00:00,188,Montserrat,MSR,67,67,https://api.fifa.com/api/v1/picture/flags-sq-4/msr,0.0
+188,2015-11-05T00:00:00,189,Seychelles,SEY,60,67,https://api.fifa.com/api/v1/picture/flags-sq-4/sey,-7.0
+189,2015-11-05T00:00:00,190,Fiji,FIJ,59,59,https://api.fifa.com/api/v1/picture/flags-sq-4/fij,0.0
+190,2015-11-05T00:00:00,191,Tahiti,TAH,56,60,https://api.fifa.com/api/v1/picture/flags-sq-4/tah,-4.0
+191,2015-11-05T00:00:00,192,Nepal,NEP,51,51,https://api.fifa.com/api/v1/picture/flags-sq-4/nep,0.0
+192,2015-11-05T00:00:00,193,Cayman Islands,CAY,49,49,https://api.fifa.com/api/v1/picture/flags-sq-4/cay,0.0
+193,2015-11-05T00:00:00,194,Sri Lanka,SRI,45,49,https://api.fifa.com/api/v1/picture/flags-sq-4/sri,-4.0
+194,2015-11-05T00:00:00,195,Macau,MAC,44,48,https://api.fifa.com/api/v1/picture/flags-sq-4/mac,-4.0
+195,2015-11-05T00:00:00,196,San Marino,SMR,35,35,https://api.fifa.com/api/v1/picture/flags-sq-4/smr,0.0
+196,2015-11-05T00:00:00,197,Turks and Caicos Islands,TCA,33,33,https://api.fifa.com/api/v1/picture/flags-sq-4/tca,0.0
+197,2015-11-05T00:00:00,198,British Virgin Islands,VGB,27,27,https://api.fifa.com/api/v1/picture/flags-sq-4/vgb,0.0
+198,2015-11-05T00:00:00,199,Solomon Islands,SOL,26,33,https://api.fifa.com/api/v1/picture/flags-sq-4/sol,-7.0
+199,2015-11-05T00:00:00,200,Tonga,TGA,17,17,https://api.fifa.com/api/v1/picture/flags-sq-4/tga,0.0
+200,2015-11-05T00:00:00,201,Vanuatu,VAN,13,13,https://api.fifa.com/api/v1/picture/flags-sq-4/van,0.0
+201,2015-11-05T00:00:00,202,Eritrea,ERI,8,8,https://api.fifa.com/api/v1/picture/flags-sq-4/eri,0.0
+202,2015-11-05T00:00:00,203,Mongolia,MNG,6,6,https://api.fifa.com/api/v1/picture/flags-sq-4/mng,0.0
+203,2015-11-05T00:00:00,203,Somalia,SOM,6,6,https://api.fifa.com/api/v1/picture/flags-sq-4/som,0.0
+204,2015-11-05T00:00:00,205,Andorra,AND,5,5,https://api.fifa.com/api/v1/picture/flags-sq-4/and,0.0
+205,2015-11-05T00:00:00,206,Papua New Guinea,PNG,4,4,https://api.fifa.com/api/v1/picture/flags-sq-4/png,0.0
+206,2015-11-05T00:00:00,207,Anguilla,AIA,0,0,https://api.fifa.com/api/v1/picture/flags-sq-4/aia,
+207,2015-11-05T00:00:00,207,Bahamas,BAH,0,0,https://api.fifa.com/api/v1/picture/flags-sq-4/bah,
+208,2015-11-05T00:00:00,207,Djibouti,DJI,0,4,https://api.fifa.com/api/v1/picture/flags-sq-4/dji,

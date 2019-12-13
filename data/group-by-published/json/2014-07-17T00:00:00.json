@@ -1,0 +1,2089 @@
+[
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "1",
+        "country": "Germany",
+        "ct": "GER",
+        "points": 1724,
+        "previousPoints": 1300,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ger",
+        "delta": 424
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "2",
+        "country": "Argentina",
+        "ct": "ARG",
+        "points": 1606,
+        "previousPoints": 1175,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arg",
+        "delta": 431
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "3",
+        "country": "Netherlands",
+        "ct": "NED",
+        "points": 1496,
+        "previousPoints": 981,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ned",
+        "delta": 515
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "4",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1492,
+        "previousPoints": 1137,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 355
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "5",
+        "country": "Belgium",
+        "ct": "BEL",
+        "points": 1401,
+        "previousPoints": 1074,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bel",
+        "delta": 327
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "6",
+        "country": "Uruguay",
+        "ct": "URU",
+        "points": 1330,
+        "previousPoints": 1147,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uru",
+        "delta": 183
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "7",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1241,
+        "previousPoints": 1242,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -1
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "8",
+        "country": "Spain",
+        "ct": "ESP",
+        "points": 1229,
+        "previousPoints": 1485,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/esp",
+        "delta": -256
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "9",
+        "country": "Switzerland",
+        "ct": "SUI",
+        "points": 1216,
+        "previousPoints": 1149,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sui",
+        "delta": 67
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "10",
+        "country": "France",
+        "ct": "FRA",
+        "points": 1202,
+        "previousPoints": 913,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fra",
+        "delta": 289
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "11",
+        "country": "Portugal",
+        "ct": "POR",
+        "points": 1148,
+        "previousPoints": 1189,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/por",
+        "delta": -41
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "12",
+        "country": "Chile",
+        "ct": "CHI",
+        "points": 1098,
+        "previousPoints": 1026,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chi",
+        "delta": 72
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "13",
+        "country": "Greece",
+        "ct": "GRE",
+        "points": 1091,
+        "previousPoints": 1064,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gre",
+        "delta": 27
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "14",
+        "country": "Italy",
+        "ct": "ITA",
+        "points": 1056,
+        "previousPoints": 1104,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ita",
+        "delta": -48
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "15",
+        "country": "USA",
+        "ct": "USA",
+        "points": 989,
+        "previousPoints": 1035,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/usa",
+        "delta": -46
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "16",
+        "country": "Costa Rica",
+        "ct": "CRC",
+        "points": 986,
+        "previousPoints": 762,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/crc",
+        "delta": 224
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "17",
+        "country": "Croatia",
+        "ct": "CRO",
+        "points": 955,
+        "previousPoints": 903,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cro",
+        "delta": 52
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "18",
+        "country": "Mexico",
+        "ct": "MEX",
+        "points": 930,
+        "previousPoints": 882,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mex",
+        "delta": 48
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "19",
+        "country": "Bosnia and Herzegovina",
+        "ct": "BIH",
+        "points": 917,
+        "previousPoints": 873,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bih",
+        "delta": 44
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "20",
+        "country": "England",
+        "ct": "ENG",
+        "points": 911,
+        "previousPoints": 1090,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eng",
+        "delta": -179
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "21",
+        "country": "Ecuador",
+        "ct": "ECU",
+        "points": 901,
+        "previousPoints": 791,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ecu",
+        "delta": 110
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "22",
+        "country": "Ukraine",
+        "ct": "UKR",
+        "points": 898,
+        "previousPoints": 915,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ukr",
+        "delta": -17
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "23",
+        "country": "Russia",
+        "ct": "RUS",
+        "points": 897,
+        "previousPoints": 893,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rus",
+        "delta": 4
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "24",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 872,
+        "previousPoints": 858,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 14
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "25",
+        "country": "C\u00f4te d'Ivoire",
+        "ct": "CIV",
+        "points": 850,
+        "previousPoints": 809,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/civ",
+        "delta": 41
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "26",
+        "country": "Denmark",
+        "ct": "DEN",
+        "points": 807,
+        "previousPoints": 809,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/den",
+        "delta": -2
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "27",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 734,
+        "previousPoints": 786,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -52
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "28",
+        "country": "Romania",
+        "ct": "ROU",
+        "points": 733,
+        "previousPoints": 761,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rou",
+        "delta": -28
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "29",
+        "country": "Sweden",
+        "ct": "SWE",
+        "points": 724,
+        "previousPoints": 741,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swe",
+        "delta": -17
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "30",
+        "country": "Venezuela",
+        "ct": "VEN",
+        "points": 720,
+        "previousPoints": 672,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ven",
+        "delta": 48
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "31",
+        "country": "Serbia",
+        "ct": "SRB",
+        "points": 717,
+        "previousPoints": 745,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/srb",
+        "delta": -28
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "32",
+        "country": "Turkey",
+        "ct": "TUR",
+        "points": 714,
+        "previousPoints": 722,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tur",
+        "delta": -8
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "33",
+        "country": "Panama",
+        "ct": "PAN",
+        "points": 684,
+        "previousPoints": 743,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pan",
+        "delta": -59
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "34",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 664,
+        "previousPoints": 640,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 24
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "35",
+        "country": "Czech Republic",
+        "ct": "CZE",
+        "points": 646,
+        "previousPoints": 724,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cze",
+        "delta": -78
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "36",
+        "country": "Egypt",
+        "ct": "EGY",
+        "points": 645,
+        "previousPoints": 715,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/egy",
+        "delta": -70
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "37",
+        "country": "Slovenia",
+        "ct": "SVN",
+        "points": 644,
+        "previousPoints": 800,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svn",
+        "delta": -156
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "38",
+        "country": "Hungary",
+        "ct": "HUN",
+        "points": 642,
+        "previousPoints": 624,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hun",
+        "delta": 18
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "38",
+        "country": "Ghana",
+        "ct": "GHA",
+        "points": 642,
+        "previousPoints": 704,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gha",
+        "delta": -62
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "40",
+        "country": "Honduras",
+        "ct": "HON",
+        "points": 637,
+        "previousPoints": 731,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hon",
+        "delta": -94
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "41",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 635,
+        "previousPoints": 682,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -47
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "42",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 621,
+        "previousPoints": 612,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 9
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "43",
+        "country": "Austria",
+        "ct": "AUT",
+        "points": 614,
+        "previousPoints": 643,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aut",
+        "delta": -29
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "44",
+        "country": "Wales",
+        "ct": "WAL",
+        "points": 606,
+        "previousPoints": 644,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/wal",
+        "delta": -38
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "45",
+        "country": "Japan",
+        "ct": "JPN",
+        "points": 604,
+        "previousPoints": 626,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jpn",
+        "delta": -22
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "46",
+        "country": "Slovakia",
+        "ct": "SVK",
+        "points": 588,
+        "previousPoints": 591,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svk",
+        "delta": -3
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "47",
+        "country": "Iceland",
+        "ct": "ISL",
+        "points": 570,
+        "previousPoints": 566,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isl",
+        "delta": 4
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "48",
+        "country": "Paraguay",
+        "ct": "PAR",
+        "points": 566,
+        "previousPoints": 575,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/par",
+        "delta": -9
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "49",
+        "country": "IR Iran",
+        "ct": "IRN",
+        "points": 563,
+        "previousPoints": 641,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irn",
+        "delta": -78
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "50",
+        "country": "Montenegro",
+        "ct": "MNE",
+        "points": 559,
+        "previousPoints": 574,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mne",
+        "delta": -15
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "51",
+        "country": "Guinea",
+        "ct": "GUI",
+        "points": 555,
+        "previousPoints": 566,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gui",
+        "delta": -11
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "52",
+        "country": "Uzbekistan",
+        "ct": "UZB",
+        "points": 523,
+        "previousPoints": 539,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uzb",
+        "delta": -16
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "53",
+        "country": "Norway",
+        "ct": "NOR",
+        "points": 520,
+        "previousPoints": 562,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nor",
+        "delta": -42
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "53",
+        "country": "Cameroon",
+        "ct": "CMR",
+        "points": 520,
+        "previousPoints": 558,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cmr",
+        "delta": -38
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "55",
+        "country": "Finland",
+        "ct": "FIN",
+        "points": 508,
+        "previousPoints": 532,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fin",
+        "delta": -24
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "56",
+        "country": "Korea Republic",
+        "ct": "KOR",
+        "points": 501,
+        "previousPoints": 547,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kor",
+        "delta": -46
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "57",
+        "country": "Jordan",
+        "ct": "JOR",
+        "points": 500,
+        "previousPoints": 510,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jor",
+        "delta": -10
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "58",
+        "country": "Burkina Faso",
+        "ct": "BFA",
+        "points": 495,
+        "previousPoints": 538,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bfa",
+        "delta": -43
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "59",
+        "country": "Peru",
+        "ct": "PER",
+        "points": 487,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/per",
+        "delta": -140
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "60",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 483,
+        "previousPoints": 547,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -64
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "61",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 478,
+        "previousPoints": 474,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 4
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "62",
+        "country": "Senegal",
+        "ct": "SEN",
+        "points": 476,
+        "previousPoints": 451,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sen",
+        "delta": 25
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "63",
+        "country": "Libya",
+        "ct": "LBY",
+        "points": 471,
+        "previousPoints": 498,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lby",
+        "delta": -27
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "64",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 469,
+        "previousPoints": 565,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -96
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "65",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 466,
+        "previousPoints": 460,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 6
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "66",
+        "country": "South Africa",
+        "ct": "RSA",
+        "points": 450,
+        "previousPoints": 496,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rsa",
+        "delta": -46
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "67",
+        "country": "Albania",
+        "ct": "ALB",
+        "points": 444,
+        "previousPoints": 495,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alb",
+        "delta": -51
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "67",
+        "country": "Israel",
+        "ct": "ISR",
+        "points": 444,
+        "previousPoints": 444,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isr",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "69",
+        "country": "Oman",
+        "ct": "OMA",
+        "points": 443,
+        "previousPoints": 420,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/oma",
+        "delta": 23
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "70",
+        "country": "Republic of Ireland",
+        "ct": "IRL",
+        "points": 440,
+        "previousPoints": 473,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irl",
+        "delta": -33
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "71",
+        "country": "Bolivia",
+        "ct": "BOL",
+        "points": 429,
+        "previousPoints": 483,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bol",
+        "delta": -54
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "72",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 425,
+        "previousPoints": 425,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "73",
+        "country": "Azerbaijan",
+        "ct": "AZE",
+        "points": 410,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aze",
+        "delta": 14
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "74",
+        "country": "FYR Macedonia",
+        "ct": "MKD",
+        "points": 406,
+        "previousPoints": 419,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mkd",
+        "delta": -13
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "75",
+        "country": "Cape Verde Islands",
+        "ct": "CPV",
+        "points": 401,
+        "previousPoints": 674,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cpv",
+        "delta": -273
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "76",
+        "country": "Australia",
+        "ct": "AUS",
+        "points": 397,
+        "previousPoints": 526,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aus",
+        "delta": -129
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "77",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 396,
+        "previousPoints": 441,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -45
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "78",
+        "country": "Saudi Arabia",
+        "ct": "KSA",
+        "points": 384,
+        "previousPoints": 381,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ksa",
+        "delta": 3
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "79",
+        "country": "Morocco",
+        "ct": "MAR",
+        "points": 377,
+        "previousPoints": 439,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mar",
+        "delta": -62
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "79",
+        "country": "Angola",
+        "ct": "ANG",
+        "points": 377,
+        "previousPoints": 364,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ang",
+        "delta": 13
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "81",
+        "country": "Belarus",
+        "ct": "BLR",
+        "points": 376,
+        "previousPoints": 397,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blr",
+        "delta": -21
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "82",
+        "country": "Congo",
+        "ct": "CGO",
+        "points": 375,
+        "previousPoints": 393,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cgo",
+        "delta": -18
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "83",
+        "country": "Jamaica",
+        "ct": "JAM",
+        "points": 373,
+        "previousPoints": 411,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jam",
+        "delta": -38
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "84",
+        "country": "Trinidad and Tobago",
+        "ct": "TRI",
+        "points": 369,
+        "previousPoints": 470,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tri",
+        "delta": -101
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "85",
+        "country": "Palestine",
+        "ct": "PLE",
+        "points": 362,
+        "previousPoints": 358,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ple",
+        "delta": 4
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "86",
+        "country": "Qatar",
+        "ct": "QAT",
+        "points": 361,
+        "previousPoints": 339,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/qat",
+        "delta": 22
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "87",
+        "country": "Uganda",
+        "ct": "UGA",
+        "points": 358,
+        "previousPoints": 390,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uga",
+        "delta": -32
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "88",
+        "country": "Togo",
+        "ct": "TOG",
+        "points": 357,
+        "previousPoints": 383,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tog",
+        "delta": -26
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "89",
+        "country": "Northern Ireland",
+        "ct": "NIR",
+        "points": 356,
+        "previousPoints": 381,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nir",
+        "delta": -25
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "89",
+        "country": "Iraq",
+        "ct": "IRQ",
+        "points": 356,
+        "previousPoints": 329,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irq",
+        "delta": 27
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "91",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 354,
+        "previousPoints": 386,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -32
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "92",
+        "country": "Estonia",
+        "ct": "EST",
+        "points": 345,
+        "previousPoints": 343,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/est",
+        "delta": 2
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "93",
+        "country": "Gabon",
+        "ct": "GAB",
+        "points": 344,
+        "previousPoints": 382,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gab",
+        "delta": -38
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "94",
+        "country": "China PR",
+        "ct": "CHN",
+        "points": 342,
+        "previousPoints": 331,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chn",
+        "delta": 11
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "95",
+        "country": "Kenya",
+        "ct": "KEN",
+        "points": 339,
+        "previousPoints": 296,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ken",
+        "delta": 43
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "96",
+        "country": "Congo DR",
+        "ct": "COD",
+        "points": 338,
+        "previousPoints": 395,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cod",
+        "delta": -57
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "96",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 338,
+        "previousPoints": 349,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -11
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "98",
+        "country": "Zimbabwe",
+        "ct": "ZIM",
+        "points": 334,
+        "previousPoints": 340,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zim",
+        "delta": -6
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "99",
+        "country": "Botswana",
+        "ct": "BOT",
+        "points": 332,
+        "previousPoints": 375,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bot",
+        "delta": -43
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "99",
+        "country": "Niger",
+        "ct": "NIG",
+        "points": 332,
+        "previousPoints": 284,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nig",
+        "delta": 48
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "101",
+        "country": "New Zealand",
+        "ct": "NZL",
+        "points": 330,
+        "previousPoints": 347,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nzl",
+        "delta": -17
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "102",
+        "country": "Moldova",
+        "ct": "MDA",
+        "points": 325,
+        "previousPoints": 334,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mda",
+        "delta": -9
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "103",
+        "country": "Latvia",
+        "ct": "LVA",
+        "points": 314,
+        "previousPoints": 293,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lva",
+        "delta": 21
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "104",
+        "country": "Lithuania",
+        "ct": "LTU",
+        "points": 312,
+        "previousPoints": 319,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ltu",
+        "delta": -7
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "105",
+        "country": "Bahrain",
+        "ct": "BHR",
+        "points": 288,
+        "previousPoints": 289,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhr",
+        "delta": -1
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "106",
+        "country": "Tanzania",
+        "ct": "TAN",
+        "points": 287,
+        "previousPoints": 283,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tan",
+        "delta": 4
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "107",
+        "country": "Kuwait",
+        "ct": "KUW",
+        "points": 281,
+        "previousPoints": 276,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kuw",
+        "delta": 5
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "108",
+        "country": "Luxembourg",
+        "ct": "LUX",
+        "points": 278,
+        "previousPoints": 267,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lux",
+        "delta": 11
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "109",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 276,
+        "previousPoints": 271,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 5
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "110",
+        "country": "Ethiopia",
+        "ct": "ETH",
+        "points": 273,
+        "previousPoints": 317,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eth",
+        "delta": -44
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "111",
+        "country": "Equatorial Guinea",
+        "ct": "EQG",
+        "points": 270,
+        "previousPoints": 333,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eqg",
+        "delta": -63
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "112",
+        "country": "Namibia",
+        "ct": "NAM",
+        "points": 264,
+        "previousPoints": 277,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nam",
+        "delta": -13
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "113",
+        "country": "Haiti",
+        "ct": "HAI",
+        "points": 262,
+        "previousPoints": 452,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hai",
+        "delta": -190
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "114",
+        "country": "Mozambique",
+        "ct": "MOZ",
+        "points": 257,
+        "previousPoints": 269,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/moz",
+        "delta": -12
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "115",
+        "country": "Sudan",
+        "ct": "SDN",
+        "points": 256,
+        "previousPoints": 254,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sdn",
+        "delta": 2
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "115",
+        "country": "Liberia",
+        "ct": "LBR",
+        "points": 256,
+        "previousPoints": 271,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbr",
+        "delta": -15
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "117",
+        "country": "Central African Republic",
+        "ct": "CTA",
+        "points": 253,
+        "previousPoints": 321,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cta",
+        "delta": -68
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "118",
+        "country": "Canada",
+        "ct": "CAN",
+        "points": 250,
+        "previousPoints": 289,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/can",
+        "delta": -39
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "119",
+        "country": "Lebanon",
+        "ct": "LIB",
+        "points": 249,
+        "previousPoints": 233,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lib",
+        "delta": 16
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "120",
+        "country": "Cuba",
+        "ct": "CUB",
+        "points": 245,
+        "previousPoints": 354,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cub",
+        "delta": -109
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "121",
+        "country": "Malawi",
+        "ct": "MWI",
+        "points": 234,
+        "previousPoints": 247,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mwi",
+        "delta": -13
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "121",
+        "country": "El Salvador",
+        "ct": "SLV",
+        "points": 234,
+        "previousPoints": 481,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/slv",
+        "delta": -247
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "123",
+        "country": "Aruba",
+        "ct": "ARU",
+        "points": 233,
+        "previousPoints": 254,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aru",
+        "delta": -21
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "124",
+        "country": "Tajikistan",
+        "ct": "TJK",
+        "points": 232,
+        "previousPoints": 229,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tjk",
+        "delta": 3
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "125",
+        "country": "Dominican Republic",
+        "ct": "DOM",
+        "points": 230,
+        "previousPoints": 212,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dom",
+        "delta": 18
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "126",
+        "country": "Burundi",
+        "ct": "BDI",
+        "points": 222,
+        "previousPoints": 221,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bdi",
+        "delta": 1
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "127",
+        "country": "Kazakhstan",
+        "ct": "KAZ",
+        "points": 220,
+        "previousPoints": 241,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kaz",
+        "delta": -21
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "128",
+        "country": "Philippines",
+        "ct": "PHI",
+        "points": 218,
+        "previousPoints": 217,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/phi",
+        "delta": 1
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "129",
+        "country": "Afghanistan",
+        "ct": "AFG",
+        "points": 217,
+        "previousPoints": 215,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/afg",
+        "delta": 2
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "129",
+        "country": "Vietnam",
+        "ct": "VIE",
+        "points": 217,
+        "previousPoints": 242,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vie",
+        "delta": -25
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "131",
+        "country": "Lesotho",
+        "ct": "LES",
+        "points": 213,
+        "previousPoints": 194,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/les",
+        "delta": 19
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "131",
+        "country": "Suriname",
+        "ct": "SUR",
+        "points": 213,
+        "previousPoints": 197,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sur",
+        "delta": 16
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "133",
+        "country": "Mauritania",
+        "ct": "MTN",
+        "points": 208,
+        "previousPoints": 196,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mtn",
+        "delta": 12
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "134",
+        "country": "Guatemala",
+        "ct": "GUA",
+        "points": 204,
+        "previousPoints": 226,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gua",
+        "delta": -22
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "135",
+        "country": "St. Vincent / Grenadines",
+        "ct": "VIN",
+        "points": 203,
+        "previousPoints": 203,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "136",
+        "country": "New Caledonia",
+        "ct": "NCL",
+        "points": 199,
+        "previousPoints": 190,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ncl",
+        "delta": 9
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "136",
+        "country": "Guinea-Bissau",
+        "ct": "GNB",
+        "points": 199,
+        "previousPoints": 201,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gnb",
+        "delta": -2
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "138",
+        "country": "St. Lucia",
+        "ct": "LCA",
+        "points": 195,
+        "previousPoints": 196,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lca",
+        "delta": -1
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "139",
+        "country": "Cyprus",
+        "ct": "CYP",
+        "points": 193,
+        "previousPoints": 189,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cyp",
+        "delta": 4
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "140",
+        "country": "Turkmenistan",
+        "ct": "TKM",
+        "points": 183,
+        "previousPoints": 183,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tkm",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "140",
+        "country": "Chad",
+        "ct": "CHA",
+        "points": 183,
+        "previousPoints": 201,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cha",
+        "delta": -18
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "142",
+        "country": "Grenada",
+        "ct": "GRN",
+        "points": 182,
+        "previousPoints": 182,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/grn",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "143",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 179,
+        "previousPoints": 182,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -3
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "144",
+        "country": "Kyrgyz Republic",
+        "ct": "KGZ",
+        "points": 176,
+        "previousPoints": 163,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kgz",
+        "delta": 13
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "145",
+        "country": "Maldives",
+        "ct": "MDV",
+        "points": 171,
+        "previousPoints": 171,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mdv",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "146",
+        "country": "Syria",
+        "ct": "SYR",
+        "points": 169,
+        "previousPoints": 190,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/syr",
+        "delta": -21
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "147",
+        "country": "Korea DPR",
+        "ct": "PRK",
+        "points": 163,
+        "previousPoints": 175,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/prk",
+        "delta": -12
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "148",
+        "country": "Gambia",
+        "ct": "GAM",
+        "points": 161,
+        "previousPoints": 166,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gam",
+        "delta": -5
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "149",
+        "country": "Antigua and Barbuda",
+        "ct": "ATG",
+        "points": 152,
+        "previousPoints": 158,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/atg",
+        "delta": -6
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "150",
+        "country": "Malta",
+        "ct": "MLT",
+        "points": 146,
+        "previousPoints": 204,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mlt",
+        "delta": -58
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "151",
+        "country": "Malaysia",
+        "ct": "MAS",
+        "points": 144,
+        "previousPoints": 149,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mas",
+        "delta": -5
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "151",
+        "country": "India",
+        "ct": "IND",
+        "points": 144,
+        "previousPoints": 144,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ind",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "153",
+        "country": "Indonesia",
+        "ct": "IDN",
+        "points": 141,
+        "previousPoints": 135,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/idn",
+        "delta": 6
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "154",
+        "country": "Singapore",
+        "ct": "SIN",
+        "points": 140,
+        "previousPoints": 141,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sin",
+        "delta": -1
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "155",
+        "country": "Guyana",
+        "ct": "GUY",
+        "points": 136,
+        "previousPoints": 137,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/guy",
+        "delta": -1
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "156",
+        "country": "Puerto Rico",
+        "ct": "PUR",
+        "points": 134,
+        "previousPoints": 134,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pur",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "157",
+        "country": "Thailand",
+        "ct": "THA",
+        "points": 128,
+        "previousPoints": 163,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tha",
+        "delta": -35
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "158",
+        "country": "St. Kitts and Nevis",
+        "ct": "SKN",
+        "points": 124,
+        "previousPoints": 124,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/skn",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "159",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 123,
+        "previousPoints": 85,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 38
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "160",
+        "country": "Myanmar",
+        "ct": "MYA",
+        "points": 122,
+        "previousPoints": 133,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mya",
+        "delta": -11
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "161",
+        "country": "Belize",
+        "ct": "BLZ",
+        "points": 117,
+        "previousPoints": 152,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blz",
+        "delta": -35
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "162",
+        "country": "Hong Kong",
+        "ct": "HKG",
+        "points": 114,
+        "previousPoints": 112,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hkg",
+        "delta": 2
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "163",
+        "country": "Bangladesh",
+        "ct": "BAN",
+        "points": 103,
+        "previousPoints": 98,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ban",
+        "delta": 5
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "164",
+        "country": "Nepal",
+        "ct": "NEP",
+        "points": 102,
+        "previousPoints": 102,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nep",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "165",
+        "country": "Pakistan",
+        "ct": "PAK",
+        "points": 100,
+        "previousPoints": 102,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pak",
+        "delta": -2
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "166",
+        "country": "Montserrat",
+        "ct": "MSR",
+        "points": 99,
+        "previousPoints": 99,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/msr",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "167",
+        "country": "Liechtenstein",
+        "ct": "LIE",
+        "points": 93,
+        "previousPoints": 118,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lie",
+        "delta": -25
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "167",
+        "country": "Dominica",
+        "ct": "DMA",
+        "points": 93,
+        "previousPoints": 93,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dma",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "169",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 92,
+        "previousPoints": 92,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "170",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 87,
+        "previousPoints": 97,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -10
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "171",
+        "country": "Tahiti",
+        "ct": "TAH",
+        "points": 85,
+        "previousPoints": 122,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tah",
+        "delta": -37
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "172",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 84,
+        "previousPoints": 84,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "173",
+        "country": "Bermuda",
+        "ct": "BER",
+        "points": 83,
+        "previousPoints": 83,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ber",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "174",
+        "country": "Guam",
+        "ct": "GUM",
+        "points": 79,
+        "previousPoints": 77,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gum",
+        "delta": 2
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "175",
+        "country": "Nicaragua",
+        "ct": "NCA",
+        "points": 78,
+        "previousPoints": 78,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nca",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "175",
+        "country": "Solomon Islands",
+        "ct": "SOL",
+        "points": 78,
+        "previousPoints": 70,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sol",
+        "delta": 8
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "177",
+        "country": "Sao Tome e Principe",
+        "ct": "STP",
+        "points": 72,
+        "previousPoints": 86,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/stp",
+        "delta": -14
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "178",
+        "country": "Sri Lanka",
+        "ct": "SRI",
+        "points": 71,
+        "previousPoints": 73,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sri",
+        "delta": -2
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "178",
+        "country": "Chinese Taipei",
+        "ct": "TPE",
+        "points": 71,
+        "previousPoints": 78,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tpe",
+        "delta": -7
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "180",
+        "country": "Yemen",
+        "ct": "YEM",
+        "points": 70,
+        "previousPoints": 61,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yem",
+        "delta": 9
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "181",
+        "country": "Turks and Caicos Islands",
+        "ct": "TCA",
+        "points": 66,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tca"
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "182",
+        "country": "Seychelles",
+        "ct": "SEY",
+        "points": 64,
+        "previousPoints": 66,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sey",
+        "delta": -2
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "183",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 63,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": -2
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "184",
+        "country": "Faroe Islands",
+        "ct": "FRO",
+        "points": 61,
+        "previousPoints": 89,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fro",
+        "delta": -28
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "185",
+        "country": "Mauritius",
+        "ct": "MRI",
+        "points": 56,
+        "previousPoints": 57,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mri",
+        "delta": -1
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "186",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 43,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": -4
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "187",
+        "country": "Vanuatu",
+        "ct": "VAN",
+        "points": 38,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/van",
+        "delta": 10
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "188",
+        "country": "Fiji",
+        "ct": "FIJ",
+        "points": 31,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fij",
+        "delta": -3
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "189",
+        "country": "Mongolia",
+        "ct": "MNG",
+        "points": 29,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mng",
+        "delta": -6
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "190",
+        "country": "US Virgin Islands",
+        "ct": "VIR",
+        "points": 28,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vir",
+        "delta": 5
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "190",
+        "country": "Samoa",
+        "ct": "SAM",
+        "points": 28,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sam",
+        "delta": -4
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "192",
+        "country": "Bahamas",
+        "ct": "BAH",
+        "points": 26,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bah",
+        "delta": -14
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "192",
+        "country": "Brunei Darussalam",
+        "ct": "BRU",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bru",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "192",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "192",
+        "country": "Tonga",
+        "ct": "TGA",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tga",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "196",
+        "country": "Cayman Islands",
+        "ct": "CAY",
+        "points": 21,
+        "previousPoints": 21,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cay",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "197",
+        "country": "American Samoa",
+        "ct": "ASA",
+        "points": 18,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/asa",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "198",
+        "country": "Andorra",
+        "ct": "AND",
+        "points": 16,
+        "previousPoints": 16,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/and",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "199",
+        "country": "Papua New Guinea",
+        "ct": "PNG",
+        "points": 14,
+        "previousPoints": 21,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/png",
+        "delta": -7
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "200",
+        "country": "Cambodia",
+        "ct": "CAM",
+        "points": 13,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cam",
+        "delta": -15
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "200",
+        "country": "British Virgin Islands",
+        "ct": "VGB",
+        "points": 13,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vgb",
+        "delta": -5
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "202",
+        "country": "Eritrea",
+        "ct": "ERI",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eri",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "203",
+        "country": "Somalia",
+        "ct": "SOM",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/som",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "204",
+        "country": "Macau",
+        "ct": "MAC",
+        "points": 7,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mac",
+        "delta": -1
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "205",
+        "country": "Djibouti",
+        "ct": "DJI",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dji",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "206",
+        "country": "Cook Islands",
+        "ct": "COK",
+        "points": 5,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cok",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "207",
+        "country": "Anguilla",
+        "ct": "AIA",
+        "points": 1,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aia",
+        "delta": -2
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "208",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "208",
+        "country": "San Marino",
+        "ct": "SMR",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/smr"
+    }
+]

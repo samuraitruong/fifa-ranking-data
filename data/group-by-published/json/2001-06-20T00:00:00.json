@@ -1,0 +1,2022 @@
+[
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "1",
+        "country": "France",
+        "ct": "FRA",
+        "points": 818,
+        "previousPoints": 796,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fra",
+        "delta": 22
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 796,
+        "previousPoints": 794,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 2
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "3",
+        "country": "Argentina",
+        "ct": "ARG",
+        "points": 771,
+        "previousPoints": 763,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arg",
+        "delta": 8
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "4",
+        "country": "Italy",
+        "ct": "ITA",
+        "points": 747,
+        "previousPoints": 748,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ita",
+        "delta": -1
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "5",
+        "country": "Portugal",
+        "ct": "POR",
+        "points": 734,
+        "previousPoints": 732,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/por",
+        "delta": 2
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "6",
+        "country": "Spain",
+        "ct": "ESP",
+        "points": 733,
+        "previousPoints": 724,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/esp",
+        "delta": 9
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "7",
+        "country": "Czech Republic",
+        "ct": "CZE",
+        "points": 726,
+        "previousPoints": 722,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cze",
+        "delta": 4
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "8",
+        "country": "Germany",
+        "ct": "GER",
+        "points": 720,
+        "previousPoints": 711,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ger",
+        "delta": 9
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "9",
+        "country": "Netherlands",
+        "ct": "NED",
+        "points": 718,
+        "previousPoints": 715,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ned",
+        "delta": 3
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "10",
+        "country": "Paraguay",
+        "ct": "PAR",
+        "points": 714,
+        "previousPoints": 703,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/par",
+        "delta": 11
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "11",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 702,
+        "previousPoints": 689,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 13
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "12",
+        "country": "Romania",
+        "ct": "ROU",
+        "points": 696,
+        "previousPoints": 683,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rou",
+        "delta": 13
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "13",
+        "country": "England",
+        "ct": "ENG",
+        "points": 693,
+        "previousPoints": 673,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eng",
+        "delta": 20
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "14",
+        "country": "Croatia",
+        "ct": "CRO",
+        "points": 672,
+        "previousPoints": 650,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cro",
+        "delta": 22
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "15",
+        "country": "Mexico",
+        "ct": "MEX",
+        "points": 670,
+        "previousPoints": 680,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mex",
+        "delta": -10
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "16",
+        "country": "Denmark",
+        "ct": "DEN",
+        "points": 665,
+        "previousPoints": 645,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/den",
+        "delta": 20
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "17",
+        "country": "USA",
+        "ct": "USA",
+        "points": 665,
+        "previousPoints": 666,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/usa",
+        "delta": -1
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "18",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 660,
+        "previousPoints": 665,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -5
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "19",
+        "country": "Norway",
+        "ct": "NOR",
+        "points": 660,
+        "previousPoints": 663,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nor",
+        "delta": -3
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "20",
+        "country": "Russia",
+        "ct": "RUS",
+        "points": 659,
+        "previousPoints": 652,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rus",
+        "delta": 7
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "21",
+        "country": "Sweden",
+        "ct": "SWE",
+        "points": 657,
+        "previousPoints": 643,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swe",
+        "delta": 14
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "22",
+        "country": "Republic of Ireland",
+        "ct": "IRL",
+        "points": 641,
+        "previousPoints": 617,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irl",
+        "delta": 24
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "23",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 638,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 11
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "24",
+        "country": "South Africa",
+        "ct": "RSA",
+        "points": 632,
+        "previousPoints": 634,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rsa",
+        "delta": -2
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "25",
+        "country": "Trinidad and Tobago",
+        "ct": "TRI",
+        "points": 628,
+        "previousPoints": 595,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tri",
+        "delta": 33
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "26",
+        "country": "Belgium",
+        "ct": "BEL",
+        "points": 626,
+        "previousPoints": 612,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bel",
+        "delta": 14
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "27",
+        "country": "Saudi Arabia",
+        "ct": "KSA",
+        "points": 621,
+        "previousPoints": 615,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ksa",
+        "delta": 6
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "28",
+        "country": "Morocco",
+        "ct": "MAR",
+        "points": 620,
+        "previousPoints": 622,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mar",
+        "delta": -2
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "29",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 617,
+        "previousPoints": 611,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 6
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "30",
+        "country": "Slovakia",
+        "ct": "SVK",
+        "points": 616,
+        "previousPoints": 623,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svk",
+        "delta": -7
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "31",
+        "country": "Turkey",
+        "ct": "TUR",
+        "points": 613,
+        "previousPoints": 614,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tur",
+        "delta": -1
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "32",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 611,
+        "previousPoints": 624,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -13
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "33",
+        "country": "Japan",
+        "ct": "JPN",
+        "points": 609,
+        "previousPoints": 568,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jpn",
+        "delta": 41
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "34",
+        "country": "Egypt",
+        "ct": "EGY",
+        "points": 601,
+        "previousPoints": 595,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/egy",
+        "delta": 6
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "35",
+        "country": "Chile",
+        "ct": "CHI",
+        "points": 600,
+        "previousPoints": 607,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chi",
+        "delta": -7
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "36",
+        "country": "Slovenia",
+        "ct": "SVN",
+        "points": 600,
+        "previousPoints": 584,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svn",
+        "delta": 16
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "37",
+        "country": "Korea Republic",
+        "ct": "KOR",
+        "points": 599,
+        "previousPoints": 580,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kor",
+        "delta": 19
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "38",
+        "country": "Cameroon",
+        "ct": "CMR",
+        "points": 597,
+        "previousPoints": 592,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cmr",
+        "delta": 5
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "39",
+        "country": "Austria",
+        "ct": "AUT",
+        "points": 596,
+        "previousPoints": 599,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aut",
+        "delta": -3
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "40",
+        "country": "Uruguay",
+        "ct": "URU",
+        "points": 591,
+        "previousPoints": 601,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uru",
+        "delta": -10
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "41",
+        "country": "Israel",
+        "ct": "ISR",
+        "points": 589,
+        "previousPoints": 564,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isr",
+        "delta": 25
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "42",
+        "country": "C\u00f4te d'Ivoire",
+        "ct": "CIV",
+        "points": 584,
+        "previousPoints": 571,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/civ",
+        "delta": 13
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "43",
+        "country": "Ukraine",
+        "ct": "UKR",
+        "points": 583,
+        "previousPoints": 573,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ukr",
+        "delta": 10
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "44",
+        "country": "Ecuador",
+        "ct": "ECU",
+        "points": 582,
+        "previousPoints": 567,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ecu",
+        "delta": 15
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "45",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 581,
+        "previousPoints": 555,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 26
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "46",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 578,
+        "previousPoints": 570,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 8
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "47",
+        "country": "Costa Rica",
+        "ct": "CRC",
+        "points": 578,
+        "previousPoints": 548,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/crc",
+        "delta": 30
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "48",
+        "country": "Jamaica",
+        "ct": "JAM",
+        "points": 577,
+        "previousPoints": 566,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jam",
+        "delta": 11
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "49",
+        "country": "IR Iran",
+        "ct": "IRN",
+        "points": 570,
+        "previousPoints": 571,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irn",
+        "delta": -1
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "50",
+        "country": "Australia",
+        "ct": "AUS",
+        "points": 569,
+        "previousPoints": 506,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aus",
+        "delta": 63
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "51",
+        "country": "Honduras",
+        "ct": "HON",
+        "points": 568,
+        "previousPoints": 558,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hon",
+        "delta": 10
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "52",
+        "country": "Iceland",
+        "ct": "ISL",
+        "points": 565,
+        "previousPoints": 546,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isl",
+        "delta": 19
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "53",
+        "country": "Hungary",
+        "ct": "HUN",
+        "points": 561,
+        "previousPoints": 551,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hun",
+        "delta": 10
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "54",
+        "country": "Angola",
+        "ct": "ANG",
+        "points": 559,
+        "previousPoints": 552,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ang",
+        "delta": 7
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "55",
+        "country": "Greece",
+        "ct": "GRE",
+        "points": 558,
+        "previousPoints": 558,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gre",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "56",
+        "country": "Guatemala",
+        "ct": "GUA",
+        "points": 550,
+        "previousPoints": 526,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gua",
+        "delta": 24
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "57",
+        "country": "Peru",
+        "ct": "PER",
+        "points": 549,
+        "previousPoints": 553,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/per",
+        "delta": -4
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "58",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 547,
+        "previousPoints": 543,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 4
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "59",
+        "country": "Finland",
+        "ct": "FIN",
+        "points": 545,
+        "previousPoints": 530,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fin",
+        "delta": 15
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "60",
+        "country": "Thailand",
+        "ct": "THA",
+        "points": 541,
+        "previousPoints": 517,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tha",
+        "delta": 24
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "61",
+        "country": "Switzerland",
+        "ct": "SUI",
+        "points": 540,
+        "previousPoints": 527,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sui",
+        "delta": 13
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "62",
+        "country": "Ghana",
+        "ct": "GHA",
+        "points": 537,
+        "previousPoints": 521,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gha",
+        "delta": 16
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "63",
+        "country": "China PR",
+        "ct": "CHN",
+        "points": 527,
+        "previousPoints": 515,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chn",
+        "delta": 12
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "64",
+        "country": "Uzbekistan",
+        "ct": "UZB",
+        "points": 525,
+        "previousPoints": 525,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uzb",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "65",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 519,
+        "previousPoints": 514,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 5
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "66",
+        "country": "Bolivia",
+        "ct": "BOL",
+        "points": 515,
+        "previousPoints": 496,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bol",
+        "delta": 19
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "67",
+        "country": "Togo",
+        "ct": "TOG",
+        "points": 511,
+        "previousPoints": 479,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tog",
+        "delta": 32
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "68",
+        "country": "Liberia",
+        "ct": "LBR",
+        "points": 509,
+        "previousPoints": 485,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbr",
+        "delta": 24
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "69",
+        "country": "Burkina Faso",
+        "ct": "BFA",
+        "points": 508,
+        "previousPoints": 497,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bfa",
+        "delta": 11
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "70",
+        "country": "Congo DR",
+        "ct": "COD",
+        "points": 506,
+        "previousPoints": 489,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cod",
+        "delta": 17
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "71",
+        "country": "Cyprus",
+        "ct": "CYP",
+        "points": 506,
+        "previousPoints": 510,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cyp",
+        "delta": -4
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "72",
+        "country": "Zimbabwe",
+        "ct": "ZIM",
+        "points": 506,
+        "previousPoints": 510,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zim",
+        "delta": -4
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "73",
+        "country": "Iraq",
+        "ct": "IRQ",
+        "points": 505,
+        "previousPoints": 506,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irq",
+        "delta": -1
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "74",
+        "country": "Kuwait",
+        "ct": "KUW",
+        "points": 503,
+        "previousPoints": 503,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kuw",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "75",
+        "country": "Canada",
+        "ct": "CAN",
+        "points": 502,
+        "previousPoints": 502,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/can",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "76",
+        "country": "FYR Macedonia",
+        "ct": "MKD",
+        "points": 501,
+        "previousPoints": 478,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mkd",
+        "delta": 23
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "77",
+        "country": "Estonia",
+        "ct": "EST",
+        "points": 499,
+        "previousPoints": 510,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/est",
+        "delta": -11
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "78",
+        "country": "Bosnia and Herzegovina",
+        "ct": "BIH",
+        "points": 498,
+        "previousPoints": 499,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bih",
+        "delta": -1
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "79",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 498,
+        "previousPoints": 499,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -1
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "80",
+        "country": "Senegal",
+        "ct": "SEN",
+        "points": 494,
+        "previousPoints": 493,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sen",
+        "delta": 1
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "81",
+        "country": "New Zealand",
+        "ct": "NZL",
+        "points": 489,
+        "previousPoints": 442,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nzl",
+        "delta": 47
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "82",
+        "country": "Cuba",
+        "ct": "CUB",
+        "points": 488,
+        "previousPoints": 478,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cub",
+        "delta": 10
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "83",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 484,
+        "previousPoints": 474,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 10
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "84",
+        "country": "Belarus",
+        "ct": "BLR",
+        "points": 480,
+        "previousPoints": 457,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blr",
+        "delta": 23
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "85",
+        "country": "Albania",
+        "ct": "ALB",
+        "points": 476,
+        "previousPoints": 483,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alb",
+        "delta": -7
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "86",
+        "country": "Haiti",
+        "ct": "HAI",
+        "points": 476,
+        "previousPoints": 457,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hai",
+        "delta": 19
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "87",
+        "country": "El Salvador",
+        "ct": "SLV",
+        "points": 471,
+        "previousPoints": 447,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/slv",
+        "delta": 24
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "88",
+        "country": "Guinea",
+        "ct": "GUI",
+        "points": 471,
+        "previousPoints": 469,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gui",
+        "delta": 2
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "89",
+        "country": "Indonesia",
+        "ct": "IDN",
+        "points": 469,
+        "previousPoints": 471,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/idn",
+        "delta": -2
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "90",
+        "country": "Qatar",
+        "ct": "QAT",
+        "points": 469,
+        "previousPoints": 469,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/qat",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "91",
+        "country": "Gabon",
+        "ct": "GAB",
+        "points": 465,
+        "previousPoints": 436,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gab",
+        "delta": 29
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "92",
+        "country": "Congo",
+        "ct": "CGO",
+        "points": 464,
+        "previousPoints": 454,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cgo",
+        "delta": 10
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "93",
+        "country": "Namibia",
+        "ct": "NAM",
+        "points": 460,
+        "previousPoints": 458,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nam",
+        "delta": 2
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "94",
+        "country": "Syria",
+        "ct": "SYR",
+        "points": 456,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/syr",
+        "delta": 7
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "95",
+        "country": "Oman",
+        "ct": "OMA",
+        "points": 455,
+        "previousPoints": 445,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/oma",
+        "delta": 10
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "96",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 450,
+        "previousPoints": 444,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 6
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "97",
+        "country": "Lithuania",
+        "ct": "LTU",
+        "points": 446,
+        "previousPoints": 448,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ltu",
+        "delta": -2
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "98",
+        "country": "Lebanon",
+        "ct": "LBN",
+        "points": 442,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbn",
+        "delta": 46
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "99",
+        "country": "Jordan",
+        "ct": "JOR",
+        "points": 438,
+        "previousPoints": 432,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jor",
+        "delta": 6
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "100",
+        "country": "Vietnam",
+        "ct": "VIE",
+        "points": 437,
+        "previousPoints": 437,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vie",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "101",
+        "country": "Latvia",
+        "ct": "LVA",
+        "points": 430,
+        "previousPoints": 443,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lva",
+        "delta": -13
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "102",
+        "country": "Moldova",
+        "ct": "MDA",
+        "points": 424,
+        "previousPoints": 421,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mda",
+        "delta": 3
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "103",
+        "country": "Kenya",
+        "ct": "KEN",
+        "points": 422,
+        "previousPoints": 416,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ken",
+        "delta": 6
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "104",
+        "country": "Kazakhstan",
+        "ct": "KAZ",
+        "points": 421,
+        "previousPoints": 407,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kaz",
+        "delta": 14
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "105",
+        "country": "Northern Ireland",
+        "ct": "NIR",
+        "points": 420,
+        "previousPoints": 423,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nir",
+        "delta": -3
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "106",
+        "country": "Wales",
+        "ct": "WAL",
+        "points": 417,
+        "previousPoints": 398,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/wal",
+        "delta": 19
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "107",
+        "country": "Singapore",
+        "ct": "SIN",
+        "points": 412,
+        "previousPoints": 406,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sin",
+        "delta": 6
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "108",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 411,
+        "previousPoints": 417,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -6
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "109",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 406,
+        "previousPoints": 412,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -6
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "110",
+        "country": "Malaysia",
+        "ct": "MAS",
+        "points": 404,
+        "previousPoints": 404,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mas",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "111",
+        "country": "Uganda",
+        "ct": "UGA",
+        "points": 400,
+        "previousPoints": 404,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uga",
+        "delta": -4
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "112",
+        "country": "Venezuela",
+        "ct": "VEN",
+        "points": 386,
+        "previousPoints": 393,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ven",
+        "delta": -7
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "113",
+        "country": "India",
+        "ct": "IND",
+        "points": 383,
+        "previousPoints": 370,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ind",
+        "delta": 13
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "114",
+        "country": "Panama",
+        "ct": "PAN",
+        "points": 382,
+        "previousPoints": 343,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pan",
+        "delta": 39
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "115",
+        "country": "Libya",
+        "ct": "LBY",
+        "points": 378,
+        "previousPoints": 374,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lby",
+        "delta": 4
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "116",
+        "country": "Turkmenistan",
+        "ct": "TKM",
+        "points": 375,
+        "previousPoints": 373,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tkm",
+        "delta": 2
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "117",
+        "country": "Mozambique",
+        "ct": "MOZ",
+        "points": 366,
+        "previousPoints": 371,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/moz",
+        "delta": -5
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "118",
+        "country": "Sudan",
+        "ct": "SDN",
+        "points": 363,
+        "previousPoints": 338,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sdn",
+        "delta": 25
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "119",
+        "country": "Bahrain",
+        "ct": "BHR",
+        "points": 359,
+        "previousPoints": 359,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhr",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "120",
+        "country": "Faroe Islands",
+        "ct": "FRO",
+        "points": 359,
+        "previousPoints": 347,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fro",
+        "delta": 12
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "121",
+        "country": "Azerbaijan",
+        "ct": "AZE",
+        "points": 356,
+        "previousPoints": 365,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aze",
+        "delta": -9
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "122",
+        "country": "Mauritius",
+        "ct": "MRI",
+        "points": 355,
+        "previousPoints": 352,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mri",
+        "delta": 3
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "123",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 354,
+        "previousPoints": 354,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "124",
+        "country": "Malawi",
+        "ct": "MWI",
+        "points": 353,
+        "previousPoints": 354,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mwi",
+        "delta": -1
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "125",
+        "country": "Fiji",
+        "ct": "FIJ",
+        "points": 349,
+        "previousPoints": 349,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fij",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "126",
+        "country": "Tahiti",
+        "ct": "TAH",
+        "points": 336,
+        "previousPoints": 284,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tah",
+        "delta": 52
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "127",
+        "country": "Lesotho",
+        "ct": "LES",
+        "points": 329,
+        "previousPoints": 297,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/les",
+        "delta": 32
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "128",
+        "country": "St. Lucia",
+        "ct": "LCA",
+        "points": 327,
+        "previousPoints": 327,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lca",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "129",
+        "country": "St. Kitts and Nevis",
+        "ct": "SKN",
+        "points": 324,
+        "previousPoints": 242,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/skn",
+        "delta": 82
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "130",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 324,
+        "previousPoints": 331,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -7
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "131",
+        "country": "Solomon Islands",
+        "ct": "SOL",
+        "points": 317,
+        "previousPoints": 281,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sol",
+        "delta": 36
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "132",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 317,
+        "previousPoints": 316,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 1
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "133",
+        "country": "Malta",
+        "ct": "MLT",
+        "points": 316,
+        "previousPoints": 315,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mlt",
+        "delta": 1
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "134",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 312,
+        "previousPoints": 313,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -1
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "135",
+        "country": "Burundi",
+        "ct": "BDI",
+        "points": 311,
+        "previousPoints": 302,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bdi",
+        "delta": 9
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "136",
+        "country": "Hong Kong",
+        "ct": "HKG",
+        "points": 311,
+        "previousPoints": 319,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hkg",
+        "delta": -8
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "137",
+        "country": "Grenada",
+        "ct": "GRN",
+        "points": 299,
+        "previousPoints": 299,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/grn",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "138",
+        "country": "Yemen",
+        "ct": "YEM",
+        "points": 295,
+        "previousPoints": 272,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yem",
+        "delta": 23
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "139",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 293,
+        "previousPoints": 294,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "140",
+        "country": "Myanmar",
+        "ct": "MYA",
+        "points": 291,
+        "previousPoints": 296,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mya",
+        "delta": -5
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "141",
+        "country": "Tajikistan",
+        "ct": "TJK",
+        "points": 273,
+        "previousPoints": 275,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tjk",
+        "delta": -2
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "142",
+        "country": "Ethiopia",
+        "ct": "ETH",
+        "points": 271,
+        "previousPoints": 273,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eth",
+        "delta": -2
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "143",
+        "country": "Suriname",
+        "ct": "SUR",
+        "points": 268,
+        "previousPoints": 236,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sur",
+        "delta": 32
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "144",
+        "country": "Luxembourg",
+        "ct": "LUX",
+        "points": 264,
+        "previousPoints": 257,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lux",
+        "delta": 7
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "145",
+        "country": "Andorra",
+        "ct": "AND",
+        "points": 255,
+        "previousPoints": 255,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/and",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "146",
+        "country": "Palestine",
+        "ct": "PLE",
+        "points": 253,
+        "previousPoints": 245,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ple",
+        "delta": 8
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "147",
+        "country": "Bangladesh",
+        "ct": "BAN",
+        "points": 252,
+        "previousPoints": 253,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ban",
+        "delta": -1
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "148",
+        "country": "Liechtenstein",
+        "ct": "LIE",
+        "points": 248,
+        "previousPoints": 255,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lie",
+        "delta": -7
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "149",
+        "country": "Maldives",
+        "ct": "MDV",
+        "points": 248,
+        "previousPoints": 248,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mdv",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "150",
+        "country": "Korea DPR",
+        "ct": "PRK",
+        "points": 247,
+        "previousPoints": 248,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/prk",
+        "delta": -1
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "151",
+        "country": "Sri Lanka",
+        "ct": "SRI",
+        "points": 246,
+        "previousPoints": 224,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sri",
+        "delta": 22
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "152",
+        "country": "Tanzania",
+        "ct": "TAN",
+        "points": 246,
+        "previousPoints": 251,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tan",
+        "delta": -5
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "153",
+        "country": "Antigua and Barbuda",
+        "ct": "ATG",
+        "points": 238,
+        "previousPoints": 240,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/atg",
+        "delta": -2
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "154",
+        "country": "Botswana",
+        "ct": "BOT",
+        "points": 237,
+        "previousPoints": 239,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bot",
+        "delta": -2
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "155",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 229,
+        "previousPoints": 232,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -3
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "156",
+        "country": "Nepal",
+        "ct": "NEP",
+        "points": 220,
+        "previousPoints": 220,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nep",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "157",
+        "country": "Dominica",
+        "ct": "DMA",
+        "points": 217,
+        "previousPoints": 219,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dma",
+        "delta": -2
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "158",
+        "country": "San Marino",
+        "ct": "SMR",
+        "points": 213,
+        "previousPoints": 194,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/smr",
+        "delta": 19
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "159",
+        "country": "Bermuda",
+        "ct": "BER",
+        "points": 211,
+        "previousPoints": 214,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ber",
+        "delta": -3
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "160",
+        "country": "Gambia",
+        "ct": "GAM",
+        "points": 209,
+        "previousPoints": 207,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gam",
+        "delta": 2
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "161",
+        "country": "Cape Verde Islands",
+        "ct": "CPV",
+        "points": 208,
+        "previousPoints": 208,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cpv",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "162",
+        "country": "Cayman Islands",
+        "ct": "CAY",
+        "points": 207,
+        "previousPoints": 207,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cay",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "163",
+        "country": "Dominican Republic",
+        "ct": "DOM",
+        "points": 206,
+        "previousPoints": 206,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dom",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "164",
+        "country": "British Virgin Islands",
+        "ct": "VGB",
+        "points": 202,
+        "previousPoints": 202,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vgb",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "165",
+        "country": "Kyrgyz Republic",
+        "ct": "KGZ",
+        "points": 195,
+        "previousPoints": 201,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kgz",
+        "delta": -6
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "166",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 194,
+        "previousPoints": 168,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 26
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "167",
+        "country": "Eritrea",
+        "ct": "ERI",
+        "points": 190,
+        "previousPoints": 192,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eri",
+        "delta": -2
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "168",
+        "country": "Vanuatu",
+        "ct": "VAN",
+        "points": 186,
+        "previousPoints": 159,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/van",
+        "delta": 27
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "169",
+        "country": "Chinese Taipei",
+        "ct": "TPE",
+        "points": 183,
+        "previousPoints": 184,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tpe",
+        "delta": -1
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "170",
+        "country": "Cambodia",
+        "ct": "CAM",
+        "points": 178,
+        "previousPoints": 171,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cam",
+        "delta": 7
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "171",
+        "country": "Mauritania",
+        "ct": "MTN",
+        "points": 177,
+        "previousPoints": 181,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mtn",
+        "delta": -4
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "172",
+        "country": "Chad",
+        "ct": "CHA",
+        "points": 167,
+        "previousPoints": 169,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cha",
+        "delta": -2
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "173",
+        "country": "Belize",
+        "ct": "BLZ",
+        "points": 158,
+        "previousPoints": 91,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blz",
+        "delta": 67
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "174",
+        "country": "Samoa",
+        "ct": "SAM",
+        "points": 155,
+        "previousPoints": 167,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sam",
+        "delta": -12
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "175",
+        "country": "Cook Islands",
+        "ct": "COK",
+        "points": 153,
+        "previousPoints": 155,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cok",
+        "delta": -2
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "176",
+        "country": "Guyana",
+        "ct": "GUY",
+        "points": 153,
+        "previousPoints": 153,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/guy",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "177",
+        "country": "Tonga",
+        "ct": "TGA",
+        "points": 152,
+        "previousPoints": 148,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tga",
+        "delta": 4
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "178",
+        "country": "Philippines",
+        "ct": "PHI",
+        "points": 143,
+        "previousPoints": 130,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/phi",
+        "delta": 13
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "180",
+        "country": "Central African Republic",
+        "ct": "CTA",
+        "points": 123,
+        "previousPoints": 124,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cta",
+        "delta": -1
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "181",
+        "country": "Guinea-Bissau",
+        "ct": "GNB",
+        "points": 118,
+        "previousPoints": 121,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gnb",
+        "delta": -3
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "182",
+        "country": "Macau",
+        "ct": "MAC",
+        "points": 115,
+        "previousPoints": 115,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mac",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "183",
+        "country": "Bahamas",
+        "ct": "BAH",
+        "points": 113,
+        "previousPoints": 114,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bah",
+        "delta": -1
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "184",
+        "country": "Sao Tome e Principe",
+        "ct": "STP",
+        "points": 111,
+        "previousPoints": 113,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/stp",
+        "delta": -2
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "185",
+        "country": "Pakistan",
+        "ct": "PAK",
+        "points": 105,
+        "previousPoints": 71,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pak",
+        "delta": 34
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "186",
+        "country": "Aruba",
+        "ct": "ARU",
+        "points": 101,
+        "previousPoints": 101,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aru",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "187",
+        "country": "Niger",
+        "ct": "NIG",
+        "points": 99,
+        "previousPoints": 101,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nig",
+        "delta": -2
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "188",
+        "country": "Mongolia",
+        "ct": "MNG",
+        "points": 94,
+        "previousPoints": 94,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mng",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "189",
+        "country": "Nicaragua",
+        "ct": "NCA",
+        "points": 89,
+        "previousPoints": 69,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nca",
+        "delta": 20
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "190",
+        "country": "Equatorial Guinea",
+        "ct": "EQG",
+        "points": 87,
+        "previousPoints": 88,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eqg",
+        "delta": -1
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "191",
+        "country": "Brunei Darussalam",
+        "ct": "BRU",
+        "points": 86,
+        "previousPoints": 80,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bru",
+        "delta": 6
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "192",
+        "country": "Seychelles",
+        "ct": "SEY",
+        "points": 80,
+        "previousPoints": 81,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sey",
+        "delta": -1
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "193",
+        "country": "Djibouti",
+        "ct": "DJI",
+        "points": 77,
+        "previousPoints": 78,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dji",
+        "delta": -1
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "194",
+        "country": "Anguilla",
+        "ct": "AIA",
+        "points": 65,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aia",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "195",
+        "country": "Papua New Guinea",
+        "ct": "PNG",
+        "points": 62,
+        "previousPoints": 63,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/png",
+        "delta": -1
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "196",
+        "country": "Somalia",
+        "ct": "SOM",
+        "points": 57,
+        "previousPoints": 57,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/som",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "197",
+        "country": "Puerto Rico",
+        "ct": "PUR",
+        "points": 55,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pur",
+        "delta": 4
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "198",
+        "country": "US Virgin Islands",
+        "ct": "VIR",
+        "points": 48,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vir",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "199",
+        "country": "Guam",
+        "ct": "GUM",
+        "points": 28,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gum",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "200",
+        "country": "Turks and Caicos Islands",
+        "ct": "TCA",
+        "points": 22,
+        "previousPoints": 22,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tca",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "201",
+        "country": "American Samoa",
+        "ct": "ASA",
+        "points": 15,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/asa",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "202",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "203",
+        "country": "Montserrat",
+        "ct": "MSR",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/msr",
+        "delta": 0
+    }
+]

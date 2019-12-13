@@ -1,0 +1,211 @@
+,date,rank,country,ct,points,previousPoints,flag,delta
+0,2019-11-28T00:00:00,1,Belgium,BEL,1765,1755,https://api.fifa.com/api/v1/picture/flags-sq-4/bel,10
+1,2019-11-28T00:00:00,2,France,FRA,1733,1726,https://api.fifa.com/api/v1/picture/flags-sq-4/fra,7
+2,2019-11-28T00:00:00,3,Brazil,BRA,1712,1715,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,-3
+3,2019-11-28T00:00:00,4,England,ENG,1661,1651,https://api.fifa.com/api/v1/picture/flags-sq-4/eng,10
+4,2019-11-28T00:00:00,5,Uruguay,URU,1645,1642,https://api.fifa.com/api/v1/picture/flags-sq-4/uru,3
+5,2019-11-28T00:00:00,6,Croatia,CRO,1642,1631,https://api.fifa.com/api/v1/picture/flags-sq-4/cro,11
+6,2019-11-28T00:00:00,7,Portugal,POR,1639,1632,https://api.fifa.com/api/v1/picture/flags-sq-4/por,7
+7,2019-11-28T00:00:00,8,Spain,ESP,1636,1625,https://api.fifa.com/api/v1/picture/flags-sq-4/esp,11
+8,2019-11-28T00:00:00,9,Argentina,ARG,1623,1617,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,6
+9,2019-11-28T00:00:00,10,Colombia,COL,1622,1615,https://api.fifa.com/api/v1/picture/flags-sq-4/col,7
+10,2019-11-28T00:00:00,11,Mexico,MEX,1621,1613,https://api.fifa.com/api/v1/picture/flags-sq-4/mex,8
+11,2019-11-28T00:00:00,12,Switzerland,SUI,1608,1601,https://api.fifa.com/api/v1/picture/flags-sq-4/sui,7
+12,2019-11-28T00:00:00,13,Italy,ITA,1607,1593,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,14
+13,2019-11-28T00:00:00,14,Netherlands,NED,1604,1602,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,2
+14,2019-11-28T00:00:00,15,Germany,GER,1602,1586,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,16
+15,2019-11-28T00:00:00,16,Denmark,DEN,1598,1599,https://api.fifa.com/api/v1/picture/flags-sq-4/den,-1
+16,2019-11-28T00:00:00,17,Chile,CHI,1579,1579,https://api.fifa.com/api/v1/picture/flags-sq-4/chi,0
+17,2019-11-28T00:00:00,17,Sweden,SWE,1579,1563,https://api.fifa.com/api/v1/picture/flags-sq-4/swe,16
+18,2019-11-28T00:00:00,19,Poland,POL,1559,1544,https://api.fifa.com/api/v1/picture/flags-sq-4/pol,15
+19,2019-11-28T00:00:00,20,Senegal,SEN,1555,1546,https://api.fifa.com/api/v1/picture/flags-sq-4/sen,9
+20,2019-11-28T00:00:00,21,Peru,PER,1544,1548,https://api.fifa.com/api/v1/picture/flags-sq-4/per,-4
+21,2019-11-28T00:00:00,22,USA,USA,1540,1530,https://api.fifa.com/api/v1/picture/flags-sq-4/usa,10
+22,2019-11-28T00:00:00,22,Wales,WAL,1540,1524,https://api.fifa.com/api/v1/picture/flags-sq-4/wal,16
+23,2019-11-28T00:00:00,24,Ukraine,UKR,1537,1536,https://api.fifa.com/api/v1/picture/flags-sq-4/ukr,1
+24,2019-11-28T00:00:00,25,Venezuela,VEN,1517,1512,https://api.fifa.com/api/v1/picture/flags-sq-4/ven,5
+25,2019-11-28T00:00:00,26,Austria,AUT,1507,1520,https://api.fifa.com/api/v1/picture/flags-sq-4/aut,-13
+26,2019-11-28T00:00:00,27,Tunisia,TUN,1506,1495,https://api.fifa.com/api/v1/picture/flags-sq-4/tun,11
+27,2019-11-28T00:00:00,28,Japan,JPN,1500,1498,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn,2
+28,2019-11-28T00:00:00,29,Turkey,TUR,1494,1490,https://api.fifa.com/api/v1/picture/flags-sq-4/tur,4
+29,2019-11-28T00:00:00,29,Serbia,SRB,1494,1485,https://api.fifa.com/api/v1/picture/flags-sq-4/srb,9
+30,2019-11-28T00:00:00,31,Nigeria,NGA,1493,1481,https://api.fifa.com/api/v1/picture/flags-sq-4/nga,12
+31,2019-11-28T00:00:00,32,Slovakia,SVK,1490,1493,https://api.fifa.com/api/v1/picture/flags-sq-4/svk,-3
+32,2019-11-28T00:00:00,33,IR Iran,IRN,1489,1505,https://api.fifa.com/api/v1/picture/flags-sq-4/irn,-16
+33,2019-11-28T00:00:00,34,Republic of Ireland,IRL,1486,1480,https://api.fifa.com/api/v1/picture/flags-sq-4/irl,6
+34,2019-11-28T00:00:00,35,Algeria,ALG,1482,1469,https://api.fifa.com/api/v1/picture/flags-sq-4/alg,13
+35,2019-11-28T00:00:00,36,Northern Ireland,NIR,1476,1483,https://api.fifa.com/api/v1/picture/flags-sq-4/nir,-7
+36,2019-11-28T00:00:00,37,Romania,ROU,1475,1495,https://api.fifa.com/api/v1/picture/flags-sq-4/rou,-20
+37,2019-11-28T00:00:00,38,Russia,RUS,1470,1474,https://api.fifa.com/api/v1/picture/flags-sq-4/rus,-4
+38,2019-11-28T00:00:00,39,Iceland,ISL,1464,1460,https://api.fifa.com/api/v1/picture/flags-sq-4/isl,4
+39,2019-11-28T00:00:00,40,Paraguay,PAR,1461,1458,https://api.fifa.com/api/v1/picture/flags-sq-4/par,3
+40,2019-11-28T00:00:00,41,Korea Republic,KOR,1459,1466,https://api.fifa.com/api/v1/picture/flags-sq-4/kor,-7
+41,2019-11-28T00:00:00,42,Australia,AUS,1457,1450,https://api.fifa.com/api/v1/picture/flags-sq-4/aus,7
+42,2019-11-28T00:00:00,43,Morocco,MAR,1456,1457,https://api.fifa.com/api/v1/picture/flags-sq-4/mar,-1
+43,2019-11-28T00:00:00,44,Norway,NOR,1451,1441,https://api.fifa.com/api/v1/picture/flags-sq-4/nor,10
+44,2019-11-28T00:00:00,45,Czech Republic,CZE,1446,1454,https://api.fifa.com/api/v1/picture/flags-sq-4/cze,-8
+45,2019-11-28T00:00:00,46,Costa Rica,CRC,1442,1436,https://api.fifa.com/api/v1/picture/flags-sq-4/crc,6
+46,2019-11-28T00:00:00,47,Ghana,GHA,1439,1426,https://api.fifa.com/api/v1/picture/flags-sq-4/gha,13
+47,2019-11-28T00:00:00,48,Jamaica,JAM,1437,1441,https://api.fifa.com/api/v1/picture/flags-sq-4/jam,-4
+48,2019-11-28T00:00:00,49,Bosnia and Herzegovina,BIH,1430,1435,https://api.fifa.com/api/v1/picture/flags-sq-4/bih,-5
+49,2019-11-28T00:00:00,50,Scotland,SCO,1422,1406,https://api.fifa.com/api/v1/picture/flags-sq-4/sco,16
+50,2019-11-28T00:00:00,51,Egypt,EGY,1420,1433,https://api.fifa.com/api/v1/picture/flags-sq-4/egy,-13
+51,2019-11-28T00:00:00,52,Hungary,HUN,1416,1429,https://api.fifa.com/api/v1/picture/flags-sq-4/hun,-13
+52,2019-11-28T00:00:00,53,Cameroon,CMR,1413,1409,https://api.fifa.com/api/v1/picture/flags-sq-4/cmr,4
+53,2019-11-28T00:00:00,54,Greece,GRE,1409,1388,https://api.fifa.com/api/v1/picture/flags-sq-4/gre,21
+54,2019-11-28T00:00:00,55,Qatar,QAT,1398,1391,https://api.fifa.com/api/v1/picture/flags-sq-4/qat,7
+55,2019-11-28T00:00:00,56,Mali,MLI,1389,1386,https://api.fifa.com/api/v1/picture/flags-sq-4/mli,3
+56,2019-11-28T00:00:00,56,Congo DR,COD,1389,1399,https://api.fifa.com/api/v1/picture/flags-sq-4/cod,-10
+57,2019-11-28T00:00:00,58,Finland,FIN,1386,1395,https://api.fifa.com/api/v1/picture/flags-sq-4/fin,-9
+58,2019-11-28T00:00:00,59,Bulgaria,BUL,1381,1371,https://api.fifa.com/api/v1/picture/flags-sq-4/bul,10
+59,2019-11-28T00:00:00,59,Burkina Faso,BFA,1381,1378,https://api.fifa.com/api/v1/picture/flags-sq-4/bfa,3
+60,2019-11-28T00:00:00,61,Côte d'Ivoire,CIV,1380,1392,https://api.fifa.com/api/v1/picture/flags-sq-4/civ,-12
+61,2019-11-28T00:00:00,62,Honduras,HON,1377,1368,https://api.fifa.com/api/v1/picture/flags-sq-4/hon,9
+62,2019-11-28T00:00:00,63,Ecuador,ECU,1368,1368,https://api.fifa.com/api/v1/picture/flags-sq-4/ecu,0
+63,2019-11-28T00:00:00,64,Montenegro,MNE,1365,1371,https://api.fifa.com/api/v1/picture/flags-sq-4/mne,-6
+64,2019-11-28T00:00:00,64,Slovenia,SVN,1365,1367,https://api.fifa.com/api/v1/picture/flags-sq-4/svn,-2
+65,2019-11-28T00:00:00,66,Albania,ALB,1356,1367,https://api.fifa.com/api/v1/picture/flags-sq-4/alb,-11
+66,2019-11-28T00:00:00,67,Saudi Arabia,KSA,1351,1339,https://api.fifa.com/api/v1/picture/flags-sq-4/ksa,12
+67,2019-11-28T00:00:00,68,North Macedonia,MKD,1347,1344,https://api.fifa.com/api/v1/picture/flags-sq-4/mkd,3
+68,2019-11-28T00:00:00,69,El Salvador,SLV,1346,1336,https://api.fifa.com/api/v1/picture/flags-sq-4/slv,10
+69,2019-11-28T00:00:00,70,Iraq,IRQ,1340,1327,https://api.fifa.com/api/v1/picture/flags-sq-4/irq,13
+70,2019-11-28T00:00:00,71,United Arab Emirates,UAE,1338,1353,https://api.fifa.com/api/v1/picture/flags-sq-4/uae,-15
+71,2019-11-28T00:00:00,72,South Africa,RSA,1334,1337,https://api.fifa.com/api/v1/picture/flags-sq-4/rsa,-3
+72,2019-11-28T00:00:00,73,Canada,CAN,1331,1339,https://api.fifa.com/api/v1/picture/flags-sq-4/can,-8
+73,2019-11-28T00:00:00,74,Guinea,GUI,1328,1317,https://api.fifa.com/api/v1/picture/flags-sq-4/gui,11
+74,2019-11-28T00:00:00,75,China PR,CHN,1325,1339,https://api.fifa.com/api/v1/picture/flags-sq-4/chn,-14
+75,2019-11-28T00:00:00,76,Bolivia,BOL,1324,1324,https://api.fifa.com/api/v1/picture/flags-sq-4/bol,0
+76,2019-11-28T00:00:00,77,Uganda,UGA,1321,1311,https://api.fifa.com/api/v1/picture/flags-sq-4/uga,10
+77,2019-11-28T00:00:00,78,Cabo Verde,CPV,1318,1319,https://api.fifa.com/api/v1/picture/flags-sq-4/cpv,-1
+78,2019-11-28T00:00:00,79,Syria,SYR,1314,1292,https://api.fifa.com/api/v1/picture/flags-sq-4/syr,22
+79,2019-11-28T00:00:00,80,Curaçao,CUW,1313,1323,https://api.fifa.com/api/v1/picture/flags-sq-4/cuw,-10
+80,2019-11-28T00:00:00,81,Panama,PAN,1304,1310,https://api.fifa.com/api/v1/picture/flags-sq-4/pan,-6
+81,2019-11-28T00:00:00,81,Oman,OMA,1304,1289,https://api.fifa.com/api/v1/picture/flags-sq-4/oma,15
+82,2019-11-28T00:00:00,83,Gabon,GAB,1297,1285,https://api.fifa.com/api/v1/picture/flags-sq-4/gab,12
+83,2019-11-28T00:00:00,84,Benin,BEN,1295,1293,https://api.fifa.com/api/v1/picture/flags-sq-4/ben,2
+84,2019-11-28T00:00:00,85,Uzbekistan,UZB,1289,1287,https://api.fifa.com/api/v1/picture/flags-sq-4/uzb,2
+85,2019-11-28T00:00:00,86,Haiti,HAI,1285,1281,https://api.fifa.com/api/v1/picture/flags-sq-4/hai,4
+86,2019-11-28T00:00:00,87,Belarus,BLR,1280,1286,https://api.fifa.com/api/v1/picture/flags-sq-4/blr,-6
+87,2019-11-28T00:00:00,88,Zambia,ZAM,1277,1299,https://api.fifa.com/api/v1/picture/flags-sq-4/zam,-22
+88,2019-11-28T00:00:00,89,Congo,CGO,1269,1265,https://api.fifa.com/api/v1/picture/flags-sq-4/cgo,4
+89,2019-11-28T00:00:00,89,Lebanon,LBN,1269,1266,https://api.fifa.com/api/v1/picture/flags-sq-4/lbn,3
+90,2019-11-28T00:00:00,91,Madagascar,MAD,1267,1249,https://api.fifa.com/api/v1/picture/flags-sq-4/mad,18
+91,2019-11-28T00:00:00,91,Georgia,GEO,1267,1274,https://api.fifa.com/api/v1/picture/flags-sq-4/geo,-7
+92,2019-11-28T00:00:00,93,Israel,ISR,1260,1278,https://api.fifa.com/api/v1/picture/flags-sq-4/isr,-18
+93,2019-11-28T00:00:00,94,Vietnam,VIE,1258,1245,https://api.fifa.com/api/v1/picture/flags-sq-4/vie,13
+94,2019-11-28T00:00:00,95,Cyprus,CYP,1251,1263,https://api.fifa.com/api/v1/picture/flags-sq-4/cyp,-12
+95,2019-11-28T00:00:00,96,Kyrgyz Republic,KGZ,1240,1252,https://api.fifa.com/api/v1/picture/flags-sq-4/kgz,-12
+96,2019-11-28T00:00:00,97,Jordan,JOR,1238,1236,https://api.fifa.com/api/v1/picture/flags-sq-4/jor,2
+97,2019-11-28T00:00:00,98,Luxembourg,LUX,1236,1248,https://api.fifa.com/api/v1/picture/flags-sq-4/lux,-12
+98,2019-11-28T00:00:00,99,Mauritania,MTN,1223,1205,https://api.fifa.com/api/v1/picture/flags-sq-4/mtn,18
+99,2019-11-28T00:00:00,100,Bahrain,BHR,1219,1220,https://api.fifa.com/api/v1/picture/flags-sq-4/bhr,-1
+100,2019-11-28T00:00:00,101,Libya,LBY,1215,1211,https://api.fifa.com/api/v1/picture/flags-sq-4/lby,4
+101,2019-11-28T00:00:00,102,Armenia,ARM,1213,1226,https://api.fifa.com/api/v1/picture/flags-sq-4/arm,-13
+102,2019-11-28T00:00:00,103,Estonia,EST,1202,1209,https://api.fifa.com/api/v1/picture/flags-sq-4/est,-7
+103,2019-11-28T00:00:00,104,Trinidad and Tobago,TRI,1201,1213,https://api.fifa.com/api/v1/picture/flags-sq-4/tri,-12
+104,2019-11-28T00:00:00,105,Mozambique,MOZ,1200,1186,https://api.fifa.com/api/v1/picture/flags-sq-4/moz,14
+105,2019-11-28T00:00:00,106,Palestine,PLE,1199,1226,https://api.fifa.com/api/v1/picture/flags-sq-4/ple,-27
+106,2019-11-28T00:00:00,106,Kenya,KEN,1199,1195,https://api.fifa.com/api/v1/picture/flags-sq-4/ken,4
+107,2019-11-28T00:00:00,108,India,IND,1187,1201,https://api.fifa.com/api/v1/picture/flags-sq-4/ind,-14
+108,2019-11-28T00:00:00,109,Central African Republic,CTA,1184,1186,https://api.fifa.com/api/v1/picture/flags-sq-4/cta,-2
+109,2019-11-28T00:00:00,110,Faroe Islands,FRO,1181,1192,https://api.fifa.com/api/v1/picture/flags-sq-4/fro,-11
+110,2019-11-28T00:00:00,111,Zimbabwe,ZIM,1180,1167,https://api.fifa.com/api/v1/picture/flags-sq-4/zim,13
+111,2019-11-28T00:00:00,112,Niger,NIG,1179,1198,https://api.fifa.com/api/v1/picture/flags-sq-4/nig,-19
+112,2019-11-28T00:00:00,113,Thailand,THA,1178,1193,https://api.fifa.com/api/v1/picture/flags-sq-4/tha,-15
+113,2019-11-28T00:00:00,114,Azerbaijan,AZE,1177,1189,https://api.fifa.com/api/v1/picture/flags-sq-4/aze,-12
+114,2019-11-28T00:00:00,115,Kosovo,KVX,1174,1184,https://api.fifa.com/api/v1/picture/flags-sq-4/kvx,-10
+115,2019-11-28T00:00:00,116,Korea DPR,PRK,1170,1182,https://api.fifa.com/api/v1/picture/flags-sq-4/prk,-12
+116,2019-11-28T00:00:00,117,Namibia,NAM,1160,1163,https://api.fifa.com/api/v1/picture/flags-sq-4/nam,-3
+117,2019-11-28T00:00:00,118,Kazakhstan,KAZ,1155,1157,https://api.fifa.com/api/v1/picture/flags-sq-4/kaz,-2
+118,2019-11-28T00:00:00,118,Sierra Leone,SLE,1155,1167,https://api.fifa.com/api/v1/picture/flags-sq-4/sle,-12
+119,2019-11-28T00:00:00,118,Guinea-Bissau,GNB,1155,1155,https://api.fifa.com/api/v1/picture/flags-sq-4/gnb,0
+120,2019-11-28T00:00:00,121,Tajikistan,TJK,1152,1168,https://api.fifa.com/api/v1/picture/flags-sq-4/tjk,-16
+121,2019-11-28T00:00:00,122,New Zealand,NZL,1149,1157,https://api.fifa.com/api/v1/picture/flags-sq-4/nzl,-8
+122,2019-11-28T00:00:00,123,Malawi,MWI,1141,1140,https://api.fifa.com/api/v1/picture/flags-sq-4/mwi,1
+123,2019-11-28T00:00:00,124,Angola,ANG,1136,1161,https://api.fifa.com/api/v1/picture/flags-sq-4/ang,-25
+124,2019-11-28T00:00:00,124,Philippines,PHI,1136,1134,https://api.fifa.com/api/v1/picture/flags-sq-4/phi,2
+125,2019-11-28T00:00:00,126,Antigua and Barbuda,ATG,1127,1129,https://api.fifa.com/api/v1/picture/flags-sq-4/atg,-2
+126,2019-11-28T00:00:00,126,Togo,TOG,1127,1140,https://api.fifa.com/api/v1/picture/flags-sq-4/tog,-13
+127,2019-11-28T00:00:00,128,Sudan,SDN,1112,1111,https://api.fifa.com/api/v1/picture/flags-sq-4/sdn,1
+128,2019-11-28T00:00:00,129,Turkmenistan,TKM,1107,1084,https://api.fifa.com/api/v1/picture/flags-sq-4/tkm,23
+129,2019-11-28T00:00:00,130,Guatemala,GUA,1106,1094,https://api.fifa.com/api/v1/picture/flags-sq-4/gua,12
+130,2019-11-28T00:00:00,131,Rwanda,RWA,1089,1106,https://api.fifa.com/api/v1/picture/flags-sq-4/rwa,-17
+131,2019-11-28T00:00:00,131,Lithuania,LTU,1089,1086,https://api.fifa.com/api/v1/picture/flags-sq-4/ltu,3
+132,2019-11-28T00:00:00,133,Comoros,COM,1088,1067,https://api.fifa.com/api/v1/picture/flags-sq-4/com,21
+133,2019-11-28T00:00:00,134,Tanzania,TAN,1086,1084,https://api.fifa.com/api/v1/picture/flags-sq-4/tan,2
+134,2019-11-28T00:00:00,135,Andorra,AND,1082,1080,https://api.fifa.com/api/v1/picture/flags-sq-4/and,2
+135,2019-11-28T00:00:00,136,Myanmar,MYA,1081,1055,https://api.fifa.com/api/v1/picture/flags-sq-4/mya,26
+136,2019-11-28T00:00:00,137,Latvia,LVA,1079,1063,https://api.fifa.com/api/v1/picture/flags-sq-4/lva,16
+137,2019-11-28T00:00:00,138,Chinese Taipei,TPE,1078,1102,https://api.fifa.com/api/v1/picture/flags-sq-4/tpe,-24
+138,2019-11-28T00:00:00,139,Hong Kong,HKG,1075,1061,https://api.fifa.com/api/v1/picture/flags-sq-4/hkg,14
+139,2019-11-28T00:00:00,140,Lesotho,LES,1074,1076,https://api.fifa.com/api/v1/picture/flags-sq-4/les,-2
+140,2019-11-28T00:00:00,140,St. Kitts and Nevis,SKN,1074,1076,https://api.fifa.com/api/v1/picture/flags-sq-4/skn,-2
+141,2019-11-28T00:00:00,142,Solomon Islands,SOL,1073,1073,https://api.fifa.com/api/v1/picture/flags-sq-4/sol,0
+142,2019-11-28T00:00:00,142,Suriname,SUR,1073,1052,https://api.fifa.com/api/v1/picture/flags-sq-4/sur,21
+143,2019-11-28T00:00:00,144,Yemen,YEM,1072,1070,https://api.fifa.com/api/v1/picture/flags-sq-4/yem,2
+144,2019-11-28T00:00:00,145,Equatorial Guinea,EQG,1066,1083,https://api.fifa.com/api/v1/picture/flags-sq-4/eqg,-17
+145,2019-11-28T00:00:00,146,Ethiopia,ETH,1061,1049,https://api.fifa.com/api/v1/picture/flags-sq-4/eth,12
+146,2019-11-28T00:00:00,147,Kuwait,KUW,1059,1034,https://api.fifa.com/api/v1/picture/flags-sq-4/kuw,25
+147,2019-11-28T00:00:00,148,Botswana,BOT,1055,1057,https://api.fifa.com/api/v1/picture/flags-sq-4/bot,-2
+148,2019-11-28T00:00:00,149,Afghanistan,AFG,1052,1054,https://api.fifa.com/api/v1/picture/flags-sq-4/afg,-2
+149,2019-11-28T00:00:00,150,Nicaragua,NCA,1050,1077,https://api.fifa.com/api/v1/picture/flags-sq-4/nca,-27
+150,2019-11-28T00:00:00,151,Burundi,BDI,1049,1063,https://api.fifa.com/api/v1/picture/flags-sq-4/bdi,-14
+151,2019-11-28T00:00:00,152,Liberia,LBR,1047,1047,https://api.fifa.com/api/v1/picture/flags-sq-4/lbr,0
+152,2019-11-28T00:00:00,153,Eswatini,SWZ,1042,1055,https://api.fifa.com/api/v1/picture/flags-sq-4/swz,-13
+153,2019-11-28T00:00:00,154,Malaysia,MAS,1040,1009,https://api.fifa.com/api/v1/picture/flags-sq-4/mas,31
+154,2019-11-28T00:00:00,155,Maldives,MDV,1038,1039,https://api.fifa.com/api/v1/picture/flags-sq-4/mdv,-1
+155,2019-11-28T00:00:00,156,New Caledonia,NCL,1035,1035,https://api.fifa.com/api/v1/picture/flags-sq-4/ncl,0
+156,2019-11-28T00:00:00,157,Singapore,SIN,1020,1008,https://api.fifa.com/api/v1/picture/flags-sq-4/sin,12
+157,2019-11-28T00:00:00,158,Dominican Republic,DOM,1019,1040,https://api.fifa.com/api/v1/picture/flags-sq-4/dom,-21
+158,2019-11-28T00:00:00,159,Gambia,GAM,1015,990,https://api.fifa.com/api/v1/picture/flags-sq-4/gam,25
+159,2019-11-28T00:00:00,159,Grenada,GRN,1015,1001,https://api.fifa.com/api/v1/picture/flags-sq-4/grn,14
+160,2019-11-28T00:00:00,161,Tahiti,TAH,1014,1014,https://api.fifa.com/api/v1/picture/flags-sq-4/tah,0
+161,2019-11-28T00:00:00,162,Barbados,BRB,1011,1001,https://api.fifa.com/api/v1/picture/flags-sq-4/brb,10
+162,2019-11-28T00:00:00,163,Fiji,FIJ,996,996,https://api.fifa.com/api/v1/picture/flags-sq-4/fij,0
+163,2019-11-28T00:00:00,163,Vanuatu,VAN,996,996,https://api.fifa.com/api/v1/picture/flags-sq-4/van,0
+164,2019-11-28T00:00:00,165,Papua New Guinea,PNG,991,991,https://api.fifa.com/api/v1/picture/flags-sq-4/png,0
+165,2019-11-28T00:00:00,166,Guyana,GUY,988,969,https://api.fifa.com/api/v1/picture/flags-sq-4/guy,19
+166,2019-11-28T00:00:00,167,St. Vincent and the Grenadines,VIN,986,986,https://api.fifa.com/api/v1/picture/flags-sq-4/vin,0
+167,2019-11-28T00:00:00,168,Bermuda,BER,984,986,https://api.fifa.com/api/v1/picture/flags-sq-4/ber,-2
+168,2019-11-28T00:00:00,169,South Sudan,SSD,983,997,https://api.fifa.com/api/v1/picture/flags-sq-4/ssd,-14
+169,2019-11-28T00:00:00,170,Nepal,NEP,974,988,https://api.fifa.com/api/v1/picture/flags-sq-4/nep,-14
+170,2019-11-28T00:00:00,170,Belize,BLZ,974,986,https://api.fifa.com/api/v1/picture/flags-sq-4/blz,-12
+171,2019-11-28T00:00:00,172,Mauritius,MRI,968,970,https://api.fifa.com/api/v1/picture/flags-sq-4/mri,-2
+172,2019-11-28T00:00:00,173,Indonesia,IDN,964,975,https://api.fifa.com/api/v1/picture/flags-sq-4/idn,-11
+173,2019-11-28T00:00:00,173,Cambodia,CAM,964,974,https://api.fifa.com/api/v1/picture/flags-sq-4/cam,-10
+174,2019-11-28T00:00:00,175,Moldova,MDA,959,963,https://api.fifa.com/api/v1/picture/flags-sq-4/mda,-4
+175,2019-11-28T00:00:00,176,St. Lucia,LCA,953,953,https://api.fifa.com/api/v1/picture/flags-sq-4/lca,0
+176,2019-11-28T00:00:00,177,Chad,CHA,943,955,https://api.fifa.com/api/v1/picture/flags-sq-4/cha,-12
+177,2019-11-28T00:00:00,178,Puerto Rico,PUR,941,940,https://api.fifa.com/api/v1/picture/flags-sq-4/pur,1
+178,2019-11-28T00:00:00,179,Cuba,CUB,936,938,https://api.fifa.com/api/v1/picture/flags-sq-4/cub,-2
+179,2019-11-28T00:00:00,180,Liechtenstein,LIE,926,933,https://api.fifa.com/api/v1/picture/flags-sq-4/lie,-7
+180,2019-11-28T00:00:00,181,São Tomé and Príncipe,STP,923,934,https://api.fifa.com/api/v1/picture/flags-sq-4/stp,-11
+181,2019-11-28T00:00:00,182,Macau,MAC,922,922,https://api.fifa.com/api/v1/picture/flags-sq-4/mac,0
+182,2019-11-28T00:00:00,183,Montserrat,MSR,921,911,https://api.fifa.com/api/v1/picture/flags-sq-4/msr,10
+183,2019-11-28T00:00:00,184,Malta,MLT,919,924,https://api.fifa.com/api/v1/picture/flags-sq-4/mlt,-5
+184,2019-11-28T00:00:00,184,Djibouti,DJI,919,916,https://api.fifa.com/api/v1/picture/flags-sq-4/dji,3
+185,2019-11-28T00:00:00,184,Dominica,DMA,919,913,https://api.fifa.com/api/v1/picture/flags-sq-4/dma,6
+186,2019-11-28T00:00:00,187,Bangladesh,BAN,915,920,https://api.fifa.com/api/v1/picture/flags-sq-4/ban,-5
+187,2019-11-28T00:00:00,188,Laos,LAO,912,912,https://api.fifa.com/api/v1/picture/flags-sq-4/lao,0
+188,2019-11-28T00:00:00,189,Bhutan,BHU,911,911,https://api.fifa.com/api/v1/picture/flags-sq-4/bhu,0
+189,2019-11-28T00:00:00,190,Mongolia,MNG,906,915,https://api.fifa.com/api/v1/picture/flags-sq-4/mng,-9
+190,2019-11-28T00:00:00,191,Brunei Darussalam,BRU,904,904,https://api.fifa.com/api/v1/picture/flags-sq-4/bru,0
+191,2019-11-28T00:00:00,192,American Samoa,ASA,900,900,https://api.fifa.com/api/v1/picture/flags-sq-4/asa,0
+192,2019-11-28T00:00:00,193,Cayman Islands,CAY,897,895,https://api.fifa.com/api/v1/picture/flags-sq-4/cay,2
+193,2019-11-28T00:00:00,194,Samoa,SAM,894,894,https://api.fifa.com/api/v1/picture/flags-sq-4/sam,0
+194,2019-11-28T00:00:00,195,Bahamas,BAH,880,867,https://api.fifa.com/api/v1/picture/flags-sq-4/bah,13
+195,2019-11-28T00:00:00,196,Somalia,SOM,879,879,https://api.fifa.com/api/v1/picture/flags-sq-4/som,0
+196,2019-11-28T00:00:00,196,Gibraltar,GIB,879,882,https://api.fifa.com/api/v1/picture/flags-sq-4/gib,-3
+197,2019-11-28T00:00:00,196,Timor-Leste,TLS,879,879,https://api.fifa.com/api/v1/picture/flags-sq-4/tls,0
+198,2019-11-28T00:00:00,199,Guam,GUM,873,882,https://api.fifa.com/api/v1/picture/flags-sq-4/gum,-9
+199,2019-11-28T00:00:00,200,Seychelles,SEY,868,868,https://api.fifa.com/api/v1/picture/flags-sq-4/sey,0
+200,2019-11-28T00:00:00,201,Aruba,ARU,867,885,https://api.fifa.com/api/v1/picture/flags-sq-4/aru,-18
+201,2019-11-28T00:00:00,201,Pakistan,PAK,867,867,https://api.fifa.com/api/v1/picture/flags-sq-4/pak,0
+202,2019-11-28T00:00:00,203,Tonga,TGA,862,862,https://api.fifa.com/api/v1/picture/flags-sq-4/tga,0
+203,2019-11-28T00:00:00,203,Turks and Caicos Islands,TCA,862,862,https://api.fifa.com/api/v1/picture/flags-sq-4/tca,0
+204,2019-11-28T00:00:00,205,Sri Lanka,SRI,856,864,https://api.fifa.com/api/v1/picture/flags-sq-4/sri,-8
+205,2019-11-28T00:00:00,205,Eritrea,ERI,856,856,https://api.fifa.com/api/v1/picture/flags-sq-4/eri,0
+206,2019-11-28T00:00:00,207,US Virgin Islands,VIR,844,856,https://api.fifa.com/api/v1/picture/flags-sq-4/vir,-12
+207,2019-11-28T00:00:00,208,British Virgin Islands,VGB,842,854,https://api.fifa.com/api/v1/picture/flags-sq-4/vgb,-12
+208,2019-11-28T00:00:00,209,San Marino,SMR,824,831,https://api.fifa.com/api/v1/picture/flags-sq-4/smr,-7
+209,2019-11-28T00:00:00,210,Anguilla,AIA,821,831,https://api.fifa.com/api/v1/picture/flags-sq-4/aia,-10

@@ -1,0 +1,2022 @@
+[
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "1",
+        "country": "France",
+        "ct": "FRA",
+        "points": 809,
+        "previousPoints": 812,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fra",
+        "delta": -3
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "2",
+        "country": "Argentina",
+        "ct": "ARG",
+        "points": 799,
+        "previousPoints": 801,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arg",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 791,
+        "previousPoints": 793,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "4",
+        "country": "Portugal",
+        "ct": "POR",
+        "points": 738,
+        "previousPoints": 741,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/por",
+        "delta": -3
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "5",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 737,
+        "previousPoints": 739,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "6",
+        "country": "Italy",
+        "ct": "ITA",
+        "points": 731,
+        "previousPoints": 734,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ita",
+        "delta": -3
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "7",
+        "country": "Spain",
+        "ct": "ESP",
+        "points": 727,
+        "previousPoints": 730,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/esp",
+        "delta": -3
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "8",
+        "country": "Netherlands",
+        "ct": "NED",
+        "points": 720,
+        "previousPoints": 722,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ned",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "9",
+        "country": "Mexico",
+        "ct": "MEX",
+        "points": 720,
+        "previousPoints": 714,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mex",
+        "delta": 6
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "10",
+        "country": "England",
+        "ct": "ENG",
+        "points": 709,
+        "previousPoints": 712,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eng",
+        "delta": -3
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "11",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 707,
+        "previousPoints": 710,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -3
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "12",
+        "country": "Germany",
+        "ct": "GER",
+        "points": 704,
+        "previousPoints": 707,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ger",
+        "delta": -3
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "13",
+        "country": "USA",
+        "ct": "USA",
+        "points": 696,
+        "previousPoints": 662,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/usa",
+        "delta": 34
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "14",
+        "country": "Paraguay",
+        "ct": "PAR",
+        "points": 689,
+        "previousPoints": 691,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/par",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "15",
+        "country": "Czech Republic",
+        "ct": "CZE",
+        "points": 686,
+        "previousPoints": 689,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cze",
+        "delta": -3
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "16",
+        "country": "Romania",
+        "ct": "ROU",
+        "points": 684,
+        "previousPoints": 686,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rou",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "17",
+        "country": "Sweden",
+        "ct": "SWE",
+        "points": 679,
+        "previousPoints": 676,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swe",
+        "delta": 3
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "18",
+        "country": "Cameroon",
+        "ct": "CMR",
+        "points": 673,
+        "previousPoints": 614,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cmr",
+        "delta": 59
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "19",
+        "country": "Republic of Ireland",
+        "ct": "IRL",
+        "points": 670,
+        "previousPoints": 672,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irl",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "20",
+        "country": "Denmark",
+        "ct": "DEN",
+        "points": 670,
+        "previousPoints": 672,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/den",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "21",
+        "country": "Croatia",
+        "ct": "CRO",
+        "points": 667,
+        "previousPoints": 668,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cro",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "22",
+        "country": "Belgium",
+        "ct": "BEL",
+        "points": 664,
+        "previousPoints": 666,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bel",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "23",
+        "country": "Russia",
+        "ct": "RUS",
+        "points": 662,
+        "previousPoints": 665,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rus",
+        "delta": -3
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "24",
+        "country": "Uruguay",
+        "ct": "URU",
+        "points": 662,
+        "previousPoints": 664,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uru",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "25",
+        "country": "Turkey",
+        "ct": "TUR",
+        "points": 661,
+        "previousPoints": 663,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tur",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "26",
+        "country": "Costa Rica",
+        "ct": "CRC",
+        "points": 649,
+        "previousPoints": 635,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/crc",
+        "delta": 14
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "27",
+        "country": "Honduras",
+        "ct": "HON",
+        "points": 648,
+        "previousPoints": 650,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hon",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "28",
+        "country": "Slovenia",
+        "ct": "SVN",
+        "points": 648,
+        "previousPoints": 650,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svn",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "29",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 647,
+        "previousPoints": 649,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "30",
+        "country": "Norway",
+        "ct": "NOR",
+        "points": 647,
+        "previousPoints": 650,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nor",
+        "delta": -3
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "31",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 640,
+        "previousPoints": 604,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 36
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "32",
+        "country": "IR Iran",
+        "ct": "IRN",
+        "points": 639,
+        "previousPoints": 641,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irn",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "33",
+        "country": "South Africa",
+        "ct": "RSA",
+        "points": 631,
+        "previousPoints": 629,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rsa",
+        "delta": 2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "34",
+        "country": "Saudi Arabia",
+        "ct": "KSA",
+        "points": 629,
+        "previousPoints": 629,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ksa",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "35",
+        "country": "Trinidad and Tobago",
+        "ct": "TRI",
+        "points": 629,
+        "previousPoints": 629,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tri",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "36",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 627,
+        "previousPoints": 629,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "37",
+        "country": "Ecuador",
+        "ct": "ECU",
+        "points": 626,
+        "previousPoints": 613,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ecu",
+        "delta": 13
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "38",
+        "country": "Japan",
+        "ct": "JPN",
+        "points": 624,
+        "previousPoints": 626,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jpn",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "39",
+        "country": "Morocco",
+        "ct": "MAR",
+        "points": 618,
+        "previousPoints": 619,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mar",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "40",
+        "country": "Egypt",
+        "ct": "EGY",
+        "points": 607,
+        "previousPoints": 601,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/egy",
+        "delta": 6
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "41",
+        "country": "Korea Republic",
+        "ct": "KOR",
+        "points": 602,
+        "previousPoints": 599,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kor",
+        "delta": 3
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "42",
+        "country": "Chile",
+        "ct": "CHI",
+        "points": 601,
+        "previousPoints": 604,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chi",
+        "delta": -3
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "43",
+        "country": "Slovakia",
+        "ct": "SVK",
+        "points": 597,
+        "previousPoints": 588,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svk",
+        "delta": 9
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "44",
+        "country": "Peru",
+        "ct": "PER",
+        "points": 597,
+        "previousPoints": 598,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/per",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "45",
+        "country": "Senegal",
+        "ct": "SEN",
+        "points": 595,
+        "previousPoints": 536,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sen",
+        "delta": 59
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "46",
+        "country": "C\u00f4te d'Ivoire",
+        "ct": "CIV",
+        "points": 594,
+        "previousPoints": 596,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/civ",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "47",
+        "country": "Finland",
+        "ct": "FIN",
+        "points": 591,
+        "previousPoints": 590,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fin",
+        "delta": 1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "48",
+        "country": "Ukraine",
+        "ct": "UKR",
+        "points": 591,
+        "previousPoints": 593,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ukr",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "49",
+        "country": "Australia",
+        "ct": "AUS",
+        "points": 584,
+        "previousPoints": 586,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aus",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "50",
+        "country": "Israel",
+        "ct": "ISR",
+        "points": 580,
+        "previousPoints": 583,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isr",
+        "delta": -3
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "51",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 575,
+        "previousPoints": 577,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "52",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 574,
+        "previousPoints": 576,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "53",
+        "country": "China PR",
+        "ct": "CHN",
+        "points": 568,
+        "previousPoints": 565,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chn",
+        "delta": 3
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "54",
+        "country": "Iceland",
+        "ct": "ISL",
+        "points": 567,
+        "previousPoints": 569,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isl",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "55",
+        "country": "Jamaica",
+        "ct": "JAM",
+        "points": 565,
+        "previousPoints": 567,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jam",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "56",
+        "country": "Ghana",
+        "ct": "GHA",
+        "points": 564,
+        "previousPoints": 549,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gha",
+        "delta": 15
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "57",
+        "country": "Angola",
+        "ct": "ANG",
+        "points": 562,
+        "previousPoints": 566,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ang",
+        "delta": -4
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "58",
+        "country": "Austria",
+        "ct": "AUT",
+        "points": 556,
+        "previousPoints": 558,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aut",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "59",
+        "country": "Greece",
+        "ct": "GRE",
+        "points": 554,
+        "previousPoints": 556,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gre",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "60",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 550,
+        "previousPoints": 552,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "61",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 548,
+        "previousPoints": 550,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "62",
+        "country": "Zimbabwe",
+        "ct": "ZIM",
+        "points": 545,
+        "previousPoints": 540,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zim",
+        "delta": 5
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "63",
+        "country": "Thailand",
+        "ct": "THA",
+        "points": 543,
+        "previousPoints": 544,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tha",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "64",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 542,
+        "previousPoints": 543,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "65",
+        "country": "Uzbekistan",
+        "ct": "UZB",
+        "points": 541,
+        "previousPoints": 542,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uzb",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "66",
+        "country": "Guatemala",
+        "ct": "GUA",
+        "points": 541,
+        "previousPoints": 550,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gua",
+        "delta": -9
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "67",
+        "country": "Switzerland",
+        "ct": "SUI",
+        "points": 538,
+        "previousPoints": 540,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sui",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "68",
+        "country": "Hungary",
+        "ct": "HUN",
+        "points": 535,
+        "previousPoints": 537,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hun",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "69",
+        "country": "Togo",
+        "ct": "TOG",
+        "points": 527,
+        "previousPoints": 525,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tog",
+        "delta": 2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "70",
+        "country": "Iraq",
+        "ct": "IRQ",
+        "points": 525,
+        "previousPoints": 515,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irq",
+        "delta": 10
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "71",
+        "country": "Bolivia",
+        "ct": "BOL",
+        "points": 521,
+        "previousPoints": 522,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bol",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "72",
+        "country": "Bosnia and Herzegovina",
+        "ct": "BIH",
+        "points": 520,
+        "previousPoints": 522,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bih",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "73",
+        "country": "Canada",
+        "ct": "CAN",
+        "points": 517,
+        "previousPoints": 457,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/can",
+        "delta": 60
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "74",
+        "country": "Congo DR",
+        "ct": "COD",
+        "points": 515,
+        "previousPoints": 508,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cod",
+        "delta": 7
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "75",
+        "country": "Liberia",
+        "ct": "LBR",
+        "points": 510,
+        "previousPoints": 511,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbr",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "76",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 510,
+        "previousPoints": 511,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "77",
+        "country": "Cuba",
+        "ct": "CUB",
+        "points": 509,
+        "previousPoints": 509,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cub",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "78",
+        "country": "Haiti",
+        "ct": "HAI",
+        "points": 508,
+        "previousPoints": 491,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hai",
+        "delta": 17
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "79",
+        "country": "Qatar",
+        "ct": "QAT",
+        "points": 505,
+        "previousPoints": 497,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/qat",
+        "delta": 8
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "80",
+        "country": "Kuwait",
+        "ct": "KUW",
+        "points": 505,
+        "previousPoints": 509,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kuw",
+        "delta": -4
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "81",
+        "country": "Burkina Faso",
+        "ct": "BFA",
+        "points": 503,
+        "previousPoints": 506,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bfa",
+        "delta": -3
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "82",
+        "country": "Cyprus",
+        "ct": "CYP",
+        "points": 499,
+        "previousPoints": 500,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cyp",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "83",
+        "country": "Venezuela",
+        "ct": "VEN",
+        "points": 492,
+        "previousPoints": 493,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ven",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "84",
+        "country": "El Salvador",
+        "ct": "SLV",
+        "points": 482,
+        "previousPoints": 469,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/slv",
+        "delta": 13
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "85",
+        "country": "New Zealand",
+        "ct": "NZL",
+        "points": 476,
+        "previousPoints": 477,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nzl",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "86",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 475,
+        "previousPoints": 419,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 56
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "87",
+        "country": "Estonia",
+        "ct": "EST",
+        "points": 475,
+        "previousPoints": 476,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/est",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "88",
+        "country": "Belarus",
+        "ct": "BLR",
+        "points": 473,
+        "previousPoints": 474,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blr",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "89",
+        "country": "Indonesia",
+        "ct": "IDN",
+        "points": 466,
+        "previousPoints": 467,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/idn",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "90",
+        "country": "Syria",
+        "ct": "SYR",
+        "points": 466,
+        "previousPoints": 462,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/syr",
+        "delta": 4
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "91",
+        "country": "Oman",
+        "ct": "OMA",
+        "points": 464,
+        "previousPoints": 464,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/oma",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "92",
+        "country": "Northern Ireland",
+        "ct": "NIR",
+        "points": 463,
+        "previousPoints": 465,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nir",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "93",
+        "country": "FYR Macedonia",
+        "ct": "MKD",
+        "points": 461,
+        "previousPoints": 465,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mkd",
+        "delta": -4
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "94",
+        "country": "Congo",
+        "ct": "CGO",
+        "points": 455,
+        "previousPoints": 453,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cgo",
+        "delta": 2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "95",
+        "country": "Lebanon",
+        "ct": "LBN",
+        "points": 455,
+        "previousPoints": 454,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbn",
+        "delta": 1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "96",
+        "country": "Lithuania",
+        "ct": "LTU",
+        "points": 454,
+        "previousPoints": 447,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ltu",
+        "delta": 7
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "97",
+        "country": "Albania",
+        "ct": "ALB",
+        "points": 452,
+        "previousPoints": 457,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alb",
+        "delta": -5
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "98",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 447,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "99",
+        "country": "Kazakhstan",
+        "ct": "KAZ",
+        "points": 441,
+        "previousPoints": 442,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kaz",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "100",
+        "country": "Jordan",
+        "ct": "JOR",
+        "points": 440,
+        "previousPoints": 443,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jor",
+        "delta": -3
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "101",
+        "country": "Wales",
+        "ct": "WAL",
+        "points": 439,
+        "previousPoints": 441,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/wal",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "102",
+        "country": "Namibia",
+        "ct": "NAM",
+        "points": 436,
+        "previousPoints": 438,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nam",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "103",
+        "country": "Gabon",
+        "ct": "GAB",
+        "points": 436,
+        "previousPoints": 438,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gab",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "104",
+        "country": "Moldova",
+        "ct": "MDA",
+        "points": 435,
+        "previousPoints": 437,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mda",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "105",
+        "country": "Kenya",
+        "ct": "KEN",
+        "points": 429,
+        "previousPoints": 431,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ken",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "106",
+        "country": "Vietnam",
+        "ct": "VIE",
+        "points": 429,
+        "previousPoints": 430,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vie",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "107",
+        "country": "Latvia",
+        "ct": "LVA",
+        "points": 428,
+        "previousPoints": 430,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lva",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "108",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 419,
+        "previousPoints": 421,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "109",
+        "country": "Guinea",
+        "ct": "GUI",
+        "points": 411,
+        "previousPoints": 413,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gui",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "110",
+        "country": "Bahrain",
+        "ct": "BHR",
+        "points": 410,
+        "previousPoints": 400,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhr",
+        "delta": 10
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "111",
+        "country": "Panama",
+        "ct": "PAN",
+        "points": 399,
+        "previousPoints": 400,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pan",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "112",
+        "country": "Malaysia",
+        "ct": "MAS",
+        "points": 396,
+        "previousPoints": 397,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mas",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "113",
+        "country": "Turkmenistan",
+        "ct": "TKM",
+        "points": 389,
+        "previousPoints": 390,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tkm",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "114",
+        "country": "Azerbaijan",
+        "ct": "AZE",
+        "points": 388,
+        "previousPoints": 390,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aze",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "115",
+        "country": "Singapore",
+        "ct": "SIN",
+        "points": 386,
+        "previousPoints": 387,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sin",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "116",
+        "country": "Libya",
+        "ct": "LBY",
+        "points": 384,
+        "previousPoints": 384,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lby",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "117",
+        "country": "Uganda",
+        "ct": "UGA",
+        "points": 376,
+        "previousPoints": 378,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uga",
+        "delta": -2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "118",
+        "country": "Sudan",
+        "ct": "SDN",
+        "points": 374,
+        "previousPoints": 373,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sdn",
+        "delta": 1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "119",
+        "country": "Faroe Islands",
+        "ct": "FRO",
+        "points": 373,
+        "previousPoints": 374,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fro",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "120",
+        "country": "India",
+        "ct": "IND",
+        "points": 364,
+        "previousPoints": 362,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ind",
+        "delta": 2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "121",
+        "country": "Malawi",
+        "ct": "MWI",
+        "points": 364,
+        "previousPoints": 365,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mwi",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "122",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 360,
+        "previousPoints": 361,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "123",
+        "country": "Fiji",
+        "ct": "FIJ",
+        "points": 348,
+        "previousPoints": 349,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fij",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "124",
+        "country": "Mauritius",
+        "ct": "MRI",
+        "points": 343,
+        "previousPoints": 344,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mri",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "125",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 337,
+        "previousPoints": 337,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "126",
+        "country": "Malta",
+        "ct": "MLT",
+        "points": 336,
+        "previousPoints": 325,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mlt",
+        "delta": 11
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "127",
+        "country": "Burundi",
+        "ct": "BDI",
+        "points": 336,
+        "previousPoints": 337,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bdi",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "128",
+        "country": "Tahiti",
+        "ct": "TAH",
+        "points": 335,
+        "previousPoints": 336,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tah",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "129",
+        "country": "Mozambique",
+        "ct": "MOZ",
+        "points": 333,
+        "previousPoints": 334,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/moz",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "130",
+        "country": "St. Kitts and Nevis",
+        "ct": "SKN",
+        "points": 331,
+        "previousPoints": 329,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/skn",
+        "delta": 2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "131",
+        "country": "St. Lucia",
+        "ct": "LCA",
+        "points": 326,
+        "previousPoints": 327,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lca",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "132",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 323,
+        "previousPoints": 323,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "133",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 322,
+        "previousPoints": 323,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "134",
+        "country": "Lesotho",
+        "ct": "LES",
+        "points": 321,
+        "previousPoints": 322,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/les",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "135",
+        "country": "Grenada",
+        "ct": "GRN",
+        "points": 318,
+        "previousPoints": 312,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/grn",
+        "delta": 6
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "136",
+        "country": "Solomon Islands",
+        "ct": "SOL",
+        "points": 308,
+        "previousPoints": 309,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sol",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "137",
+        "country": "Yemen",
+        "ct": "YEM",
+        "points": 303,
+        "previousPoints": 304,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yem",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "138",
+        "country": "Ethiopia",
+        "ct": "ETH",
+        "points": 295,
+        "previousPoints": 296,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eth",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "139",
+        "country": "Korea DPR",
+        "ct": "PRK",
+        "points": 293,
+        "previousPoints": 294,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/prk",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "140",
+        "country": "Hong Kong",
+        "ct": "HKG",
+        "points": 289,
+        "previousPoints": 290,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hkg",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "141",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 289,
+        "previousPoints": 290,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "142",
+        "country": "Botswana",
+        "ct": "BOT",
+        "points": 274,
+        "previousPoints": 275,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bot",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "143",
+        "country": "Andorra",
+        "ct": "AND",
+        "points": 274,
+        "previousPoints": 274,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/and",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "144",
+        "country": "Suriname",
+        "ct": "SUR",
+        "points": 267,
+        "previousPoints": 268,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sur",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "145",
+        "country": "Luxembourg",
+        "ct": "LUX",
+        "points": 260,
+        "previousPoints": 261,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lux",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "146",
+        "country": "Sri Lanka",
+        "ct": "SRI",
+        "points": 254,
+        "previousPoints": 255,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sri",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "147",
+        "country": "Palestine",
+        "ct": "PLE",
+        "points": 253,
+        "previousPoints": 253,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ple",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "148",
+        "country": "Bangladesh",
+        "ct": "BAN",
+        "points": 249,
+        "previousPoints": 249,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ban",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "149",
+        "country": "Maldives",
+        "ct": "MDV",
+        "points": 248,
+        "previousPoints": 248,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mdv",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "150",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 246,
+        "previousPoints": 247,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "151",
+        "country": "Tanzania",
+        "ct": "TAN",
+        "points": 245,
+        "previousPoints": 246,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tan",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "152",
+        "country": "Liechtenstein",
+        "ct": "LIE",
+        "points": 241,
+        "previousPoints": 242,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lie",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "153",
+        "country": "Myanmar",
+        "ct": "MYA",
+        "points": 237,
+        "previousPoints": 237,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mya",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "154",
+        "country": "Gambia",
+        "ct": "GAM",
+        "points": 234,
+        "previousPoints": 235,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gam",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "155",
+        "country": "Tajikistan",
+        "ct": "TJK",
+        "points": 228,
+        "previousPoints": 229,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tjk",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "156",
+        "country": "Nepal",
+        "ct": "NEP",
+        "points": 219,
+        "previousPoints": 220,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nep",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "157",
+        "country": "Antigua and Barbuda",
+        "ct": "ATG",
+        "points": 217,
+        "previousPoints": 217,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/atg",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "158",
+        "country": "San Marino",
+        "ct": "SMR",
+        "points": 210,
+        "previousPoints": 211,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/smr",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "159",
+        "country": "Cape Verde Islands",
+        "ct": "CPV",
+        "points": 207,
+        "previousPoints": 208,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cpv",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "160",
+        "country": "Dominican Republic",
+        "ct": "DOM",
+        "points": 204,
+        "previousPoints": 204,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dom",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "161",
+        "country": "Dominica",
+        "ct": "DMA",
+        "points": 203,
+        "previousPoints": 204,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dma",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "162",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 202,
+        "previousPoints": 203,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "163",
+        "country": "British Virgin Islands",
+        "ct": "VGB",
+        "points": 202,
+        "previousPoints": 202,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vgb",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "164",
+        "country": "Kyrgyz Republic",
+        "ct": "KGZ",
+        "points": 201,
+        "previousPoints": 201,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kgz",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "165",
+        "country": "Cayman Islands",
+        "ct": "CAY",
+        "points": 194,
+        "previousPoints": 195,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cay",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "166",
+        "country": "Bermuda",
+        "ct": "BER",
+        "points": 192,
+        "previousPoints": 192,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ber",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "167",
+        "country": "Belize",
+        "ct": "BLZ",
+        "points": 186,
+        "previousPoints": 187,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blz",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "168",
+        "country": "Eritrea",
+        "ct": "ERI",
+        "points": 186,
+        "previousPoints": 186,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eri",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "169",
+        "country": "Vanuatu",
+        "ct": "VAN",
+        "points": 182,
+        "previousPoints": 182,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/van",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "170",
+        "country": "Cambodia",
+        "ct": "CAM",
+        "points": 179,
+        "previousPoints": 179,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cam",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "171",
+        "country": "Chinese Taipei",
+        "ct": "TPE",
+        "points": 174,
+        "previousPoints": 175,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tpe",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "172",
+        "country": "Samoa",
+        "ct": "SAM",
+        "points": 158,
+        "previousPoints": 158,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sam",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "173",
+        "country": "Tonga",
+        "ct": "TGA",
+        "points": 150,
+        "previousPoints": 151,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tga",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "174",
+        "country": "Guinea-Bissau",
+        "ct": "GNB",
+        "points": 149,
+        "previousPoints": 150,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gnb",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "175",
+        "country": "Philippines",
+        "ct": "PHI",
+        "points": 149,
+        "previousPoints": 149,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/phi",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "176",
+        "country": "Chad",
+        "ct": "CHA",
+        "points": 148,
+        "previousPoints": 148,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cha",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "177",
+        "country": "Guyana",
+        "ct": "GUY",
+        "points": 146,
+        "previousPoints": 147,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/guy",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "178",
+        "country": "Mauritania",
+        "ct": "MTN",
+        "points": 146,
+        "previousPoints": 147,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mtn",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "179",
+        "country": "Cook Islands",
+        "ct": "COK",
+        "points": 142,
+        "previousPoints": 143,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cok",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "180",
+        "country": "Macau",
+        "ct": "MAC",
+        "points": 113,
+        "previousPoints": 113,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mac",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "181",
+        "country": "Central African Republic",
+        "ct": "CTA",
+        "points": 109,
+        "previousPoints": 109,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cta",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "182",
+        "country": "Pakistan",
+        "ct": "PAK",
+        "points": 109,
+        "previousPoints": 109,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pak",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "183",
+        "country": "Bahamas",
+        "ct": "BAH",
+        "points": 106,
+        "previousPoints": 106,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bah",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "185",
+        "country": "Aruba",
+        "ct": "ARU",
+        "points": 101,
+        "previousPoints": 101,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aru",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "186",
+        "country": "Sao Tome e Principe",
+        "ct": "STP",
+        "points": 99,
+        "previousPoints": 99,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/stp",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "187",
+        "country": "Mongolia",
+        "ct": "MNG",
+        "points": 93,
+        "previousPoints": 94,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mng",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "188",
+        "country": "Nicaragua",
+        "ct": "NCA",
+        "points": 89,
+        "previousPoints": 89,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nca",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "189",
+        "country": "Brunei Darussalam",
+        "ct": "BRU",
+        "points": 86,
+        "previousPoints": 86,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bru",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "190",
+        "country": "Equatorial Guinea",
+        "ct": "EQG",
+        "points": 78,
+        "previousPoints": 78,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eqg",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "191",
+        "country": "Djibouti",
+        "ct": "DJI",
+        "points": 74,
+        "previousPoints": 75,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dji",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "192",
+        "country": "Niger",
+        "ct": "NIG",
+        "points": 72,
+        "previousPoints": 72,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nig",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "193",
+        "country": "Seychelles",
+        "ct": "SEY",
+        "points": 69,
+        "previousPoints": 69,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sey",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "194",
+        "country": "Somalia",
+        "ct": "SOM",
+        "points": 67,
+        "previousPoints": 67,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/som",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "195",
+        "country": "Anguilla",
+        "ct": "AIA",
+        "points": 65,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aia",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "196",
+        "country": "Puerto Rico",
+        "ct": "PUR",
+        "points": 55,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pur",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "197",
+        "country": "Papua New Guinea",
+        "ct": "PNG",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/png",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "198",
+        "country": "US Virgin Islands",
+        "ct": "VIR",
+        "points": 47,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vir",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "199",
+        "country": "Guam",
+        "ct": "GUM",
+        "points": 25,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gum",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "200",
+        "country": "Turks and Caicos Islands",
+        "ct": "TCA",
+        "points": 19,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tca",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "201",
+        "country": "American Samoa",
+        "ct": "ASA",
+        "points": 16,
+        "previousPoints": 16,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/asa",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "202",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "203",
+        "country": "Montserrat",
+        "ct": "MSR",
+        "points": 10,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/msr",
+        "delta": 0
+    }
+]

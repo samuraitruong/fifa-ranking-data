@@ -1,0 +1,205 @@
+,date,rank,country,ct,points,previousPoints,flag,delta
+0,2004-10-06T00:00:00,1,Brazil,BRA,845,848,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,-3
+1,2004-10-06T00:00:00,2,France,FRA,799,802,https://api.fifa.com/api/v1/picture/flags-sq-4/fra,-3
+2,2004-10-06T00:00:00,3,Argentina,ARG,778,775,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,3
+3,2004-10-06T00:00:00,4,Spain,ESP,774,788,https://api.fifa.com/api/v1/picture/flags-sq-4/esp,-14
+4,2004-10-06T00:00:00,5,Netherlands,NED,755,746,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,9
+5,2004-10-06T00:00:00,6,Czech Republic,CZE,751,760,https://api.fifa.com/api/v1/picture/flags-sq-4/cze,-9
+6,2004-10-06T00:00:00,7,England,ENG,739,732,https://api.fifa.com/api/v1/picture/flags-sq-4/eng,7
+7,2004-10-06T00:00:00,8,Portugal,POR,735,714,https://api.fifa.com/api/v1/picture/flags-sq-4/por,21
+8,2004-10-06T00:00:00,8,Italy,ITA,735,722,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,13
+9,2004-10-06T00:00:00,10,Mexico,MEX,734,728,https://api.fifa.com/api/v1/picture/flags-sq-4/mex,6
+10,2004-10-06T00:00:00,11,USA,USA,717,717,https://api.fifa.com/api/v1/picture/flags-sq-4/usa,0
+11,2004-10-06T00:00:00,12,Turkey,TUR,711,711,https://api.fifa.com/api/v1/picture/flags-sq-4/tur,0
+12,2004-10-06T00:00:00,13,Germany,GER,706,714,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,-8
+13,2004-10-06T00:00:00,14,Republic of Ireland,IRL,705,697,https://api.fifa.com/api/v1/picture/flags-sq-4/irl,8
+14,2004-10-06T00:00:00,15,Denmark,DEN,704,707,https://api.fifa.com/api/v1/picture/flags-sq-4/den,-3
+15,2004-10-06T00:00:00,16,Greece,GRE,703,709,https://api.fifa.com/api/v1/picture/flags-sq-4/gre,-6
+16,2004-10-06T00:00:00,17,Uruguay,URU,702,693,https://api.fifa.com/api/v1/picture/flags-sq-4/uru,9
+17,2004-10-06T00:00:00,18,Nigeria,NGA,701,691,https://api.fifa.com/api/v1/picture/flags-sq-4/nga,10
+18,2004-10-06T00:00:00,19,Japan,JPN,699,695,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn,4
+19,2004-10-06T00:00:00,20,IR Iran,IRN,698,690,https://api.fifa.com/api/v1/picture/flags-sq-4/irn,8
+20,2004-10-06T00:00:00,21,Cameroon,CMR,690,697,https://api.fifa.com/api/v1/picture/flags-sq-4/cmr,-7
+21,2004-10-06T00:00:00,22,Sweden,SWE,687,686,https://api.fifa.com/api/v1/picture/flags-sq-4/swe,1
+22,2004-10-06T00:00:00,23,Paraguay,PAR,686,683,https://api.fifa.com/api/v1/picture/flags-sq-4/par,3
+23,2004-10-06T00:00:00,23,Croatia,CRO,686,662,https://api.fifa.com/api/v1/picture/flags-sq-4/cro,24
+24,2004-10-06T00:00:00,25,Korea Republic,KOR,681,683,https://api.fifa.com/api/v1/picture/flags-sq-4/kor,-2
+25,2004-10-06T00:00:00,26,Romania,ROU,664,644,https://api.fifa.com/api/v1/picture/flags-sq-4/rou,20
+26,2004-10-06T00:00:00,27,Saudi Arabia,KSA,662,655,https://api.fifa.com/api/v1/picture/flags-sq-4/ksa,7
+27,2004-10-06T00:00:00,28,Colombia,COL,660,654,https://api.fifa.com/api/v1/picture/flags-sq-4/col,6
+28,2004-10-06T00:00:00,29,Poland,POL,652,647,https://api.fifa.com/api/v1/picture/flags-sq-4/pol,5
+29,2004-10-06T00:00:00,30,Egypt,EGY,649,637,https://api.fifa.com/api/v1/picture/flags-sq-4/egy,12
+30,2004-10-06T00:00:00,31,Senegal,SEN,643,645,https://api.fifa.com/api/v1/picture/flags-sq-4/sen,-2
+31,2004-10-06T00:00:00,32,Costa Rica,CRC,642,642,https://api.fifa.com/api/v1/picture/flags-sq-4/crc,0
+32,2004-10-06T00:00:00,33,Russia,RUS,641,659,https://api.fifa.com/api/v1/picture/flags-sq-4/rus,-18
+33,2004-10-06T00:00:00,34,Morocco,MAR,639,642,https://api.fifa.com/api/v1/picture/flags-sq-4/mar,-3
+34,2004-10-06T00:00:00,35,Belgium,BEL,635,647,https://api.fifa.com/api/v1/picture/flags-sq-4/bel,-12
+35,2004-10-06T00:00:00,36,Tunisia,TUN,630,631,https://api.fifa.com/api/v1/picture/flags-sq-4/tun,-1
+36,2004-10-06T00:00:00,37,Norway,NOR,610,610,https://api.fifa.com/api/v1/picture/flags-sq-4/nor,0
+37,2004-10-06T00:00:00,38,Jordan,JOR,609,615,https://api.fifa.com/api/v1/picture/flags-sq-4/jor,-6
+38,2004-10-06T00:00:00,39,Iraq,IRQ,607,601,https://api.fifa.com/api/v1/picture/flags-sq-4/irq,6
+39,2004-10-06T00:00:00,40,South Africa,RSA,604,609,https://api.fifa.com/api/v1/picture/flags-sq-4/rsa,-5
+40,2004-10-06T00:00:00,41,Bulgaria,BUL,601,595,https://api.fifa.com/api/v1/picture/flags-sq-4/bul,6
+41,2004-10-06T00:00:00,42,Switzerland,SUI,596,569,https://api.fifa.com/api/v1/picture/flags-sq-4/sui,27
+42,2004-10-06T00:00:00,43,Slovenia,SVN,595,579,https://api.fifa.com/api/v1/picture/flags-sq-4/svn,16
+43,2004-10-06T00:00:00,44,Mali,MLI,590,588,https://api.fifa.com/api/v1/picture/flags-sq-4/mli,2
+44,2004-10-06T00:00:00,45,Côte d'Ivoire,CIV,585,555,https://api.fifa.com/api/v1/picture/flags-sq-4/civ,30
+45,2004-10-06T00:00:00,45,Finland,FIN,585,563,https://api.fifa.com/api/v1/picture/flags-sq-4/fin,22
+46,2004-10-06T00:00:00,47,Bahrain,BHR,584,580,https://api.fifa.com/api/v1/picture/flags-sq-4/bhr,4
+47,2004-10-06T00:00:00,48,Ecuador,ECU,583,594,https://api.fifa.com/api/v1/picture/flags-sq-4/ecu,-11
+48,2004-10-06T00:00:00,49,China PR,CHN,579,572,https://api.fifa.com/api/v1/picture/flags-sq-4/chn,7
+49,2004-10-06T00:00:00,50,Oman,OMA,578,568,https://api.fifa.com/api/v1/picture/flags-sq-4/oma,10
+50,2004-10-06T00:00:00,51,Jamaica,JAM,577,563,https://api.fifa.com/api/v1/picture/flags-sq-4/jam,14
+51,2004-10-06T00:00:00,51,Zimbabwe,ZIM,577,580,https://api.fifa.com/api/v1/picture/flags-sq-4/zim,-3
+52,2004-10-06T00:00:00,53,Honduras,HON,576,573,https://api.fifa.com/api/v1/picture/flags-sq-4/hon,3
+53,2004-10-06T00:00:00,54,Uzbekistan,UZB,571,566,https://api.fifa.com/api/v1/picture/flags-sq-4/uzb,5
+54,2004-10-06T00:00:00,55,Serbia and Montenegro,SCG,570,566,https://api.fifa.com/api/v1/picture/flags-sq-4/scg,4
+55,2004-10-06T00:00:00,56,Israel,ISR,567,534,https://api.fifa.com/api/v1/picture/flags-sq-4/isr,33
+56,2004-10-06T00:00:00,57,Slovakia,SVK,563,533,https://api.fifa.com/api/v1/picture/flags-sq-4/svk,30
+57,2004-10-06T00:00:00,57,Wales,WAL,563,556,https://api.fifa.com/api/v1/picture/flags-sq-4/wal,7
+58,2004-10-06T00:00:00,59,Venezuela,VEN,562,559,https://api.fifa.com/api/v1/picture/flags-sq-4/ven,3
+59,2004-10-06T00:00:00,60,Kuwait,KUW,559,559,https://api.fifa.com/api/v1/picture/flags-sq-4/kuw,0
+60,2004-10-06T00:00:00,61,Guatemala,GUA,558,542,https://api.fifa.com/api/v1/picture/flags-sq-4/gua,16
+61,2004-10-06T00:00:00,62,Qatar,QAT,557,550,https://api.fifa.com/api/v1/picture/flags-sq-4/qat,7
+62,2004-10-06T00:00:00,63,Latvia,LVA,556,552,https://api.fifa.com/api/v1/picture/flags-sq-4/lva,4
+63,2004-10-06T00:00:00,64,Trinidad and Tobago,TRI,547,538,https://api.fifa.com/api/v1/picture/flags-sq-4/tri,9
+64,2004-10-06T00:00:00,64,Australia,AUS,547,555,https://api.fifa.com/api/v1/picture/flags-sq-4/aus,-8
+65,2004-10-06T00:00:00,66,Algeria,ALG,545,550,https://api.fifa.com/api/v1/picture/flags-sq-4/alg,-5
+66,2004-10-06T00:00:00,67,Zambia,ZAM,541,529,https://api.fifa.com/api/v1/picture/flags-sq-4/zam,12
+67,2004-10-06T00:00:00,68,Scotland,SCO,540,535,https://api.fifa.com/api/v1/picture/flags-sq-4/sco,5
+68,2004-10-06T00:00:00,68,Hungary,HUN,540,523,https://api.fifa.com/api/v1/picture/flags-sq-4/hun,17
+69,2004-10-06T00:00:00,68,Libya,LBY,540,526,https://api.fifa.com/api/v1/picture/flags-sq-4/lby,14
+70,2004-10-06T00:00:00,68,Peru,PER,540,547,https://api.fifa.com/api/v1/picture/flags-sq-4/per,-7
+71,2004-10-06T00:00:00,72,Ghana,GHA,539,525,https://api.fifa.com/api/v1/picture/flags-sq-4/gha,14
+72,2004-10-06T00:00:00,73,Belarus,BLR,537,520,https://api.fifa.com/api/v1/picture/flags-sq-4/blr,17
+73,2004-10-06T00:00:00,74,Thailand,THA,530,535,https://api.fifa.com/api/v1/picture/flags-sq-4/tha,-5
+74,2004-10-06T00:00:00,75,Angola,ANG,528,512,https://api.fifa.com/api/v1/picture/flags-sq-4/ang,16
+75,2004-10-06T00:00:00,76,Congo DR,COD,527,519,https://api.fifa.com/api/v1/picture/flags-sq-4/cod,8
+76,2004-10-06T00:00:00,77,Estonia,EST,526,513,https://api.fifa.com/api/v1/picture/flags-sq-4/est,13
+77,2004-10-06T00:00:00,77,Cuba,CUB,526,525,https://api.fifa.com/api/v1/picture/flags-sq-4/cub,1
+78,2004-10-06T00:00:00,79,Chile,CHI,525,537,https://api.fifa.com/api/v1/picture/flags-sq-4/chi,-12
+79,2004-10-06T00:00:00,80,Ukraine,UKR,524,499,https://api.fifa.com/api/v1/picture/flags-sq-4/ukr,25
+80,2004-10-06T00:00:00,81,Bosnia and Herzegovina,BIH,523,534,https://api.fifa.com/api/v1/picture/flags-sq-4/bih,-11
+81,2004-10-06T00:00:00,82,Burkina Faso,BFA,522,511,https://api.fifa.com/api/v1/picture/flags-sq-4/bfa,11
+82,2004-10-06T00:00:00,83,Kenya,KEN,521,510,https://api.fifa.com/api/v1/picture/flags-sq-4/ken,11
+83,2004-10-06T00:00:00,84,United Arab Emirates,UAE,519,520,https://api.fifa.com/api/v1/picture/flags-sq-4/uae,-1
+84,2004-10-06T00:00:00,85,Austria,AUT,518,488,https://api.fifa.com/api/v1/picture/flags-sq-4/aut,30
+85,2004-10-06T00:00:00,86,Guinea,GUI,517,495,https://api.fifa.com/api/v1/picture/flags-sq-4/gui,22
+86,2004-10-06T00:00:00,87,Syria,SYR,515,510,https://api.fifa.com/api/v1/picture/flags-sq-4/syr,5
+87,2004-10-06T00:00:00,88,Iceland,ISL,508,514,https://api.fifa.com/api/v1/picture/flags-sq-4/isl,-6
+88,2004-10-06T00:00:00,89,Albania,ALB,498,479,https://api.fifa.com/api/v1/picture/flags-sq-4/alb,19
+89,2004-10-06T00:00:00,90,New Zealand,NZL,495,501,https://api.fifa.com/api/v1/picture/flags-sq-4/nzl,-6
+90,2004-10-06T00:00:00,91,Togo,TOG,494,472,https://api.fifa.com/api/v1/picture/flags-sq-4/tog,22
+91,2004-10-06T00:00:00,92,FYR Macedonia,MKD,492,496,https://api.fifa.com/api/v1/picture/flags-sq-4/mkd,-4
+92,2004-10-06T00:00:00,93,Turkmenistan,TKM,484,486,https://api.fifa.com/api/v1/picture/flags-sq-4/tkm,-2
+93,2004-10-06T00:00:00,94,Indonesia,IDN,483,484,https://api.fifa.com/api/v1/picture/flags-sq-4/idn,-1
+94,2004-10-06T00:00:00,95,Canada,CAN,477,469,https://api.fifa.com/api/v1/picture/flags-sq-4/can,8
+95,2004-10-06T00:00:00,96,Vietnam,VIE,471,479,https://api.fifa.com/api/v1/picture/flags-sq-4/vie,-8
+96,2004-10-06T00:00:00,97,Rwanda,RWA,469,471,https://api.fifa.com/api/v1/picture/flags-sq-4/rwa,-2
+97,2004-10-06T00:00:00,98,Haiti,HAI,463,475,https://api.fifa.com/api/v1/picture/flags-sq-4/hai,-12
+98,2004-10-06T00:00:00,99,Bolivia,BOL,462,480,https://api.fifa.com/api/v1/picture/flags-sq-4/bol,-18
+99,2004-10-06T00:00:00,100,Congo,CGO,461,468,https://api.fifa.com/api/v1/picture/flags-sq-4/cgo,-7
+100,2004-10-06T00:00:00,101,Cyprus,CYP,456,458,https://api.fifa.com/api/v1/picture/flags-sq-4/cyp,-2
+101,2004-10-06T00:00:00,102,Korea DPR,PRK,454,418,https://api.fifa.com/api/v1/picture/flags-sq-4/prk,36
+102,2004-10-06T00:00:00,103,Panama,PAN,453,433,https://api.fifa.com/api/v1/picture/flags-sq-4/pan,20
+103,2004-10-06T00:00:00,104,Uganda,UGA,452,454,https://api.fifa.com/api/v1/picture/flags-sq-4/uga,-2
+104,2004-10-06T00:00:00,105,Georgia,GEO,448,418,https://api.fifa.com/api/v1/picture/flags-sq-4/geo,30
+105,2004-10-06T00:00:00,106,El Salvador,SLV,444,447,https://api.fifa.com/api/v1/picture/flags-sq-4/slv,-3
+106,2004-10-06T00:00:00,107,Botswana,BOT,442,432,https://api.fifa.com/api/v1/picture/flags-sq-4/bot,10
+107,2004-10-06T00:00:00,108,Malawi,MWI,441,438,https://api.fifa.com/api/v1/picture/flags-sq-4/mwi,3
+108,2004-10-06T00:00:00,109,Lebanon,LBN,435,424,https://api.fifa.com/api/v1/picture/flags-sq-4/lbn,11
+109,2004-10-06T00:00:00,110,Northern Ireland,NIR,432,428,https://api.fifa.com/api/v1/picture/flags-sq-4/nir,4
+110,2004-10-06T00:00:00,111,Lithuania,LTU,431,402,https://api.fifa.com/api/v1/picture/flags-sq-4/ltu,29
+111,2004-10-06T00:00:00,112,Sudan,SDN,426,431,https://api.fifa.com/api/v1/picture/flags-sq-4/sdn,-5
+112,2004-10-06T00:00:00,113,Moldova,MDA,425,438,https://api.fifa.com/api/v1/picture/flags-sq-4/mda,-13
+113,2004-10-06T00:00:00,114,Azerbaijan,AZE,420,409,https://api.fifa.com/api/v1/picture/flags-sq-4/aze,11
+114,2004-10-06T00:00:00,115,Liberia,LBR,414,414,https://api.fifa.com/api/v1/picture/flags-sq-4/lbr,0
+115,2004-10-06T00:00:00,115,St. Kitts and Nevis,SKN,414,424,https://api.fifa.com/api/v1/picture/flags-sq-4/skn,-10
+116,2004-10-06T00:00:00,117,Malaysia,MAS,407,414,https://api.fifa.com/api/v1/picture/flags-sq-4/mas,-7
+117,2004-10-06T00:00:00,118,Barbados,BRB,405,407,https://api.fifa.com/api/v1/picture/flags-sq-4/brb,-2
+118,2004-10-06T00:00:00,119,Gabon,GAB,404,384,https://api.fifa.com/api/v1/picture/flags-sq-4/gab,20
+119,2004-10-06T00:00:00,120,Singapore,SIN,396,392,https://api.fifa.com/api/v1/picture/flags-sq-4/sin,4
+120,2004-10-06T00:00:00,120,Benin,BEN,396,395,https://api.fifa.com/api/v1/picture/flags-sq-4/ben,1
+121,2004-10-06T00:00:00,122,Eswatini,SWZ,388,391,https://api.fifa.com/api/v1/picture/flags-sq-4/swz,-3
+122,2004-10-06T00:00:00,123,Armenia,ARM,386,401,https://api.fifa.com/api/v1/picture/flags-sq-4/arm,-15
+123,2004-10-06T00:00:00,124,Tahiti,TAH,384,385,https://api.fifa.com/api/v1/picture/flags-sq-4/tah,-1
+124,2004-10-06T00:00:00,125,Solomon Islands,SOL,379,376,https://api.fifa.com/api/v1/picture/flags-sq-4/sol,3
+125,2004-10-06T00:00:00,125,Mozambique,MOZ,379,380,https://api.fifa.com/api/v1/picture/flags-sq-4/moz,-1
+126,2004-10-06T00:00:00,127,Yemen,YEM,374,344,https://api.fifa.com/api/v1/picture/flags-sq-4/yem,30
+127,2004-10-06T00:00:00,128,St. Lucia,LCA,363,366,https://api.fifa.com/api/v1/picture/flags-sq-4/lca,-3
+128,2004-10-06T00:00:00,129,Palestine,PLE,360,362,https://api.fifa.com/api/v1/picture/flags-sq-4/ple,-2
+129,2004-10-06T00:00:00,130,Mauritius,MRI,355,371,https://api.fifa.com/api/v1/picture/flags-sq-4/mri,-16
+130,2004-10-06T00:00:00,131,Cape Verde Islands,CPV,353,348,https://api.fifa.com/api/v1/picture/flags-sq-4/cpv,5
+131,2004-10-06T00:00:00,132,Fiji,FIJ,349,347,https://api.fifa.com/api/v1/picture/flags-sq-4/fij,2
+132,2004-10-06T00:00:00,133,Lesotho,LES,345,354,https://api.fifa.com/api/v1/picture/flags-sq-4/les,-9
+133,2004-10-06T00:00:00,133,Malta,MLT,345,354,https://api.fifa.com/api/v1/picture/flags-sq-4/mlt,-9
+134,2004-10-06T00:00:00,135,Faroe Islands,FRO,343,341,https://api.fifa.com/api/v1/picture/flags-sq-4/fro,2
+135,2004-10-06T00:00:00,136,Madagascar,MAD,342,353,https://api.fifa.com/api/v1/picture/flags-sq-4/mad,-11
+136,2004-10-06T00:00:00,137,Tajikistan,TJK,340,343,https://api.fifa.com/api/v1/picture/flags-sq-4/tjk,-3
+137,2004-10-06T00:00:00,138,India,IND,335,335,https://api.fifa.com/api/v1/picture/flags-sq-4/ind,0
+138,2004-10-06T00:00:00,139,Vanuatu,VAN,324,324,https://api.fifa.com/api/v1/picture/flags-sq-4/van,0
+139,2004-10-06T00:00:00,139,Grenada,GRN,324,326,https://api.fifa.com/api/v1/picture/flags-sq-4/grn,-2
+140,2004-10-06T00:00:00,141,Sri Lanka,SRI,322,311,https://api.fifa.com/api/v1/picture/flags-sq-4/sri,11
+141,2004-10-06T00:00:00,142,Maldives,MDV,312,314,https://api.fifa.com/api/v1/picture/flags-sq-4/mdv,-2
+142,2004-10-06T00:00:00,143,Ethiopia,ETH,308,318,https://api.fifa.com/api/v1/picture/flags-sq-4/eth,-10
+143,2004-10-06T00:00:00,144,Hong Kong,HKG,306,306,https://api.fifa.com/api/v1/picture/flags-sq-4/hkg,0
+144,2004-10-06T00:00:00,145,Kazakhstan,KAZ,302,304,https://api.fifa.com/api/v1/picture/flags-sq-4/kaz,-2
+145,2004-10-06T00:00:00,146,St. Vincent and the Grenadines,VIN,295,274,https://api.fifa.com/api/v1/picture/flags-sq-4/vin,21
+146,2004-10-06T00:00:00,147,Andorra,AND,290,284,https://api.fifa.com/api/v1/picture/flags-sq-4/and,6
+147,2004-10-06T00:00:00,148,Suriname,SUR,289,291,https://api.fifa.com/api/v1/picture/flags-sq-4/sur,-2
+148,2004-10-06T00:00:00,149,Gambia,GAM,282,290,https://api.fifa.com/api/v1/picture/flags-sq-4/gam,-8
+149,2004-10-06T00:00:00,150,Myanmar,MYA,275,283,https://api.fifa.com/api/v1/picture/flags-sq-4/mya,-8
+150,2004-10-06T00:00:00,151,Liechtenstein,LIE,271,267,https://api.fifa.com/api/v1/picture/flags-sq-4/lie,4
+151,2004-10-06T00:00:00,151,Kyrgyz Republic,KGZ,271,263,https://api.fifa.com/api/v1/picture/flags-sq-4/kgz,8
+152,2004-10-06T00:00:00,153,Chinese Taipei,TPE,269,263,https://api.fifa.com/api/v1/picture/flags-sq-4/tpe,6
+153,2004-10-06T00:00:00,154,Namibia,NAM,264,274,https://api.fifa.com/api/v1/picture/flags-sq-4/nam,-10
+154,2004-10-06T00:00:00,155,Luxembourg,LUX,260,253,https://api.fifa.com/api/v1/picture/flags-sq-4/lux,7
+155,2004-10-06T00:00:00,156,Sierra Leone,SLE,255,264,https://api.fifa.com/api/v1/picture/flags-sq-4/sle,-9
+156,2004-10-06T00:00:00,156,Burundi,BDI,255,264,https://api.fifa.com/api/v1/picture/flags-sq-4/bdi,-9
+157,2004-10-06T00:00:00,158,Nicaragua,NCA,238,238,https://api.fifa.com/api/v1/picture/flags-sq-4/nca,0
+158,2004-10-06T00:00:00,159,Bermuda,BER,237,235,https://api.fifa.com/api/v1/picture/flags-sq-4/ber,2
+159,2004-10-06T00:00:00,160,Bangladesh,BAN,236,243,https://api.fifa.com/api/v1/picture/flags-sq-4/ban,-7
+160,2004-10-06T00:00:00,161,Antigua and Barbuda,ATG,230,230,https://api.fifa.com/api/v1/picture/flags-sq-4/atg,0
+161,2004-10-06T00:00:00,162,Chad,CHA,229,235,https://api.fifa.com/api/v1/picture/flags-sq-4/cha,-6
+162,2004-10-06T00:00:00,162,Papua New Guinea,PNG,229,228,https://api.fifa.com/api/v1/picture/flags-sq-4/png,1
+163,2004-10-06T00:00:00,164,Eritrea,ERI,223,228,https://api.fifa.com/api/v1/picture/flags-sq-4/eri,-5
+164,2004-10-06T00:00:00,165,Dominica,DMA,216,215,https://api.fifa.com/api/v1/picture/flags-sq-4/dma,1
+165,2004-10-06T00:00:00,167,San Marino,SMR,210,206,https://api.fifa.com/api/v1/picture/flags-sq-4/smr,4
+166,2004-10-06T00:00:00,168,Equatorial Guinea,EQG,206,210,https://api.fifa.com/api/v1/picture/flags-sq-4/eqg,-4
+167,2004-10-06T00:00:00,169,Tanzania,TAN,205,208,https://api.fifa.com/api/v1/picture/flags-sq-4/tan,-3
+168,2004-10-06T00:00:00,170,Dominican Republic,DOM,202,205,https://api.fifa.com/api/v1/picture/flags-sq-4/dom,-3
+169,2004-10-06T00:00:00,170,Laos,LAO,202,196,https://api.fifa.com/api/v1/picture/flags-sq-4/lao,6
+170,2004-10-06T00:00:00,172,Seychelles,SEY,190,195,https://api.fifa.com/api/v1/picture/flags-sq-4/sey,-5
+171,2004-10-06T00:00:00,173,Niger,NIG,189,194,https://api.fifa.com/api/v1/picture/flags-sq-4/nig,-5
+172,2004-10-06T00:00:00,174,Mauritania,MTN,187,191,https://api.fifa.com/api/v1/picture/flags-sq-4/mtn,-4
+173,2004-10-06T00:00:00,175,Nepal,NEP,183,189,https://api.fifa.com/api/v1/picture/flags-sq-4/nep,-6
+174,2004-10-06T00:00:00,176,Pakistan,PAK,181,186,https://api.fifa.com/api/v1/picture/flags-sq-4/pak,-5
+175,2004-10-06T00:00:00,177,British Virgin Islands,VGB,180,165,https://api.fifa.com/api/v1/picture/flags-sq-4/vgb,15
+176,2004-10-06T00:00:00,178,Samoa,SAM,172,175,https://api.fifa.com/api/v1/picture/flags-sq-4/sam,-3
+177,2004-10-06T00:00:00,179,Central African Republic,CTA,162,166,https://api.fifa.com/api/v1/picture/flags-sq-4/cta,-4
+178,2004-10-06T00:00:00,180,Belize,BLZ,154,157,https://api.fifa.com/api/v1/picture/flags-sq-4/blz,-3
+179,2004-10-06T00:00:00,181,Guyana,GUY,149,151,https://api.fifa.com/api/v1/picture/flags-sq-4/guy,-2
+180,2004-10-06T00:00:00,182,Tonga,TGA,141,142,https://api.fifa.com/api/v1/picture/flags-sq-4/tga,-1
+181,2004-10-06T00:00:00,183,Cayman Islands,CAY,135,137,https://api.fifa.com/api/v1/picture/flags-sq-4/cay,-2
+182,2004-10-06T00:00:00,184,Mongolia,MNG,128,131,https://api.fifa.com/api/v1/picture/flags-sq-4/mng,-3
+183,2004-10-06T00:00:00,185,Cambodia,CAM,126,131,https://api.fifa.com/api/v1/picture/flags-sq-4/cam,-5
+184,2004-10-06T00:00:00,186,New Caledonia,NCL,119,119,https://api.fifa.com/api/v1/picture/flags-sq-4/ncl,0
+185,2004-10-06T00:00:00,187,Guinea-Bissau,GNB,110,111,https://api.fifa.com/api/v1/picture/flags-sq-4/gnb,-1
+186,2004-10-06T00:00:00,188,Bhutan,BHU,104,105,https://api.fifa.com/api/v1/picture/flags-sq-4/bhu,-1
+187,2004-10-06T00:00:00,189,Macau,MAC,103,108,https://api.fifa.com/api/v1/picture/flags-sq-4/mac,-5
+188,2004-10-06T00:00:00,190,Cook Islands,COK,96,98,https://api.fifa.com/api/v1/picture/flags-sq-4/cok,-2
+189,2004-10-06T00:00:00,191,Bahamas,BAH,95,96,https://api.fifa.com/api/v1/picture/flags-sq-4/bah,-1
+190,2004-10-06T00:00:00,192,Somalia,SOM,93,94,https://api.fifa.com/api/v1/picture/flags-sq-4/som,-1
+191,2004-10-06T00:00:00,193,Philippines,PHI,92,95,https://api.fifa.com/api/v1/picture/flags-sq-4/phi,-3
+192,2004-10-06T00:00:00,194,Sao Tome e Principe,STP,88,89,https://api.fifa.com/api/v1/picture/flags-sq-4/stp,-1
+193,2004-10-06T00:00:00,195,Brunei Darussalam,BRU,69,71,https://api.fifa.com/api/v1/picture/flags-sq-4/bru,-2
+194,2004-10-06T00:00:00,196,Aruba,ARU,67,69,https://api.fifa.com/api/v1/picture/flags-sq-4/aru,-2
+195,2004-10-06T00:00:00,197,Anguilla,AIA,65,66,https://api.fifa.com/api/v1/picture/flags-sq-4/aia,-1
+196,2004-10-06T00:00:00,198,Afghanistan,AFG,60,62,https://api.fifa.com/api/v1/picture/flags-sq-4/afg,-2
+197,2004-10-06T00:00:00,199,US Virgin Islands,VIR,50,46,https://api.fifa.com/api/v1/picture/flags-sq-4/vir,4
+198,2004-10-06T00:00:00,200,Djibouti,DJI,47,48,https://api.fifa.com/api/v1/picture/flags-sq-4/dji,-1
+199,2004-10-06T00:00:00,201,Puerto Rico,PUR,33,34,https://api.fifa.com/api/v1/picture/flags-sq-4/pur,-1
+200,2004-10-06T00:00:00,202,Turks and Caicos Islands,TCA,27,27,https://api.fifa.com/api/v1/picture/flags-sq-4/tca,0
+201,2004-10-06T00:00:00,203,American Samoa,ASA,19,19,https://api.fifa.com/api/v1/picture/flags-sq-4/asa,0
+202,2004-10-06T00:00:00,204,Guam,GUM,16,17,https://api.fifa.com/api/v1/picture/flags-sq-4/gum,-1
+203,2004-10-06T00:00:00,205,Montserrat,MSR,6,6,https://api.fifa.com/api/v1/picture/flags-sq-4/msr,0
