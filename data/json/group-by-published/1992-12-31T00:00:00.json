@@ -1,0 +1,1469 @@
+[
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "1",
+        "country": "Germany",
+        "ct": "GER",
+        "points": 57,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ger"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "2",
+        "country": "Italy",
+        "ct": "ITA",
+        "points": 57,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ita"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 56,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "4",
+        "country": "Sweden",
+        "ct": "SWE",
+        "points": 56,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swe"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "5",
+        "country": "England",
+        "ct": "ENG",
+        "points": 55,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eng"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "6",
+        "country": "Republic of Ireland",
+        "ct": "IRL",
+        "points": 54,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irl"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "7",
+        "country": "Netherlands",
+        "ct": "NED",
+        "points": 54,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ned"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "8",
+        "country": "Russia",
+        "ct": "RUS",
+        "points": 52,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rus"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "9",
+        "country": "Denmark",
+        "ct": "DEN",
+        "points": 52,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/den"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "10",
+        "country": "Argentina",
+        "ct": "ARG",
+        "points": 51,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arg"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "11",
+        "country": "Romania",
+        "ct": "ROU",
+        "points": 51,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rou"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "12",
+        "country": "Switzerland",
+        "ct": "SUI",
+        "points": 51,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sui"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "13",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 50,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "14",
+        "country": "Norway",
+        "ct": "NOR",
+        "points": 49,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nor"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "15",
+        "country": "Spain",
+        "ct": "ESP",
+        "points": 49,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/esp"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "16",
+        "country": "Uruguay",
+        "ct": "URU",
+        "points": 48,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uru"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "17",
+        "country": "Belgium",
+        "ct": "BEL",
+        "points": 48,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bel"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "18",
+        "country": "Czechoslovakia",
+        "ct": "TCH",
+        "points": 47,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tch"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "19",
+        "country": "France",
+        "ct": "FRA",
+        "points": 46,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fra"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "20",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 46,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "21",
+        "country": "Egypt",
+        "ct": "EGY",
+        "points": 45,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/egy"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "22",
+        "country": "Cameroon",
+        "ct": "CMR",
+        "points": 43,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cmr"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "23",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 43,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "24",
+        "country": "USA",
+        "ct": "USA",
+        "points": 43,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/usa"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "25",
+        "country": "Mexico",
+        "ct": "MEX",
+        "points": 43,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mex"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "26",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 41,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "27",
+        "country": "C\u00f4te d'Ivoire",
+        "ct": "CIV",
+        "points": 41,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/civ"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "28",
+        "country": "Wales",
+        "ct": "WAL",
+        "points": 40,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/wal"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "29",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 39,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "30",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 39,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "31",
+        "country": "Greece",
+        "ct": "GRE",
+        "points": 38,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gre"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "32",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 38,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "33",
+        "country": "Portugal",
+        "ct": "POR",
+        "points": 38,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/por"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "34",
+        "country": "Austria",
+        "ct": "AUT",
+        "points": 38,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aut"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "35",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 36,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "36",
+        "country": "Hungary",
+        "ct": "HUN",
+        "points": 36,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hun"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "37",
+        "country": "Costa Rica",
+        "ct": "CRC",
+        "points": 35,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/crc"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "38",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 35,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "39",
+        "country": "Ghana",
+        "ct": "GHA",
+        "points": 34,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gha"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "40",
+        "country": "Honduras",
+        "ct": "HON",
+        "points": 32,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hon"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "41",
+        "country": "Morocco",
+        "ct": "MAR",
+        "points": 32,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mar"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "42",
+        "country": "Turkey",
+        "ct": "TUR",
+        "points": 31,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tur"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "43",
+        "country": "Northern Ireland",
+        "ct": "NIR",
+        "points": 31,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nir"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "44",
+        "country": "Finland",
+        "ct": "FIN",
+        "points": 31,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fin"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "45",
+        "country": "Australia",
+        "ct": "AUS",
+        "points": 29,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aus"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "46",
+        "country": "Iceland",
+        "ct": "ISL",
+        "points": 29,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isl"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "47",
+        "country": "Chile",
+        "ct": "CHI",
+        "points": 28,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chi"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "48",
+        "country": "Saudi Arabia",
+        "ct": "KSA",
+        "points": 28,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ksa"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "49",
+        "country": "Korea Republic",
+        "ct": "KOR",
+        "points": 28,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kor"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "50",
+        "country": "El Salvador",
+        "ct": "SLV",
+        "points": 28,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/slv"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "51",
+        "country": "Senegal",
+        "ct": "SEN",
+        "points": 27,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sen"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "52",
+        "country": "Qatar",
+        "ct": "QAT",
+        "points": 27,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/qat"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "53",
+        "country": "Malawi",
+        "ct": "MWI",
+        "points": 27,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mwi"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "54",
+        "country": "Zimbabwe",
+        "ct": "ZIM",
+        "points": 27,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zim"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "55",
+        "country": "Gabon",
+        "ct": "GAB",
+        "points": 27,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gab"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "56",
+        "country": "China PR",
+        "ct": "CHN",
+        "points": 26,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chn"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "57",
+        "country": "Canada",
+        "ct": "CAN",
+        "points": 25,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/can"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "58",
+        "country": "Bermuda",
+        "ct": "BER",
+        "points": 25,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ber"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "59",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 25,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "60",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 25,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "61",
+        "country": "IR Iran",
+        "ct": "IRN",
+        "points": 24,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irn"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "62",
+        "country": "Trinidad and Tobago",
+        "ct": "TRI",
+        "points": 24,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tri"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "63",
+        "country": "Guinea",
+        "ct": "GUI",
+        "points": 24,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gui"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "64",
+        "country": "Israel",
+        "ct": "ISR",
+        "points": 23,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isr"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "65",
+        "country": "Ecuador",
+        "ct": "ECU",
+        "points": 23,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ecu"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "66",
+        "country": "Japan",
+        "ct": "JPN",
+        "points": 22,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jpn"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "67",
+        "country": "Jamaica",
+        "ct": "JAM",
+        "points": 22,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jam"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "68",
+        "country": "Paraguay",
+        "ct": "PAR",
+        "points": 22,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/par"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "69",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 22,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "70",
+        "country": "New Zealand",
+        "ct": "NZL",
+        "points": 22,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nzl"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "71",
+        "country": "Kuwait",
+        "ct": "KUW",
+        "points": 21,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kuw"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "72",
+        "country": "Cyprus",
+        "ct": "CYP",
+        "points": 20,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cyp"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "73",
+        "country": "Malta",
+        "ct": "MLT",
+        "points": 19,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mlt"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "74",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 18,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "75",
+        "country": "Thailand",
+        "ct": "THA",
+        "points": 18,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tha"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "76",
+        "country": "Kenya",
+        "ct": "KEN",
+        "points": 17,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ken"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "77",
+        "country": "Korea DPR",
+        "ct": "PRK",
+        "points": 16,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/prk"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "78",
+        "country": "Peru",
+        "ct": "PER",
+        "points": 16,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/per"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "79",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 16,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "80",
+        "country": "Tanzania",
+        "ct": "TAN",
+        "points": 15,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tan"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "81",
+        "country": "Niger",
+        "ct": "NIG",
+        "points": 15,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nig"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "82",
+        "country": "Iraq",
+        "ct": "IRQ",
+        "points": 15,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irq"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "83",
+        "country": "Guatemala",
+        "ct": "GUA",
+        "points": 15,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gua"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "84",
+        "country": "Liberia",
+        "ct": "LBR",
+        "points": 15,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbr"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "85",
+        "country": "Ethiopia",
+        "ct": "ETH",
+        "points": 14,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eth"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "86",
+        "country": "Albania",
+        "ct": "ALB",
+        "points": 14,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alb"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "87",
+        "country": "Bolivia",
+        "ct": "BOL",
+        "points": 14,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bol"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "88",
+        "country": "Bahrain",
+        "ct": "BHR",
+        "points": 13,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhr"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "89",
+        "country": "Singapore",
+        "ct": "SIN",
+        "points": 13,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sin"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "90",
+        "country": "Congo",
+        "ct": "CGO",
+        "points": 13,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cgo"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "91",
+        "country": "Malaysia",
+        "ct": "MAS",
+        "points": 13,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mas"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "92",
+        "country": "Uganda",
+        "ct": "UGA",
+        "points": 12,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uga"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "93",
+        "country": "Lithuania",
+        "ct": "LTU",
+        "points": 12,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ltu"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "94",
+        "country": "Faroe Islands",
+        "ct": "FRO",
+        "points": 12,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fro"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "95",
+        "country": "Suriname",
+        "ct": "SUR",
+        "points": 12,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sur"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "96",
+        "country": "Syria",
+        "ct": "SYR",
+        "points": 11,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/syr"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "97",
+        "country": "Burkina Faso",
+        "ct": "BFA",
+        "points": 11,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bfa"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "99",
+        "country": "Latvia",
+        "ct": "LVA",
+        "points": 10,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lva"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "100",
+        "country": "Burundi",
+        "ct": "BDI",
+        "points": 10,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bdi"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "101",
+        "country": "Togo",
+        "ct": "TOG",
+        "points": 10,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tog"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "102",
+        "country": "Angola",
+        "ct": "ANG",
+        "points": 10,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ang"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "103",
+        "country": "Luxembourg",
+        "ct": "LUX",
+        "points": 10,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lux"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "104",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 10,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "105",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 9,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "106",
+        "country": "Fiji",
+        "ct": "FIJ",
+        "points": 9,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fij"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "107",
+        "country": "Mozambique",
+        "ct": "MOZ",
+        "points": 9,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/moz"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "108",
+        "country": "Indonesia",
+        "ct": "IDN",
+        "points": 9,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/idn"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "109",
+        "country": "Antigua and Barbuda",
+        "ct": "ATG",
+        "points": 8,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/atg"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "110",
+        "country": "Jordan",
+        "ct": "JOR",
+        "points": 8,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jor"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "111",
+        "country": "Sudan",
+        "ct": "SDN",
+        "points": 7,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sdn"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "112",
+        "country": "Mauritius",
+        "ct": "MRI",
+        "points": 7,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mri"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "113",
+        "country": "Croatia",
+        "ct": "CRO",
+        "points": 7,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cro"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "114",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 7,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "115",
+        "country": "Yemen",
+        "ct": "YEM",
+        "points": 6,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yem"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "116",
+        "country": "Oman",
+        "ct": "OMA",
+        "points": 6,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/oma"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "117",
+        "country": "Guinea-Bissau",
+        "ct": "GNB",
+        "points": 6,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gnb"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "118",
+        "country": "St. Lucia",
+        "ct": "LCA",
+        "points": 6,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lca"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "119",
+        "country": "Hong Kong",
+        "ct": "HKG",
+        "points": 5,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hkg"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "120",
+        "country": "Panama",
+        "ct": "PAN",
+        "points": 5,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pan"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "121",
+        "country": "Grenada",
+        "ct": "GRN",
+        "points": 5,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/grn"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "122",
+        "country": "Puerto Rico",
+        "ct": "PUR",
+        "points": 5,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pur"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "123",
+        "country": "Tahiti",
+        "ct": "TAH",
+        "points": 5,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tah"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "124",
+        "country": "South Africa",
+        "ct": "RSA",
+        "points": 5,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rsa"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "125",
+        "country": "Venezuela",
+        "ct": "VEN",
+        "points": 5,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ven"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "126",
+        "country": "San Marino",
+        "ct": "SMR",
+        "points": 4,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/smr"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "127",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 4,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "128",
+        "country": "Guyana",
+        "ct": "GUY",
+        "points": 4,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/guy"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "129",
+        "country": "Ukraine",
+        "ct": "UKR",
+        "points": 4,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ukr"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "130",
+        "country": "Haiti",
+        "ct": "HAI",
+        "points": 4,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hai"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "131",
+        "country": "Slovenia",
+        "ct": "SVN",
+        "points": 3,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svn"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "132",
+        "country": "Estonia",
+        "ct": "EST",
+        "points": 3,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/est"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "133",
+        "country": "Bangladesh",
+        "ct": "BAN",
+        "points": 3,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ban"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "134",
+        "country": "Mauritania",
+        "ct": "MTN",
+        "points": 3,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mtn"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "135",
+        "country": "Cape Verde Islands",
+        "ct": "CPV",
+        "points": 3,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cpv"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "136",
+        "country": "Solomon Islands",
+        "ct": "SOL",
+        "points": 2,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sol"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "137",
+        "country": "Libya",
+        "ct": "LBY",
+        "points": 2,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lby"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "139",
+        "country": "Botswana",
+        "ct": "BOT",
+        "points": 2,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bot"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "140",
+        "country": "Brunei Darussalam",
+        "ct": "BRU",
+        "points": 2,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bru"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "141",
+        "country": "Dominican Republic",
+        "ct": "DOM",
+        "points": 2,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dom"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "142",
+        "country": "Lesotho",
+        "ct": "LES",
+        "points": 2,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/les"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "143",
+        "country": "India",
+        "ct": "IND",
+        "points": 2,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ind"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "144",
+        "country": "Cuba",
+        "ct": "CUB",
+        "points": 1,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cub"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "145",
+        "country": "Pakistan",
+        "ct": "PAK",
+        "points": 1,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pak"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "146",
+        "country": "Belarus",
+        "ct": "BLR",
+        "points": 1,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blr"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "147",
+        "country": "Seychelles",
+        "ct": "SEY",
+        "points": 1,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sey"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "148",
+        "country": "Central African Republic",
+        "ct": "CTA",
+        "points": 1,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cta"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "149",
+        "country": "Nepal",
+        "ct": "NEP",
+        "points": 1,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nep"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "150",
+        "country": "Gambia",
+        "ct": "GAM",
+        "points": 1,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gam"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "151",
+        "country": "Equatorial Guinea",
+        "ct": "EQG",
+        "points": 0,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eqg"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "152",
+        "country": "Myanmar",
+        "ct": "MYA",
+        "points": 0,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mya"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "153",
+        "country": "Liechtenstein",
+        "ct": "LIE",
+        "points": 0,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lie"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "154",
+        "country": "Nicaragua",
+        "ct": "NCA",
+        "points": 0,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nca"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "155",
+        "country": "Chad",
+        "ct": "CHA",
+        "points": 0,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cha"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "156",
+        "country": "Chinese Taipei",
+        "ct": "TPE",
+        "points": 0,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tpe"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "157",
+        "country": "Philippines",
+        "ct": "PHI",
+        "points": 0,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/phi"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "158",
+        "country": "Namibia",
+        "ct": "NAM",
+        "points": 0,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nam"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "159",
+        "country": "Vanuatu",
+        "ct": "VAN",
+        "points": 0,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/van"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "160",
+        "country": "Aruba",
+        "ct": "ARU",
+        "points": 0,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aru"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "161",
+        "country": "Lebanon",
+        "ct": "LBN",
+        "points": 0,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbn"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "162",
+        "country": "Bahamas",
+        "ct": "BAH",
+        "points": 0,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bah"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "163",
+        "country": "Maldives",
+        "ct": "MDV",
+        "points": 0,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mdv"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "163",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 0,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "163",
+        "country": "Somalia",
+        "ct": "SOM",
+        "points": 0,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/som"
+    }
+]

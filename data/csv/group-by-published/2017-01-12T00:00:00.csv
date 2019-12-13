@@ -1,0 +1,212 @@
+,date,rank,country,ct,points,previousPoints,flag,delta
+0,2017-01-12T00:00:00,1,Argentina,ARG,1634,1634,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,0.0
+1,2017-01-12T00:00:00,2,Brazil,BRA,1544,1544,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,0.0
+2,2017-01-12T00:00:00,3,Germany,GER,1433,1433,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,0.0
+3,2017-01-12T00:00:00,4,Chile,CHI,1404,1404,https://api.fifa.com/api/v1/picture/flags-sq-4/chi,0.0
+4,2017-01-12T00:00:00,5,Belgium,BEL,1368,1368,https://api.fifa.com/api/v1/picture/flags-sq-4/bel,0.0
+5,2017-01-12T00:00:00,6,Colombia,COL,1345,1345,https://api.fifa.com/api/v1/picture/flags-sq-4/col,0.0
+6,2017-01-12T00:00:00,7,France,FRA,1305,1305,https://api.fifa.com/api/v1/picture/flags-sq-4/fra,0.0
+7,2017-01-12T00:00:00,8,Portugal,POR,1229,1229,https://api.fifa.com/api/v1/picture/flags-sq-4/por,0.0
+8,2017-01-12T00:00:00,9,Uruguay,URU,1187,1187,https://api.fifa.com/api/v1/picture/flags-sq-4/uru,0.0
+9,2017-01-12T00:00:00,10,Spain,ESP,1166,1166,https://api.fifa.com/api/v1/picture/flags-sq-4/esp,0.0
+10,2017-01-12T00:00:00,11,Switzerland,SUI,1129,1129,https://api.fifa.com/api/v1/picture/flags-sq-4/sui,0.0
+11,2017-01-12T00:00:00,12,Wales,WAL,1121,1121,https://api.fifa.com/api/v1/picture/flags-sq-4/wal,0.0
+12,2017-01-12T00:00:00,13,England,ENG,1114,1114,https://api.fifa.com/api/v1/picture/flags-sq-4/eng,0.0
+13,2017-01-12T00:00:00,14,Croatia,CRO,1103,1103,https://api.fifa.com/api/v1/picture/flags-sq-4/cro,0.0
+14,2017-01-12T00:00:00,15,Poland,POL,1087,1087,https://api.fifa.com/api/v1/picture/flags-sq-4/pol,0.0
+15,2017-01-12T00:00:00,16,Italy,ITA,1083,1083,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,0.0
+16,2017-01-12T00:00:00,17,Costa Rica,CRC,1041,1041,https://api.fifa.com/api/v1/picture/flags-sq-4/crc,0.0
+17,2017-01-12T00:00:00,18,Mexico,MEX,1012,1012,https://api.fifa.com/api/v1/picture/flags-sq-4/mex,0.0
+18,2017-01-12T00:00:00,19,Peru,PER,965,965,https://api.fifa.com/api/v1/picture/flags-sq-4/per,0.0
+19,2017-01-12T00:00:00,20,Ecuador,ECU,890,890,https://api.fifa.com/api/v1/picture/flags-sq-4/ecu,0.0
+20,2017-01-12T00:00:00,21,Iceland,ISL,889,889,https://api.fifa.com/api/v1/picture/flags-sq-4/isl,0.0
+21,2017-01-12T00:00:00,22,Netherlands,NED,887,887,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,0.0
+22,2017-01-12T00:00:00,23,Republic of Ireland,IRL,858,858,https://api.fifa.com/api/v1/picture/flags-sq-4/irl,0.0
+23,2017-01-12T00:00:00,24,Turkey,TUR,851,851,https://api.fifa.com/api/v1/picture/flags-sq-4/tur,0.0
+24,2017-01-12T00:00:00,25,Slovakia,SVK,837,837,https://api.fifa.com/api/v1/picture/flags-sq-4/svk,0.0
+25,2017-01-12T00:00:00,26,Hungary,HUN,826,826,https://api.fifa.com/api/v1/picture/flags-sq-4/hun,0.0
+26,2017-01-12T00:00:00,27,Bosnia and Herzegovina,BIH,825,825,https://api.fifa.com/api/v1/picture/flags-sq-4/bih,0.0
+27,2017-01-12T00:00:00,28,USA,USA,822,822,https://api.fifa.com/api/v1/picture/flags-sq-4/usa,0.0
+28,2017-01-12T00:00:00,29,IR Iran,IRN,816,814,https://api.fifa.com/api/v1/picture/flags-sq-4/irn,2.0
+29,2017-01-12T00:00:00,30,Ukraine,UKR,804,804,https://api.fifa.com/api/v1/picture/flags-sq-4/ukr,0.0
+30,2017-01-12T00:00:00,31,Austria,AUT,773,773,https://api.fifa.com/api/v1/picture/flags-sq-4/aut,0.0
+31,2017-01-12T00:00:00,32,Northern Ireland,NIR,767,767,https://api.fifa.com/api/v1/picture/flags-sq-4/nir,0.0
+32,2017-01-12T00:00:00,33,Senegal,SEN,743,755,https://api.fifa.com/api/v1/picture/flags-sq-4/sen,-12.0
+33,2017-01-12T00:00:00,34,Côte d'Ivoire,CIV,733,746,https://api.fifa.com/api/v1/picture/flags-sq-4/civ,-13.0
+34,2017-01-12T00:00:00,35,Egypt,EGY,726,719,https://api.fifa.com/api/v1/picture/flags-sq-4/egy,7.0
+35,2017-01-12T00:00:00,36,Tunisia,TUN,713,738,https://api.fifa.com/api/v1/picture/flags-sq-4/tun,-25.0
+36,2017-01-12T00:00:00,37,Korea Republic,KOR,699,699,https://api.fifa.com/api/v1/picture/flags-sq-4/kor,0.0
+37,2017-01-12T00:00:00,38,Romania,ROU,690,690,https://api.fifa.com/api/v1/picture/flags-sq-4/rou,0.0
+38,2017-01-12T00:00:00,39,Algeria,ALG,687,692,https://api.fifa.com/api/v1/picture/flags-sq-4/alg,-5.0
+39,2017-01-12T00:00:00,40,Paraguay,PAR,684,684,https://api.fifa.com/api/v1/picture/flags-sq-4/par,0.0
+40,2017-01-12T00:00:00,41,Sweden,SWE,675,675,https://api.fifa.com/api/v1/picture/flags-sq-4/swe,0.0
+41,2017-01-12T00:00:00,42,Greece,GRE,674,674,https://api.fifa.com/api/v1/picture/flags-sq-4/gre,0.0
+42,2017-01-12T00:00:00,43,Czech Republic,CZE,671,671,https://api.fifa.com/api/v1/picture/flags-sq-4/cze,0.0
+43,2017-01-12T00:00:00,44,Australia,AUS,649,641,https://api.fifa.com/api/v1/picture/flags-sq-4/aus,8.0
+44,2017-01-12T00:00:00,45,Serbia,SRB,647,647,https://api.fifa.com/api/v1/picture/flags-sq-4/srb,0.0
+45,2017-01-12T00:00:00,46,Japan,JPN,644,644,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn,0.0
+46,2017-01-12T00:00:00,47,Denmark,DEN,643,643,https://api.fifa.com/api/v1/picture/flags-sq-4/den,0.0
+47,2017-01-12T00:00:00,48,Saudi Arabia,KSA,641,605,https://api.fifa.com/api/v1/picture/flags-sq-4/ksa,36.0
+48,2017-01-12T00:00:00,49,Congo DR,COD,630,638,https://api.fifa.com/api/v1/picture/flags-sq-4/cod,-8.0
+49,2017-01-12T00:00:00,50,Nigeria,NGA,619,616,https://api.fifa.com/api/v1/picture/flags-sq-4/nga,3.0
+50,2017-01-12T00:00:00,51,Albania,ALB,618,618,https://api.fifa.com/api/v1/picture/flags-sq-4/alb,0.0
+51,2017-01-12T00:00:00,52,Slovenia,SVN,616,616,https://api.fifa.com/api/v1/picture/flags-sq-4/svn,0.0
+52,2017-01-12T00:00:00,53,Burkina Faso,BFA,611,617,https://api.fifa.com/api/v1/picture/flags-sq-4/bfa,-6.0
+53,2017-01-12T00:00:00,54,Ghana,GHA,610,611,https://api.fifa.com/api/v1/picture/flags-sq-4/gha,-1.0
+54,2017-01-12T00:00:00,55,Israel,ISR,595,595,https://api.fifa.com/api/v1/picture/flags-sq-4/isr,0.0
+55,2017-01-12T00:00:00,56,Russia,RUS,592,592,https://api.fifa.com/api/v1/picture/flags-sq-4/rus,0.0
+56,2017-01-12T00:00:00,57,Morocco,MAR,587,587,https://api.fifa.com/api/v1/picture/flags-sq-4/mar,0.0
+57,2017-01-12T00:00:00,58,Panama,PAN,582,584,https://api.fifa.com/api/v1/picture/flags-sq-4/pan,-2.0
+58,2017-01-12T00:00:00,59,Venezuela,VEN,581,581,https://api.fifa.com/api/v1/picture/flags-sq-4/ven,0.0
+59,2017-01-12T00:00:00,60,South Africa,RSA,572,569,https://api.fifa.com/api/v1/picture/flags-sq-4/rsa,3.0
+60,2017-01-12T00:00:00,61,Uzbekistan,UZB,568,563,https://api.fifa.com/api/v1/picture/flags-sq-4/uzb,5.0
+61,2017-01-12T00:00:00,62,Cameroon,CMR,552,534,https://api.fifa.com/api/v1/picture/flags-sq-4/cmr,18.0
+62,2017-01-12T00:00:00,63,Montenegro,MNE,549,549,https://api.fifa.com/api/v1/picture/flags-sq-4/mne,0.0
+63,2017-01-12T00:00:00,64,United Arab Emirates,UAE,544,542,https://api.fifa.com/api/v1/picture/flags-sq-4/uae,2.0
+64,2017-01-12T00:00:00,64,Mali,MLI,544,569,https://api.fifa.com/api/v1/picture/flags-sq-4/mli,-25.0
+65,2017-01-12T00:00:00,66,Benin,BEN,531,531,https://api.fifa.com/api/v1/picture/flags-sq-4/ben,0.0
+66,2017-01-12T00:00:00,67,Scotland,SCO,524,524,https://api.fifa.com/api/v1/picture/flags-sq-4/sco,0.0
+67,2017-01-12T00:00:00,68,Guinea-Bissau,GNB,515,515,https://api.fifa.com/api/v1/picture/flags-sq-4/gnb,0.0
+68,2017-01-12T00:00:00,69,Haiti,HAI,512,489,https://api.fifa.com/api/v1/picture/flags-sq-4/hai,23.0
+69,2017-01-12T00:00:00,70,Guinea,GUI,507,507,https://api.fifa.com/api/v1/picture/flags-sq-4/gui,0.0
+70,2017-01-12T00:00:00,71,Congo,CGO,504,504,https://api.fifa.com/api/v1/picture/flags-sq-4/cgo,0.0
+71,2017-01-12T00:00:00,72,Bulgaria,BUL,492,492,https://api.fifa.com/api/v1/picture/flags-sq-4/bul,0.0
+72,2017-01-12T00:00:00,73,Uganda,UGA,476,490,https://api.fifa.com/api/v1/picture/flags-sq-4/uga,-14.0
+73,2017-01-12T00:00:00,74,Belarus,BLR,470,470,https://api.fifa.com/api/v1/picture/flags-sq-4/blr,0.0
+74,2017-01-12T00:00:00,75,Honduras,HON,467,467,https://api.fifa.com/api/v1/picture/flags-sq-4/hon,0.0
+75,2017-01-12T00:00:00,75,Curacao,CUW,467,467,https://api.fifa.com/api/v1/picture/flags-sq-4/cuw,0.0
+76,2017-01-12T00:00:00,77,Jamaica,JAM,463,463,https://api.fifa.com/api/v1/picture/flags-sq-4/jam,0.0
+77,2017-01-12T00:00:00,78,Guatemala,GUA,451,450,https://api.fifa.com/api/v1/picture/flags-sq-4/gua,1.0
+78,2017-01-12T00:00:00,79,Cape Verde Islands,CPV,449,443,https://api.fifa.com/api/v1/picture/flags-sq-4/cpv,6.0
+79,2017-01-12T00:00:00,80,St. Kitts and Nevis,SKN,443,443,https://api.fifa.com/api/v1/picture/flags-sq-4/skn,0.0
+80,2017-01-12T00:00:00,81,China PR,CHN,424,427,https://api.fifa.com/api/v1/picture/flags-sq-4/chn,-3.0
+81,2017-01-12T00:00:00,82,Faroe Islands,FRO,422,422,https://api.fifa.com/api/v1/picture/flags-sq-4/fro,0.0
+82,2017-01-12T00:00:00,83,Trinidad and Tobago,TRI,421,451,https://api.fifa.com/api/v1/picture/flags-sq-4/tri,-30.0
+83,2017-01-12T00:00:00,84,Norway,NOR,418,422,https://api.fifa.com/api/v1/picture/flags-sq-4/nor,-4.0
+84,2017-01-12T00:00:00,85,Qatar,QAT,416,411,https://api.fifa.com/api/v1/picture/flags-sq-4/qat,5.0
+85,2017-01-12T00:00:00,86,Armenia,ARM,412,412,https://api.fifa.com/api/v1/picture/flags-sq-4/arm,0.0
+86,2017-01-12T00:00:00,87,Kenya,KEN,396,395,https://api.fifa.com/api/v1/picture/flags-sq-4/ken,1.0
+87,2017-01-12T00:00:00,88,Zambia,ZAM,395,401,https://api.fifa.com/api/v1/picture/flags-sq-4/zam,-6.0
+88,2017-01-12T00:00:00,89,Libya,LBY,390,417,https://api.fifa.com/api/v1/picture/flags-sq-4/lby,-27.0
+89,2017-01-12T00:00:00,90,Togo,TOG,386,385,https://api.fifa.com/api/v1/picture/flags-sq-4/tog,1.0
+90,2017-01-12T00:00:00,90,Azerbaijan,AZE,386,386,https://api.fifa.com/api/v1/picture/flags-sq-4/aze,0.0
+91,2017-01-12T00:00:00,92,Antigua and Barbuda,ATG,370,370,https://api.fifa.com/api/v1/picture/flags-sq-4/atg,0.0
+92,2017-01-12T00:00:00,93,Finland,FIN,368,368,https://api.fifa.com/api/v1/picture/flags-sq-4/fin,0.0
+93,2017-01-12T00:00:00,93,Rwanda,RWA,368,373,https://api.fifa.com/api/v1/picture/flags-sq-4/rwa,-5.0
+94,2017-01-12T00:00:00,95,Bolivia,BOL,359,359,https://api.fifa.com/api/v1/picture/flags-sq-4/bol,0.0
+95,2017-01-12T00:00:00,96,Sierra Leone,SLE,355,355,https://api.fifa.com/api/v1/picture/flags-sq-4/sle,0.0
+96,2017-01-12T00:00:00,96,Syria,SYR,355,355,https://api.fifa.com/api/v1/picture/flags-sq-4/syr,0.0
+97,2017-01-12T00:00:00,98,Kazakhstan,KAZ,354,354,https://api.fifa.com/api/v1/picture/flags-sq-4/kaz,0.0
+98,2017-01-12T00:00:00,99,Swaziland,SWZ,348,343,https://api.fifa.com/api/v1/picture/flags-sq-4/swz,5.0
+99,2017-01-12T00:00:00,100,Namibia,NAM,345,347,https://api.fifa.com/api/v1/picture/flags-sq-4/nam,-2.0
+100,2017-01-12T00:00:00,101,Liberia,LBR,338,338,https://api.fifa.com/api/v1/picture/flags-sq-4/lbr,0.0
+101,2017-01-12T00:00:00,102,Malawi,MWI,332,330,https://api.fifa.com/api/v1/picture/flags-sq-4/mwi,2.0
+102,2017-01-12T00:00:00,103,Zimbabwe,ZIM,330,334,https://api.fifa.com/api/v1/picture/flags-sq-4/zim,-4.0
+103,2017-01-12T00:00:00,104,Central African Republic,CTA,325,325,https://api.fifa.com/api/v1/picture/flags-sq-4/cta,0.0
+104,2017-01-12T00:00:00,105,Lithuania,LTU,324,324,https://api.fifa.com/api/v1/picture/flags-sq-4/ltu,0.0
+105,2017-01-12T00:00:00,106,Mozambique,MOZ,322,319,https://api.fifa.com/api/v1/picture/flags-sq-4/moz,3.0
+106,2017-01-12T00:00:00,107,Jordan,JOR,318,324,https://api.fifa.com/api/v1/picture/flags-sq-4/jor,-6.0
+107,2017-01-12T00:00:00,108,Gabon,GAB,313,308,https://api.fifa.com/api/v1/picture/flags-sq-4/gab,5.0
+108,2017-01-12T00:00:00,109,New Zealand,NZL,311,311,https://api.fifa.com/api/v1/picture/flags-sq-4/nzl,0.0
+109,2017-01-12T00:00:00,110,Latvia,LVA,304,304,https://api.fifa.com/api/v1/picture/flags-sq-4/lva,0.0
+110,2017-01-12T00:00:00,111,Nicaragua,NCA,299,262,https://api.fifa.com/api/v1/picture/flags-sq-4/nca,37.0
+111,2017-01-12T00:00:00,112,Ethiopia,ETH,297,296,https://api.fifa.com/api/v1/picture/flags-sq-4/eth,1.0
+112,2017-01-12T00:00:00,113,Mauritania,MTN,296,317,https://api.fifa.com/api/v1/picture/flags-sq-4/mtn,-21.0
+113,2017-01-12T00:00:00,113,Botswana,BOT,296,296,https://api.fifa.com/api/v1/picture/flags-sq-4/bot,0.0
+114,2017-01-12T00:00:00,115,Equatorial Guinea,EQG,293,293,https://api.fifa.com/api/v1/picture/flags-sq-4/eqg,0.0
+115,2017-01-12T00:00:00,116,Cyprus,CYP,290,290,https://api.fifa.com/api/v1/picture/flags-sq-4/cyp,0.0
+116,2017-01-12T00:00:00,117,Estonia,EST,289,285,https://api.fifa.com/api/v1/picture/flags-sq-4/est,4.0
+117,2017-01-12T00:00:00,118,Oman,OMA,287,272,https://api.fifa.com/api/v1/picture/flags-sq-4/oma,15.0
+118,2017-01-12T00:00:00,119,Iraq,IRQ,283,278,https://api.fifa.com/api/v1/picture/flags-sq-4/irq,5.0
+119,2017-01-12T00:00:00,120,Canada,CAN,282,282,https://api.fifa.com/api/v1/picture/flags-sq-4/can,0.0
+120,2017-01-12T00:00:00,121,Georgia,GEO,281,281,https://api.fifa.com/api/v1/picture/flags-sq-4/geo,0.0
+121,2017-01-12T00:00:00,122,Philippines,PHI,273,273,https://api.fifa.com/api/v1/picture/flags-sq-4/phi,0.0
+122,2017-01-12T00:00:00,123,Bahrain,BHR,268,264,https://api.fifa.com/api/v1/picture/flags-sq-4/bhr,4.0
+123,2017-01-12T00:00:00,124,Kyrgyz Republic,KGZ,265,265,https://api.fifa.com/api/v1/picture/flags-sq-4/kgz,0.0
+124,2017-01-12T00:00:00,125,Korea DPR,PRK,263,257,https://api.fifa.com/api/v1/picture/flags-sq-4/prk,6.0
+125,2017-01-12T00:00:00,126,Thailand,THA,251,254,https://api.fifa.com/api/v1/picture/flags-sq-4/tha,-3.0
+126,2017-01-12T00:00:00,127,Niger,NIG,248,246,https://api.fifa.com/api/v1/picture/flags-sq-4/nig,2.0
+127,2017-01-12T00:00:00,128,Suriname,SUR,245,183,https://api.fifa.com/api/v1/picture/flags-sq-4/sur,62.0
+128,2017-01-12T00:00:00,129,India,IND,243,217,https://api.fifa.com/api/v1/picture/flags-sq-4/ind,26.0
+129,2017-01-12T00:00:00,130,Dominican Republic,DOM,242,242,https://api.fifa.com/api/v1/picture/flags-sq-4/dom,0.0
+130,2017-01-12T00:00:00,131,Palestine,PLE,233,229,https://api.fifa.com/api/v1/picture/flags-sq-4/ple,4.0
+131,2017-01-12T00:00:00,132,Tajikistan,TJK,231,231,https://api.fifa.com/api/v1/picture/flags-sq-4/tjk,0.0
+132,2017-01-12T00:00:00,133,Luxembourg,LUX,230,230,https://api.fifa.com/api/v1/picture/flags-sq-4/lux,0.0
+133,2017-01-12T00:00:00,134,Guyana,GUY,221,221,https://api.fifa.com/api/v1/picture/flags-sq-4/guy,0.0
+134,2017-01-12T00:00:00,135,Madagascar,MAD,220,220,https://api.fifa.com/api/v1/picture/flags-sq-4/mad,0.0
+135,2017-01-12T00:00:00,136,Vietnam,VIE,218,218,https://api.fifa.com/api/v1/picture/flags-sq-4/vie,0.0
+136,2017-01-12T00:00:00,137,Sudan,SDN,217,217,https://api.fifa.com/api/v1/picture/flags-sq-4/sdn,0.0
+137,2017-01-12T00:00:00,138,El Salvador,SLV,216,216,https://api.fifa.com/api/v1/picture/flags-sq-4/slv,0.0
+138,2017-01-12T00:00:00,139,Burundi,BDI,213,213,https://api.fifa.com/api/v1/picture/flags-sq-4/bdi,0.0
+139,2017-01-12T00:00:00,140,Hong Kong,HKG,210,210,https://api.fifa.com/api/v1/picture/flags-sq-4/hkg,0.0
+140,2017-01-12T00:00:00,141,Comoros,COM,205,205,https://api.fifa.com/api/v1/picture/flags-sq-4/com,0.0
+141,2017-01-12T00:00:00,142,Lesotho,LES,202,202,https://api.fifa.com/api/v1/picture/flags-sq-4/les,0.0
+142,2017-01-12T00:00:00,143,Turkmenistan,TKM,200,200,https://api.fifa.com/api/v1/picture/flags-sq-4/tkm,0.0
+143,2017-01-12T00:00:00,144,Angola,ANG,199,199,https://api.fifa.com/api/v1/picture/flags-sq-4/ang,0.0
+144,2017-01-12T00:00:00,145,Puerto Rico,PUR,194,194,https://api.fifa.com/api/v1/picture/flags-sq-4/pur,0.0
+145,2017-01-12T00:00:00,145,Maldives,MDV,194,174,https://api.fifa.com/api/v1/picture/flags-sq-4/mdv,20.0
+146,2017-01-12T00:00:00,147,Mauritius,MRI,191,191,https://api.fifa.com/api/v1/picture/flags-sq-4/mri,0.0
+147,2017-01-12T00:00:00,148,Lebanon,LIB,189,186,https://api.fifa.com/api/v1/picture/flags-sq-4/lib,3.0
+148,2017-01-12T00:00:00,149,Yemen,YEM,184,184,https://api.fifa.com/api/v1/picture/flags-sq-4/yem,0.0
+149,2017-01-12T00:00:00,149,Tahiti,TAH,184,184,https://api.fifa.com/api/v1/picture/flags-sq-4/tah,0.0
+150,2017-01-12T00:00:00,151,Chad,CHA,179,179,https://api.fifa.com/api/v1/picture/flags-sq-4/cha,0.0
+151,2017-01-12T00:00:00,151,Afghanistan,AFG,179,189,https://api.fifa.com/api/v1/picture/flags-sq-4/afg,-10.0
+152,2017-01-12T00:00:00,153,Sao Tome e Principe,STP,177,177,https://api.fifa.com/api/v1/picture/flags-sq-4/stp,0.0
+153,2017-01-12T00:00:00,154,Cuba,CUB,175,180,https://api.fifa.com/api/v1/picture/flags-sq-4/cub,-5.0
+154,2017-01-12T00:00:00,155,Barbados,BRB,163,163,https://api.fifa.com/api/v1/picture/flags-sq-4/brb,0.0
+155,2017-01-12T00:00:00,156,Tanzania,TAN,155,154,https://api.fifa.com/api/v1/picture/flags-sq-4/tan,1.0
+156,2017-01-12T00:00:00,157,Chinese Taipei,TPE,153,153,https://api.fifa.com/api/v1/picture/flags-sq-4/tpe,0.0
+157,2017-01-12T00:00:00,158,Grenada,GRN,150,150,https://api.fifa.com/api/v1/picture/flags-sq-4/grn,0.0
+158,2017-01-12T00:00:00,159,Myanmar,MYA,148,148,https://api.fifa.com/api/v1/picture/flags-sq-4/mya,0.0
+159,2017-01-12T00:00:00,160,Aruba,ARU,147,147,https://api.fifa.com/api/v1/picture/flags-sq-4/aru,0.0
+160,2017-01-12T00:00:00,161,Malaysia,MAS,143,143,https://api.fifa.com/api/v1/picture/flags-sq-4/mas,0.0
+161,2017-01-12T00:00:00,162,FYR Macedonia,MKD,142,142,https://api.fifa.com/api/v1/picture/flags-sq-4/mkd,0.0
+162,2017-01-12T00:00:00,163,Belize,BLZ,141,141,https://api.fifa.com/api/v1/picture/flags-sq-4/blz,0.0
+163,2017-01-12T00:00:00,164,Moldova,MDA,138,138,https://api.fifa.com/api/v1/picture/flags-sq-4/mda,0.0
+164,2017-01-12T00:00:00,165,Singapore,SIN,136,135,https://api.fifa.com/api/v1/picture/flags-sq-4/sin,1.0
+165,2017-01-12T00:00:00,166,Kosovo,KVX,135,135,https://api.fifa.com/api/v1/picture/flags-sq-4/kvx,0.0
+166,2017-01-12T00:00:00,167,Laos,LAO,134,134,https://api.fifa.com/api/v1/picture/flags-sq-4/lao,0.0
+167,2017-01-12T00:00:00,168,Kuwait,KUW,123,120,https://api.fifa.com/api/v1/picture/flags-sq-4/kuw,3.0
+168,2017-01-12T00:00:00,168,South Sudan,SSD,123,123,https://api.fifa.com/api/v1/picture/flags-sq-4/ssd,0.0
+169,2017-01-12T00:00:00,168,New Caledonia,NCL,123,123,https://api.fifa.com/api/v1/picture/flags-sq-4/ncl,0.0
+170,2017-01-12T00:00:00,171,Papua New Guinea,PNG,122,122,https://api.fifa.com/api/v1/picture/flags-sq-4/png,0.0
+171,2017-01-12T00:00:00,172,Cambodia,CAM,121,118,https://api.fifa.com/api/v1/picture/flags-sq-4/cam,3.0
+172,2017-01-12T00:00:00,173,Indonesia,IDN,120,120,https://api.fifa.com/api/v1/picture/flags-sq-4/idn,0.0
+173,2017-01-12T00:00:00,174,Dominica,DMA,113,113,https://api.fifa.com/api/v1/picture/flags-sq-4/dma,0.0
+174,2017-01-12T00:00:00,175,Nepal,NEP,112,96,https://api.fifa.com/api/v1/picture/flags-sq-4/nep,16.0
+175,2017-01-12T00:00:00,176,Bhutan,BHU,110,103,https://api.fifa.com/api/v1/picture/flags-sq-4/bhu,7.0
+176,2017-01-12T00:00:00,177,Gambia,GAM,106,106,https://api.fifa.com/api/v1/picture/flags-sq-4/gam,0.0
+177,2017-01-12T00:00:00,177,Vanuatu,VAN,106,106,https://api.fifa.com/api/v1/picture/flags-sq-4/van,0.0
+178,2017-01-12T00:00:00,179,St. Lucia,LCA,103,103,https://api.fifa.com/api/v1/picture/flags-sq-4/lca,0.0
+179,2017-01-12T00:00:00,180,St. Vincent / Grenadines,VIN,102,102,https://api.fifa.com/api/v1/picture/flags-sq-4/vin,0.0
+180,2017-01-12T00:00:00,180,Fiji,FIJ,102,102,https://api.fifa.com/api/v1/picture/flags-sq-4/fij,0.0
+181,2017-01-12T00:00:00,182,Guam,GUM,89,89,https://api.fifa.com/api/v1/picture/flags-sq-4/gum,0.0
+182,2017-01-12T00:00:00,183,Malta,MLT,85,85,https://api.fifa.com/api/v1/picture/flags-sq-4/mlt,0.0
+183,2017-01-12T00:00:00,184,Macau,MAC,82,82,https://api.fifa.com/api/v1/picture/flags-sq-4/mac,0.0
+184,2017-01-12T00:00:00,185,Seychelles,SEY,78,78,https://api.fifa.com/api/v1/picture/flags-sq-4/sey,0.0
+185,2017-01-12T00:00:00,186,Solomon Islands,SOL,77,77,https://api.fifa.com/api/v1/picture/flags-sq-4/sol,0.0
+186,2017-01-12T00:00:00,186,Bermuda,BER,77,77,https://api.fifa.com/api/v1/picture/flags-sq-4/ber,0.0
+187,2017-01-12T00:00:00,188,Liechtenstein,LIE,75,75,https://api.fifa.com/api/v1/picture/flags-sq-4/lie,0.0
+188,2017-01-12T00:00:00,189,Brunei Darussalam,BRU,74,74,https://api.fifa.com/api/v1/picture/flags-sq-4/bru,0.0
+189,2017-01-12T00:00:00,190,Bangladesh,BAN,69,81,https://api.fifa.com/api/v1/picture/flags-sq-4/ban,-12.0
+190,2017-01-12T00:00:00,191,Timor-Leste,TLS,64,64,https://api.fifa.com/api/v1/picture/flags-sq-4/tls,0.0
+191,2017-01-12T00:00:00,191,Samoa,SAM,64,64,https://api.fifa.com/api/v1/picture/flags-sq-4/sam,0.0
+192,2017-01-12T00:00:00,191,American Samoa,ASA,64,64,https://api.fifa.com/api/v1/picture/flags-sq-4/asa,0.0
+193,2017-01-12T00:00:00,191,Cook Islands,COK,64,64,https://api.fifa.com/api/v1/picture/flags-sq-4/cok,0.0
+194,2017-01-12T00:00:00,195,US Virgin Islands,VIR,44,44,https://api.fifa.com/api/v1/picture/flags-sq-4/vir,0.0
+195,2017-01-12T00:00:00,196,Sri Lanka,SRI,43,44,https://api.fifa.com/api/v1/picture/flags-sq-4/sri,-1.0
+196,2017-01-12T00:00:00,197,Pakistan,PAK,40,40,https://api.fifa.com/api/v1/picture/flags-sq-4/pak,0.0
+197,2017-01-12T00:00:00,198,Mongolia,MNG,38,38,https://api.fifa.com/api/v1/picture/flags-sq-4/mng,0.0
+198,2017-01-12T00:00:00,199,Montserrat,MSR,30,30,https://api.fifa.com/api/v1/picture/flags-sq-4/msr,0.0
+199,2017-01-12T00:00:00,200,Cayman Islands,CAY,21,21,https://api.fifa.com/api/v1/picture/flags-sq-4/cay,0.0
+200,2017-01-12T00:00:00,201,Turks and Caicos Islands,TCA,20,20,https://api.fifa.com/api/v1/picture/flags-sq-4/tca,0.0
+201,2017-01-12T00:00:00,202,San Marino,SMR,17,17,https://api.fifa.com/api/v1/picture/flags-sq-4/smr,0.0
+202,2017-01-12T00:00:00,203,Andorra,AND,12,12,https://api.fifa.com/api/v1/picture/flags-sq-4/and,0.0
+203,2017-01-12T00:00:00,204,British Virgin Islands,VGB,11,11,https://api.fifa.com/api/v1/picture/flags-sq-4/vgb,0.0
+204,2017-01-12T00:00:00,205,Bahamas,BAH,0,0,https://api.fifa.com/api/v1/picture/flags-sq-4/bah,
+205,2017-01-12T00:00:00,205,Djibouti,DJI,0,0,https://api.fifa.com/api/v1/picture/flags-sq-4/dji,
+206,2017-01-12T00:00:00,205,Eritrea,ERI,0,0,https://api.fifa.com/api/v1/picture/flags-sq-4/eri,
+207,2017-01-12T00:00:00,205,Gibraltar,GIB,0,0,https://api.fifa.com/api/v1/picture/flags-sq-4/gib,
+208,2017-01-12T00:00:00,205,Tonga,TGA,0,0,https://api.fifa.com/api/v1/picture/flags-sq-4/tga,
+209,2017-01-12T00:00:00,205,Anguilla,AIA,0,0,https://api.fifa.com/api/v1/picture/flags-sq-4/aia,
+210,2017-01-12T00:00:00,205,Somalia,SOM,0,0,https://api.fifa.com/api/v1/picture/flags-sq-4/som,

@@ -1,0 +1,2112 @@
+[
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "1",
+        "country": "Germany",
+        "ct": "GER",
+        "points": 2172,
+        "previousPoints": 2187,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ger",
+        "delta": -15
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "2",
+        "country": "France",
+        "ct": "FRA",
+        "points": 2164,
+        "previousPoints": 2134,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fra",
+        "delta": 30
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "3",
+        "country": "Portugal",
+        "ct": "POR",
+        "points": 2163,
+        "previousPoints": 2155,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/por",
+        "delta": 8
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "4",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 2160,
+        "previousPoints": 2151,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 9
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "5",
+        "country": "Belgium",
+        "ct": "BEL",
+        "points": 2124,
+        "previousPoints": 2098,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bel",
+        "delta": 26
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "6",
+        "country": "Spain",
+        "ct": "ESP",
+        "points": 2104,
+        "previousPoints": 2082,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/esp",
+        "delta": 22
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "7",
+        "country": "England",
+        "ct": "ENG",
+        "points": 2099,
+        "previousPoints": 2074,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eng",
+        "delta": 25
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "8",
+        "country": "Switzerland",
+        "ct": "SUI",
+        "points": 2087,
+        "previousPoints": 2065,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sui",
+        "delta": 22
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "9",
+        "country": "Argentina",
+        "ct": "ARG",
+        "points": 2080,
+        "previousPoints": 2117,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arg",
+        "delta": -37
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "10",
+        "country": "Mexico",
+        "ct": "MEX",
+        "points": 2041,
+        "previousPoints": 1996,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mex",
+        "delta": 45
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "10",
+        "country": "Chile",
+        "ct": "CHI",
+        "points": 2041,
+        "previousPoints": 2039,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chi",
+        "delta": 2
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "12",
+        "country": "Croatia",
+        "ct": "CRO",
+        "points": 2036,
+        "previousPoints": 1990,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cro",
+        "delta": 46
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "13",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 2023,
+        "previousPoints": 2085,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -62
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "14",
+        "country": "Uruguay",
+        "ct": "URU",
+        "points": 2017,
+        "previousPoints": 1991,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uru",
+        "delta": 26
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "15",
+        "country": "Denmark",
+        "ct": "DEN",
+        "points": 2014,
+        "previousPoints": 1992,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/den",
+        "delta": 22
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "16",
+        "country": "Italy",
+        "ct": "ITA",
+        "points": 2009,
+        "previousPoints": 2009,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ita",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "17",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1998,
+        "previousPoints": 2005,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -7
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "18",
+        "country": "Wales",
+        "ct": "WAL",
+        "points": 1979,
+        "previousPoints": 1979,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/wal",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "19",
+        "country": "Peru",
+        "ct": "PER",
+        "points": 1975,
+        "previousPoints": 2019,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/per",
+        "delta": -44
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "20",
+        "country": "Netherlands",
+        "ct": "NED",
+        "points": 1959,
+        "previousPoints": 1959,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ned",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "21",
+        "country": "Sweden",
+        "ct": "SWE",
+        "points": 1955,
+        "previousPoints": 1954,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swe",
+        "delta": 1
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "22",
+        "country": "Iceland",
+        "ct": "ISL",
+        "points": 1938,
+        "previousPoints": 1968,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isl",
+        "delta": -30
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "22",
+        "country": "Senegal",
+        "ct": "SEN",
+        "points": 1938,
+        "previousPoints": 1911,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sen",
+        "delta": 27
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "24",
+        "country": "Slovakia",
+        "ct": "SVK",
+        "points": 1910,
+        "previousPoints": 1913,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svk",
+        "delta": -3
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "25",
+        "country": "USA",
+        "ct": "USA",
+        "points": 1905,
+        "previousPoints": 1904,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/usa",
+        "delta": 1
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "26",
+        "country": "Republic of Ireland",
+        "ct": "IRL",
+        "points": 1901,
+        "previousPoints": 1901,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irl",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "27",
+        "country": "Austria",
+        "ct": "AUT",
+        "points": 1899,
+        "previousPoints": 1900,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aut",
+        "delta": -1
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "28",
+        "country": "IR Iran",
+        "ct": "IRN",
+        "points": 1896,
+        "previousPoints": 1890,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irn",
+        "delta": 6
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "29",
+        "country": "Northern Ireland",
+        "ct": "NIR",
+        "points": 1887,
+        "previousPoints": 1887,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nir",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "30",
+        "country": "Serbia",
+        "ct": "SRB",
+        "points": 1875,
+        "previousPoints": 1866,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/srb",
+        "delta": 9
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "31",
+        "country": "Ukraine",
+        "ct": "UKR",
+        "points": 1874,
+        "previousPoints": 1874,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ukr",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "32",
+        "country": "Australia",
+        "ct": "AUS",
+        "points": 1866,
+        "previousPoints": 1870,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aus",
+        "delta": -4
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "33",
+        "country": "Paraguay",
+        "ct": "PAR",
+        "points": 1863,
+        "previousPoints": 1866,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/par",
+        "delta": -3
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "33",
+        "country": "Romania",
+        "ct": "ROU",
+        "points": 1863,
+        "previousPoints": 1861,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rou",
+        "delta": 2
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "35",
+        "country": "Venezuela",
+        "ct": "VEN",
+        "points": 1849,
+        "previousPoints": 1849,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ven",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "35",
+        "country": "Turkey",
+        "ct": "TUR",
+        "points": 1849,
+        "previousPoints": 1849,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tur",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "37",
+        "country": "Costa Rica",
+        "ct": "CRC",
+        "points": 1839,
+        "previousPoints": 1880,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/crc",
+        "delta": -41
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "38",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 1835,
+        "previousPoints": 1865,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -30
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "39",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 1834,
+        "previousPoints": 1834,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "40",
+        "country": "Bosnia and Herzegovina",
+        "ct": "BIH",
+        "points": 1826,
+        "previousPoints": 1826,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bih",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "41",
+        "country": "Japan",
+        "ct": "JPN",
+        "points": 1816,
+        "previousPoints": 1773,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jpn",
+        "delta": 43
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "42",
+        "country": "Czech Republic",
+        "ct": "CZE",
+        "points": 1809,
+        "previousPoints": 1807,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cze",
+        "delta": 2
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "43",
+        "country": "Morocco",
+        "ct": "MAR",
+        "points": 1801,
+        "previousPoints": 1830,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mar",
+        "delta": -29
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "44",
+        "country": "Cameroon",
+        "ct": "CMR",
+        "points": 1790,
+        "previousPoints": 1790,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cmr",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "45",
+        "country": "Congo DR",
+        "ct": "COD",
+        "points": 1780,
+        "previousPoints": 1780,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cod",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "46",
+        "country": "Hungary",
+        "ct": "HUN",
+        "points": 1771,
+        "previousPoints": 1774,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hun",
+        "delta": -3
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "47",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 1765,
+        "previousPoints": 1745,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 20
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "48",
+        "country": "Greece",
+        "ct": "GRE",
+        "points": 1760,
+        "previousPoints": 1760,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gre",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "49",
+        "country": "Russia",
+        "ct": "RUS",
+        "points": 1758,
+        "previousPoints": 1707,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rus",
+        "delta": 51
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "50",
+        "country": "Ecuador",
+        "ct": "ECU",
+        "points": 1756,
+        "previousPoints": 1756,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ecu",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "51",
+        "country": "Korea Republic",
+        "ct": "KOR",
+        "points": 1751,
+        "previousPoints": 1783,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kor",
+        "delta": -32
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "52",
+        "country": "Montenegro",
+        "ct": "MNE",
+        "points": 1750,
+        "previousPoints": 1750,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mne",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "53",
+        "country": "Egypt",
+        "ct": "EGY",
+        "points": 1748,
+        "previousPoints": 1792,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/egy",
+        "delta": -44
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "54",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 1743,
+        "previousPoints": 1743,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "55",
+        "country": "Ghana",
+        "ct": "GHA",
+        "points": 1739,
+        "previousPoints": 1738,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gha",
+        "delta": 1
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "56",
+        "country": "Albania",
+        "ct": "ALB",
+        "points": 1734,
+        "previousPoints": 1734,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alb",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "57",
+        "country": "Burkina Faso",
+        "ct": "BFA",
+        "points": 1728,
+        "previousPoints": 1728,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bfa",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "58",
+        "country": "Panama",
+        "ct": "PAN",
+        "points": 1723,
+        "previousPoints": 1746,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pan",
+        "delta": -23
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "59",
+        "country": "Jamaica",
+        "ct": "JAM",
+        "points": 1720,
+        "previousPoints": 1720,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jam",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "60",
+        "country": "Slovenia",
+        "ct": "SVN",
+        "points": 1719,
+        "previousPoints": 1719,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svn",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "61",
+        "country": "Norway",
+        "ct": "NOR",
+        "points": 1711,
+        "previousPoints": 1709,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nor",
+        "delta": 2
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "62",
+        "country": "Bolivia",
+        "ct": "BOL",
+        "points": 1702,
+        "previousPoints": 1704,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bol",
+        "delta": -2
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "63",
+        "country": "Honduras",
+        "ct": "HON",
+        "points": 1683,
+        "previousPoints": 1683,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hon",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "64",
+        "country": "Finland",
+        "ct": "FIN",
+        "points": 1674,
+        "previousPoints": 1674,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fin",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "65",
+        "country": "C\u00f4te d'Ivoire",
+        "ct": "CIV",
+        "points": 1673,
+        "previousPoints": 1673,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/civ",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "66",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 1641,
+        "previousPoints": 1642,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "67",
+        "country": "Saudi Arabia",
+        "ct": "KSA",
+        "points": 1639,
+        "previousPoints": 1673,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ksa",
+        "delta": -34
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "68",
+        "country": "Syria",
+        "ct": "SYR",
+        "points": 1637,
+        "previousPoints": 1637,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/syr",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "69",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 1628,
+        "previousPoints": 1628,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "70",
+        "country": "China PR",
+        "ct": "CHN",
+        "points": 1625,
+        "previousPoints": 1625,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chn",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "71",
+        "country": "South Africa",
+        "ct": "RSA",
+        "points": 1623,
+        "previousPoints": 1621,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rsa",
+        "delta": 2
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "71",
+        "country": "Cape Verde Islands",
+        "ct": "CPV",
+        "points": 1623,
+        "previousPoints": 1623,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cpv",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "73",
+        "country": "Guinea",
+        "ct": "GUI",
+        "points": 1613,
+        "previousPoints": 1613,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gui",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "74",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 1606,
+        "previousPoints": 1606,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "75",
+        "country": "FYR Macedonia",
+        "ct": "MKD",
+        "points": 1601,
+        "previousPoints": 1601,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mkd",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "76",
+        "country": "Canada",
+        "ct": "CAN",
+        "points": 1593,
+        "previousPoints": 1593,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/can",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "77",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 1592,
+        "previousPoints": 1594,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -2
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "78",
+        "country": "El Salvador",
+        "ct": "SLV",
+        "points": 1580,
+        "previousPoints": 1580,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/slv",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "79",
+        "country": "Belarus",
+        "ct": "BLR",
+        "points": 1579,
+        "previousPoints": 1580,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blr",
+        "delta": -1
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "80",
+        "country": "Uzbekistan",
+        "ct": "UZB",
+        "points": 1572,
+        "previousPoints": 1573,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uzb",
+        "delta": -1
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "81",
+        "country": "Uganda",
+        "ct": "UGA",
+        "points": 1568,
+        "previousPoints": 1568,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uga",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "82",
+        "country": "Luxembourg",
+        "ct": "LUX",
+        "points": 1538,
+        "previousPoints": 1536,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lux",
+        "delta": 2
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "83",
+        "country": "Lebanon",
+        "ct": "LIB",
+        "points": 1536,
+        "previousPoints": 1536,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lib",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "84",
+        "country": "Iraq",
+        "ct": "IRQ",
+        "points": 1534,
+        "previousPoints": 1534,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irq",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "85",
+        "country": "Congo",
+        "ct": "CGO",
+        "points": 1532,
+        "previousPoints": 1532,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cgo",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "86",
+        "country": "Oman",
+        "ct": "OMA",
+        "points": 1530,
+        "previousPoints": 1530,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/oma",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "87",
+        "country": "Israel",
+        "ct": "ISR",
+        "points": 1523,
+        "previousPoints": 1523,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isr",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "88",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 1520,
+        "previousPoints": 1520,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "89",
+        "country": "Gabon",
+        "ct": "GAB",
+        "points": 1507,
+        "previousPoints": 1507,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gab",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "90",
+        "country": "Cyprus",
+        "ct": "CYP",
+        "points": 1505,
+        "previousPoints": 1505,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cyp",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "91",
+        "country": "Trinidad and Tobago",
+        "ct": "TRI",
+        "points": 1503,
+        "previousPoints": 1503,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tri",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "92",
+        "country": "Estonia",
+        "ct": "EST",
+        "points": 1497,
+        "previousPoints": 1499,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/est",
+        "delta": -2
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "93",
+        "country": "Faroe Islands",
+        "ct": "FRO",
+        "points": 1495,
+        "previousPoints": 1495,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fro",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "94",
+        "country": "Qatar",
+        "ct": "QAT",
+        "points": 1491,
+        "previousPoints": 1491,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/qat",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "95",
+        "country": "Kyrgyz Republic",
+        "ct": "KGZ",
+        "points": 1479,
+        "previousPoints": 1479,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kgz",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "96",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 1476,
+        "previousPoints": 1479,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -3
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "97",
+        "country": "Haiti",
+        "ct": "HAI",
+        "points": 1474,
+        "previousPoints": 1474,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hai",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "98",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 1469,
+        "previousPoints": 1471,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -2
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "99",
+        "country": "Libya",
+        "ct": "LBY",
+        "points": 1462,
+        "previousPoints": 1462,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lby",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "100",
+        "country": "Cura\u00e7ao",
+        "ct": "CUW",
+        "points": 1450,
+        "previousPoints": 1450,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "101",
+        "country": "Palestine",
+        "ct": "PLE",
+        "points": 1449,
+        "previousPoints": 1449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ple",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "102",
+        "country": "India",
+        "ct": "IND",
+        "points": 1426,
+        "previousPoints": 1424,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ind",
+        "delta": 2
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "103",
+        "country": "Jordan",
+        "ct": "JOR",
+        "points": 1419,
+        "previousPoints": 1419,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jor",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "104",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 1414,
+        "previousPoints": 1420,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -6
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "105",
+        "country": "Mauritania",
+        "ct": "MTN",
+        "points": 1413,
+        "previousPoints": 1413,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mtn",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "106",
+        "country": "Korea DPR",
+        "ct": "PRK",
+        "points": 1406,
+        "previousPoints": 1406,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/prk",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "107",
+        "country": "Azerbaijan",
+        "ct": "AZE",
+        "points": 1405,
+        "previousPoints": 1406,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aze",
+        "delta": -1
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "107",
+        "country": "Vietnam",
+        "ct": "VIE",
+        "points": 1405,
+        "previousPoints": 1405,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vie",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "109",
+        "country": "Niger",
+        "ct": "NIG",
+        "points": 1404,
+        "previousPoints": 1404,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nig",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "110",
+        "country": "Central African Republic",
+        "ct": "CTA",
+        "points": 1402,
+        "previousPoints": 1402,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cta",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "111",
+        "country": "Zimbabwe",
+        "ct": "ZIM",
+        "points": 1392,
+        "previousPoints": 1390,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zim",
+        "delta": 2
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "112",
+        "country": "Bahrain",
+        "ct": "BHR",
+        "points": 1375,
+        "previousPoints": 1375,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhr",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "113",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 1373,
+        "previousPoints": 1373,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "113",
+        "country": "Mozambique",
+        "ct": "MOZ",
+        "points": 1373,
+        "previousPoints": 1373,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/moz",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "115",
+        "country": "Kenya",
+        "ct": "KEN",
+        "points": 1370,
+        "previousPoints": 1373,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ken",
+        "delta": -3
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "116",
+        "country": "Thailand",
+        "ct": "THA",
+        "points": 1364,
+        "previousPoints": 1364,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tha",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "117",
+        "country": "New Zealand",
+        "ct": "NZL",
+        "points": 1363,
+        "previousPoints": 1359,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nzl",
+        "delta": 4
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "118",
+        "country": "Kazakhstan",
+        "ct": "KAZ",
+        "points": 1349,
+        "previousPoints": 1346,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kaz",
+        "delta": 3
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "119",
+        "country": "Namibia",
+        "ct": "NAM",
+        "points": 1338,
+        "previousPoints": 1339,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nam",
+        "delta": -1
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "120",
+        "country": "Togo",
+        "ct": "TOG",
+        "points": 1327,
+        "previousPoints": 1327,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tog",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "121",
+        "country": "Philippines",
+        "ct": "PHI",
+        "points": 1318,
+        "previousPoints": 1318,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/phi",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "122",
+        "country": "Guinea-Bissau",
+        "ct": "GNB",
+        "points": 1313,
+        "previousPoints": 1313,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gnb",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "123",
+        "country": "Malawi",
+        "ct": "MWI",
+        "points": 1310,
+        "previousPoints": 1310,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mwi",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "124",
+        "country": "Nicaragua",
+        "ct": "NCA",
+        "points": 1299,
+        "previousPoints": 1299,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nca",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "125",
+        "country": "Latvia",
+        "ct": "LVA",
+        "points": 1297,
+        "previousPoints": 1299,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lva",
+        "delta": -2
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "125",
+        "country": "Tajikistan",
+        "ct": "TJK",
+        "points": 1297,
+        "previousPoints": 1297,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tjk",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "125",
+        "country": "Lithuania",
+        "ct": "LTU",
+        "points": 1297,
+        "previousPoints": 1298,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ltu",
+        "delta": -1
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "128",
+        "country": "Turkmenistan",
+        "ct": "TKM",
+        "points": 1295,
+        "previousPoints": 1295,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tkm",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "129",
+        "country": "Equatorial Guinea",
+        "ct": "EQG",
+        "points": 1284,
+        "previousPoints": 1284,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eqg",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "130",
+        "country": "St. Kitts and Nevis",
+        "ct": "SKN",
+        "points": 1274,
+        "previousPoints": 1274,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/skn",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "131",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 1273,
+        "previousPoints": 1276,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -3
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "132",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 1266,
+        "previousPoints": 1266,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "133",
+        "country": "Guatemala",
+        "ct": "GUA",
+        "points": 1263,
+        "previousPoints": 1263,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gua",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "134",
+        "country": "Sudan",
+        "ct": "SDN",
+        "points": 1259,
+        "previousPoints": 1259,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sdn",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "135",
+        "country": "Antigua and Barbuda",
+        "ct": "ATG",
+        "points": 1258,
+        "previousPoints": 1258,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/atg",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "136",
+        "country": "Angola",
+        "ct": "ANG",
+        "points": 1256,
+        "previousPoints": 1256,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ang",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "137",
+        "country": "Botswana",
+        "ct": "BOT",
+        "points": 1239,
+        "previousPoints": 1237,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bot",
+        "delta": 2
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "138",
+        "country": "Yemen",
+        "ct": "YEM",
+        "points": 1230,
+        "previousPoints": 1230,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yem",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "139",
+        "country": "Hong Kong",
+        "ct": "HKG",
+        "points": 1223,
+        "previousPoints": 1223,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hkg",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "140",
+        "country": "Tanzania",
+        "ct": "TAN",
+        "points": 1213,
+        "previousPoints": 1213,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tan",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "141",
+        "country": "Andorra",
+        "ct": "AND",
+        "points": 1210,
+        "previousPoints": 1210,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/and",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "142",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 1207,
+        "previousPoints": 1207,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "143",
+        "country": "Chinese Taipei",
+        "ct": "TPE",
+        "points": 1205,
+        "previousPoints": 1208,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tpe",
+        "delta": -3
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "144",
+        "country": "Myanmar",
+        "ct": "MYA",
+        "points": 1199,
+        "previousPoints": 1199,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mya",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "145",
+        "country": "Burundi",
+        "ct": "BDI",
+        "points": 1189,
+        "previousPoints": 1189,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bdi",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "146",
+        "country": "Afghanistan",
+        "ct": "AFG",
+        "points": 1161,
+        "previousPoints": 1161,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/afg",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "147",
+        "country": "Ethiopia",
+        "ct": "ETH",
+        "points": 1160,
+        "previousPoints": 1160,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eth",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "148",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 1159,
+        "previousPoints": 1159,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "149",
+        "country": "Lesotho",
+        "ct": "LES",
+        "points": 1143,
+        "previousPoints": 1138,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/les",
+        "delta": 5
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "150",
+        "country": "Solomon Islands",
+        "ct": "SOL",
+        "points": 1141,
+        "previousPoints": 1141,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sol",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "151",
+        "country": "Liberia",
+        "ct": "LBR",
+        "points": 1126,
+        "previousPoints": 1126,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbr",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "152",
+        "country": "Kuwait",
+        "ct": "KUW",
+        "points": 1113,
+        "previousPoints": 1113,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kuw",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "153",
+        "country": "Suriname",
+        "ct": "SUR",
+        "points": 1112,
+        "previousPoints": 1112,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sur",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "154",
+        "country": "New Caledonia",
+        "ct": "NCL",
+        "points": 1102,
+        "previousPoints": 1102,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ncl",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "155",
+        "country": "Dominican Republic",
+        "ct": "DOM",
+        "points": 1095,
+        "previousPoints": 1095,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dom",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "156",
+        "country": "Tahiti",
+        "ct": "TAH",
+        "points": 1090,
+        "previousPoints": 1090,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tah",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "157",
+        "country": "Indonesia",
+        "ct": "IDN",
+        "points": 1089,
+        "previousPoints": 1089,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/idn",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "158",
+        "country": "Mauritius",
+        "ct": "MRI",
+        "points": 1084,
+        "previousPoints": 1084,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mri",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "159",
+        "country": "Maldives",
+        "ct": "MDV",
+        "points": 1079,
+        "previousPoints": 1079,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mdv",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "160",
+        "country": "Vanuatu",
+        "ct": "VAN",
+        "points": 1069,
+        "previousPoints": 1069,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/van",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "161",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 1067,
+        "previousPoints": 1067,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "162",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 1059,
+        "previousPoints": 1059,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "163",
+        "country": "Belize",
+        "ct": "BLZ",
+        "points": 1052,
+        "previousPoints": 1052,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blz",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "164",
+        "country": "Nepal",
+        "ct": "NEP",
+        "points": 1044,
+        "previousPoints": 1044,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nep",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "165",
+        "country": "Papua New Guinea",
+        "ct": "PNG",
+        "points": 1036,
+        "previousPoints": 1036,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/png",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "166",
+        "country": "Singapore",
+        "ct": "SIN",
+        "points": 1033,
+        "previousPoints": 1033,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sin",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "167",
+        "country": "Fiji",
+        "ct": "FIJ",
+        "points": 1025,
+        "previousPoints": 1025,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fij",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "168",
+        "country": "Cuba",
+        "ct": "CUB",
+        "points": 1018,
+        "previousPoints": 1018,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cub",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "168",
+        "country": "Chad",
+        "ct": "CHA",
+        "points": 1018,
+        "previousPoints": 1018,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cha",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "168",
+        "country": "Gambia",
+        "ct": "GAM",
+        "points": 1018,
+        "previousPoints": 1018,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gam",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "171",
+        "country": "St. Lucia",
+        "ct": "LCA",
+        "points": 1004,
+        "previousPoints": 1004,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lca",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "171",
+        "country": "Malaysia",
+        "ct": "MAS",
+        "points": 1004,
+        "previousPoints": 1004,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mas",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "173",
+        "country": "Moldova",
+        "ct": "MDA",
+        "points": 1000,
+        "previousPoints": 998,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mda",
+        "delta": 2
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "174",
+        "country": "Grenada",
+        "ct": "GRN",
+        "points": 999,
+        "previousPoints": 999,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/grn",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "175",
+        "country": "Cambodia",
+        "ct": "CAM",
+        "points": 992,
+        "previousPoints": 992,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cam",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "176",
+        "country": "Puerto Rico",
+        "ct": "PUR",
+        "points": 988,
+        "previousPoints": 988,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pur",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "177",
+        "country": "St. Vincent / Grenadines",
+        "ct": "VIN",
+        "points": 980,
+        "previousPoints": 980,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "178",
+        "country": "Liechtenstein",
+        "ct": "LIE",
+        "points": 967,
+        "previousPoints": 967,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lie",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "179",
+        "country": "Dominica",
+        "ct": "DMA",
+        "points": 966,
+        "previousPoints": 966,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dma",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "180",
+        "country": "Bermuda",
+        "ct": "BER",
+        "points": 957,
+        "previousPoints": 957,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ber",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "181",
+        "country": "Guyana",
+        "ct": "GUY",
+        "points": 953,
+        "previousPoints": 953,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/guy",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "182",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 946,
+        "previousPoints": 946,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "183",
+        "country": "Malta",
+        "ct": "MLT",
+        "points": 941,
+        "previousPoints": 941,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mlt",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "184",
+        "country": "Guam",
+        "ct": "GUM",
+        "points": 938,
+        "previousPoints": 938,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gum",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "185",
+        "country": "Sao Tome e Principe",
+        "ct": "STP",
+        "points": 927,
+        "previousPoints": 927,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/stp",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "186",
+        "country": "Aruba",
+        "ct": "ARU",
+        "points": 907,
+        "previousPoints": 907,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aru",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "187",
+        "country": "Macau",
+        "ct": "MAC",
+        "points": 903,
+        "previousPoints": 903,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mac",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "188",
+        "country": "Cook Islands",
+        "ct": "COK",
+        "points": 899,
+        "previousPoints": 899,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cok",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "189",
+        "country": "American Samoa",
+        "ct": "ASA",
+        "points": 897,
+        "previousPoints": 897,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/asa",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "190",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 891,
+        "previousPoints": 891,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "191",
+        "country": "Seychelles",
+        "ct": "SEY",
+        "points": 877,
+        "previousPoints": 877,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sey",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "192",
+        "country": "Bangladesh",
+        "ct": "BAN",
+        "points": 870,
+        "previousPoints": 870,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ban",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "193",
+        "country": "Mongolia",
+        "ct": "MNG",
+        "points": 867,
+        "previousPoints": 867,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mng",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "194",
+        "country": "Gibraltar",
+        "ct": "GIB",
+        "points": 864,
+        "previousPoints": 864,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gib",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "194",
+        "country": "Brunei Darussalam",
+        "ct": "BRU",
+        "points": 864,
+        "previousPoints": 864,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bru",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "196",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 861,
+        "previousPoints": 861,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "197",
+        "country": "Pakistan",
+        "ct": "PAK",
+        "points": 857,
+        "previousPoints": 857,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pak",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "198",
+        "country": "Samoa",
+        "ct": "SAM",
+        "points": 856,
+        "previousPoints": 856,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sam",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "199",
+        "country": "Cayman Islands",
+        "ct": "CAY",
+        "points": 849,
+        "previousPoints": 849,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cay",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "200",
+        "country": "US Virgin Islands",
+        "ct": "VIR",
+        "points": 847,
+        "previousPoints": 847,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vir",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "201",
+        "country": "Djibouti",
+        "ct": "DJI",
+        "points": 837,
+        "previousPoints": 837,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dji",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "202",
+        "country": "Montserrat",
+        "ct": "MSR",
+        "points": 835,
+        "previousPoints": 835,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/msr",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "203",
+        "country": "San Marino",
+        "ct": "SMR",
+        "points": 814,
+        "previousPoints": 814,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/smr",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "204",
+        "country": "Eritrea",
+        "ct": "ERI",
+        "points": 811,
+        "previousPoints": 811,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eri",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "204",
+        "country": "Sri Lanka",
+        "ct": "SRI",
+        "points": 811,
+        "previousPoints": 811,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sri",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "206",
+        "country": "Turks and Caicos Islands",
+        "ct": "TCA",
+        "points": 810,
+        "previousPoints": 810,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tca",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "207",
+        "country": "Somalia",
+        "ct": "SOM",
+        "points": 809,
+        "previousPoints": 809,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/som",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "208",
+        "country": "British Virgin Islands",
+        "ct": "VGB",
+        "points": 806,
+        "previousPoints": 806,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vgb",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "209",
+        "country": "Bahamas",
+        "ct": "BAH",
+        "points": 801,
+        "previousPoints": 801,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bah",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "210",
+        "country": "Anguilla",
+        "ct": "AIA",
+        "points": 776,
+        "previousPoints": 776,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aia",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "211",
+        "country": "Tonga",
+        "ct": "TGA",
+        "points": 774,
+        "previousPoints": 774,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tga",
+        "delta": 0
+    }
+]

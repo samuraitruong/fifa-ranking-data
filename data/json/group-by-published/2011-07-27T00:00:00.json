@@ -1,0 +1,2066 @@
+[
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "1",
+        "country": "Spain",
+        "ct": "ESP",
+        "points": 1588,
+        "previousPoints": 1871,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/esp",
+        "delta": -283
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "2",
+        "country": "Netherlands",
+        "ct": "NED",
+        "points": 1542,
+        "previousPoints": 1661,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ned",
+        "delta": -119
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "3",
+        "country": "Germany",
+        "ct": "GER",
+        "points": 1305,
+        "previousPoints": 1417,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ger",
+        "delta": -112
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "4",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1202,
+        "previousPoints": 1131,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 71
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "5",
+        "country": "Uruguay",
+        "ct": "URU",
+        "points": 1156,
+        "previousPoints": 909,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uru",
+        "delta": 247
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "6",
+        "country": "England",
+        "ct": "ENG",
+        "points": 1146,
+        "previousPoints": 1146,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eng",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "7",
+        "country": "Portugal",
+        "ct": "POR",
+        "points": 1076,
+        "previousPoints": 1046,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/por",
+        "delta": 30
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "8",
+        "country": "Italy",
+        "ct": "ITA",
+        "points": 1059,
+        "previousPoints": 1059,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ita",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "9",
+        "country": "Croatia",
+        "ct": "CRO",
+        "points": 1033,
+        "previousPoints": 1033,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cro",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "10",
+        "country": "Argentina",
+        "ct": "ARG",
+        "points": 1013,
+        "previousPoints": 979,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arg",
+        "delta": 34
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "11",
+        "country": "Chile",
+        "ct": "CHI",
+        "points": 974,
+        "previousPoints": 782,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chi",
+        "delta": 192
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "12",
+        "country": "Norway",
+        "ct": "NOR",
+        "points": 972,
+        "previousPoints": 972,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nor",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "13",
+        "country": "Greece",
+        "ct": "GRE",
+        "points": 959,
+        "previousPoints": 959,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gre",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "14",
+        "country": "Japan",
+        "ct": "JPN",
+        "points": 924,
+        "previousPoints": 930,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jpn",
+        "delta": -6
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "15",
+        "country": "C\u00f4te d'Ivoire",
+        "ct": "CIV",
+        "points": 922,
+        "previousPoints": 922,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/civ",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "16",
+        "country": "France",
+        "ct": "FRA",
+        "points": 920,
+        "previousPoints": 920,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fra",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "17",
+        "country": "Montenegro",
+        "ct": "MNE",
+        "points": 915,
+        "previousPoints": 915,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mne",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "18",
+        "country": "Russia",
+        "ct": "RUS",
+        "points": 914,
+        "previousPoints": 914,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rus",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "19",
+        "country": "Sweden",
+        "ct": "SWE",
+        "points": 884,
+        "previousPoints": 884,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swe",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "20",
+        "country": "Mexico",
+        "ct": "MEX",
+        "points": 869,
+        "previousPoints": 1007,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mex",
+        "delta": -138
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "21",
+        "country": "Denmark",
+        "ct": "DEN",
+        "points": 857,
+        "previousPoints": 857,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/den",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "22",
+        "country": "Slovenia",
+        "ct": "SVN",
+        "points": 833,
+        "previousPoints": 833,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svn",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "22",
+        "country": "Australia",
+        "ct": "AUS",
+        "points": 834,
+        "previousPoints": 832,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aus",
+        "delta": 2
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "24",
+        "country": "Turkey",
+        "ct": "TUR",
+        "points": 820,
+        "previousPoints": 820,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tur",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "25",
+        "country": "Peru",
+        "ct": "PER",
+        "points": 805,
+        "previousPoints": 583,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/per",
+        "delta": 222
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "26",
+        "country": "Paraguay",
+        "ct": "PAR",
+        "points": 804,
+        "previousPoints": 743,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/par",
+        "delta": 61
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "27",
+        "country": "Serbia",
+        "ct": "SRB",
+        "points": 798,
+        "previousPoints": 798,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/srb",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "28",
+        "country": "Korea Republic",
+        "ct": "KOR",
+        "points": 781,
+        "previousPoints": 787,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kor",
+        "delta": -6
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "29",
+        "country": "Slovakia",
+        "ct": "SVK",
+        "points": 779,
+        "previousPoints": 779,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svk",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "30",
+        "country": "USA",
+        "ct": "USA",
+        "points": 778,
+        "previousPoints": 799,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/usa",
+        "delta": -21
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "30",
+        "country": "Switzerland",
+        "ct": "SUI",
+        "points": 777,
+        "previousPoints": 777,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sui",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "32",
+        "country": "Israel",
+        "ct": "ISR",
+        "points": 771,
+        "previousPoints": 771,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isr",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "33",
+        "country": "Republic of Ireland",
+        "ct": "IRL",
+        "points": 752,
+        "previousPoints": 752,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irl",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "34",
+        "country": "Egypt",
+        "ct": "EGY",
+        "points": 735,
+        "previousPoints": 727,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/egy",
+        "delta": 8
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "35",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 706,
+        "previousPoints": 564,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 142
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "36",
+        "country": "Ghana",
+        "ct": "GHA",
+        "points": 696,
+        "previousPoints": 735,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gha",
+        "delta": -39
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "37",
+        "country": "Belgium",
+        "ct": "BEL",
+        "points": 691,
+        "previousPoints": 691,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bel",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "38",
+        "country": "Czech Republic",
+        "ct": "CZE",
+        "points": 670,
+        "previousPoints": 670,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cze",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "39",
+        "country": "Burkina Faso",
+        "ct": "BFA",
+        "points": 661,
+        "previousPoints": 661,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bfa",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "40",
+        "country": "Venezuela",
+        "ct": "VEN",
+        "points": 648,
+        "previousPoints": 471,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ven",
+        "delta": 177
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "41",
+        "country": "Bosnia and Herzegovina",
+        "ct": "BIH",
+        "points": 642,
+        "previousPoints": 642,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bih",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "42",
+        "country": "Belarus",
+        "ct": "BLR",
+        "points": 636,
+        "previousPoints": 636,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blr",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "43",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 634,
+        "previousPoints": 634,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "44",
+        "country": "Jamaica",
+        "ct": "JAM",
+        "points": 632,
+        "previousPoints": 656,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jam",
+        "delta": -24
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "45",
+        "country": "Ukraine",
+        "ct": "UKR",
+        "points": 620,
+        "previousPoints": 620,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ukr",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "46",
+        "country": "Senegal",
+        "ct": "SEN",
+        "points": 619,
+        "previousPoints": 619,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sen",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "47",
+        "country": "Hungary",
+        "ct": "HUN",
+        "points": 603,
+        "previousPoints": 603,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hun",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "48",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 598,
+        "previousPoints": 598,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "49",
+        "country": "South Africa",
+        "ct": "RSA",
+        "points": 597,
+        "previousPoints": 597,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rsa",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "50",
+        "country": "Cameroon",
+        "ct": "CMR",
+        "points": 595,
+        "previousPoints": 595,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cmr",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "51",
+        "country": "Honduras",
+        "ct": "HON",
+        "points": 592,
+        "previousPoints": 613,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hon",
+        "delta": -21
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "52",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 575,
+        "previousPoints": 575,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "53",
+        "country": "Romania",
+        "ct": "ROU",
+        "points": 571,
+        "previousPoints": 571,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rou",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "54",
+        "country": "IR Iran",
+        "ct": "IRN",
+        "points": 564,
+        "previousPoints": 581,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irn",
+        "delta": -17
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "55",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 556,
+        "previousPoints": 529,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 27
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "56",
+        "country": "Costa Rica",
+        "ct": "CRC",
+        "points": 532,
+        "previousPoints": 561,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/crc",
+        "delta": -29
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "57",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 530,
+        "previousPoints": 530,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "58",
+        "country": "Lithuania",
+        "ct": "LTU",
+        "points": 526,
+        "previousPoints": 526,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ltu",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "59",
+        "country": "Albania",
+        "ct": "ALB",
+        "points": 524,
+        "previousPoints": 524,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alb",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "60",
+        "country": "Gabon",
+        "ct": "GAB",
+        "points": 517,
+        "previousPoints": 517,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gab",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "61",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 513,
+        "previousPoints": 513,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "62",
+        "country": "Northern Ireland",
+        "ct": "NIR",
+        "points": 498,
+        "previousPoints": 498,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nir",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "63",
+        "country": "Morocco",
+        "ct": "MAR",
+        "points": 494,
+        "previousPoints": 494,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mar",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "63",
+        "country": "Libya",
+        "ct": "LBY",
+        "points": 494,
+        "previousPoints": 494,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lby",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "65",
+        "country": "Panama",
+        "ct": "PAN",
+        "points": 487,
+        "previousPoints": 574,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pan",
+        "delta": -87
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "66",
+        "country": "Austria",
+        "ct": "AUT",
+        "points": 479,
+        "previousPoints": 479,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aut",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "67",
+        "country": "Ecuador",
+        "ct": "ECU",
+        "points": 478,
+        "previousPoints": 473,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ecu",
+        "delta": 5
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "68",
+        "country": "Guinea",
+        "ct": "GUI",
+        "points": 475,
+        "previousPoints": 475,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gui",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "69",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 474,
+        "previousPoints": 474,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "70",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 462,
+        "previousPoints": 462,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "71",
+        "country": "Botswana",
+        "ct": "BOT",
+        "points": 440,
+        "previousPoints": 431,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bot",
+        "delta": 9
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "72",
+        "country": "Malawi",
+        "ct": "MWI",
+        "points": 439,
+        "previousPoints": 454,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mwi",
+        "delta": -15
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "73",
+        "country": "China PR",
+        "ct": "CHN",
+        "points": 436,
+        "previousPoints": 426,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chn",
+        "delta": 10
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "74",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 436,
+        "previousPoints": 434,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 2
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "75",
+        "country": "Finland",
+        "ct": "FIN",
+        "points": 419,
+        "previousPoints": 419,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fin",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "76",
+        "country": "Uganda",
+        "ct": "UGA",
+        "points": 417,
+        "previousPoints": 417,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uga",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "77",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 416,
+        "previousPoints": 416,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "78",
+        "country": "El Salvador",
+        "ct": "SLV",
+        "points": 401,
+        "previousPoints": 434,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/slv",
+        "delta": -33
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "79",
+        "country": "Estonia",
+        "ct": "EST",
+        "points": 399,
+        "previousPoints": 399,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/est",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "80",
+        "country": "Cyprus",
+        "ct": "CYP",
+        "points": 398,
+        "previousPoints": 398,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cyp",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "80",
+        "country": "Bolivia",
+        "ct": "BOL",
+        "points": 398,
+        "previousPoints": 356,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bol",
+        "delta": 42
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "82",
+        "country": "Cape Verde Islands",
+        "ct": "CPV",
+        "points": 397,
+        "previousPoints": 397,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cpv",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "83",
+        "country": "Uzbekistan",
+        "ct": "UZB",
+        "points": 390,
+        "previousPoints": 383,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uzb",
+        "delta": 7
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "84",
+        "country": "Latvia",
+        "ct": "LVA",
+        "points": 388,
+        "previousPoints": 388,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lva",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "85",
+        "country": "Moldova",
+        "ct": "MDA",
+        "points": 383,
+        "previousPoints": 383,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mda",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "86",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 380,
+        "previousPoints": 380,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "86",
+        "country": "Zimbabwe",
+        "ct": "ZIM",
+        "points": 380,
+        "previousPoints": 380,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zim",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "88",
+        "country": "Trinidad and Tobago",
+        "ct": "TRI",
+        "points": 379,
+        "previousPoints": 374,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tri",
+        "delta": 5
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "89",
+        "country": "Central African Republic",
+        "ct": "CTA",
+        "points": 370,
+        "previousPoints": 370,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cta",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "90",
+        "country": "Qatar",
+        "ct": "QAT",
+        "points": 369,
+        "previousPoints": 355,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/qat",
+        "delta": 14
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "91",
+        "country": "Jordan",
+        "ct": "JOR",
+        "points": 361,
+        "previousPoints": 385,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jor",
+        "delta": -24
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "92",
+        "country": "Saudi Arabia",
+        "ct": "KSA",
+        "points": 353,
+        "previousPoints": 366,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ksa",
+        "delta": -13
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "93",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 348,
+        "previousPoints": 348,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "94",
+        "country": "New Zealand",
+        "ct": "NZL",
+        "points": 346,
+        "previousPoints": 346,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nzl",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "95",
+        "country": "Kuwait",
+        "ct": "KUW",
+        "points": 341,
+        "previousPoints": 331,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kuw",
+        "delta": 10
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "96",
+        "country": "FYR Macedonia",
+        "ct": "MKD",
+        "points": 338,
+        "previousPoints": 338,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mkd",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "98",
+        "country": "Niger",
+        "ct": "NIG",
+        "points": 331,
+        "previousPoints": 331,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nig",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "99",
+        "country": "Cuba",
+        "ct": "CUB",
+        "points": 330,
+        "previousPoints": 330,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cub",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "100",
+        "country": "Bahrain",
+        "ct": "BHR",
+        "points": 329,
+        "previousPoints": 329,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhr",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "100",
+        "country": "Angola",
+        "ct": "ANG",
+        "points": 329,
+        "previousPoints": 329,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ang",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "102",
+        "country": "Gambia",
+        "ct": "GAM",
+        "points": 329,
+        "previousPoints": 329,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gam",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "103",
+        "country": "Mozambique",
+        "ct": "MOZ",
+        "points": 327,
+        "previousPoints": 327,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/moz",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "104",
+        "country": "Syria",
+        "ct": "SYR",
+        "points": 324,
+        "previousPoints": 290,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/syr",
+        "delta": 34
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "105",
+        "country": "Canada",
+        "ct": "CAN",
+        "points": 314,
+        "previousPoints": 387,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/can",
+        "delta": -73
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "106",
+        "country": "Antigua and Barbuda",
+        "ct": "ATG",
+        "points": 308,
+        "previousPoints": 286,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/atg",
+        "delta": 22
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "107",
+        "country": "Oman",
+        "ct": "OMA",
+        "points": 306,
+        "previousPoints": 298,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/oma",
+        "delta": 8
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "108",
+        "country": "Iraq",
+        "ct": "IRQ",
+        "points": 306,
+        "previousPoints": 349,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irq",
+        "delta": -43
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "109",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 300,
+        "previousPoints": 288,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 12
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "110",
+        "country": "Suriname",
+        "ct": "SUR",
+        "points": 296,
+        "previousPoints": 296,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sur",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "111",
+        "country": "Azerbaijan",
+        "ct": "AZE",
+        "points": 282,
+        "previousPoints": 282,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aze",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "112",
+        "country": "Wales",
+        "ct": "WAL",
+        "points": 273,
+        "previousPoints": 273,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/wal",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "112",
+        "country": "Faroe Islands",
+        "ct": "FRO",
+        "points": 273,
+        "previousPoints": 273,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fro",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "114",
+        "country": "Guyana",
+        "ct": "GUY",
+        "points": 269,
+        "previousPoints": 267,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/guy",
+        "delta": 2
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "115",
+        "country": "Korea DPR",
+        "ct": "PRK",
+        "points": 260,
+        "previousPoints": 255,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/prk",
+        "delta": 5
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "115",
+        "country": "Guatemala",
+        "ct": "GUA",
+        "points": 260,
+        "previousPoints": 262,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gua",
+        "delta": -2
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "117",
+        "country": "Haiti",
+        "ct": "HAI",
+        "points": 256,
+        "previousPoints": 377,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hai",
+        "delta": -121
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "118",
+        "country": "Liechtenstein",
+        "ct": "LIE",
+        "points": 253,
+        "previousPoints": 253,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lie",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "118",
+        "country": "Thailand",
+        "ct": "THA",
+        "points": 252,
+        "previousPoints": 240,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tha",
+        "delta": 12
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "120",
+        "country": "Grenada",
+        "ct": "GRN",
+        "points": 247,
+        "previousPoints": 265,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/grn",
+        "delta": -18
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "121",
+        "country": "Iceland",
+        "ct": "ISL",
+        "points": 244,
+        "previousPoints": 244,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isl",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "122",
+        "country": "St. Kitts and Nevis",
+        "ct": "SKN",
+        "points": 243,
+        "previousPoints": 248,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/skn",
+        "delta": -5
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "123",
+        "country": "Togo",
+        "ct": "TOG",
+        "points": 238,
+        "previousPoints": 279,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tog",
+        "delta": -41
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "123",
+        "country": "Congo DR",
+        "ct": "COD",
+        "points": 238,
+        "previousPoints": 238,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cod",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "125",
+        "country": "Liberia",
+        "ct": "LBR",
+        "points": 232,
+        "previousPoints": 232,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbr",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "126",
+        "country": "Kazakhstan",
+        "ct": "KAZ",
+        "points": 231,
+        "previousPoints": 231,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kaz",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "127",
+        "country": "Tanzania",
+        "ct": "TAN",
+        "points": 230,
+        "previousPoints": 230,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tan",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "128",
+        "country": "Luxembourg",
+        "ct": "LUX",
+        "points": 213,
+        "previousPoints": 213,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lux",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "129",
+        "country": "Congo",
+        "ct": "CGO",
+        "points": 206,
+        "previousPoints": 206,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cgo",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "130",
+        "country": "Kenya",
+        "ct": "KEN",
+        "points": 204,
+        "previousPoints": 204,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ken",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "131",
+        "country": "Singapore",
+        "ct": "SIN",
+        "points": 199,
+        "previousPoints": 155,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sin",
+        "delta": 44
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "132",
+        "country": "Dominican Republic",
+        "ct": "DOM",
+        "points": 198,
+        "previousPoints": 66,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dom",
+        "delta": 132
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "133",
+        "country": "Dominica",
+        "ct": "DMA",
+        "points": 193,
+        "previousPoints": 193,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dma",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "134",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 190,
+        "previousPoints": 189,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 1
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "135",
+        "country": "Yemen",
+        "ct": "YEM",
+        "points": 188,
+        "previousPoints": 199,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yem",
+        "delta": -11
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "136",
+        "country": "Nepal",
+        "ct": "NEP",
+        "points": 184,
+        "previousPoints": 136,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nep",
+        "delta": 48
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "137",
+        "country": "Indonesia",
+        "ct": "IDN",
+        "points": 183,
+        "previousPoints": 195,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/idn",
+        "delta": -12
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "138",
+        "country": "Turkmenistan",
+        "ct": "TKM",
+        "points": 176,
+        "previousPoints": 147,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tkm",
+        "delta": 29
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "139",
+        "country": "Ethiopia",
+        "ct": "ETH",
+        "points": 170,
+        "previousPoints": 170,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eth",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "140",
+        "country": "Namibia",
+        "ct": "NAM",
+        "points": 168,
+        "previousPoints": 117,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nam",
+        "delta": 51
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "141",
+        "country": "Puerto Rico",
+        "ct": "PUR",
+        "points": 167,
+        "previousPoints": 167,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pur",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "142",
+        "country": "Tajikistan",
+        "ct": "TJK",
+        "points": 166,
+        "previousPoints": 180,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tjk",
+        "delta": -14
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "143",
+        "country": "Vietnam",
+        "ct": "VIE",
+        "points": 164,
+        "previousPoints": 160,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vie",
+        "delta": 4
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "143",
+        "country": "Burundi",
+        "ct": "BDI",
+        "points": 164,
+        "previousPoints": 164,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bdi",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "145",
+        "country": "Malaysia",
+        "ct": "MAS",
+        "points": 156,
+        "previousPoints": 147,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mas",
+        "delta": 9
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "145",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 156,
+        "previousPoints": 156,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "147",
+        "country": "Bangladesh",
+        "ct": "BAN",
+        "points": 148,
+        "previousPoints": 81,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ban",
+        "delta": 67
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "148",
+        "country": "Belize",
+        "ct": "BLZ",
+        "points": 146,
+        "previousPoints": 112,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blz",
+        "delta": 34
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "149",
+        "country": "US Virgin Islands",
+        "ct": "VIR",
+        "points": 144,
+        "previousPoints": 12,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vir",
+        "delta": 132
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "150",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 143,
+        "previousPoints": 166,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -23
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "151",
+        "country": "Guinea-Bissau",
+        "ct": "GNB",
+        "points": 142,
+        "previousPoints": 142,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gnb",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "152",
+        "country": "Bahamas",
+        "ct": "BAH",
+        "points": 141,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bah",
+        "delta": 132
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "153",
+        "country": "India",
+        "ct": "IND",
+        "points": 135,
+        "previousPoints": 137,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ind",
+        "delta": -2
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "154",
+        "country": "Hong Kong",
+        "ct": "HKG",
+        "points": 133,
+        "previousPoints": 141,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hkg",
+        "delta": -8
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "155",
+        "country": "Equatorial Guinea",
+        "ct": "EQG",
+        "points": 131,
+        "previousPoints": 131,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eqg",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "156",
+        "country": "Fiji",
+        "ct": "FIJ",
+        "points": 129,
+        "previousPoints": 103,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fij",
+        "delta": 26
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "157",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 128,
+        "previousPoints": 128,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "158",
+        "country": "Chad",
+        "ct": "CHA",
+        "points": 127,
+        "previousPoints": 123,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cha",
+        "delta": 4
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "159",
+        "country": "Lebanon",
+        "ct": "LIB",
+        "points": 119,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lib",
+        "delta": 64
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "160",
+        "country": "Maldives",
+        "ct": "MDV",
+        "points": 116,
+        "previousPoints": 127,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mdv",
+        "delta": -11
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "161",
+        "country": "St. Vincent / Grenadines",
+        "ct": "VIN",
+        "points": 112,
+        "previousPoints": 112,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "162",
+        "country": "Philippines",
+        "ct": "PHI",
+        "points": 108,
+        "previousPoints": 96,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/phi",
+        "delta": 12
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "163",
+        "country": "Mongolia",
+        "ct": "MNG",
+        "points": 106,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mng",
+        "delta": 65
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "164",
+        "country": "New Caledonia",
+        "ct": "NCL",
+        "points": 104,
+        "previousPoints": 97,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ncl",
+        "delta": 7
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "165",
+        "country": "Myanmar",
+        "ct": "MYA",
+        "points": 99,
+        "previousPoints": 72,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mya",
+        "delta": 27
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "166",
+        "country": "Chinese Taipei",
+        "ct": "TPE",
+        "points": 97,
+        "previousPoints": 78,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tpe",
+        "delta": 19
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "166",
+        "country": "Palestine",
+        "ct": "PLE",
+        "points": 96,
+        "previousPoints": 72,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ple",
+        "delta": 24
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "168",
+        "country": "Aruba",
+        "ct": "ARU",
+        "points": 95,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aru",
+        "delta": 88
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "169",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 93,
+        "previousPoints": 101,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -8
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "169",
+        "country": "Vanuatu",
+        "ct": "VAN",
+        "points": 93,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/van",
+        "delta": 29
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "171",
+        "country": "Pakistan",
+        "ct": "PAK",
+        "points": 92,
+        "previousPoints": 70,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pak",
+        "delta": 22
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "172",
+        "country": "Cayman Islands",
+        "ct": "CAY",
+        "points": 90,
+        "previousPoints": 90,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cay",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "173",
+        "country": "Malta",
+        "ct": "MLT",
+        "points": 83,
+        "previousPoints": 83,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mlt",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "174",
+        "country": "Cambodia",
+        "ct": "CAM",
+        "points": 82,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cam",
+        "delta": 24
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "175",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 80,
+        "previousPoints": 80,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "176",
+        "country": "Sri Lanka",
+        "ct": "SRI",
+        "points": 79,
+        "previousPoints": 69,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sri",
+        "delta": 10
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "177",
+        "country": "Nicaragua",
+        "ct": "NCA",
+        "points": 75,
+        "previousPoints": 83,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nca",
+        "delta": -8
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "177",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 76,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 18
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "179",
+        "country": "Kyrgyz Republic",
+        "ct": "KGZ",
+        "points": 72,
+        "previousPoints": 70,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kgz",
+        "delta": 2
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "179",
+        "country": "Afghanistan",
+        "ct": "AFG",
+        "points": 73,
+        "previousPoints": 76,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/afg",
+        "delta": -3
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "181",
+        "country": "Solomon Islands",
+        "ct": "SOL",
+        "points": 70,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sol",
+        "delta": 30
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "182",
+        "country": "Tahiti",
+        "ct": "TAH",
+        "points": 57,
+        "previousPoints": 57,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tah",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "183",
+        "country": "St. Lucia",
+        "ct": "LCA",
+        "points": 54,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lca",
+        "delta": 23
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "184",
+        "country": "Lesotho",
+        "ct": "LES",
+        "points": 44,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/les",
+        "delta": -3
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "185",
+        "country": "Bermuda",
+        "ct": "BER",
+        "points": 40,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ber",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "186",
+        "country": "British Virgin Islands",
+        "ct": "VGB",
+        "points": 38,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vgb",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "187",
+        "country": "Mauritania",
+        "ct": "MTN",
+        "points": 32,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mtn",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "188",
+        "country": "Eritrea",
+        "ct": "ERI",
+        "points": 29,
+        "previousPoints": 29,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eri",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "189",
+        "country": "Samoa",
+        "ct": "SAM",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sam",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "190",
+        "country": "Macau",
+        "ct": "MAC",
+        "points": 25,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mac",
+        "delta": -7
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "191",
+        "country": "Somalia",
+        "ct": "SOM",
+        "points": 23,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/som",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "192",
+        "country": "Tonga",
+        "ct": "TGA",
+        "points": 15,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tga",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "193",
+        "country": "Turks and Caicos Islands",
+        "ct": "TCA",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tca",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "194",
+        "country": "Djibouti",
+        "ct": "DJI",
+        "points": 12,
+        "previousPoints": 12,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dji",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "195",
+        "country": "Mauritius",
+        "ct": "MRI",
+        "points": 10,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mri",
+        "delta": -7
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "195",
+        "country": "Guam",
+        "ct": "GUM",
+        "points": 10,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gum",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "195",
+        "country": "Cook Islands",
+        "ct": "COK",
+        "points": 10,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cok",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "198",
+        "country": "Brunei Darussalam",
+        "ct": "BRU",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bru",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "199",
+        "country": "Anguilla",
+        "ct": "AIA",
+        "points": 7,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aia",
+        "delta": -2
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "199",
+        "country": "Seychelles",
+        "ct": "SEY",
+        "points": 7,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sey",
+        "delta": -8
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "201",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "202",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 3,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "203",
+        "country": "Andorra",
+        "ct": "AND",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/and"
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "203",
+        "country": "San Marino",
+        "ct": "SMR",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/smr"
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "203",
+        "country": "American Samoa",
+        "ct": "ASA",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/asa"
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "203",
+        "country": "Montserrat",
+        "ct": "MSR",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/msr"
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "207",
+        "country": "Papua New Guinea",
+        "ct": "PNG",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/png"
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "207",
+        "country": "Sao Tome e Principe",
+        "ct": "STP",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/stp"
+    }
+]

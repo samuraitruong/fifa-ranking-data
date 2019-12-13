@@ -1,0 +1,2012 @@
+[
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 834,
+        "previousPoints": 836,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "2",
+        "country": "Czech Republic",
+        "ct": "CZE",
+        "points": 767,
+        "previousPoints": 772,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cze",
+        "delta": -5
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "3",
+        "country": "France",
+        "ct": "FRA",
+        "points": 758,
+        "previousPoints": 762,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fra",
+        "delta": -4
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "4",
+        "country": "Spain",
+        "ct": "ESP",
+        "points": 747,
+        "previousPoints": 751,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/esp",
+        "delta": -4
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "5",
+        "country": "Germany",
+        "ct": "GER",
+        "points": 735,
+        "previousPoints": 742,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ger",
+        "delta": -7
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "6",
+        "country": "Norway",
+        "ct": "NOR",
+        "points": 717,
+        "previousPoints": 717,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nor",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "7",
+        "country": "Argentina",
+        "ct": "ARG",
+        "points": 714,
+        "previousPoints": 718,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arg",
+        "delta": -4
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "8",
+        "country": "Romania",
+        "ct": "ROU",
+        "points": 712,
+        "previousPoints": 713,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rou",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "9",
+        "country": "Croatia",
+        "ct": "CRO",
+        "points": 708,
+        "previousPoints": 710,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cro",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "10",
+        "country": "Mexico",
+        "ct": "MEX",
+        "points": 706,
+        "previousPoints": 704,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mex",
+        "delta": 2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "11",
+        "country": "England",
+        "ct": "ENG",
+        "points": 693,
+        "previousPoints": 698,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eng",
+        "delta": -5
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "12",
+        "country": "Denmark",
+        "ct": "DEN",
+        "points": 689,
+        "previousPoints": 694,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/den",
+        "delta": -5
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "13",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 689,
+        "previousPoints": 692,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -3
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "14",
+        "country": "Italy",
+        "ct": "ITA",
+        "points": 681,
+        "previousPoints": 682,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ita",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "15",
+        "country": "Portugal",
+        "ct": "POR",
+        "points": 669,
+        "previousPoints": 673,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/por",
+        "delta": -4
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "16",
+        "country": "Sweden",
+        "ct": "SWE",
+        "points": 658,
+        "previousPoints": 661,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swe",
+        "delta": -3
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "17",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 644,
+        "previousPoints": 624,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 20
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "18",
+        "country": "Paraguay",
+        "ct": "PAR",
+        "points": 642,
+        "previousPoints": 648,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/par",
+        "delta": -6
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "19",
+        "country": "Netherlands",
+        "ct": "NED",
+        "points": 638,
+        "previousPoints": 638,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ned",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "20",
+        "country": "USA",
+        "ct": "USA",
+        "points": 637,
+        "previousPoints": 628,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/usa",
+        "delta": 9
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "21",
+        "country": "Russia",
+        "ct": "RUS",
+        "points": 636,
+        "previousPoints": 641,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rus",
+        "delta": -5
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "22",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 634,
+        "previousPoints": 636,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "23",
+        "country": "South Africa",
+        "ct": "RSA",
+        "points": 626,
+        "previousPoints": 631,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rsa",
+        "delta": -5
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "24",
+        "country": "Chile",
+        "ct": "CHI",
+        "points": 626,
+        "previousPoints": 616,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chi",
+        "delta": 10
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "25",
+        "country": "Slovakia",
+        "ct": "SVK",
+        "points": 621,
+        "previousPoints": 624,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svk",
+        "delta": -3
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "26",
+        "country": "Morocco",
+        "ct": "MAR",
+        "points": 613,
+        "previousPoints": 625,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mar",
+        "delta": -12
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "27",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 606,
+        "previousPoints": 611,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -5
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "28",
+        "country": "Ukraine",
+        "ct": "UKR",
+        "points": 606,
+        "previousPoints": 607,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ukr",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "29",
+        "country": "Israel",
+        "ct": "ISR",
+        "points": 604,
+        "previousPoints": 607,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isr",
+        "delta": -3
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "30",
+        "country": "Austria",
+        "ct": "AUT",
+        "points": 597,
+        "previousPoints": 601,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aut",
+        "delta": -4
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "31",
+        "country": "Turkey",
+        "ct": "TUR",
+        "points": 591,
+        "previousPoints": 595,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tur",
+        "delta": -4
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "32",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 583,
+        "previousPoints": 586,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -3
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "33",
+        "country": "Belgium",
+        "ct": "BEL",
+        "points": 582,
+        "previousPoints": 586,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bel",
+        "delta": -4
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "34",
+        "country": "Egypt",
+        "ct": "EGY",
+        "points": 579,
+        "previousPoints": 582,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/egy",
+        "delta": -3
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "35",
+        "country": "Cameroon",
+        "ct": "CMR",
+        "points": 577,
+        "previousPoints": 583,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cmr",
+        "delta": -6
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "36",
+        "country": "Republic of Ireland",
+        "ct": "IRL",
+        "points": 577,
+        "previousPoints": 573,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irl",
+        "delta": 4
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "37",
+        "country": "Greece",
+        "ct": "GRE",
+        "points": 576,
+        "previousPoints": 577,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gre",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "38",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 566,
+        "previousPoints": 569,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -3
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "39",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 558,
+        "previousPoints": 569,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -11
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "40",
+        "country": "Trinidad and Tobago",
+        "ct": "TRI",
+        "points": 552,
+        "previousPoints": 534,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tri",
+        "delta": 18
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "41",
+        "country": "Saudi Arabia",
+        "ct": "KSA",
+        "points": 550,
+        "previousPoints": 554,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ksa",
+        "delta": -4
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "42",
+        "country": "Slovenia",
+        "ct": "SVN",
+        "points": 547,
+        "previousPoints": 543,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svn",
+        "delta": 4
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "43",
+        "country": "Peru",
+        "ct": "PER",
+        "points": 546,
+        "previousPoints": 539,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/per",
+        "delta": 7
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "44",
+        "country": "Uruguay",
+        "ct": "URU",
+        "points": 545,
+        "previousPoints": 540,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uru",
+        "delta": 5
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "45",
+        "country": "Korea Republic",
+        "ct": "KOR",
+        "points": 542,
+        "previousPoints": 535,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kor",
+        "delta": 7
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "46",
+        "country": "Iceland",
+        "ct": "ISL",
+        "points": 539,
+        "previousPoints": 540,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isl",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "47",
+        "country": "C\u00f4te d'Ivoire",
+        "ct": "CIV",
+        "points": 538,
+        "previousPoints": 537,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/civ",
+        "delta": 1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "48",
+        "country": "Jamaica",
+        "ct": "JAM",
+        "points": 534,
+        "previousPoints": 537,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jam",
+        "delta": -3
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "49",
+        "country": "Japan",
+        "ct": "JPN",
+        "points": 533,
+        "previousPoints": 498,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jpn",
+        "delta": 35
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "50",
+        "country": "Hungary",
+        "ct": "HUN",
+        "points": 530,
+        "previousPoints": 532,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hun",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "51",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 530,
+        "previousPoints": 529,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "52",
+        "country": "Switzerland",
+        "ct": "SUI",
+        "points": 530,
+        "previousPoints": 529,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sui",
+        "delta": 1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "53",
+        "country": "IR Iran",
+        "ct": "IRN",
+        "points": 526,
+        "previousPoints": 536,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irn",
+        "delta": -10
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "54",
+        "country": "Finland",
+        "ct": "FIN",
+        "points": 525,
+        "previousPoints": 524,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fin",
+        "delta": 1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "55",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 524,
+        "previousPoints": 513,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 11
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "56",
+        "country": "Lithuania",
+        "ct": "LTU",
+        "points": 524,
+        "previousPoints": 526,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ltu",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "57",
+        "country": "Ghana",
+        "ct": "GHA",
+        "points": 522,
+        "previousPoints": 526,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gha",
+        "delta": -4
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "58",
+        "country": "Uzbekistan",
+        "ct": "UZB",
+        "points": 520,
+        "previousPoints": 511,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uzb",
+        "delta": 9
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "59",
+        "country": "Angola",
+        "ct": "ANG",
+        "points": 512,
+        "previousPoints": 515,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ang",
+        "delta": -3
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "60",
+        "country": "Honduras",
+        "ct": "HON",
+        "points": 504,
+        "previousPoints": 457,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hon",
+        "delta": 47
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "61",
+        "country": "Kuwait",
+        "ct": "KUW",
+        "points": 502,
+        "previousPoints": 445,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kuw",
+        "delta": 57
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "62",
+        "country": "Canada",
+        "ct": "CAN",
+        "points": 502,
+        "previousPoints": 435,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/can",
+        "delta": 67
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "63",
+        "country": "Thailand",
+        "ct": "THA",
+        "points": 501,
+        "previousPoints": 490,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tha",
+        "delta": 11
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "64",
+        "country": "Cyprus",
+        "ct": "CYP",
+        "points": 499,
+        "previousPoints": 500,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cyp",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "65",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 499,
+        "previousPoints": 502,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -3
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "66",
+        "country": "China PR",
+        "ct": "CHN",
+        "points": 497,
+        "previousPoints": 502,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chn",
+        "delta": -5
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "67",
+        "country": "Congo DR",
+        "ct": "COD",
+        "points": 490,
+        "previousPoints": 492,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cod",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "68",
+        "country": "Costa Rica",
+        "ct": "CRC",
+        "points": 489,
+        "previousPoints": 492,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/crc",
+        "delta": -3
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "69",
+        "country": "Bolivia",
+        "ct": "BOL",
+        "points": 488,
+        "previousPoints": 488,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bol",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "70",
+        "country": "Latvia",
+        "ct": "LVA",
+        "points": 484,
+        "previousPoints": 487,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lva",
+        "delta": -3
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "71",
+        "country": "Zimbabwe",
+        "ct": "ZIM",
+        "points": 477,
+        "previousPoints": 475,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zim",
+        "delta": 2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "72",
+        "country": "Ecuador",
+        "ct": "ECU",
+        "points": 473,
+        "previousPoints": 475,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ecu",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "73",
+        "country": "Guatemala",
+        "ct": "GUA",
+        "points": 466,
+        "previousPoints": 458,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gua",
+        "delta": 8
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "74",
+        "country": "FYR Macedonia",
+        "ct": "MKD",
+        "points": 466,
+        "previousPoints": 467,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mkd",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "75",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 462,
+        "previousPoints": 467,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -5
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "76",
+        "country": "Estonia",
+        "ct": "EST",
+        "points": 458,
+        "previousPoints": 461,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/est",
+        "delta": -3
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "77",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 453,
+        "previousPoints": 455,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "78",
+        "country": "Gabon",
+        "ct": "GAB",
+        "points": 451,
+        "previousPoints": 451,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gab",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "79",
+        "country": "Senegal",
+        "ct": "SEN",
+        "points": 451,
+        "previousPoints": 452,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sen",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "80",
+        "country": "Burkina Faso",
+        "ct": "BFA",
+        "points": 451,
+        "previousPoints": 452,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bfa",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "81",
+        "country": "Cuba",
+        "ct": "CUB",
+        "points": 449,
+        "previousPoints": 439,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cub",
+        "delta": 10
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "82",
+        "country": "Albania",
+        "ct": "ALB",
+        "points": 446,
+        "previousPoints": 447,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alb",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "83",
+        "country": "Bosnia and Herzegovina",
+        "ct": "BIH",
+        "points": 443,
+        "previousPoints": 445,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bih",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "84",
+        "country": "Australia",
+        "ct": "AUS",
+        "points": 440,
+        "previousPoints": 408,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aus",
+        "delta": 32
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "85",
+        "country": "Iraq",
+        "ct": "IRQ",
+        "points": 438,
+        "previousPoints": 439,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irq",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "86",
+        "country": "Togo",
+        "ct": "TOG",
+        "points": 435,
+        "previousPoints": 438,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tog",
+        "delta": -3
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "87",
+        "country": "Namibia",
+        "ct": "NAM",
+        "points": 432,
+        "previousPoints": 434,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nam",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "88",
+        "country": "Northern Ireland",
+        "ct": "NIR",
+        "points": 431,
+        "previousPoints": 425,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nir",
+        "delta": 6
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "89",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 431,
+        "previousPoints": 431,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "90",
+        "country": "Moldova",
+        "ct": "MDA",
+        "points": 414,
+        "previousPoints": 419,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mda",
+        "delta": -5
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "91",
+        "country": "El Salvador",
+        "ct": "SLV",
+        "points": 409,
+        "previousPoints": 394,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/slv",
+        "delta": 15
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "92",
+        "country": "Indonesia",
+        "ct": "IDN",
+        "points": 408,
+        "previousPoints": 409,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/idn",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "93",
+        "country": "Guinea",
+        "ct": "GUI",
+        "points": 402,
+        "previousPoints": 404,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gui",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "94",
+        "country": "Oman",
+        "ct": "OMA",
+        "points": 401,
+        "previousPoints": 405,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/oma",
+        "delta": -4
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "95",
+        "country": "Wales",
+        "ct": "WAL",
+        "points": 399,
+        "previousPoints": 388,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/wal",
+        "delta": 11
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "96",
+        "country": "Singapore",
+        "ct": "SIN",
+        "points": 399,
+        "previousPoints": 373,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sin",
+        "delta": 26
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "97",
+        "country": "Vietnam",
+        "ct": "VIE",
+        "points": 395,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vie",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "98",
+        "country": "Congo",
+        "ct": "CGO",
+        "points": 394,
+        "previousPoints": 401,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cgo",
+        "delta": -7
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "99",
+        "country": "Belarus",
+        "ct": "BLR",
+        "points": 392,
+        "previousPoints": 394,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blr",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "100",
+        "country": "Haiti",
+        "ct": "HAI",
+        "points": 392,
+        "previousPoints": 383,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hai",
+        "delta": 9
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "101",
+        "country": "Azerbaijan",
+        "ct": "AZE",
+        "points": 387,
+        "previousPoints": 388,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aze",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "102",
+        "country": "New Zealand",
+        "ct": "NZL",
+        "points": 378,
+        "previousPoints": 380,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nzl",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "103",
+        "country": "Mozambique",
+        "ct": "MOZ",
+        "points": 376,
+        "previousPoints": 378,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/moz",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "104",
+        "country": "Kenya",
+        "ct": "KEN",
+        "points": 372,
+        "previousPoints": 372,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ken",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "105",
+        "country": "Liberia",
+        "ct": "LBR",
+        "points": 367,
+        "previousPoints": 369,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbr",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "106",
+        "country": "Qatar",
+        "ct": "QAT",
+        "points": 362,
+        "previousPoints": 367,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/qat",
+        "delta": -5
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "107",
+        "country": "India",
+        "ct": "IND",
+        "points": 356,
+        "previousPoints": 357,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ind",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "108",
+        "country": "Uganda",
+        "ct": "UGA",
+        "points": 350,
+        "previousPoints": 350,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uga",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "109",
+        "country": "Lebanon",
+        "ct": "LBN",
+        "points": 343,
+        "previousPoints": 333,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbn",
+        "delta": 10
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "110",
+        "country": "Malaysia",
+        "ct": "MAS",
+        "points": 341,
+        "previousPoints": 306,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mas",
+        "delta": 35
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "111",
+        "country": "Syria",
+        "ct": "SYR",
+        "points": 338,
+        "previousPoints": 338,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/syr",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "112",
+        "country": "Jordan",
+        "ct": "JOR",
+        "points": 332,
+        "previousPoints": 316,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jor",
+        "delta": 16
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "113",
+        "country": "Venezuela",
+        "ct": "VEN",
+        "points": 332,
+        "previousPoints": 334,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ven",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "114",
+        "country": "Malta",
+        "ct": "MLT",
+        "points": 328,
+        "previousPoints": 326,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mlt",
+        "delta": 2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "115",
+        "country": "Faroe Islands",
+        "ct": "FRO",
+        "points": 328,
+        "previousPoints": 330,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fro",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "116",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 321,
+        "previousPoints": 321,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "117",
+        "country": "Malawi",
+        "ct": "MWI",
+        "points": 318,
+        "previousPoints": 320,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mwi",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "118",
+        "country": "Turkmenistan",
+        "ct": "TKM",
+        "points": 299,
+        "previousPoints": 250,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tkm",
+        "delta": 49
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "119",
+        "country": "Hong Kong",
+        "ct": "HKG",
+        "points": 298,
+        "previousPoints": 290,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hkg",
+        "delta": 8
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "120",
+        "country": "Mauritius",
+        "ct": "MRI",
+        "points": 290,
+        "previousPoints": 292,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mri",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "121",
+        "country": "Panama",
+        "ct": "PAN",
+        "points": 288,
+        "previousPoints": 266,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pan",
+        "delta": 22
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "122",
+        "country": "Grenada",
+        "ct": "GRN",
+        "points": 286,
+        "previousPoints": 271,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/grn",
+        "delta": 15
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "123",
+        "country": "Tajikistan",
+        "ct": "TJK",
+        "points": 284,
+        "previousPoints": 284,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tjk",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "124",
+        "country": "St. Lucia",
+        "ct": "LCA",
+        "points": 277,
+        "previousPoints": 248,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lca",
+        "delta": 29
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "125",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 270,
+        "previousPoints": 272,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "126",
+        "country": "Libya",
+        "ct": "LBY",
+        "points": 264,
+        "previousPoints": 265,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lby",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "127",
+        "country": "Kazakhstan",
+        "ct": "KAZ",
+        "points": 263,
+        "previousPoints": 264,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kaz",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "128",
+        "country": "Luxembourg",
+        "ct": "LUX",
+        "points": 263,
+        "previousPoints": 264,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lux",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "129",
+        "country": "Liechtenstein",
+        "ct": "LIE",
+        "points": 256,
+        "previousPoints": 257,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lie",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "130",
+        "country": "Myanmar",
+        "ct": "MYA",
+        "points": 252,
+        "previousPoints": 253,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mya",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "131",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 250,
+        "previousPoints": 252,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "132",
+        "country": "Tanzania",
+        "ct": "TAN",
+        "points": 250,
+        "previousPoints": 252,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tan",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "133",
+        "country": "Bangladesh",
+        "ct": "BAN",
+        "points": 246,
+        "previousPoints": 246,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ban",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "134",
+        "country": "Sudan",
+        "ct": "SDN",
+        "points": 241,
+        "previousPoints": 243,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sdn",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "135",
+        "country": "Burundi",
+        "ct": "BDI",
+        "points": 236,
+        "previousPoints": 238,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bdi",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "136",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 228,
+        "previousPoints": 230,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "137",
+        "country": "Fiji",
+        "ct": "FIJ",
+        "points": 225,
+        "previousPoints": 227,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fij",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "138",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 220,
+        "previousPoints": 198,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 22
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "139",
+        "country": "Bahrain",
+        "ct": "BHR",
+        "points": 220,
+        "previousPoints": 222,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhr",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "140",
+        "country": "St. Kitts and Nevis",
+        "ct": "SKN",
+        "points": 218,
+        "previousPoints": 216,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/skn",
+        "delta": 2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "141",
+        "country": "Tahiti",
+        "ct": "TAH",
+        "points": 208,
+        "previousPoints": 210,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tah",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "142",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 202,
+        "previousPoints": 203,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "143",
+        "country": "Andorra",
+        "ct": "AND",
+        "points": 194,
+        "previousPoints": 194,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/and",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "144",
+        "country": "Ethiopia",
+        "ct": "ETH",
+        "points": 189,
+        "previousPoints": 187,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eth",
+        "delta": 2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "145",
+        "country": "Dominican Republic",
+        "ct": "DOM",
+        "points": 187,
+        "previousPoints": 165,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dom",
+        "delta": 22
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "146",
+        "country": "Maldives",
+        "ct": "MDV",
+        "points": 185,
+        "previousPoints": 185,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mdv",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "147",
+        "country": "Solomon Islands",
+        "ct": "SOL",
+        "points": 181,
+        "previousPoints": 182,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sol",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "148",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 179,
+        "previousPoints": 180,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "149",
+        "country": "Cayman Islands",
+        "ct": "CAY",
+        "points": 179,
+        "previousPoints": 175,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cay",
+        "delta": 4
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "150",
+        "country": "Lesotho",
+        "ct": "LES",
+        "points": 178,
+        "previousPoints": 170,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/les",
+        "delta": 8
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "151",
+        "country": "Yemen",
+        "ct": "YEM",
+        "points": 177,
+        "previousPoints": 148,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yem",
+        "delta": 29
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "152",
+        "country": "Dominica",
+        "ct": "DMA",
+        "points": 176,
+        "previousPoints": 177,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dma",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "153",
+        "country": "Antigua and Barbuda",
+        "ct": "ATG",
+        "points": 175,
+        "previousPoints": 175,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/atg",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "154",
+        "country": "San Marino",
+        "ct": "SMR",
+        "points": 173,
+        "previousPoints": 174,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/smr",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "155",
+        "country": "Gambia",
+        "ct": "GAM",
+        "points": 172,
+        "previousPoints": 173,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gam",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "156",
+        "country": "Sri Lanka",
+        "ct": "SRI",
+        "points": 171,
+        "previousPoints": 172,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sri",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "157",
+        "country": "Bermuda",
+        "ct": "BER",
+        "points": 164,
+        "previousPoints": 137,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ber",
+        "delta": 27
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "158",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 163,
+        "previousPoints": 164,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "159",
+        "country": "Nepal",
+        "ct": "NEP",
+        "points": 161,
+        "previousPoints": 159,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nep",
+        "delta": 2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "160",
+        "country": "British Virgin Islands",
+        "ct": "VGB",
+        "points": 150,
+        "previousPoints": 141,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vgb",
+        "delta": 9
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "161",
+        "country": "Kyrgyz Republic",
+        "ct": "KGZ",
+        "points": 146,
+        "previousPoints": 147,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kgz",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "162",
+        "country": "Mauritania",
+        "ct": "MTN",
+        "points": 143,
+        "previousPoints": 144,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mtn",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "163",
+        "country": "Suriname",
+        "ct": "SUR",
+        "points": 141,
+        "previousPoints": 138,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sur",
+        "delta": 3
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "164",
+        "country": "Botswana",
+        "ct": "BOT",
+        "points": 137,
+        "previousPoints": 130,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bot",
+        "delta": 7
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "165",
+        "country": "Niger",
+        "ct": "NIG",
+        "points": 135,
+        "previousPoints": 136,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nig",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "167",
+        "country": "Chad",
+        "ct": "CHA",
+        "points": 126,
+        "previousPoints": 126,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cha",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "168",
+        "country": "Eritrea",
+        "ct": "ERI",
+        "points": 117,
+        "previousPoints": 118,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eri",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "169",
+        "country": "Cambodia",
+        "ct": "CAM",
+        "points": 117,
+        "previousPoints": 117,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cam",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "170",
+        "country": "Macau",
+        "ct": "MAC",
+        "points": 116,
+        "previousPoints": 85,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mac",
+        "delta": 31
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "171",
+        "country": "Philippines",
+        "ct": "PHI",
+        "points": 107,
+        "previousPoints": 107,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/phi",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "172",
+        "country": "Guyana",
+        "ct": "GUY",
+        "points": 106,
+        "previousPoints": 107,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/guy",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "173",
+        "country": "Korea DPR",
+        "ct": "PRK",
+        "points": 104,
+        "previousPoints": 105,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/prk",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "174",
+        "country": "Guinea-Bissau",
+        "ct": "GNB",
+        "points": 92,
+        "previousPoints": 93,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gnb",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "175",
+        "country": "Chinese Taipei",
+        "ct": "TPE",
+        "points": 90,
+        "previousPoints": 90,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tpe",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "176",
+        "country": "Palestine",
+        "ct": "PLE",
+        "points": 88,
+        "previousPoints": 113,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ple",
+        "delta": -25
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "177",
+        "country": "Central African Republic",
+        "ct": "CTA",
+        "points": 86,
+        "previousPoints": 86,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cta",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "178",
+        "country": "Tonga",
+        "ct": "TGA",
+        "points": 79,
+        "previousPoints": 80,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tga",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "179",
+        "country": "Cape Verde Islands",
+        "ct": "CPV",
+        "points": 79,
+        "previousPoints": 80,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cpv",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "180",
+        "country": "Samoa",
+        "ct": "SAM",
+        "points": 79,
+        "previousPoints": 79,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sam",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "181",
+        "country": "Pakistan",
+        "ct": "PAK",
+        "points": 78,
+        "previousPoints": 78,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pak",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "182",
+        "country": "Cook Islands",
+        "ct": "COK",
+        "points": 73,
+        "previousPoints": 73,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cok",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "183",
+        "country": "Papua New Guinea",
+        "ct": "PNG",
+        "points": 72,
+        "previousPoints": 72,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/png",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "184",
+        "country": "Brunei Darussalam",
+        "ct": "BRU",
+        "points": 71,
+        "previousPoints": 59,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bru",
+        "delta": 12
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "185",
+        "country": "Bahamas",
+        "ct": "BAH",
+        "points": 71,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bah",
+        "delta": 24
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "186",
+        "country": "Vanuatu",
+        "ct": "VAN",
+        "points": 62,
+        "previousPoints": 62,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/van",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "187",
+        "country": "Puerto Rico",
+        "ct": "PUR",
+        "points": 55,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pur",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "188",
+        "country": "Belize",
+        "ct": "BLZ",
+        "points": 52,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blz",
+        "delta": 6
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "189",
+        "country": "Nicaragua",
+        "ct": "NCA",
+        "points": 50,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nca",
+        "delta": 10
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "190",
+        "country": "Sao Tome e Principe",
+        "ct": "STP",
+        "points": 49,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/stp",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "191",
+        "country": "Equatorial Guinea",
+        "ct": "EQG",
+        "points": 48,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eqg",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "192",
+        "country": "Aruba",
+        "ct": "ARU",
+        "points": 44,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aru",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "193",
+        "country": "Seychelles",
+        "ct": "SEY",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sey",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "194",
+        "country": "US Virgin Islands",
+        "ct": "VIR",
+        "points": 32,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vir",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "195",
+        "country": "Anguilla",
+        "ct": "AIA",
+        "points": 24,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aia",
+        "delta": 21
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "196",
+        "country": "Djibouti",
+        "ct": "DJI",
+        "points": 21,
+        "previousPoints": 21,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dji",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "197",
+        "country": "Turks and Caicos Islands",
+        "ct": "TCA",
+        "points": 19,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tca",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "198",
+        "country": "Mongolia",
+        "ct": "MNG",
+        "points": 14,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mng",
+        "delta": 8
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "199",
+        "country": "Somalia",
+        "ct": "SOM",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/som",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "200",
+        "country": "Guam",
+        "ct": "GUM",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gum",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "201",
+        "country": "Montserrat",
+        "ct": "MSR",
+        "points": 7,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/msr",
+        "delta": 3
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "202",
+        "country": "American Samoa",
+        "ct": "ASA",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/asa",
+        "delta": 0
+    }
+]

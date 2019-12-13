@@ -1,0 +1,2033 @@
+[
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1574,
+        "previousPoints": 1649,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -75
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "2",
+        "country": "France",
+        "ct": "FRA",
+        "points": 1534,
+        "previousPoints": 1462,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fra",
+        "delta": 72
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "3",
+        "country": "Argentina",
+        "ct": "ARG",
+        "points": 1492,
+        "previousPoints": 1479,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arg",
+        "delta": 13
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "4",
+        "country": "England",
+        "ct": "ENG",
+        "points": 1477,
+        "previousPoints": 1434,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eng",
+        "delta": 43
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "5",
+        "country": "Italy",
+        "ct": "ITA",
+        "points": 1474,
+        "previousPoints": 1550,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ita",
+        "delta": -76
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "6",
+        "country": "Netherlands",
+        "ct": "NED",
+        "points": 1327,
+        "previousPoints": 1322,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ned",
+        "delta": 5
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "7",
+        "country": "Czech Republic",
+        "ct": "CZE",
+        "points": 1312,
+        "previousPoints": 1223,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cze",
+        "delta": 89
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "8",
+        "country": "Germany",
+        "ct": "GER",
+        "points": 1291,
+        "previousPoints": 1229,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ger",
+        "delta": 62
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "9",
+        "country": "Portugal",
+        "ct": "POR",
+        "points": 1272,
+        "previousPoints": 1301,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/por",
+        "delta": -29
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "10",
+        "country": "Spain",
+        "ct": "ESP",
+        "points": 1255,
+        "previousPoints": 1309,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/esp",
+        "delta": -54
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "11",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 1166,
+        "previousPoints": 1156,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 10
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "12",
+        "country": "Cameroon",
+        "ct": "CMR",
+        "points": 1062,
+        "previousPoints": 1109,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cmr",
+        "delta": -47
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "13",
+        "country": "Ukraine",
+        "ct": "UKR",
+        "points": 1029,
+        "previousPoints": 954,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ukr",
+        "delta": 75
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "14",
+        "country": "Switzerland",
+        "ct": "SUI",
+        "points": 1016,
+        "previousPoints": 1028,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sui",
+        "delta": -12
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "15",
+        "country": "Uruguay",
+        "ct": "URU",
+        "points": 960,
+        "previousPoints": 985,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uru",
+        "delta": -25
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "16",
+        "country": "Denmark",
+        "ct": "DEN",
+        "points": 940,
+        "previousPoints": 927,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/den",
+        "delta": 13
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "17",
+        "country": "Mexico",
+        "ct": "MEX",
+        "points": 891,
+        "previousPoints": 928,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mex",
+        "delta": -37
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "18",
+        "country": "Sweden",
+        "ct": "SWE",
+        "points": 888,
+        "previousPoints": 886,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swe",
+        "delta": 2
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "19",
+        "country": "C\u00f4te d'Ivoire",
+        "ct": "CIV",
+        "points": 879,
+        "previousPoints": 909,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/civ",
+        "delta": -30
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "20",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 867,
+        "previousPoints": 814,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 53
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "21",
+        "country": "Paraguay",
+        "ct": "PAR",
+        "points": 854,
+        "previousPoints": 892,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/par",
+        "delta": -38
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "22",
+        "country": "Greece",
+        "ct": "GRE",
+        "points": 833,
+        "previousPoints": 780,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gre",
+        "delta": 53
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "23",
+        "country": "Ghana",
+        "ct": "GHA",
+        "points": 830,
+        "previousPoints": 839,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gha",
+        "delta": -9
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "24",
+        "country": "Croatia",
+        "ct": "CRO",
+        "points": 825,
+        "previousPoints": 854,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cro",
+        "delta": -29
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "25",
+        "country": "Romania",
+        "ct": "ROU",
+        "points": 817,
+        "previousPoints": 834,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rou",
+        "delta": -17
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "26",
+        "country": "Guinea",
+        "ct": "GUI",
+        "points": 815,
+        "previousPoints": 850,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gui",
+        "delta": -35
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "27",
+        "country": "Egypt",
+        "ct": "EGY",
+        "points": 814,
+        "previousPoints": 841,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/egy",
+        "delta": -27
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "28",
+        "country": "Turkey",
+        "ct": "TUR",
+        "points": 810,
+        "previousPoints": 824,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tur",
+        "delta": -14
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "29",
+        "country": "USA",
+        "ct": "USA",
+        "points": 805,
+        "previousPoints": 848,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/usa",
+        "delta": -43
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "30",
+        "country": "Ecuador",
+        "ct": "ECU",
+        "points": 785,
+        "previousPoints": 826,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ecu",
+        "delta": -41
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "31",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 780,
+        "previousPoints": 805,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -25
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "32",
+        "country": "Serbia",
+        "ct": "SRB",
+        "points": 759,
+        "previousPoints": 733,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/srb",
+        "delta": 26
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "33",
+        "country": "Senegal",
+        "ct": "SEN",
+        "points": 756,
+        "previousPoints": 726,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sen",
+        "delta": 30
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "34",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 746,
+        "previousPoints": 677,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 69
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "35",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 737,
+        "previousPoints": 805,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -68
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "36",
+        "country": "Israel",
+        "ct": "ISR",
+        "points": 731,
+        "previousPoints": 577,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isr",
+        "delta": 154
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "37",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 728,
+        "previousPoints": 716,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 12
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "38",
+        "country": "Australia",
+        "ct": "AUS",
+        "points": 727,
+        "previousPoints": 708,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aus",
+        "delta": 19
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "39",
+        "country": "Russia",
+        "ct": "RUS",
+        "points": 702,
+        "previousPoints": 733,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rus",
+        "delta": -31
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "40",
+        "country": "Norway",
+        "ct": "NOR",
+        "points": 698,
+        "previousPoints": 604,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nor",
+        "delta": 94
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "41",
+        "country": "Morocco",
+        "ct": "MAR",
+        "points": 694,
+        "previousPoints": 681,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mar",
+        "delta": 13
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "42",
+        "country": "Slovakia",
+        "ct": "SVK",
+        "points": 685,
+        "previousPoints": 659,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svk",
+        "delta": 26
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "43",
+        "country": "Republic of Ireland",
+        "ct": "IRL",
+        "points": 658,
+        "previousPoints": 694,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irl",
+        "delta": -36
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "43",
+        "country": "IR Iran",
+        "ct": "IRN",
+        "points": 658,
+        "previousPoints": 639,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irn",
+        "delta": 19
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "45",
+        "country": "Chile",
+        "ct": "CHI",
+        "points": 637,
+        "previousPoints": 642,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chi",
+        "delta": -5
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "46",
+        "country": "Peru",
+        "ct": "PER",
+        "points": 611,
+        "previousPoints": 662,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/per",
+        "delta": -51
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "47",
+        "country": "Japan",
+        "ct": "JPN",
+        "points": 594,
+        "previousPoints": 610,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jpn",
+        "delta": -16
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "48",
+        "country": "Togo",
+        "ct": "TOG",
+        "points": 589,
+        "previousPoints": 622,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tog",
+        "delta": -33
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "49",
+        "country": "Korea Republic",
+        "ct": "KOR",
+        "points": 580,
+        "previousPoints": 574,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kor",
+        "delta": 6
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "50",
+        "country": "Belgium",
+        "ct": "BEL",
+        "points": 572,
+        "previousPoints": 555,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bel",
+        "delta": 17
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "51",
+        "country": "FYR Macedonia",
+        "ct": "MKD",
+        "points": 554,
+        "previousPoints": 456,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mkd",
+        "delta": 98
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "52",
+        "country": "Angola",
+        "ct": "ANG",
+        "points": 550,
+        "previousPoints": 571,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ang",
+        "delta": -21
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "53",
+        "country": "Costa Rica",
+        "ct": "CRC",
+        "points": 536,
+        "previousPoints": 621,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/crc",
+        "delta": -85
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "54",
+        "country": "Bosnia and Herzegovina",
+        "ct": "BIH",
+        "points": 526,
+        "previousPoints": 660,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bih",
+        "delta": -134
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "55",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 512,
+        "previousPoints": 499,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 13
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "56",
+        "country": "Trinidad and Tobago",
+        "ct": "TRI",
+        "points": 507,
+        "previousPoints": 490,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tri",
+        "delta": 17
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "57",
+        "country": "Uzbekistan",
+        "ct": "UZB",
+        "points": 492,
+        "previousPoints": 564,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uzb",
+        "delta": -72
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "58",
+        "country": "Northern Ireland",
+        "ct": "NIR",
+        "points": 486,
+        "previousPoints": 425,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nir",
+        "delta": 61
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "59",
+        "country": "Hungary",
+        "ct": "HUN",
+        "points": 484,
+        "previousPoints": 383,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hun",
+        "delta": 101
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "60",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 483,
+        "previousPoints": 497,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -14
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "61",
+        "country": "Finland",
+        "ct": "FIN",
+        "points": 482,
+        "previousPoints": 456,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fin",
+        "delta": 26
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "62",
+        "country": "Wales",
+        "ct": "WAL",
+        "points": 479,
+        "previousPoints": 547,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/wal",
+        "delta": -68
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "63",
+        "country": "Qatar",
+        "ct": "QAT",
+        "points": 476,
+        "previousPoints": 471,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/qat",
+        "delta": 5
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "64",
+        "country": "Congo DR",
+        "ct": "COD",
+        "points": 475,
+        "previousPoints": 475,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cod",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "65",
+        "country": "Belarus",
+        "ct": "BLR",
+        "points": 471,
+        "previousPoints": 453,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blr",
+        "delta": 18
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "66",
+        "country": "Guatemala",
+        "ct": "GUA",
+        "points": 469,
+        "previousPoints": 582,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gua",
+        "delta": -113
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "67",
+        "country": "Lithuania",
+        "ct": "LTU",
+        "points": 461,
+        "previousPoints": 458,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ltu",
+        "delta": 3
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "68",
+        "country": "Saudi Arabia",
+        "ct": "KSA",
+        "points": 460,
+        "previousPoints": 410,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ksa",
+        "delta": 50
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "69",
+        "country": "Cuba",
+        "ct": "CUB",
+        "points": 458,
+        "previousPoints": 267,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cub",
+        "delta": 191
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "70",
+        "country": "Austria",
+        "ct": "AUT",
+        "points": 452,
+        "previousPoints": 506,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aut",
+        "delta": -54
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "71",
+        "country": "Canada",
+        "ct": "CAN",
+        "points": 433,
+        "previousPoints": 362,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/can",
+        "delta": 71
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "71",
+        "country": "Kuwait",
+        "ct": "KUW",
+        "points": 433,
+        "previousPoints": 291,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kuw",
+        "delta": 142
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "73",
+        "country": "Zimbabwe",
+        "ct": "ZIM",
+        "points": 429,
+        "previousPoints": 452,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zim",
+        "delta": -23
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "74",
+        "country": "Panama",
+        "ct": "PAN",
+        "points": 426,
+        "previousPoints": 275,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pan",
+        "delta": 151
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "75",
+        "country": "Albania",
+        "ct": "ALB",
+        "points": 418,
+        "previousPoints": 478,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alb",
+        "delta": -60
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "76",
+        "country": "South Africa",
+        "ct": "RSA",
+        "points": 417,
+        "previousPoints": 406,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rsa",
+        "delta": 11
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "77",
+        "country": "Jamaica",
+        "ct": "JAM",
+        "points": 415,
+        "previousPoints": 412,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jam",
+        "delta": 3
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "78",
+        "country": "Slovenia",
+        "ct": "SVN",
+        "points": 408,
+        "previousPoints": 505,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svn",
+        "delta": -97
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "79",
+        "country": "Bolivia",
+        "ct": "BOL",
+        "points": 401,
+        "previousPoints": 362,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bol",
+        "delta": 39
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "80",
+        "country": "Venezuela",
+        "ct": "VEN",
+        "points": 399,
+        "previousPoints": 458,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ven",
+        "delta": -59
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "81",
+        "country": "Honduras",
+        "ct": "HON",
+        "points": 395,
+        "previousPoints": 367,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hon",
+        "delta": 28
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "81",
+        "country": "Oman",
+        "ct": "OMA",
+        "points": 395,
+        "previousPoints": 357,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/oma",
+        "delta": 38
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "83",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 388,
+        "previousPoints": 318,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 70
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "84",
+        "country": "Gabon",
+        "ct": "GAB",
+        "points": 368,
+        "previousPoints": 293,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gab",
+        "delta": 75
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "85",
+        "country": "Moldova",
+        "ct": "MDA",
+        "points": 356,
+        "previousPoints": 416,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mda",
+        "delta": -60
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "86",
+        "country": "Ethiopia",
+        "ct": "ETH",
+        "points": 354,
+        "previousPoints": 286,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eth",
+        "delta": 68
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "87",
+        "country": "Iceland",
+        "ct": "ISL",
+        "points": 349,
+        "previousPoints": 238,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isl",
+        "delta": 111
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "88",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 345,
+        "previousPoints": 321,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 24
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "89",
+        "country": "Libya",
+        "ct": "LBY",
+        "points": 338,
+        "previousPoints": 395,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lby",
+        "delta": -57
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "90",
+        "country": "Equatorial Guinea",
+        "ct": "EQG",
+        "points": 337,
+        "previousPoints": 299,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eqg",
+        "delta": 38
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "91",
+        "country": "China PR",
+        "ct": "CHN",
+        "points": 334,
+        "previousPoints": 252,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chn",
+        "delta": 82
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "92",
+        "country": "Iraq",
+        "ct": "IRQ",
+        "points": 330,
+        "previousPoints": 334,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irq",
+        "delta": -4
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "93",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 326,
+        "previousPoints": 359,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -33
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "94",
+        "country": "Latvia",
+        "ct": "LVA",
+        "points": 319,
+        "previousPoints": 386,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lva",
+        "delta": -67
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "95",
+        "country": "Malawi",
+        "ct": "MWI",
+        "points": 302,
+        "previousPoints": 307,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mwi",
+        "delta": -5
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "96",
+        "country": "Jordan",
+        "ct": "JOR",
+        "points": 296,
+        "previousPoints": 276,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jor",
+        "delta": 20
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "97",
+        "country": "Burkina Faso",
+        "ct": "BFA",
+        "points": 293,
+        "previousPoints": 445,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bfa",
+        "delta": -152
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "98",
+        "country": "Bahrain",
+        "ct": "BHR",
+        "points": 287,
+        "previousPoints": 293,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhr",
+        "delta": -6
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "99",
+        "country": "Uganda",
+        "ct": "UGA",
+        "points": 285,
+        "previousPoints": 271,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uga",
+        "delta": 14
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "100",
+        "country": "Congo",
+        "ct": "CGO",
+        "points": 279,
+        "previousPoints": 237,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cgo",
+        "delta": 42
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "101",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 271,
+        "previousPoints": 244,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 27
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "102",
+        "country": "Estonia",
+        "ct": "EST",
+        "points": 268,
+        "previousPoints": 386,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/est",
+        "delta": -118
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "103",
+        "country": "Cyprus",
+        "ct": "CYP",
+        "points": 261,
+        "previousPoints": 308,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cyp",
+        "delta": -47
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "104",
+        "country": "Botswana",
+        "ct": "BOT",
+        "points": 244,
+        "previousPoints": 258,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bot",
+        "delta": -14
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "105",
+        "country": "Tanzania",
+        "ct": "TAN",
+        "points": 240,
+        "previousPoints": 139,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tan",
+        "delta": 101
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "106",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 238,
+        "previousPoints": 237,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 1
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "107",
+        "country": "Singapore",
+        "ct": "SIN",
+        "points": 235,
+        "previousPoints": 238,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sin",
+        "delta": -3
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "108",
+        "country": "Lebanon",
+        "ct": "LBN",
+        "points": 230,
+        "previousPoints": 228,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbn",
+        "delta": 2
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "109",
+        "country": "Hong Kong",
+        "ct": "HKG",
+        "points": 227,
+        "previousPoints": 179,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hkg",
+        "delta": 48
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "110",
+        "country": "Sudan",
+        "ct": "SDN",
+        "points": 225,
+        "previousPoints": 224,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sdn",
+        "delta": 1
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "111",
+        "country": "Korea DPR",
+        "ct": "PRK",
+        "points": 223,
+        "previousPoints": 336,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/prk",
+        "delta": -113
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "112",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 221,
+        "previousPoints": 247,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -26
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "113",
+        "country": "Cape Verde Islands",
+        "ct": "CPV",
+        "points": 219,
+        "previousPoints": 259,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cpv",
+        "delta": -40
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "114",
+        "country": "Thailand",
+        "ct": "THA",
+        "points": 214,
+        "previousPoints": 228,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tha",
+        "delta": -14
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "115",
+        "country": "St. Lucia",
+        "ct": "LCA",
+        "points": 212,
+        "previousPoints": 212,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lca",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "116",
+        "country": "Syria",
+        "ct": "SYR",
+        "points": 211,
+        "previousPoints": 223,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/syr",
+        "delta": -12
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "117",
+        "country": "Azerbaijan",
+        "ct": "AZE",
+        "points": 206,
+        "previousPoints": 238,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aze",
+        "delta": -32
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "118",
+        "country": "Haiti",
+        "ct": "HAI",
+        "points": 205,
+        "previousPoints": 174,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hai",
+        "delta": 31
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "119",
+        "country": "Gambia",
+        "ct": "GAM",
+        "points": 200,
+        "previousPoints": 79,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gam",
+        "delta": 121
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "120",
+        "country": "Guyana",
+        "ct": "GUY",
+        "points": 195,
+        "previousPoints": 179,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/guy",
+        "delta": 16
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "120",
+        "country": "Kazakhstan",
+        "ct": "KAZ",
+        "points": 195,
+        "previousPoints": 117,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kaz",
+        "delta": 78
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "122",
+        "country": "Tajikistan",
+        "ct": "TJK",
+        "points": 194,
+        "previousPoints": 200,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tjk",
+        "delta": -6
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "123",
+        "country": "Palestine",
+        "ct": "PLE",
+        "points": 189,
+        "previousPoints": 190,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ple",
+        "delta": -1
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "124",
+        "country": "Mauritania",
+        "ct": "MTN",
+        "points": 188,
+        "previousPoints": 61,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mtn",
+        "delta": 127
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "125",
+        "country": "Kyrgyz Republic",
+        "ct": "KGZ",
+        "points": 178,
+        "previousPoints": 185,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kgz",
+        "delta": -7
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "126",
+        "country": "Mauritius",
+        "ct": "MRI",
+        "points": 175,
+        "previousPoints": 124,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mri",
+        "delta": 51
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "127",
+        "country": "Kenya",
+        "ct": "KEN",
+        "points": 173,
+        "previousPoints": 197,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ken",
+        "delta": -24
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "127",
+        "country": "Antigua and Barbuda",
+        "ct": "ATG",
+        "points": 173,
+        "previousPoints": 112,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/atg",
+        "delta": 61
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "129",
+        "country": "Maldives",
+        "ct": "MDV",
+        "points": 161,
+        "previousPoints": 164,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mdv",
+        "delta": -3
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "129",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 161,
+        "previousPoints": 155,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 6
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "131",
+        "country": "New Zealand",
+        "ct": "NZL",
+        "points": 158,
+        "previousPoints": 158,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nzl",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "132",
+        "country": "Chad",
+        "ct": "CHA",
+        "points": 157,
+        "previousPoints": 157,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cha",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "133",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 155,
+        "previousPoints": 89,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 66
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "134",
+        "country": "Mozambique",
+        "ct": "MOZ",
+        "points": 154,
+        "previousPoints": 163,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/moz",
+        "delta": -9
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "135",
+        "country": "Eritrea",
+        "ct": "ERI",
+        "points": 146,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eri",
+        "delta": 107
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "136",
+        "country": "Yemen",
+        "ct": "YEM",
+        "points": 137,
+        "previousPoints": 168,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yem",
+        "delta": -31
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "136",
+        "country": "India",
+        "ct": "IND",
+        "points": 137,
+        "previousPoints": 158,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ind",
+        "delta": -21
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "138",
+        "country": "Bahamas",
+        "ct": "BAH",
+        "points": 134,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bah",
+        "delta": 127
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "139",
+        "country": "Namibia",
+        "ct": "NAM",
+        "points": 131,
+        "previousPoints": 128,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nam",
+        "delta": 3
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "139",
+        "country": "Indonesia",
+        "ct": "IDN",
+        "points": 131,
+        "previousPoints": 112,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/idn",
+        "delta": 19
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "139",
+        "country": "Myanmar",
+        "ct": "MYA",
+        "points": 131,
+        "previousPoints": 67,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mya",
+        "delta": 64
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "142",
+        "country": "St. Kitts and Nevis",
+        "ct": "SKN",
+        "points": 124,
+        "previousPoints": 126,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/skn",
+        "delta": -2
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "143",
+        "country": "Liberia",
+        "ct": "LBR",
+        "points": 122,
+        "previousPoints": 134,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbr",
+        "delta": -12
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "144",
+        "country": "Malta",
+        "ct": "MLT",
+        "points": 117,
+        "previousPoints": 178,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mlt",
+        "delta": -61
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "144",
+        "country": "Lesotho",
+        "ct": "LES",
+        "points": 117,
+        "previousPoints": 141,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/les",
+        "delta": -24
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "146",
+        "country": "Seychelles",
+        "ct": "SEY",
+        "points": 115,
+        "previousPoints": 133,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sey",
+        "delta": -18
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "147",
+        "country": "Sri Lanka",
+        "ct": "SRI",
+        "points": 112,
+        "previousPoints": 124,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sri",
+        "delta": -12
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "148",
+        "country": "Malaysia",
+        "ct": "MAS",
+        "points": 110,
+        "previousPoints": 109,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mas",
+        "delta": 1
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "149",
+        "country": "Fiji",
+        "ct": "FIJ",
+        "points": 107,
+        "previousPoints": 107,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fij",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "150",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 106,
+        "previousPoints": 92,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 14
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "151",
+        "country": "Vietnam",
+        "ct": "VIE",
+        "points": 103,
+        "previousPoints": 116,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vie",
+        "delta": -13
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "152",
+        "country": "Bangladesh",
+        "ct": "BAN",
+        "points": 102,
+        "previousPoints": 114,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ban",
+        "delta": -12
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "152",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 102,
+        "previousPoints": 102,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "154",
+        "country": "Chinese Taipei",
+        "ct": "TPE",
+        "points": 99,
+        "previousPoints": 115,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tpe",
+        "delta": -16
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "155",
+        "country": "Liechtenstein",
+        "ct": "LIE",
+        "points": 97,
+        "previousPoints": 170,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lie",
+        "delta": -73
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "156",
+        "country": "Solomon Islands",
+        "ct": "SOL",
+        "points": 95,
+        "previousPoints": 95,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sol",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "157",
+        "country": "Grenada",
+        "ct": "GRN",
+        "points": 94,
+        "previousPoints": 73,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/grn",
+        "delta": 21
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "158",
+        "country": "El Salvador",
+        "ct": "SLV",
+        "points": 90,
+        "previousPoints": 117,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/slv",
+        "delta": -27
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "159",
+        "country": "Burundi",
+        "ct": "BDI",
+        "points": 86,
+        "previousPoints": 86,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bdi",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "160",
+        "country": "Andorra",
+        "ct": "AND",
+        "points": 84,
+        "previousPoints": 142,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/and",
+        "delta": -58
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "160",
+        "country": "Pakistan",
+        "ct": "PAK",
+        "points": 84,
+        "previousPoints": 91,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pak",
+        "delta": -7
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "162",
+        "country": "Turkmenistan",
+        "ct": "TKM",
+        "points": 73,
+        "previousPoints": 77,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tkm",
+        "delta": -4
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "163",
+        "country": "Suriname",
+        "ct": "SUR",
+        "points": 72,
+        "previousPoints": 72,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sur",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "163",
+        "country": "Bermuda",
+        "ct": "BER",
+        "points": 72,
+        "previousPoints": 72,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ber",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "165",
+        "country": "Nicaragua",
+        "ct": "NCA",
+        "points": 70,
+        "previousPoints": 70,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nca",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "165",
+        "country": "Vanuatu",
+        "ct": "VAN",
+        "points": 70,
+        "previousPoints": 70,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/van",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "167",
+        "country": "Niger",
+        "ct": "NIG",
+        "points": 69,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nig",
+        "delta": 15
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "168",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 67,
+        "previousPoints": 89,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -22
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "169",
+        "country": "Nepal",
+        "ct": "NEP",
+        "points": 66,
+        "previousPoints": 66,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nep",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "170",
+        "country": "Turks and Caicos Islands",
+        "ct": "TCA",
+        "points": 64,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tca"
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "171",
+        "country": "Tahiti",
+        "ct": "TAH",
+        "points": 55,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tah",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "171",
+        "country": "British Virgin Islands",
+        "ct": "VGB",
+        "points": 55,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vgb",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "174",
+        "country": "New Caledonia",
+        "ct": "NCL",
+        "points": 51,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ncl",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "175",
+        "country": "Afghanistan",
+        "ct": "AFG",
+        "points": 48,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/afg",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "176",
+        "country": "Papua New Guinea",
+        "ct": "PNG",
+        "points": 47,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/png",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "177",
+        "country": "Cayman Islands",
+        "ct": "CAY",
+        "points": 46,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cay",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "178",
+        "country": "Central African Republic",
+        "ct": "CTA",
+        "points": 45,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cta",
+        "delta": -4
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "179",
+        "country": "Faroe Islands",
+        "ct": "FRO",
+        "points": 38,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fro",
+        "delta": -16
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "179",
+        "country": "Brunei Darussalam",
+        "ct": "BRU",
+        "points": 38,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bru",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "181",
+        "country": "Guinea-Bissau",
+        "ct": "GNB",
+        "points": 36,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gnb",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "181",
+        "country": "Somalia",
+        "ct": "SOM",
+        "points": 36,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/som",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "183",
+        "country": "Mongolia",
+        "ct": "MNG",
+        "points": 35,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mng",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "184",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 34,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "185",
+        "country": "Dominica",
+        "ct": "DMA",
+        "points": 31,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dma",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "185",
+        "country": "Cambodia",
+        "ct": "CAM",
+        "points": 31,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cam",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "185",
+        "country": "Macau",
+        "ct": "MAC",
+        "points": 31,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mac",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "188",
+        "country": "Dominican Republic",
+        "ct": "DOM",
+        "points": 26,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dom",
+        "delta": -26
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "189",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 24,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "190",
+        "country": "Samoa",
+        "ct": "SAM",
+        "points": 22,
+        "previousPoints": 22,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sam",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "191",
+        "country": "Tonga",
+        "ct": "TGA",
+        "points": 21,
+        "previousPoints": 21,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tga",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "192",
+        "country": "Puerto Rico",
+        "ct": "PUR",
+        "points": 17,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pur",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "193",
+        "country": "Luxembourg",
+        "ct": "LUX",
+        "points": 14,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lux",
+        "delta": 11
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "194",
+        "country": "San Marino",
+        "ct": "SMR",
+        "points": 10,
+        "previousPoints": 12,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/smr",
+        "delta": -2
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "195",
+        "country": "Philippines",
+        "ct": "PHI",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/phi",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "196",
+        "country": "Anguilla",
+        "ct": "AIA",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aia",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "197",
+        "country": "Cook Islands",
+        "ct": "COK",
+        "points": 3,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cok",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "198",
+        "country": "Belize",
+        "ct": "BLZ",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blz"
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "198",
+        "country": "Djibouti",
+        "ct": "DJI",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dji"
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "198",
+        "country": "Sao Tome e Principe",
+        "ct": "STP",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/stp"
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "198",
+        "country": "Aruba",
+        "ct": "ARU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aru"
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "198",
+        "country": "US Virgin Islands",
+        "ct": "VIR",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vir"
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "198",
+        "country": "Montserrat",
+        "ct": "MSR",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/msr"
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "198",
+        "country": "Guam",
+        "ct": "GUM",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gum"
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "198",
+        "country": "American Samoa",
+        "ct": "ASA",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/asa"
+    }
+]

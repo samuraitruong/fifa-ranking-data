@@ -1,0 +1,2072 @@
+[
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "1",
+        "country": "Spain",
+        "ct": "ESP",
+        "points": 1557,
+        "previousPoints": 1557,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/esp",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "2",
+        "country": "Germany",
+        "ct": "GER",
+        "points": 1343,
+        "previousPoints": 1364,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ger",
+        "delta": -21
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "3",
+        "country": "Italy",
+        "ct": "ITA",
+        "points": 1320,
+        "previousPoints": 1404,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ita",
+        "delta": -84
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "4",
+        "country": "Netherlands",
+        "ct": "NED",
+        "points": 1299,
+        "previousPoints": 1299,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ned",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "5",
+        "country": "Croatia",
+        "ct": "CRO",
+        "points": 1282,
+        "previousPoints": 1282,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cro",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "6",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1242,
+        "previousPoints": 1344,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -102
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "7",
+        "country": "Argentina",
+        "ct": "ARG",
+        "points": 1219,
+        "previousPoints": 1298,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arg",
+        "delta": -79
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "8",
+        "country": "Czech Republic",
+        "ct": "CZE",
+        "points": 1146,
+        "previousPoints": 1146,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cze",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "9",
+        "country": "Portugal",
+        "ct": "POR",
+        "points": 1122,
+        "previousPoints": 1104,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/por",
+        "delta": 18
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "10",
+        "country": "Russia",
+        "ct": "RUS",
+        "points": 1023,
+        "previousPoints": 1023,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rus",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "11",
+        "country": "Romania",
+        "ct": "ROU",
+        "points": 1021,
+        "previousPoints": 1021,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rou",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "12",
+        "country": "France",
+        "ct": "FRA",
+        "points": 1012,
+        "previousPoints": 1053,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fra",
+        "delta": -41
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "13",
+        "country": "Turkey",
+        "ct": "TUR",
+        "points": 1010,
+        "previousPoints": 1010,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tur",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "14",
+        "country": "England",
+        "ct": "ENG",
+        "points": 1003,
+        "previousPoints": 1003,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eng",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "15",
+        "country": "Cameroon",
+        "ct": "CMR",
+        "points": 994,
+        "previousPoints": 1011,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cmr",
+        "delta": -17
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "16",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 988,
+        "previousPoints": 988,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "17",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 930,
+        "previousPoints": 930,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "18",
+        "country": "Greece",
+        "ct": "GRE",
+        "points": 896,
+        "previousPoints": 911,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gre",
+        "delta": -15
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "19",
+        "country": "Ghana",
+        "ct": "GHA",
+        "points": 892,
+        "previousPoints": 885,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gha",
+        "delta": 7
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "20",
+        "country": "Israel",
+        "ct": "ISR",
+        "points": 876,
+        "previousPoints": 876,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isr",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "21",
+        "country": "Egypt",
+        "ct": "EGY",
+        "points": 851,
+        "previousPoints": 842,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/egy",
+        "delta": 9
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "22",
+        "country": "Paraguay",
+        "ct": "PAR",
+        "points": 820,
+        "previousPoints": 832,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/par",
+        "delta": -12
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "23",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 816,
+        "previousPoints": 869,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -53
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "24",
+        "country": "Uruguay",
+        "ct": "URU",
+        "points": 813,
+        "previousPoints": 870,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uru",
+        "delta": -57
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "25",
+        "country": "C\u00f4te d'Ivoire",
+        "ct": "CIV",
+        "points": 802,
+        "previousPoints": 790,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/civ",
+        "delta": 12
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "26",
+        "country": "Sweden",
+        "ct": "SWE",
+        "points": 801,
+        "previousPoints": 801,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swe",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "27",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 788,
+        "previousPoints": 801,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -13
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "28",
+        "country": "Ukraine",
+        "ct": "UKR",
+        "points": 786,
+        "previousPoints": 786,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ukr",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "29",
+        "country": "Norway",
+        "ct": "NOR",
+        "points": 778,
+        "previousPoints": 778,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nor",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "29",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 778,
+        "previousPoints": 773,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 5
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "31",
+        "country": "USA",
+        "ct": "USA",
+        "points": 767,
+        "previousPoints": 780,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/usa",
+        "delta": -13
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "32",
+        "country": "Mexico",
+        "ct": "MEX",
+        "points": 750,
+        "previousPoints": 906,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mex",
+        "delta": -156
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "32",
+        "country": "Northern Ireland",
+        "ct": "NIR",
+        "points": 750,
+        "previousPoints": 750,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nir",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "34",
+        "country": "Serbia",
+        "ct": "SRB",
+        "points": 749,
+        "previousPoints": 740,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/srb",
+        "delta": 9
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "35",
+        "country": "Japan",
+        "ct": "JPN",
+        "points": 727,
+        "previousPoints": 745,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jpn",
+        "delta": -18
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "36",
+        "country": "Denmark",
+        "ct": "DEN",
+        "points": 722,
+        "previousPoints": 722,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/den",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "37",
+        "country": "Morocco",
+        "ct": "MAR",
+        "points": 690,
+        "previousPoints": 689,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mar",
+        "delta": 1
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "38",
+        "country": "Australia",
+        "ct": "AUS",
+        "points": 685,
+        "previousPoints": 668,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aus",
+        "delta": 17
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "39",
+        "country": "Chile",
+        "ct": "CHI",
+        "points": 680,
+        "previousPoints": 654,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chi",
+        "delta": 26
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "40",
+        "country": "Guinea",
+        "ct": "GUI",
+        "points": 670,
+        "previousPoints": 670,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gui",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "41",
+        "country": "Republic of Ireland",
+        "ct": "IRL",
+        "points": 666,
+        "previousPoints": 666,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irl",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "42",
+        "country": "Finland",
+        "ct": "FIN",
+        "points": 653,
+        "previousPoints": 653,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fin",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "43",
+        "country": "Senegal",
+        "ct": "SEN",
+        "points": 649,
+        "previousPoints": 658,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sen",
+        "delta": -9
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "44",
+        "country": "Switzerland",
+        "ct": "SUI",
+        "points": 645,
+        "previousPoints": 645,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sui",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "45",
+        "country": "IR Iran",
+        "ct": "IRN",
+        "points": 643,
+        "previousPoints": 689,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irn",
+        "delta": -46
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "46",
+        "country": "Belgium",
+        "ct": "BEL",
+        "points": 637,
+        "previousPoints": 637,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bel",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "47",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 629,
+        "previousPoints": 629,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "48",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 624,
+        "previousPoints": 619,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 5
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "49",
+        "country": "Moldova",
+        "ct": "MDA",
+        "points": 622,
+        "previousPoints": 622,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mda",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "50",
+        "country": "Hungary",
+        "ct": "HUN",
+        "points": 591,
+        "previousPoints": 591,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hun",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "51",
+        "country": "Wales",
+        "ct": "WAL",
+        "points": 578,
+        "previousPoints": 578,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/wal",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "52",
+        "country": "Saudi Arabia",
+        "ct": "KSA",
+        "points": 575,
+        "previousPoints": 623,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ksa",
+        "delta": -48
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "53",
+        "country": "Korea Republic",
+        "ct": "KOR",
+        "points": 556,
+        "previousPoints": 590,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kor",
+        "delta": -34
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "54",
+        "country": "FYR Macedonia",
+        "ct": "MKD",
+        "points": 548,
+        "previousPoints": 548,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mkd",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "55",
+        "country": "Uzbekistan",
+        "ct": "UZB",
+        "points": 545,
+        "previousPoints": 562,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uzb",
+        "delta": -17
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "56",
+        "country": "Ecuador",
+        "ct": "ECU",
+        "points": 542,
+        "previousPoints": 511,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ecu",
+        "delta": 31
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "57",
+        "country": "Belarus",
+        "ct": "BLR",
+        "points": 536,
+        "previousPoints": 536,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blr",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "58",
+        "country": "Angola",
+        "ct": "ANG",
+        "points": 522,
+        "previousPoints": 507,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ang",
+        "delta": 15
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "59",
+        "country": "Lithuania",
+        "ct": "LTU",
+        "points": 520,
+        "previousPoints": 520,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ltu",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "60",
+        "country": "Venezuela",
+        "ct": "VEN",
+        "points": 508,
+        "previousPoints": 507,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ven",
+        "delta": 1
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "61",
+        "country": "Honduras",
+        "ct": "HON",
+        "points": 506,
+        "previousPoints": 624,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hon",
+        "delta": -118
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "62",
+        "country": "Cyprus",
+        "ct": "CYP",
+        "points": 503,
+        "previousPoints": 503,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cyp",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "63",
+        "country": "Burkina Faso",
+        "ct": "BFA",
+        "points": 499,
+        "previousPoints": 496,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bfa",
+        "delta": 3
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "64",
+        "country": "Slovakia",
+        "ct": "SVK",
+        "points": 497,
+        "previousPoints": 486,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svk",
+        "delta": 11
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "65",
+        "country": "Latvia",
+        "ct": "LVA",
+        "points": 484,
+        "previousPoints": 484,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lva",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "66",
+        "country": "Togo",
+        "ct": "TOG",
+        "points": 477,
+        "previousPoints": 466,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tog",
+        "delta": 11
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "67",
+        "country": "Bahrain",
+        "ct": "BHR",
+        "points": 462,
+        "previousPoints": 456,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhr",
+        "delta": 6
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "67",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 462,
+        "previousPoints": 452,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 10
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "69",
+        "country": "Peru",
+        "ct": "PER",
+        "points": 460,
+        "previousPoints": 481,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/per",
+        "delta": -21
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "69",
+        "country": "Bolivia",
+        "ct": "BOL",
+        "points": 460,
+        "previousPoints": 460,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bol",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "71",
+        "country": "Qatar",
+        "ct": "QAT",
+        "points": 458,
+        "previousPoints": 428,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/qat",
+        "delta": 30
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "72",
+        "country": "Congo DR",
+        "ct": "COD",
+        "points": 456,
+        "previousPoints": 444,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cod",
+        "delta": 12
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "73",
+        "country": "South Africa",
+        "ct": "RSA",
+        "points": 451,
+        "previousPoints": 481,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rsa",
+        "delta": -30
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "74",
+        "country": "Bosnia and Herzegovina",
+        "ct": "BIH",
+        "points": 448,
+        "previousPoints": 448,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bih",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "74",
+        "country": "Gabon",
+        "ct": "GAB",
+        "points": 448,
+        "previousPoints": 448,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gab",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "76",
+        "country": "Iraq",
+        "ct": "IRQ",
+        "points": 433,
+        "previousPoints": 526,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irq",
+        "delta": -93
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "77",
+        "country": "Slovenia",
+        "ct": "SVN",
+        "points": 426,
+        "previousPoints": 426,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svn",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "78",
+        "country": "Costa Rica",
+        "ct": "CRC",
+        "points": 414,
+        "previousPoints": 433,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/crc",
+        "delta": -19
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "79",
+        "country": "Canada",
+        "ct": "CAN",
+        "points": 412,
+        "previousPoints": 441,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/can",
+        "delta": -29
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "80",
+        "country": "Cuba",
+        "ct": "CUB",
+        "points": 405,
+        "previousPoints": 438,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cub",
+        "delta": -33
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "81",
+        "country": "Equatorial Guinea",
+        "ct": "EQG",
+        "points": 403,
+        "previousPoints": 403,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eqg",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "82",
+        "country": "Cape Verde Islands",
+        "ct": "CPV",
+        "points": 400,
+        "previousPoints": 400,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cpv",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "83",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 399,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 3
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "84",
+        "country": "Zimbabwe",
+        "ct": "ZIM",
+        "points": 396,
+        "previousPoints": 421,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zim",
+        "delta": -25
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "84",
+        "country": "Suriname",
+        "ct": "SUR",
+        "points": 396,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sur",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "86",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 393,
+        "previousPoints": 393,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "87",
+        "country": "Libya",
+        "ct": "LBY",
+        "points": 392,
+        "previousPoints": 391,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lby",
+        "delta": 1
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "88",
+        "country": "Oman",
+        "ct": "OMA",
+        "points": 387,
+        "previousPoints": 397,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/oma",
+        "delta": -10
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "88",
+        "country": "Gambia",
+        "ct": "GAM",
+        "points": 387,
+        "previousPoints": 387,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gam",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "90",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 386,
+        "previousPoints": 383,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 3
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "91",
+        "country": "Kenya",
+        "ct": "KEN",
+        "points": 384,
+        "previousPoints": 384,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ken",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "92",
+        "country": "Panama",
+        "ct": "PAN",
+        "points": 379,
+        "previousPoints": 466,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pan",
+        "delta": -87
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "92",
+        "country": "Trinidad and Tobago",
+        "ct": "TRI",
+        "points": 379,
+        "previousPoints": 358,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tri",
+        "delta": 21
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "94",
+        "country": "Korea DPR",
+        "ct": "PRK",
+        "points": 372,
+        "previousPoints": 373,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/prk",
+        "delta": -1
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "94",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 372,
+        "previousPoints": 372,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "96",
+        "country": "Uganda",
+        "ct": "UGA",
+        "points": 371,
+        "previousPoints": 370,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uga",
+        "delta": 1
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "97",
+        "country": "China PR",
+        "ct": "CHN",
+        "points": 369,
+        "previousPoints": 407,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chn",
+        "delta": -38
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "97",
+        "country": "Iceland",
+        "ct": "ISL",
+        "points": 369,
+        "previousPoints": 369,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isl",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "99",
+        "country": "Syria",
+        "ct": "SYR",
+        "points": 367,
+        "previousPoints": 358,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/syr",
+        "delta": 9
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "100",
+        "country": "Guatemala",
+        "ct": "GUA",
+        "points": 361,
+        "previousPoints": 351,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gua",
+        "delta": 10
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "101",
+        "country": "Albania",
+        "ct": "ALB",
+        "points": 359,
+        "previousPoints": 359,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alb",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "102",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 350,
+        "previousPoints": 361,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -11
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "103",
+        "country": "Austria",
+        "ct": "AUT",
+        "points": 349,
+        "previousPoints": 349,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aut",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "104",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 345,
+        "previousPoints": 348,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -3
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "105",
+        "country": "Congo",
+        "ct": "CGO",
+        "points": 344,
+        "previousPoints": 359,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cgo",
+        "delta": -15
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "106",
+        "country": "Mozambique",
+        "ct": "MOZ",
+        "points": 341,
+        "previousPoints": 332,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/moz",
+        "delta": 9
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "107",
+        "country": "Ethiopia",
+        "ct": "ETH",
+        "points": 337,
+        "previousPoints": 335,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eth",
+        "delta": 2
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "108",
+        "country": "Jamaica",
+        "ct": "JAM",
+        "points": 329,
+        "previousPoints": 373,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jam",
+        "delta": -44
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "109",
+        "country": "Sudan",
+        "ct": "SDN",
+        "points": 328,
+        "previousPoints": 326,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sdn",
+        "delta": 2
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "110",
+        "country": "Malawi",
+        "ct": "MWI",
+        "points": 318,
+        "previousPoints": 346,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mwi",
+        "delta": -28
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "111",
+        "country": "New Zealand",
+        "ct": "NZL",
+        "points": 316,
+        "previousPoints": 316,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nzl",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "112",
+        "country": "Thailand",
+        "ct": "THA",
+        "points": 304,
+        "previousPoints": 317,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tha",
+        "delta": -13
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "113",
+        "country": "Botswana",
+        "ct": "BOT",
+        "points": 297,
+        "previousPoints": 316,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bot",
+        "delta": -19
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "114",
+        "country": "Jordan",
+        "ct": "JOR",
+        "points": 289,
+        "previousPoints": 301,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jor",
+        "delta": -12
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "115",
+        "country": "Tanzania",
+        "ct": "TAN",
+        "points": 288,
+        "previousPoints": 280,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tan",
+        "delta": 8
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "116",
+        "country": "New Caledonia",
+        "ct": "NCL",
+        "points": 282,
+        "previousPoints": 232,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ncl",
+        "delta": 50
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "117",
+        "country": "Kuwait",
+        "ct": "KUW",
+        "points": 274,
+        "previousPoints": 269,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kuw",
+        "delta": 5
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "118",
+        "country": "Guyana",
+        "ct": "GUY",
+        "points": 265,
+        "previousPoints": 254,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/guy",
+        "delta": 11
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "119",
+        "country": "Bermuda",
+        "ct": "BER",
+        "points": 260,
+        "previousPoints": 260,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ber",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "120",
+        "country": "El Salvador",
+        "ct": "SLV",
+        "points": 257,
+        "previousPoints": 262,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/slv",
+        "delta": -5
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "121",
+        "country": "Hong Kong",
+        "ct": "HKG",
+        "points": 256,
+        "previousPoints": 256,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hkg",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "121",
+        "country": "Estonia",
+        "ct": "EST",
+        "points": 256,
+        "previousPoints": 256,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/est",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "123",
+        "country": "Haiti",
+        "ct": "HAI",
+        "points": 252,
+        "previousPoints": 259,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hai",
+        "delta": -7
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "124",
+        "country": "Namibia",
+        "ct": "NAM",
+        "points": 240,
+        "previousPoints": 224,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nam",
+        "delta": 16
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "125",
+        "country": "Kazakhstan",
+        "ct": "KAZ",
+        "points": 236,
+        "previousPoints": 233,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kaz",
+        "delta": 3
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "126",
+        "country": "Singapore",
+        "ct": "SIN",
+        "points": 232,
+        "previousPoints": 231,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sin",
+        "delta": 1
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "127",
+        "country": "Chad",
+        "ct": "CHA",
+        "points": 231,
+        "previousPoints": 231,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cha",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "128",
+        "country": "Liechtenstein",
+        "ct": "LIE",
+        "points": 230,
+        "previousPoints": 230,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lie",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "129",
+        "country": "Solomon Islands",
+        "ct": "SOL",
+        "points": 225,
+        "previousPoints": 200,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sol",
+        "delta": 25
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "130",
+        "country": "Burundi",
+        "ct": "BDI",
+        "points": 220,
+        "previousPoints": 220,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bdi",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "131",
+        "country": "Malta",
+        "ct": "MLT",
+        "points": 204,
+        "previousPoints": 204,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mlt",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "132",
+        "country": "Antigua and Barbuda",
+        "ct": "ATG",
+        "points": 201,
+        "previousPoints": 201,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/atg",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "133",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 199,
+        "previousPoints": 239,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -40
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "134",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 193,
+        "previousPoints": 193,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "134",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 193,
+        "previousPoints": 193,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "136",
+        "country": "Grenada",
+        "ct": "GRN",
+        "points": 192,
+        "previousPoints": 191,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/grn",
+        "delta": 1
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "136",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 192,
+        "previousPoints": 225,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -33
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "138",
+        "country": "Azerbaijan",
+        "ct": "AZE",
+        "points": 191,
+        "previousPoints": 191,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aze",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "138",
+        "country": "Yemen",
+        "ct": "YEM",
+        "points": 191,
+        "previousPoints": 189,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yem",
+        "delta": 2
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "140",
+        "country": "Eritrea",
+        "ct": "ERI",
+        "points": 190,
+        "previousPoints": 190,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eri",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "141",
+        "country": "Mauritania",
+        "ct": "MTN",
+        "points": 184,
+        "previousPoints": 184,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mtn",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "142",
+        "country": "Liberia",
+        "ct": "LBR",
+        "points": 183,
+        "previousPoints": 191,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbr",
+        "delta": -8
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "143",
+        "country": "Montenegro",
+        "ct": "MNE",
+        "points": 180,
+        "previousPoints": 180,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mne",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "143",
+        "country": "Puerto Rico",
+        "ct": "PUR",
+        "points": 180,
+        "previousPoints": 180,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pur",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "145",
+        "country": "Kyrgyz Republic",
+        "ct": "KGZ",
+        "points": 178,
+        "previousPoints": 183,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kgz",
+        "delta": -5
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "146",
+        "country": "Fiji",
+        "ct": "FIJ",
+        "points": 174,
+        "previousPoints": 174,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fij",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "147",
+        "country": "Indonesia",
+        "ct": "IDN",
+        "points": 173,
+        "previousPoints": 223,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/idn",
+        "delta": -50
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "147",
+        "country": "Netherlands Antilles",
+        "ct": "ANT",
+        "points": 173,
+        "previousPoints": 171,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ant",
+        "delta": 2
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "149",
+        "country": "Lebanon",
+        "ct": "LBN",
+        "points": 172,
+        "previousPoints": 169,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbn",
+        "delta": 3
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "150",
+        "country": "St. Vincent / Grenadines",
+        "ct": "VIN",
+        "points": 162,
+        "previousPoints": 162,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "151",
+        "country": "Vanuatu",
+        "ct": "VAN",
+        "points": 157,
+        "previousPoints": 131,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/van",
+        "delta": 26
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "152",
+        "country": "Luxembourg",
+        "ct": "LUX",
+        "points": 149,
+        "previousPoints": 149,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lux",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "153",
+        "country": "India",
+        "ct": "IND",
+        "points": 131,
+        "previousPoints": 137,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ind",
+        "delta": -6
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "154",
+        "country": "Maldives",
+        "ct": "MDV",
+        "points": 129,
+        "previousPoints": 129,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mdv",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "155",
+        "country": "Samoa",
+        "ct": "SAM",
+        "points": 128,
+        "previousPoints": 128,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sam",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "156",
+        "country": "Tajikistan",
+        "ct": "TJK",
+        "points": 127,
+        "previousPoints": 135,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tjk",
+        "delta": -8
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "157",
+        "country": "Myanmar",
+        "ct": "MYA",
+        "points": 125,
+        "previousPoints": 100,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mya",
+        "delta": 25
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "158",
+        "country": "Lesotho",
+        "ct": "LES",
+        "points": 122,
+        "previousPoints": 118,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/les",
+        "delta": 4
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "159",
+        "country": "Turkmenistan",
+        "ct": "TKM",
+        "points": 114,
+        "previousPoints": 127,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tkm",
+        "delta": -13
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "160",
+        "country": "St. Kitts and Nevis",
+        "ct": "SKN",
+        "points": 113,
+        "previousPoints": 113,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/skn",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "161",
+        "country": "Seychelles",
+        "ct": "SEY",
+        "points": 110,
+        "previousPoints": 98,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sey",
+        "delta": 12
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "162",
+        "country": "St. Lucia",
+        "ct": "LCA",
+        "points": 108,
+        "previousPoints": 108,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lca",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "162",
+        "country": "Malaysia",
+        "ct": "MAS",
+        "points": 108,
+        "previousPoints": 96,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mas",
+        "delta": 12
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "164",
+        "country": "Sri Lanka",
+        "ct": "SRI",
+        "points": 105,
+        "previousPoints": 111,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sri",
+        "delta": -6
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "165",
+        "country": "Turks and Caicos Islands",
+        "ct": "TCA",
+        "points": 96,
+        "previousPoints": 96,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tca",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "165",
+        "country": "Vietnam",
+        "ct": "VIE",
+        "points": 96,
+        "previousPoints": 233,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vie",
+        "delta": -137
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "165",
+        "country": "Bahamas",
+        "ct": "BAH",
+        "points": 96,
+        "previousPoints": 96,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bah",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "168",
+        "country": "Pakistan",
+        "ct": "PAK",
+        "points": 89,
+        "previousPoints": 89,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pak",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "168",
+        "country": "Philippines",
+        "ct": "PHI",
+        "points": 89,
+        "previousPoints": 89,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/phi",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "170",
+        "country": "Mauritius",
+        "ct": "MRI",
+        "points": 88,
+        "previousPoints": 101,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mri",
+        "delta": -13
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "171",
+        "country": "British Virgin Islands",
+        "ct": "VGB",
+        "points": 79,
+        "previousPoints": 79,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vgb",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "172",
+        "country": "Niger",
+        "ct": "NIG",
+        "points": 74,
+        "previousPoints": 74,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nig",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "172",
+        "country": "Palestine",
+        "ct": "PLE",
+        "points": 74,
+        "previousPoints": 74,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ple",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "174",
+        "country": "Guinea-Bissau",
+        "ct": "GNB",
+        "points": 72,
+        "previousPoints": 72,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gnb",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "175",
+        "country": "Belize",
+        "ct": "BLZ",
+        "points": 71,
+        "previousPoints": 71,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blz",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "176",
+        "country": "Chinese Taipei",
+        "ct": "TPE",
+        "points": 68,
+        "previousPoints": 68,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tpe",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "177",
+        "country": "Dominican Republic",
+        "ct": "DOM",
+        "points": 66,
+        "previousPoints": 66,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dom",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "178",
+        "country": "Tahiti",
+        "ct": "TAH",
+        "points": 64,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tah",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "178",
+        "country": "Tonga",
+        "ct": "TGA",
+        "points": 64,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tga",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "180",
+        "country": "Nepal",
+        "ct": "NEP",
+        "points": 61,
+        "previousPoints": 66,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nep",
+        "delta": -5
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "181",
+        "country": "Bangladesh",
+        "ct": "BAN",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ban",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "182",
+        "country": "Andorra",
+        "ct": "AND",
+        "points": 51,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/and",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "183",
+        "country": "Cambodia",
+        "ct": "CAM",
+        "points": 50,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cam",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "184",
+        "country": "Nicaragua",
+        "ct": "NCA",
+        "points": 45,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nca",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "185",
+        "country": "Afghanistan",
+        "ct": "AFG",
+        "points": 43,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/afg",
+        "delta": -10
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "186",
+        "country": "Djibouti",
+        "ct": "DJI",
+        "points": 40,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dji",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "187",
+        "country": "Cayman Islands",
+        "ct": "CAY",
+        "points": 36,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cay",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "187",
+        "country": "Brunei Darussalam",
+        "ct": "BRU",
+        "points": 36,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bru",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "189",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 34,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "190",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 32,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "191",
+        "country": "Dominica",
+        "ct": "DMA",
+        "points": 25,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dma",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "192",
+        "country": "Mongolia",
+        "ct": "MNG",
+        "points": 24,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mng",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "193",
+        "country": "Aruba",
+        "ct": "ARU",
+        "points": 22,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aru"
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "194",
+        "country": "US Virgin Islands",
+        "ct": "VIR",
+        "points": 17,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vir",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "195",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "196",
+        "country": "Faroe Islands",
+        "ct": "FRO",
+        "points": 12,
+        "previousPoints": 12,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fro",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "197",
+        "country": "Macau",
+        "ct": "MAC",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mac",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "198",
+        "country": "Somalia",
+        "ct": "SOM",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/som",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "199",
+        "country": "Central African Republic",
+        "ct": "CTA",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cta",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "200",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "200",
+        "country": "American Samoa",
+        "ct": "ASA",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/asa"
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "200",
+        "country": "Papua New Guinea",
+        "ct": "PNG",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/png"
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "200",
+        "country": "Cook Islands",
+        "ct": "COK",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cok"
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "200",
+        "country": "Anguilla",
+        "ct": "AIA",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aia"
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "200",
+        "country": "Montserrat",
+        "ct": "MSR",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/msr"
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "200",
+        "country": "Guam",
+        "ct": "GUM",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gum"
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "200",
+        "country": "San Marino",
+        "ct": "SMR",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/smr"
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "208",
+        "country": "Sao Tome e Principe",
+        "ct": "STP",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/stp"
+    }
+]

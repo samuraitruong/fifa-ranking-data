@@ -1,0 +1,2032 @@
+[
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 842,
+        "previousPoints": 846,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "2",
+        "country": "France",
+        "ct": "FRA",
+        "points": 826,
+        "previousPoints": 828,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fra",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "3",
+        "country": "Spain",
+        "ct": "ESP",
+        "points": 791,
+        "previousPoints": 795,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/esp",
+        "delta": -4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "4",
+        "country": "Netherlands",
+        "ct": "NED",
+        "points": 747,
+        "previousPoints": 749,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ned",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "5",
+        "country": "Mexico",
+        "ct": "MEX",
+        "points": 740,
+        "previousPoints": 742,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mex",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "6",
+        "country": "Czech Republic",
+        "ct": "CZE",
+        "points": 735,
+        "previousPoints": 739,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cze",
+        "delta": -4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "6",
+        "country": "Argentina",
+        "ct": "ARG",
+        "points": 735,
+        "previousPoints": 741,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arg",
+        "delta": -6
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "6",
+        "country": "England",
+        "ct": "ENG",
+        "points": 735,
+        "previousPoints": 740,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eng",
+        "delta": -5
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "9",
+        "country": "Turkey",
+        "ct": "TUR",
+        "points": 733,
+        "previousPoints": 737,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tur",
+        "delta": -4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "10",
+        "country": "Germany",
+        "ct": "GER",
+        "points": 729,
+        "previousPoints": 727,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ger",
+        "delta": 2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "11",
+        "country": "Italy",
+        "ct": "ITA",
+        "points": 726,
+        "previousPoints": 731,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ita",
+        "delta": -5
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "12",
+        "country": "USA",
+        "ct": "USA",
+        "points": 725,
+        "previousPoints": 729,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/usa",
+        "delta": -4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "13",
+        "country": "Cameroon",
+        "ct": "CMR",
+        "points": 718,
+        "previousPoints": 720,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cmr",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "14",
+        "country": "Denmark",
+        "ct": "DEN",
+        "points": 711,
+        "previousPoints": 712,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/den",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "15",
+        "country": "Republic of Ireland",
+        "ct": "IRL",
+        "points": 705,
+        "previousPoints": 709,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irl",
+        "delta": -4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "16",
+        "country": "Belgium",
+        "ct": "BEL",
+        "points": 688,
+        "previousPoints": 693,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bel",
+        "delta": -5
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "17",
+        "country": "Portugal",
+        "ct": "POR",
+        "points": 676,
+        "previousPoints": 681,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/por",
+        "delta": -5
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "18",
+        "country": "Costa Rica",
+        "ct": "CRC",
+        "points": 674,
+        "previousPoints": 679,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/crc",
+        "delta": -5
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "19",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 672,
+        "previousPoints": 672,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "20",
+        "country": "Croatia",
+        "ct": "CRO",
+        "points": 669,
+        "previousPoints": 676,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cro",
+        "delta": -7
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "20",
+        "country": "Sweden",
+        "ct": "SWE",
+        "points": 669,
+        "previousPoints": 674,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swe",
+        "delta": -5
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "22",
+        "country": "Korea Republic",
+        "ct": "KOR",
+        "points": 668,
+        "previousPoints": 665,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kor",
+        "delta": 3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "23",
+        "country": "Uruguay",
+        "ct": "URU",
+        "points": 664,
+        "previousPoints": 669,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uru",
+        "delta": -5
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "24",
+        "country": "IR Iran",
+        "ct": "IRN",
+        "points": 658,
+        "previousPoints": 646,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irn",
+        "delta": 12
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "24",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 658,
+        "previousPoints": 654,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "26",
+        "country": "Paraguay",
+        "ct": "PAR",
+        "points": 657,
+        "previousPoints": 661,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/par",
+        "delta": -4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "27",
+        "country": "Japan",
+        "ct": "JPN",
+        "points": 653,
+        "previousPoints": 650,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jpn",
+        "delta": 3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "27",
+        "country": "Saudi Arabia",
+        "ct": "KSA",
+        "points": 653,
+        "previousPoints": 648,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ksa",
+        "delta": 5
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "29",
+        "country": "Russia",
+        "ct": "RUS",
+        "points": 652,
+        "previousPoints": 657,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rus",
+        "delta": -5
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "30",
+        "country": "Senegal",
+        "ct": "SEN",
+        "points": 650,
+        "previousPoints": 651,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sen",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "31",
+        "country": "Romania",
+        "ct": "ROU",
+        "points": 649,
+        "previousPoints": 650,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rou",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "32",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 645,
+        "previousPoints": 646,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "33",
+        "country": "Greece",
+        "ct": "GRE",
+        "points": 643,
+        "previousPoints": 639,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gre",
+        "delta": 4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "33",
+        "country": "Morocco",
+        "ct": "MAR",
+        "points": 643,
+        "previousPoints": 644,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mar",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "35",
+        "country": "Egypt",
+        "ct": "EGY",
+        "points": 640,
+        "previousPoints": 641,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/egy",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "36",
+        "country": "Slovenia",
+        "ct": "SVN",
+        "points": 633,
+        "previousPoints": 640,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svn",
+        "delta": -7
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "37",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 620,
+        "previousPoints": 625,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -5
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "37",
+        "country": "Norway",
+        "ct": "NOR",
+        "points": 620,
+        "previousPoints": 619,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nor",
+        "delta": 1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "39",
+        "country": "South Africa",
+        "ct": "RSA",
+        "points": 618,
+        "previousPoints": 620,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rsa",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "40",
+        "country": "Ecuador",
+        "ct": "ECU",
+        "points": 609,
+        "previousPoints": 613,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ecu",
+        "delta": -4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "41",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 606,
+        "previousPoints": 609,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "42",
+        "country": "Finland",
+        "ct": "FIN",
+        "points": 603,
+        "previousPoints": 607,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fin",
+        "delta": -4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "43",
+        "country": "Serbia and Montenegro",
+        "ct": "SCG",
+        "points": 597,
+        "previousPoints": 602,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/scg",
+        "delta": -5
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "44",
+        "country": "Iraq",
+        "ct": "IRQ",
+        "points": 590,
+        "previousPoints": 592,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irq",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "45",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 586,
+        "previousPoints": 586,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "45",
+        "country": "Switzerland",
+        "ct": "SUI",
+        "points": 586,
+        "previousPoints": 590,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sui",
+        "delta": -4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "47",
+        "country": "Jordan",
+        "ct": "JOR",
+        "points": 583,
+        "previousPoints": 573,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jor",
+        "delta": 10
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "48",
+        "country": "Jamaica",
+        "ct": "JAM",
+        "points": 576,
+        "previousPoints": 570,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jam",
+        "delta": 6
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "49",
+        "country": "Zimbabwe",
+        "ct": "ZIM",
+        "points": 566,
+        "previousPoints": 567,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zim",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "50",
+        "country": "Honduras",
+        "ct": "HON",
+        "points": 559,
+        "previousPoints": 562,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hon",
+        "delta": -3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "51",
+        "country": "Slovakia",
+        "ct": "SVK",
+        "points": 558,
+        "previousPoints": 562,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svk",
+        "delta": -4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "52",
+        "country": "Israel",
+        "ct": "ISR",
+        "points": 556,
+        "previousPoints": 553,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isr",
+        "delta": 3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "53",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 554,
+        "previousPoints": 555,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "54",
+        "country": "Venezuela",
+        "ct": "VEN",
+        "points": 552,
+        "previousPoints": 548,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ven",
+        "delta": 4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "55",
+        "country": "Qatar",
+        "ct": "QAT",
+        "points": 549,
+        "previousPoints": 547,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/qat",
+        "delta": 2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "56",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 548,
+        "previousPoints": 553,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -5
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "57",
+        "country": "Latvia",
+        "ct": "LVA",
+        "points": 547,
+        "previousPoints": 549,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lva",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "58",
+        "country": "Congo DR",
+        "ct": "COD",
+        "points": 544,
+        "previousPoints": 548,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cod",
+        "delta": -4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "58",
+        "country": "Iceland",
+        "ct": "ISL",
+        "points": 544,
+        "previousPoints": 546,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isl",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "58",
+        "country": "Bahrain",
+        "ct": "BHR",
+        "points": 544,
+        "previousPoints": 537,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhr",
+        "delta": 7
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "61",
+        "country": "Kuwait",
+        "ct": "KUW",
+        "points": 543,
+        "previousPoints": 546,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kuw",
+        "delta": -3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "62",
+        "country": "Bosnia and Herzegovina",
+        "ct": "BIH",
+        "points": 541,
+        "previousPoints": 545,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bih",
+        "delta": -4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "63",
+        "country": "Thailand",
+        "ct": "THA",
+        "points": 539,
+        "previousPoints": 543,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tha",
+        "delta": -4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "63",
+        "country": "Ukraine",
+        "ct": "UKR",
+        "points": 539,
+        "previousPoints": 542,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ukr",
+        "delta": -3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "65",
+        "country": "Wales",
+        "ct": "WAL",
+        "points": 538,
+        "previousPoints": 530,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/wal",
+        "delta": 8
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "66",
+        "country": "Estonia",
+        "ct": "EST",
+        "points": 535,
+        "previousPoints": 534,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/est",
+        "delta": 1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "67",
+        "country": "Hungary",
+        "ct": "HUN",
+        "points": 531,
+        "previousPoints": 514,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hun",
+        "delta": 17
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "68",
+        "country": "Oman",
+        "ct": "OMA",
+        "points": 528,
+        "previousPoints": 531,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/oma",
+        "delta": -3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "69",
+        "country": "Trinidad and Tobago",
+        "ct": "TRI",
+        "points": 523,
+        "previousPoints": 524,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tri",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "70",
+        "country": "Kenya",
+        "ct": "KEN",
+        "points": 522,
+        "previousPoints": 523,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ken",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "71",
+        "country": "Austria",
+        "ct": "AUT",
+        "points": 521,
+        "previousPoints": 524,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aut",
+        "delta": -3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "71",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 521,
+        "previousPoints": 511,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 10
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "73",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 520,
+        "previousPoints": 522,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "74",
+        "country": "Burkina Faso",
+        "ct": "BFA",
+        "points": 518,
+        "previousPoints": 517,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bfa",
+        "delta": 1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "75",
+        "country": "C\u00f4te d'Ivoire",
+        "ct": "CIV",
+        "points": 516,
+        "previousPoints": 519,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/civ",
+        "delta": -3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "76",
+        "country": "China PR",
+        "ct": "CHN",
+        "points": 514,
+        "previousPoints": 509,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chn",
+        "delta": 5
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "76",
+        "country": "Cuba",
+        "ct": "CUB",
+        "points": 514,
+        "previousPoints": 514,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cub",
+        "delta": 0
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "78",
+        "country": "Belarus",
+        "ct": "BLR",
+        "points": 511,
+        "previousPoints": 474,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blr",
+        "delta": 37
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "79",
+        "country": "Peru",
+        "ct": "PER",
+        "points": 510,
+        "previousPoints": 514,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/per",
+        "delta": -4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "80",
+        "country": "Chile",
+        "ct": "CHI",
+        "points": 506,
+        "previousPoints": 504,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chi",
+        "delta": 2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "81",
+        "country": "Guatemala",
+        "ct": "GUA",
+        "points": 504,
+        "previousPoints": 508,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gua",
+        "delta": -4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "81",
+        "country": "Libya",
+        "ct": "LBY",
+        "points": 504,
+        "previousPoints": 503,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lby",
+        "delta": 1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "83",
+        "country": "Ghana",
+        "ct": "GHA",
+        "points": 502,
+        "previousPoints": 506,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gha",
+        "delta": -4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "84",
+        "country": "Uzbekistan",
+        "ct": "UZB",
+        "points": 498,
+        "previousPoints": 495,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uzb",
+        "delta": 3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "85",
+        "country": "Australia",
+        "ct": "AUS",
+        "points": 493,
+        "previousPoints": 496,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aus",
+        "delta": -3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "86",
+        "country": "Angola",
+        "ct": "ANG",
+        "points": 486,
+        "previousPoints": 488,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ang",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "86",
+        "country": "Haiti",
+        "ct": "HAI",
+        "points": 486,
+        "previousPoints": 467,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hai",
+        "delta": 19
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "88",
+        "country": "Albania",
+        "ct": "ALB",
+        "points": 482,
+        "previousPoints": 477,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alb",
+        "delta": 5
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "89",
+        "country": "Guinea",
+        "ct": "GUI",
+        "points": 479,
+        "previousPoints": 480,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gui",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "89",
+        "country": "Syria",
+        "ct": "SYR",
+        "points": 479,
+        "previousPoints": 481,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/syr",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "91",
+        "country": "Canada",
+        "ct": "CAN",
+        "points": 477,
+        "previousPoints": 480,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/can",
+        "delta": -3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "92",
+        "country": "Cyprus",
+        "ct": "CYP",
+        "points": 476,
+        "previousPoints": 456,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cyp",
+        "delta": 20
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "92",
+        "country": "FYR Macedonia",
+        "ct": "MKD",
+        "points": 476,
+        "previousPoints": 470,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mkd",
+        "delta": 6
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "94",
+        "country": "New Zealand",
+        "ct": "NZL",
+        "points": 475,
+        "previousPoints": 478,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nzl",
+        "delta": -3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "95",
+        "country": "Vietnam",
+        "ct": "VIE",
+        "points": 474,
+        "previousPoints": 451,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vie",
+        "delta": 23
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "96",
+        "country": "Turkmenistan",
+        "ct": "TKM",
+        "points": 471,
+        "previousPoints": 459,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tkm",
+        "delta": 12
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "97",
+        "country": "Indonesia",
+        "ct": "IDN",
+        "points": 470,
+        "previousPoints": 473,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/idn",
+        "delta": -3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "98",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 463,
+        "previousPoints": 467,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "99",
+        "country": "Togo",
+        "ct": "TOG",
+        "points": 459,
+        "previousPoints": 461,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tog",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "100",
+        "country": "El Salvador",
+        "ct": "SLV",
+        "points": 456,
+        "previousPoints": 459,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/slv",
+        "delta": -3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "101",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 451,
+        "previousPoints": 452,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "102",
+        "country": "Uganda",
+        "ct": "UGA",
+        "points": 450,
+        "previousPoints": 450,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uga",
+        "delta": 0
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "103",
+        "country": "Bolivia",
+        "ct": "BOL",
+        "points": 444,
+        "previousPoints": 446,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bol",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "104",
+        "country": "Congo",
+        "ct": "CGO",
+        "points": 440,
+        "previousPoints": 438,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cgo",
+        "delta": 2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "104",
+        "country": "Lithuania",
+        "ct": "LTU",
+        "points": 440,
+        "previousPoints": 442,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ltu",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "106",
+        "country": "Sudan",
+        "ct": "SDN",
+        "points": 437,
+        "previousPoints": 436,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sdn",
+        "delta": 1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "107",
+        "country": "Malawi",
+        "ct": "MWI",
+        "points": 435,
+        "previousPoints": 436,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mwi",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "108",
+        "country": "Singapore",
+        "ct": "SIN",
+        "points": 430,
+        "previousPoints": 433,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sin",
+        "delta": -3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "109",
+        "country": "Moldova",
+        "ct": "MDA",
+        "points": 429,
+        "previousPoints": 432,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mda",
+        "delta": -3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "110",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 417,
+        "previousPoints": 405,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 12
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "111",
+        "country": "Liberia",
+        "ct": "LBR",
+        "points": 413,
+        "previousPoints": 416,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbr",
+        "delta": -3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "112",
+        "country": "Botswana",
+        "ct": "BOT",
+        "points": 411,
+        "previousPoints": 403,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bot",
+        "delta": 8
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "113",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 409,
+        "previousPoints": 411,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "113",
+        "country": "Lebanon",
+        "ct": "LBN",
+        "points": 409,
+        "previousPoints": 410,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbn",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "115",
+        "country": "Gabon",
+        "ct": "GAB",
+        "points": 404,
+        "previousPoints": 406,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gab",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "116",
+        "country": "Malaysia",
+        "ct": "MAS",
+        "points": 402,
+        "previousPoints": 405,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mas",
+        "delta": -3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "117",
+        "country": "Azerbaijan",
+        "ct": "AZE",
+        "points": 401,
+        "previousPoints": 404,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aze",
+        "delta": -3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "117",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 401,
+        "previousPoints": 402,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "119",
+        "country": "Mauritius",
+        "ct": "MRI",
+        "points": 395,
+        "previousPoints": 393,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mri",
+        "delta": 2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "120",
+        "country": "Korea DPR",
+        "ct": "PRK",
+        "points": 394,
+        "previousPoints": 394,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/prk",
+        "delta": 0
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "121",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 388,
+        "previousPoints": 390,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "122",
+        "country": "Lesotho",
+        "ct": "LES",
+        "points": 382,
+        "previousPoints": 384,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/les",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "123",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 381,
+        "previousPoints": 383,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "124",
+        "country": "Northern Ireland",
+        "ct": "NIR",
+        "points": 379,
+        "previousPoints": 382,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nir",
+        "delta": -3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "125",
+        "country": "St. Lucia",
+        "ct": "LCA",
+        "points": 368,
+        "previousPoints": 350,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lca",
+        "delta": 18
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "126",
+        "country": "Malta",
+        "ct": "MLT",
+        "points": 366,
+        "previousPoints": 354,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mlt",
+        "delta": 12
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "127",
+        "country": "Panama",
+        "ct": "PAN",
+        "points": 364,
+        "previousPoints": 375,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pan",
+        "delta": -11
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "128",
+        "country": "Faroe Islands",
+        "ct": "FRO",
+        "points": 363,
+        "previousPoints": 366,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fro",
+        "delta": -3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "128",
+        "country": "Mozambique",
+        "ct": "MOZ",
+        "points": 363,
+        "previousPoints": 364,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/moz",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "130",
+        "country": "St. Kitts and Nevis",
+        "ct": "SKN",
+        "points": 360,
+        "previousPoints": 343,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/skn",
+        "delta": 17
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "131",
+        "country": "Yemen",
+        "ct": "YEM",
+        "points": 352,
+        "previousPoints": 350,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yem",
+        "delta": 2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "132",
+        "country": "Ethiopia",
+        "ct": "ETH",
+        "points": 349,
+        "previousPoints": 350,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eth",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "133",
+        "country": "Palestine",
+        "ct": "PLE",
+        "points": 344,
+        "previousPoints": 315,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ple",
+        "delta": 29
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "133",
+        "country": "Tahiti",
+        "ct": "TAH",
+        "points": 344,
+        "previousPoints": 346,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tah",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "135",
+        "country": "Tajikistan",
+        "ct": "TJK",
+        "points": 340,
+        "previousPoints": 323,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tjk",
+        "delta": 17
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "136",
+        "country": "Kazakhstan",
+        "ct": "KAZ",
+        "points": 333,
+        "previousPoints": 325,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kaz",
+        "delta": 8
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "137",
+        "country": "Sri Lanka",
+        "ct": "SRI",
+        "points": 328,
+        "previousPoints": 330,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sri",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "138",
+        "country": "Gambia",
+        "ct": "GAM",
+        "points": 318,
+        "previousPoints": 320,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gam",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "139",
+        "country": "Hong Kong",
+        "ct": "HKG",
+        "points": 315,
+        "previousPoints": 309,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hkg",
+        "delta": 6
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "140",
+        "country": "India",
+        "ct": "IND",
+        "points": 313,
+        "previousPoints": 314,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ind",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "141",
+        "country": "Myanmar",
+        "ct": "MYA",
+        "points": 311,
+        "previousPoints": 312,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mya",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "142",
+        "country": "Maldives",
+        "ct": "MDV",
+        "points": 309,
+        "previousPoints": 311,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mdv",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "143",
+        "country": "Cape Verde Islands",
+        "ct": "CPV",
+        "points": 307,
+        "previousPoints": 308,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cpv",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "144",
+        "country": "Namibia",
+        "ct": "NAM",
+        "points": 303,
+        "previousPoints": 306,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nam",
+        "delta": -3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "145",
+        "country": "Burundi",
+        "ct": "BDI",
+        "points": 294,
+        "previousPoints": 296,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bdi",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "146",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 292,
+        "previousPoints": 294,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "147",
+        "country": "Andorra",
+        "ct": "AND",
+        "points": 291,
+        "previousPoints": 293,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/and",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "148",
+        "country": "Liechtenstein",
+        "ct": "LIE",
+        "points": 285,
+        "previousPoints": 286,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lie",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "149",
+        "country": "Fiji",
+        "ct": "FIJ",
+        "points": 282,
+        "previousPoints": 284,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fij",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "150",
+        "country": "Chinese Taipei",
+        "ct": "TPE",
+        "points": 281,
+        "previousPoints": 282,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tpe",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "151",
+        "country": "Grenada",
+        "ct": "GRN",
+        "points": 271,
+        "previousPoints": 249,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/grn",
+        "delta": 22
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "152",
+        "country": "Bangladesh",
+        "ct": "BAN",
+        "points": 265,
+        "previousPoints": 267,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ban",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "153",
+        "country": "Chad",
+        "ct": "CHA",
+        "points": 257,
+        "previousPoints": 257,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cha",
+        "delta": 0
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "154",
+        "country": "Luxembourg",
+        "ct": "LUX",
+        "points": 254,
+        "previousPoints": 255,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lux",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "154",
+        "country": "Suriname",
+        "ct": "SUR",
+        "points": 254,
+        "previousPoints": 234,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sur",
+        "delta": 20
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "156",
+        "country": "Eritrea",
+        "ct": "ERI",
+        "points": 249,
+        "previousPoints": 250,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eri",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "157",
+        "country": "Solomon Islands",
+        "ct": "SOL",
+        "points": 244,
+        "previousPoints": 246,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sol",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "158",
+        "country": "Kyrgyz Republic",
+        "ct": "KGZ",
+        "points": 242,
+        "previousPoints": 242,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kgz",
+        "delta": 0
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "159",
+        "country": "Tanzania",
+        "ct": "TAN",
+        "points": 230,
+        "previousPoints": 232,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tan",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "160",
+        "country": "Equatorial Guinea",
+        "ct": "EQG",
+        "points": 226,
+        "previousPoints": 227,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eqg",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "160",
+        "country": "Vanuatu",
+        "ct": "VAN",
+        "points": 226,
+        "previousPoints": 227,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/van",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "162",
+        "country": "Antigua and Barbuda",
+        "ct": "ATG",
+        "points": 224,
+        "previousPoints": 200,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/atg",
+        "delta": 24
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "163",
+        "country": "San Marino",
+        "ct": "SMR",
+        "points": 214,
+        "previousPoints": 215,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/smr",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "164",
+        "country": "Seychelles",
+        "ct": "SEY",
+        "points": 212,
+        "previousPoints": 212,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sey",
+        "delta": 0
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "164",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 212,
+        "previousPoints": 198,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 14
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "166",
+        "country": "Niger",
+        "ct": "NIG",
+        "points": 210,
+        "previousPoints": 211,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nig",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "167",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 209,
+        "previousPoints": 203,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 6
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "168",
+        "country": "Mauritania",
+        "ct": "MTN",
+        "points": 208,
+        "previousPoints": 209,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mtn",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "169",
+        "country": "Nepal",
+        "ct": "NEP",
+        "points": 207,
+        "previousPoints": 208,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nep",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "170",
+        "country": "Pakistan",
+        "ct": "PAK",
+        "points": 201,
+        "previousPoints": 202,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pak",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "171",
+        "country": "Bermuda",
+        "ct": "BER",
+        "points": 181,
+        "previousPoints": 155,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ber",
+        "delta": 26
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "171",
+        "country": "Central African Republic",
+        "ct": "CTA",
+        "points": 181,
+        "previousPoints": 182,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cta",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "173",
+        "country": "Dominican Republic",
+        "ct": "DOM",
+        "points": 179,
+        "previousPoints": 181,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dom",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "174",
+        "country": "British Virgin Islands",
+        "ct": "VGB",
+        "points": 175,
+        "previousPoints": 175,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vgb",
+        "delta": 0
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "175",
+        "country": "Nicaragua",
+        "ct": "NCA",
+        "points": 172,
+        "previousPoints": 176,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nca",
+        "delta": -4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "176",
+        "country": "Papua New Guinea",
+        "ct": "PNG",
+        "points": 169,
+        "previousPoints": 170,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/png",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "177",
+        "country": "Dominica",
+        "ct": "DMA",
+        "points": 167,
+        "previousPoints": 169,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dma",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "178",
+        "country": "Belize",
+        "ct": "BLZ",
+        "points": 161,
+        "previousPoints": 162,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blz",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "179",
+        "country": "Guyana",
+        "ct": "GUY",
+        "points": 158,
+        "previousPoints": 133,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/guy",
+        "delta": 25
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "179",
+        "country": "Samoa",
+        "ct": "SAM",
+        "points": 158,
+        "previousPoints": 160,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sam",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "182",
+        "country": "Cambodia",
+        "ct": "CAM",
+        "points": 146,
+        "previousPoints": 147,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cam",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "183",
+        "country": "Mongolia",
+        "ct": "MNG",
+        "points": 140,
+        "previousPoints": 141,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mng",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "184",
+        "country": "Cayman Islands",
+        "ct": "CAY",
+        "points": 139,
+        "previousPoints": 135,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cay",
+        "delta": 4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "185",
+        "country": "Tonga",
+        "ct": "TGA",
+        "points": 134,
+        "previousPoints": 135,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tga",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "186",
+        "country": "Macau",
+        "ct": "MAC",
+        "points": 121,
+        "previousPoints": 122,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mac",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "187",
+        "country": "Guinea-Bissau",
+        "ct": "GNB",
+        "points": 115,
+        "previousPoints": 116,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gnb",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "188",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 113,
+        "previousPoints": 113,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "189",
+        "country": "Philippines",
+        "ct": "PHI",
+        "points": 105,
+        "previousPoints": 106,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/phi",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "190",
+        "country": "Cook Islands",
+        "ct": "COK",
+        "points": 97,
+        "previousPoints": 98,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cok",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "191",
+        "country": "Somalia",
+        "ct": "SOM",
+        "points": 96,
+        "previousPoints": 97,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/som",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "192",
+        "country": "Sao Tome e Principe",
+        "ct": "STP",
+        "points": 92,
+        "previousPoints": 92,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/stp",
+        "delta": 0
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "193",
+        "country": "Bahamas",
+        "ct": "BAH",
+        "points": 90,
+        "previousPoints": 90,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bah",
+        "delta": 0
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "194",
+        "country": "Brunei Darussalam",
+        "ct": "BRU",
+        "points": 79,
+        "previousPoints": 80,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bru",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "195",
+        "country": "Aruba",
+        "ct": "ARU",
+        "points": 71,
+        "previousPoints": 68,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aru",
+        "delta": 3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "196",
+        "country": "Afghanistan",
+        "ct": "AFG",
+        "points": 65,
+        "previousPoints": 66,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/afg",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "197",
+        "country": "Djibouti",
+        "ct": "DJI",
+        "points": 53,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dji",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "198",
+        "country": "Anguilla",
+        "ct": "AIA",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aia",
+        "delta": 0
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "199",
+        "country": "US Virgin Islands",
+        "ct": "VIR",
+        "points": 44,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vir",
+        "delta": 2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "200",
+        "country": "Puerto Rico",
+        "ct": "PUR",
+        "points": 37,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pur",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "201",
+        "country": "Turks and Caicos Islands",
+        "ct": "TCA",
+        "points": 26,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tca",
+        "delta": 12
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "202",
+        "country": "Guam",
+        "ct": "GUM",
+        "points": 18,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gum",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "203",
+        "country": "American Samoa",
+        "ct": "ASA",
+        "points": 17,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/asa",
+        "delta": 0
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "204",
+        "country": "Montserrat",
+        "ct": "MSR",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/msr",
+        "delta": 0
+    }
+]

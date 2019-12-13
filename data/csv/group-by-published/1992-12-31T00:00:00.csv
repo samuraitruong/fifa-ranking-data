@@ -1,0 +1,164 @@
+,date,rank,country,ct,points,previousPoints,flag
+0,1992-12-31T00:00:00,1,Germany,GER,57,,https://api.fifa.com/api/v1/picture/flags-sq-4/ger
+1,1992-12-31T00:00:00,2,Italy,ITA,57,,https://api.fifa.com/api/v1/picture/flags-sq-4/ita
+2,1992-12-31T00:00:00,3,Brazil,BRA,56,,https://api.fifa.com/api/v1/picture/flags-sq-4/bra
+3,1992-12-31T00:00:00,4,Sweden,SWE,56,,https://api.fifa.com/api/v1/picture/flags-sq-4/swe
+4,1992-12-31T00:00:00,5,England,ENG,55,,https://api.fifa.com/api/v1/picture/flags-sq-4/eng
+5,1992-12-31T00:00:00,6,Republic of Ireland,IRL,54,,https://api.fifa.com/api/v1/picture/flags-sq-4/irl
+6,1992-12-31T00:00:00,7,Netherlands,NED,54,,https://api.fifa.com/api/v1/picture/flags-sq-4/ned
+7,1992-12-31T00:00:00,8,Russia,RUS,52,,https://api.fifa.com/api/v1/picture/flags-sq-4/rus
+8,1992-12-31T00:00:00,9,Denmark,DEN,52,,https://api.fifa.com/api/v1/picture/flags-sq-4/den
+9,1992-12-31T00:00:00,10,Argentina,ARG,51,,https://api.fifa.com/api/v1/picture/flags-sq-4/arg
+10,1992-12-31T00:00:00,11,Romania,ROU,51,,https://api.fifa.com/api/v1/picture/flags-sq-4/rou
+11,1992-12-31T00:00:00,12,Switzerland,SUI,51,,https://api.fifa.com/api/v1/picture/flags-sq-4/sui
+12,1992-12-31T00:00:00,13,Nigeria,NGA,50,,https://api.fifa.com/api/v1/picture/flags-sq-4/nga
+13,1992-12-31T00:00:00,14,Norway,NOR,49,,https://api.fifa.com/api/v1/picture/flags-sq-4/nor
+14,1992-12-31T00:00:00,15,Spain,ESP,49,,https://api.fifa.com/api/v1/picture/flags-sq-4/esp
+15,1992-12-31T00:00:00,16,Uruguay,URU,48,,https://api.fifa.com/api/v1/picture/flags-sq-4/uru
+16,1992-12-31T00:00:00,17,Belgium,BEL,48,,https://api.fifa.com/api/v1/picture/flags-sq-4/bel
+17,1992-12-31T00:00:00,18,Czechoslovakia,TCH,47,,https://api.fifa.com/api/v1/picture/flags-sq-4/tch
+18,1992-12-31T00:00:00,19,France,FRA,46,,https://api.fifa.com/api/v1/picture/flags-sq-4/fra
+19,1992-12-31T00:00:00,20,Poland,POL,46,,https://api.fifa.com/api/v1/picture/flags-sq-4/pol
+20,1992-12-31T00:00:00,21,Egypt,EGY,45,,https://api.fifa.com/api/v1/picture/flags-sq-4/egy
+21,1992-12-31T00:00:00,22,Cameroon,CMR,43,,https://api.fifa.com/api/v1/picture/flags-sq-4/cmr
+22,1992-12-31T00:00:00,23,Scotland,SCO,43,,https://api.fifa.com/api/v1/picture/flags-sq-4/sco
+23,1992-12-31T00:00:00,24,USA,USA,43,,https://api.fifa.com/api/v1/picture/flags-sq-4/usa
+24,1992-12-31T00:00:00,25,Mexico,MEX,43,,https://api.fifa.com/api/v1/picture/flags-sq-4/mex
+25,1992-12-31T00:00:00,26,Bulgaria,BUL,41,,https://api.fifa.com/api/v1/picture/flags-sq-4/bul
+26,1992-12-31T00:00:00,27,Côte d'Ivoire,CIV,41,,https://api.fifa.com/api/v1/picture/flags-sq-4/civ
+27,1992-12-31T00:00:00,28,Wales,WAL,40,,https://api.fifa.com/api/v1/picture/flags-sq-4/wal
+28,1992-12-31T00:00:00,29,Yugoslavia,YUG,39,,https://api.fifa.com/api/v1/picture/flags-sq-4/yug
+29,1992-12-31T00:00:00,30,Algeria,ALG,39,,https://api.fifa.com/api/v1/picture/flags-sq-4/alg
+30,1992-12-31T00:00:00,31,Greece,GRE,38,,https://api.fifa.com/api/v1/picture/flags-sq-4/gre
+31,1992-12-31T00:00:00,32,Zambia,ZAM,38,,https://api.fifa.com/api/v1/picture/flags-sq-4/zam
+32,1992-12-31T00:00:00,33,Portugal,POR,38,,https://api.fifa.com/api/v1/picture/flags-sq-4/por
+33,1992-12-31T00:00:00,34,Austria,AUT,38,,https://api.fifa.com/api/v1/picture/flags-sq-4/aut
+34,1992-12-31T00:00:00,35,Colombia,COL,36,,https://api.fifa.com/api/v1/picture/flags-sq-4/col
+35,1992-12-31T00:00:00,36,Hungary,HUN,36,,https://api.fifa.com/api/v1/picture/flags-sq-4/hun
+36,1992-12-31T00:00:00,37,Costa Rica,CRC,35,,https://api.fifa.com/api/v1/picture/flags-sq-4/crc
+37,1992-12-31T00:00:00,38,Tunisia,TUN,35,,https://api.fifa.com/api/v1/picture/flags-sq-4/tun
+38,1992-12-31T00:00:00,39,Ghana,GHA,34,,https://api.fifa.com/api/v1/picture/flags-sq-4/gha
+39,1992-12-31T00:00:00,40,Honduras,HON,32,,https://api.fifa.com/api/v1/picture/flags-sq-4/hon
+40,1992-12-31T00:00:00,41,Morocco,MAR,32,,https://api.fifa.com/api/v1/picture/flags-sq-4/mar
+41,1992-12-31T00:00:00,42,Turkey,TUR,31,,https://api.fifa.com/api/v1/picture/flags-sq-4/tur
+42,1992-12-31T00:00:00,43,Northern Ireland,NIR,31,,https://api.fifa.com/api/v1/picture/flags-sq-4/nir
+43,1992-12-31T00:00:00,44,Finland,FIN,31,,https://api.fifa.com/api/v1/picture/flags-sq-4/fin
+44,1992-12-31T00:00:00,45,Australia,AUS,29,,https://api.fifa.com/api/v1/picture/flags-sq-4/aus
+45,1992-12-31T00:00:00,46,Iceland,ISL,29,,https://api.fifa.com/api/v1/picture/flags-sq-4/isl
+46,1992-12-31T00:00:00,47,Chile,CHI,28,,https://api.fifa.com/api/v1/picture/flags-sq-4/chi
+47,1992-12-31T00:00:00,48,Saudi Arabia,KSA,28,,https://api.fifa.com/api/v1/picture/flags-sq-4/ksa
+48,1992-12-31T00:00:00,49,Korea Republic,KOR,28,,https://api.fifa.com/api/v1/picture/flags-sq-4/kor
+49,1992-12-31T00:00:00,50,El Salvador,SLV,28,,https://api.fifa.com/api/v1/picture/flags-sq-4/slv
+50,1992-12-31T00:00:00,51,Senegal,SEN,27,,https://api.fifa.com/api/v1/picture/flags-sq-4/sen
+51,1992-12-31T00:00:00,52,Qatar,QAT,27,,https://api.fifa.com/api/v1/picture/flags-sq-4/qat
+52,1992-12-31T00:00:00,53,Malawi,MWI,27,,https://api.fifa.com/api/v1/picture/flags-sq-4/mwi
+53,1992-12-31T00:00:00,54,Zimbabwe,ZIM,27,,https://api.fifa.com/api/v1/picture/flags-sq-4/zim
+54,1992-12-31T00:00:00,55,Gabon,GAB,27,,https://api.fifa.com/api/v1/picture/flags-sq-4/gab
+55,1992-12-31T00:00:00,56,China PR,CHN,26,,https://api.fifa.com/api/v1/picture/flags-sq-4/chn
+56,1992-12-31T00:00:00,57,Canada,CAN,25,,https://api.fifa.com/api/v1/picture/flags-sq-4/can
+57,1992-12-31T00:00:00,58,Bermuda,BER,25,,https://api.fifa.com/api/v1/picture/flags-sq-4/ber
+58,1992-12-31T00:00:00,59,United Arab Emirates,UAE,25,,https://api.fifa.com/api/v1/picture/flags-sq-4/uae
+59,1992-12-31T00:00:00,60,Zaire,ZAI,25,,https://api.fifa.com/api/v1/picture/flags-sq-4/zai
+60,1992-12-31T00:00:00,61,IR Iran,IRN,24,,https://api.fifa.com/api/v1/picture/flags-sq-4/irn
+61,1992-12-31T00:00:00,62,Trinidad and Tobago,TRI,24,,https://api.fifa.com/api/v1/picture/flags-sq-4/tri
+62,1992-12-31T00:00:00,63,Guinea,GUI,24,,https://api.fifa.com/api/v1/picture/flags-sq-4/gui
+63,1992-12-31T00:00:00,64,Israel,ISR,23,,https://api.fifa.com/api/v1/picture/flags-sq-4/isr
+64,1992-12-31T00:00:00,65,Ecuador,ECU,23,,https://api.fifa.com/api/v1/picture/flags-sq-4/ecu
+65,1992-12-31T00:00:00,66,Japan,JPN,22,,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn
+66,1992-12-31T00:00:00,67,Jamaica,JAM,22,,https://api.fifa.com/api/v1/picture/flags-sq-4/jam
+67,1992-12-31T00:00:00,68,Paraguay,PAR,22,,https://api.fifa.com/api/v1/picture/flags-sq-4/par
+68,1992-12-31T00:00:00,69,Mali,MLI,22,,https://api.fifa.com/api/v1/picture/flags-sq-4/mli
+69,1992-12-31T00:00:00,70,New Zealand,NZL,22,,https://api.fifa.com/api/v1/picture/flags-sq-4/nzl
+70,1992-12-31T00:00:00,71,Kuwait,KUW,21,,https://api.fifa.com/api/v1/picture/flags-sq-4/kuw
+71,1992-12-31T00:00:00,72,Cyprus,CYP,20,,https://api.fifa.com/api/v1/picture/flags-sq-4/cyp
+72,1992-12-31T00:00:00,73,Malta,MLT,19,,https://api.fifa.com/api/v1/picture/flags-sq-4/mlt
+73,1992-12-31T00:00:00,74,Madagascar,MAD,18,,https://api.fifa.com/api/v1/picture/flags-sq-4/mad
+74,1992-12-31T00:00:00,75,Thailand,THA,18,,https://api.fifa.com/api/v1/picture/flags-sq-4/tha
+75,1992-12-31T00:00:00,76,Kenya,KEN,17,,https://api.fifa.com/api/v1/picture/flags-sq-4/ken
+76,1992-12-31T00:00:00,77,Korea DPR,PRK,16,,https://api.fifa.com/api/v1/picture/flags-sq-4/prk
+77,1992-12-31T00:00:00,78,Peru,PER,16,,https://api.fifa.com/api/v1/picture/flags-sq-4/per
+78,1992-12-31T00:00:00,79,Sierra Leone,SLE,16,,https://api.fifa.com/api/v1/picture/flags-sq-4/sle
+79,1992-12-31T00:00:00,80,Tanzania,TAN,15,,https://api.fifa.com/api/v1/picture/flags-sq-4/tan
+80,1992-12-31T00:00:00,81,Niger,NIG,15,,https://api.fifa.com/api/v1/picture/flags-sq-4/nig
+81,1992-12-31T00:00:00,82,Iraq,IRQ,15,,https://api.fifa.com/api/v1/picture/flags-sq-4/irq
+82,1992-12-31T00:00:00,83,Guatemala,GUA,15,,https://api.fifa.com/api/v1/picture/flags-sq-4/gua
+83,1992-12-31T00:00:00,84,Liberia,LBR,15,,https://api.fifa.com/api/v1/picture/flags-sq-4/lbr
+84,1992-12-31T00:00:00,85,Ethiopia,ETH,14,,https://api.fifa.com/api/v1/picture/flags-sq-4/eth
+85,1992-12-31T00:00:00,86,Albania,ALB,14,,https://api.fifa.com/api/v1/picture/flags-sq-4/alb
+86,1992-12-31T00:00:00,87,Bolivia,BOL,14,,https://api.fifa.com/api/v1/picture/flags-sq-4/bol
+87,1992-12-31T00:00:00,88,Bahrain,BHR,13,,https://api.fifa.com/api/v1/picture/flags-sq-4/bhr
+88,1992-12-31T00:00:00,89,Singapore,SIN,13,,https://api.fifa.com/api/v1/picture/flags-sq-4/sin
+89,1992-12-31T00:00:00,90,Congo,CGO,13,,https://api.fifa.com/api/v1/picture/flags-sq-4/cgo
+90,1992-12-31T00:00:00,91,Malaysia,MAS,13,,https://api.fifa.com/api/v1/picture/flags-sq-4/mas
+91,1992-12-31T00:00:00,92,Uganda,UGA,12,,https://api.fifa.com/api/v1/picture/flags-sq-4/uga
+92,1992-12-31T00:00:00,93,Lithuania,LTU,12,,https://api.fifa.com/api/v1/picture/flags-sq-4/ltu
+93,1992-12-31T00:00:00,94,Faroe Islands,FRO,12,,https://api.fifa.com/api/v1/picture/flags-sq-4/fro
+94,1992-12-31T00:00:00,95,Suriname,SUR,12,,https://api.fifa.com/api/v1/picture/flags-sq-4/sur
+95,1992-12-31T00:00:00,96,Syria,SYR,11,,https://api.fifa.com/api/v1/picture/flags-sq-4/syr
+96,1992-12-31T00:00:00,97,Burkina Faso,BFA,11,,https://api.fifa.com/api/v1/picture/flags-sq-4/bfa
+97,1992-12-31T00:00:00,99,Latvia,LVA,10,,https://api.fifa.com/api/v1/picture/flags-sq-4/lva
+98,1992-12-31T00:00:00,100,Burundi,BDI,10,,https://api.fifa.com/api/v1/picture/flags-sq-4/bdi
+99,1992-12-31T00:00:00,101,Togo,TOG,10,,https://api.fifa.com/api/v1/picture/flags-sq-4/tog
+100,1992-12-31T00:00:00,102,Angola,ANG,10,,https://api.fifa.com/api/v1/picture/flags-sq-4/ang
+101,1992-12-31T00:00:00,103,Luxembourg,LUX,10,,https://api.fifa.com/api/v1/picture/flags-sq-4/lux
+102,1992-12-31T00:00:00,104,Eswatini,SWZ,10,,https://api.fifa.com/api/v1/picture/flags-sq-4/swz
+103,1992-12-31T00:00:00,105,St. Vincent and the Grenadines,VIN,9,,https://api.fifa.com/api/v1/picture/flags-sq-4/vin
+104,1992-12-31T00:00:00,106,Fiji,FIJ,9,,https://api.fifa.com/api/v1/picture/flags-sq-4/fij
+105,1992-12-31T00:00:00,107,Mozambique,MOZ,9,,https://api.fifa.com/api/v1/picture/flags-sq-4/moz
+106,1992-12-31T00:00:00,108,Indonesia,IDN,9,,https://api.fifa.com/api/v1/picture/flags-sq-4/idn
+107,1992-12-31T00:00:00,109,Antigua and Barbuda,ATG,8,,https://api.fifa.com/api/v1/picture/flags-sq-4/atg
+108,1992-12-31T00:00:00,110,Jordan,JOR,8,,https://api.fifa.com/api/v1/picture/flags-sq-4/jor
+109,1992-12-31T00:00:00,111,Sudan,SDN,7,,https://api.fifa.com/api/v1/picture/flags-sq-4/sdn
+110,1992-12-31T00:00:00,112,Mauritius,MRI,7,,https://api.fifa.com/api/v1/picture/flags-sq-4/mri
+111,1992-12-31T00:00:00,113,Croatia,CRO,7,,https://api.fifa.com/api/v1/picture/flags-sq-4/cro
+112,1992-12-31T00:00:00,114,Barbados,BRB,7,,https://api.fifa.com/api/v1/picture/flags-sq-4/brb
+113,1992-12-31T00:00:00,115,Yemen,YEM,6,,https://api.fifa.com/api/v1/picture/flags-sq-4/yem
+114,1992-12-31T00:00:00,116,Oman,OMA,6,,https://api.fifa.com/api/v1/picture/flags-sq-4/oma
+115,1992-12-31T00:00:00,117,Guinea-Bissau,GNB,6,,https://api.fifa.com/api/v1/picture/flags-sq-4/gnb
+116,1992-12-31T00:00:00,118,St. Lucia,LCA,6,,https://api.fifa.com/api/v1/picture/flags-sq-4/lca
+117,1992-12-31T00:00:00,119,Hong Kong,HKG,5,,https://api.fifa.com/api/v1/picture/flags-sq-4/hkg
+118,1992-12-31T00:00:00,120,Panama,PAN,5,,https://api.fifa.com/api/v1/picture/flags-sq-4/pan
+119,1992-12-31T00:00:00,121,Grenada,GRN,5,,https://api.fifa.com/api/v1/picture/flags-sq-4/grn
+120,1992-12-31T00:00:00,122,Puerto Rico,PUR,5,,https://api.fifa.com/api/v1/picture/flags-sq-4/pur
+121,1992-12-31T00:00:00,123,Tahiti,TAH,5,,https://api.fifa.com/api/v1/picture/flags-sq-4/tah
+122,1992-12-31T00:00:00,124,South Africa,RSA,5,,https://api.fifa.com/api/v1/picture/flags-sq-4/rsa
+123,1992-12-31T00:00:00,125,Venezuela,VEN,5,,https://api.fifa.com/api/v1/picture/flags-sq-4/ven
+124,1992-12-31T00:00:00,126,San Marino,SMR,4,,https://api.fifa.com/api/v1/picture/flags-sq-4/smr
+125,1992-12-31T00:00:00,127,Benin,BEN,4,,https://api.fifa.com/api/v1/picture/flags-sq-4/ben
+126,1992-12-31T00:00:00,128,Guyana,GUY,4,,https://api.fifa.com/api/v1/picture/flags-sq-4/guy
+127,1992-12-31T00:00:00,129,Ukraine,UKR,4,,https://api.fifa.com/api/v1/picture/flags-sq-4/ukr
+128,1992-12-31T00:00:00,130,Haiti,HAI,4,,https://api.fifa.com/api/v1/picture/flags-sq-4/hai
+129,1992-12-31T00:00:00,131,Slovenia,SVN,3,,https://api.fifa.com/api/v1/picture/flags-sq-4/svn
+130,1992-12-31T00:00:00,132,Estonia,EST,3,,https://api.fifa.com/api/v1/picture/flags-sq-4/est
+131,1992-12-31T00:00:00,133,Bangladesh,BAN,3,,https://api.fifa.com/api/v1/picture/flags-sq-4/ban
+132,1992-12-31T00:00:00,134,Mauritania,MTN,3,,https://api.fifa.com/api/v1/picture/flags-sq-4/mtn
+133,1992-12-31T00:00:00,135,Cape Verde Islands,CPV,3,,https://api.fifa.com/api/v1/picture/flags-sq-4/cpv
+134,1992-12-31T00:00:00,136,Solomon Islands,SOL,2,,https://api.fifa.com/api/v1/picture/flags-sq-4/sol
+135,1992-12-31T00:00:00,137,Libya,LBY,2,,https://api.fifa.com/api/v1/picture/flags-sq-4/lby
+136,1992-12-31T00:00:00,139,Botswana,BOT,2,,https://api.fifa.com/api/v1/picture/flags-sq-4/bot
+137,1992-12-31T00:00:00,140,Brunei Darussalam,BRU,2,,https://api.fifa.com/api/v1/picture/flags-sq-4/bru
+138,1992-12-31T00:00:00,141,Dominican Republic,DOM,2,,https://api.fifa.com/api/v1/picture/flags-sq-4/dom
+139,1992-12-31T00:00:00,142,Lesotho,LES,2,,https://api.fifa.com/api/v1/picture/flags-sq-4/les
+140,1992-12-31T00:00:00,143,India,IND,2,,https://api.fifa.com/api/v1/picture/flags-sq-4/ind
+141,1992-12-31T00:00:00,144,Cuba,CUB,1,,https://api.fifa.com/api/v1/picture/flags-sq-4/cub
+142,1992-12-31T00:00:00,145,Pakistan,PAK,1,,https://api.fifa.com/api/v1/picture/flags-sq-4/pak
+143,1992-12-31T00:00:00,146,Belarus,BLR,1,,https://api.fifa.com/api/v1/picture/flags-sq-4/blr
+144,1992-12-31T00:00:00,147,Seychelles,SEY,1,,https://api.fifa.com/api/v1/picture/flags-sq-4/sey
+145,1992-12-31T00:00:00,148,Central African Republic,CTA,1,,https://api.fifa.com/api/v1/picture/flags-sq-4/cta
+146,1992-12-31T00:00:00,149,Nepal,NEP,1,,https://api.fifa.com/api/v1/picture/flags-sq-4/nep
+147,1992-12-31T00:00:00,150,Gambia,GAM,1,,https://api.fifa.com/api/v1/picture/flags-sq-4/gam
+148,1992-12-31T00:00:00,151,Equatorial Guinea,EQG,0,,https://api.fifa.com/api/v1/picture/flags-sq-4/eqg
+149,1992-12-31T00:00:00,152,Myanmar,MYA,0,,https://api.fifa.com/api/v1/picture/flags-sq-4/mya
+150,1992-12-31T00:00:00,153,Liechtenstein,LIE,0,,https://api.fifa.com/api/v1/picture/flags-sq-4/lie
+151,1992-12-31T00:00:00,154,Nicaragua,NCA,0,,https://api.fifa.com/api/v1/picture/flags-sq-4/nca
+152,1992-12-31T00:00:00,155,Chad,CHA,0,,https://api.fifa.com/api/v1/picture/flags-sq-4/cha
+153,1992-12-31T00:00:00,156,Chinese Taipei,TPE,0,,https://api.fifa.com/api/v1/picture/flags-sq-4/tpe
+154,1992-12-31T00:00:00,157,Philippines,PHI,0,,https://api.fifa.com/api/v1/picture/flags-sq-4/phi
+155,1992-12-31T00:00:00,158,Namibia,NAM,0,,https://api.fifa.com/api/v1/picture/flags-sq-4/nam
+156,1992-12-31T00:00:00,159,Vanuatu,VAN,0,,https://api.fifa.com/api/v1/picture/flags-sq-4/van
+157,1992-12-31T00:00:00,160,Aruba,ARU,0,,https://api.fifa.com/api/v1/picture/flags-sq-4/aru
+158,1992-12-31T00:00:00,161,Lebanon,LBN,0,,https://api.fifa.com/api/v1/picture/flags-sq-4/lbn
+159,1992-12-31T00:00:00,162,Bahamas,BAH,0,,https://api.fifa.com/api/v1/picture/flags-sq-4/bah
+160,1992-12-31T00:00:00,163,Maldives,MDV,0,,https://api.fifa.com/api/v1/picture/flags-sq-4/mdv
+161,1992-12-31T00:00:00,163,Rwanda,RWA,0,,https://api.fifa.com/api/v1/picture/flags-sq-4/rwa
+162,1992-12-31T00:00:00,163,Somalia,SOM,0,,https://api.fifa.com/api/v1/picture/flags-sq-4/som

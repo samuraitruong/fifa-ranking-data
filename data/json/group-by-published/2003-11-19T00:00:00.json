@@ -1,0 +1,2032 @@
+[
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 852,
+        "previousPoints": 854,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "2",
+        "country": "France",
+        "ct": "FRA",
+        "points": 826,
+        "previousPoints": 827,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fra",
+        "delta": -1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "3",
+        "country": "Spain",
+        "ct": "ESP",
+        "points": 785,
+        "previousPoints": 777,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/esp",
+        "delta": 8
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "4",
+        "country": "Argentina",
+        "ct": "ARG",
+        "points": 750,
+        "previousPoints": 747,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arg",
+        "delta": 3
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "5",
+        "country": "Mexico",
+        "ct": "MEX",
+        "points": 742,
+        "previousPoints": 742,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mex",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "6",
+        "country": "Netherlands",
+        "ct": "NED",
+        "points": 740,
+        "previousPoints": 746,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ned",
+        "delta": -6
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "7",
+        "country": "Turkey",
+        "ct": "TUR",
+        "points": 739,
+        "previousPoints": 742,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tur",
+        "delta": -3
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "8",
+        "country": "England",
+        "ct": "ENG",
+        "points": 738,
+        "previousPoints": 745,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eng",
+        "delta": -7
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "9",
+        "country": "Germany",
+        "ct": "GER",
+        "points": 736,
+        "previousPoints": 744,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ger",
+        "delta": -8
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "10",
+        "country": "Czech Republic",
+        "ct": "CZE",
+        "points": 735,
+        "previousPoints": 739,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cze",
+        "delta": -4
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "11",
+        "country": "Italy",
+        "ct": "ITA",
+        "points": 733,
+        "previousPoints": 742,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ita",
+        "delta": -9
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "12",
+        "country": "USA",
+        "ct": "USA",
+        "points": 732,
+        "previousPoints": 731,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/usa",
+        "delta": 1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "13",
+        "country": "Denmark",
+        "ct": "DEN",
+        "points": 714,
+        "previousPoints": 707,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/den",
+        "delta": 7
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "14",
+        "country": "Cameroon",
+        "ct": "CMR",
+        "points": 712,
+        "previousPoints": 711,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cmr",
+        "delta": 1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "15",
+        "country": "Republic of Ireland",
+        "ct": "IRL",
+        "points": 706,
+        "previousPoints": 705,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irl",
+        "delta": 1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "16",
+        "country": "Belgium",
+        "ct": "BEL",
+        "points": 696,
+        "previousPoints": 696,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bel",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "17",
+        "country": "Sweden",
+        "ct": "SWE",
+        "points": 681,
+        "previousPoints": 681,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swe",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "18",
+        "country": "Portugal",
+        "ct": "POR",
+        "points": 680,
+        "previousPoints": 686,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/por",
+        "delta": -6
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "19",
+        "country": "Costa Rica",
+        "ct": "CRC",
+        "points": 679,
+        "previousPoints": 680,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/crc",
+        "delta": -1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "20",
+        "country": "Croatia",
+        "ct": "CRO",
+        "points": 662,
+        "previousPoints": 664,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cro",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "20",
+        "country": "Uruguay",
+        "ct": "URU",
+        "points": 662,
+        "previousPoints": 654,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uru",
+        "delta": 8
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "22",
+        "country": "Korea Republic",
+        "ct": "KOR",
+        "points": 657,
+        "previousPoints": 654,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kor",
+        "delta": 3
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "23",
+        "country": "Paraguay",
+        "ct": "PAR",
+        "points": 654,
+        "previousPoints": 647,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/par",
+        "delta": 7
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "24",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 652,
+        "previousPoints": 640,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 12
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "24",
+        "country": "Romania",
+        "ct": "ROU",
+        "points": 652,
+        "previousPoints": 657,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rou",
+        "delta": -5
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "26",
+        "country": "Saudi Arabia",
+        "ct": "KSA",
+        "points": 649,
+        "previousPoints": 634,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ksa",
+        "delta": 15
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "27",
+        "country": "Slovenia",
+        "ct": "SVN",
+        "points": 645,
+        "previousPoints": 636,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svn",
+        "delta": 9
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "28",
+        "country": "Japan",
+        "ct": "JPN",
+        "points": 643,
+        "previousPoints": 645,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jpn",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "29",
+        "country": "Russia",
+        "ct": "RUS",
+        "points": 638,
+        "previousPoints": 637,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rus",
+        "delta": 1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "30",
+        "country": "Greece",
+        "ct": "GRE",
+        "points": 637,
+        "previousPoints": 640,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gre",
+        "delta": -3
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "31",
+        "country": "Senegal",
+        "ct": "SEN",
+        "points": 632,
+        "previousPoints": 625,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sen",
+        "delta": 7
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "32",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 625,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "32",
+        "country": "South Africa",
+        "ct": "RSA",
+        "points": 625,
+        "previousPoints": 630,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rsa",
+        "delta": -5
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "34",
+        "country": "Egypt",
+        "ct": "EGY",
+        "points": 621,
+        "previousPoints": 614,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/egy",
+        "delta": 7
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "35",
+        "country": "IR Iran",
+        "ct": "IRN",
+        "points": 620,
+        "previousPoints": 599,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irn",
+        "delta": 21
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "36",
+        "country": "Serbia and Montenegro",
+        "ct": "SCG",
+        "points": 618,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/scg",
+        "delta": -9
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "36",
+        "country": "Ecuador",
+        "ct": "ECU",
+        "points": 618,
+        "previousPoints": 624,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ecu",
+        "delta": -6
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "38",
+        "country": "Morocco",
+        "ct": "MAR",
+        "points": 617,
+        "previousPoints": 617,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mar",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "39",
+        "country": "Norway",
+        "ct": "NOR",
+        "points": 615,
+        "previousPoints": 620,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nor",
+        "delta": -5
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "39",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 615,
+        "previousPoints": 615,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "41",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 613,
+        "previousPoints": 622,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -9
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "42",
+        "country": "Finland",
+        "ct": "FIN",
+        "points": 612,
+        "previousPoints": 610,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fin",
+        "delta": 2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "43",
+        "country": "Switzerland",
+        "ct": "SUI",
+        "points": 592,
+        "previousPoints": 592,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sui",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "44",
+        "country": "Iraq",
+        "ct": "IRQ",
+        "points": 588,
+        "previousPoints": 553,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irq",
+        "delta": 35
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "45",
+        "country": "Honduras",
+        "ct": "HON",
+        "points": 579,
+        "previousPoints": 586,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hon",
+        "delta": -7
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "46",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 572,
+        "previousPoints": 576,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -4
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "47",
+        "country": "Israel",
+        "ct": "ISR",
+        "points": 564,
+        "previousPoints": 566,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isr",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "47",
+        "country": "Jamaica",
+        "ct": "JAM",
+        "points": 564,
+        "previousPoints": 573,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jam",
+        "delta": -9
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "49",
+        "country": "Slovakia",
+        "ct": "SVK",
+        "points": 558,
+        "previousPoints": 560,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svk",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "50",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 556,
+        "previousPoints": 536,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 20
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "51",
+        "country": "Zimbabwe",
+        "ct": "ZIM",
+        "points": 555,
+        "previousPoints": 562,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zim",
+        "delta": -7
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "52",
+        "country": "Kuwait",
+        "ct": "KUW",
+        "points": 554,
+        "previousPoints": 556,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kuw",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "53",
+        "country": "Ukraine",
+        "ct": "UKR",
+        "points": 550,
+        "previousPoints": 554,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ukr",
+        "delta": -4
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "54",
+        "country": "Bosnia and Herzegovina",
+        "ct": "BIH",
+        "points": 549,
+        "previousPoints": 551,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bih",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "55",
+        "country": "Congo DR",
+        "ct": "COD",
+        "points": 548,
+        "previousPoints": 547,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cod",
+        "delta": 1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "56",
+        "country": "Latvia",
+        "ct": "LVA",
+        "points": 545,
+        "previousPoints": 524,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lva",
+        "delta": 21
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "56",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 545,
+        "previousPoints": 542,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 3
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "58",
+        "country": "Wales",
+        "ct": "WAL",
+        "points": 544,
+        "previousPoints": 532,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/wal",
+        "delta": 12
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "59",
+        "country": "Jordan",
+        "ct": "JOR",
+        "points": 543,
+        "previousPoints": 522,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jor",
+        "delta": 21
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "60",
+        "country": "Iceland",
+        "ct": "ISL",
+        "points": 541,
+        "previousPoints": 543,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isl",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "61",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 540,
+        "previousPoints": 531,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 9
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "62",
+        "country": "Venezuela",
+        "ct": "VEN",
+        "points": 539,
+        "previousPoints": 525,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ven",
+        "delta": 14
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "62",
+        "country": "Cuba",
+        "ct": "CUB",
+        "points": 539,
+        "previousPoints": 540,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cub",
+        "delta": -1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "62",
+        "country": "Oman",
+        "ct": "OMA",
+        "points": 539,
+        "previousPoints": 494,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/oma",
+        "delta": 45
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "65",
+        "country": "Austria",
+        "ct": "AUT",
+        "points": 529,
+        "previousPoints": 531,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aut",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "66",
+        "country": "C\u00f4te d'Ivoire",
+        "ct": "CIV",
+        "points": 528,
+        "previousPoints": 529,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/civ",
+        "delta": -1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "67",
+        "country": "Hungary",
+        "ct": "HUN",
+        "points": 524,
+        "previousPoints": 525,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hun",
+        "delta": -1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "68",
+        "country": "Peru",
+        "ct": "PER",
+        "points": 523,
+        "previousPoints": 520,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/per",
+        "delta": 3
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "68",
+        "country": "Chile",
+        "ct": "CHI",
+        "points": 523,
+        "previousPoints": 532,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chi",
+        "delta": -9
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "68",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 523,
+        "previousPoints": 527,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -4
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "71",
+        "country": "Trinidad and Tobago",
+        "ct": "TRI",
+        "points": 519,
+        "previousPoints": 532,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tri",
+        "delta": -13
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "72",
+        "country": "Bahrain",
+        "ct": "BHR",
+        "points": 518,
+        "previousPoints": 461,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhr",
+        "delta": 57
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "73",
+        "country": "Estonia",
+        "ct": "EST",
+        "points": 516,
+        "previousPoints": 519,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/est",
+        "delta": -3
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "73",
+        "country": "Guatemala",
+        "ct": "GUA",
+        "points": 516,
+        "previousPoints": 518,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gua",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "75",
+        "country": "Kenya",
+        "ct": "KEN",
+        "points": 515,
+        "previousPoints": 502,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ken",
+        "delta": 13
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "75",
+        "country": "Thailand",
+        "ct": "THA",
+        "points": 515,
+        "previousPoints": 526,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tha",
+        "delta": -11
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "77",
+        "country": "Burkina Faso",
+        "ct": "BFA",
+        "points": 513,
+        "previousPoints": 524,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bfa",
+        "delta": -11
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "78",
+        "country": "Australia",
+        "ct": "AUS",
+        "points": 510,
+        "previousPoints": 518,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aus",
+        "delta": -8
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "79",
+        "country": "Ghana",
+        "ct": "GHA",
+        "points": 500,
+        "previousPoints": 491,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gha",
+        "delta": 9
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "79",
+        "country": "Uzbekistan",
+        "ct": "UZB",
+        "points": 500,
+        "previousPoints": 413,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uzb",
+        "delta": 87
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "81",
+        "country": "Angola",
+        "ct": "ANG",
+        "points": 497,
+        "previousPoints": 484,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ang",
+        "delta": 13
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "82",
+        "country": "New Zealand",
+        "ct": "NZL",
+        "points": 496,
+        "previousPoints": 506,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nzl",
+        "delta": -10
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "83",
+        "country": "Qatar",
+        "ct": "QAT",
+        "points": 494,
+        "previousPoints": 496,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/qat",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "83",
+        "country": "China PR",
+        "ct": "CHN",
+        "points": 494,
+        "previousPoints": 498,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chn",
+        "delta": -4
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "85",
+        "country": "Syria",
+        "ct": "SYR",
+        "points": 490,
+        "previousPoints": 477,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/syr",
+        "delta": 13
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "86",
+        "country": "Indonesia",
+        "ct": "IDN",
+        "points": 489,
+        "previousPoints": 491,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/idn",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "87",
+        "country": "Canada",
+        "ct": "CAN",
+        "points": 487,
+        "previousPoints": 489,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/can",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "88",
+        "country": "Haiti",
+        "ct": "HAI",
+        "points": 481,
+        "previousPoints": 482,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hai",
+        "delta": -1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "89",
+        "country": "Albania",
+        "ct": "ALB",
+        "points": 479,
+        "previousPoints": 469,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alb",
+        "delta": 10
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "90",
+        "country": "Belarus",
+        "ct": "BLR",
+        "points": 478,
+        "previousPoints": 480,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blr",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "90",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 478,
+        "previousPoints": 410,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 68
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "92",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 475,
+        "previousPoints": 479,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -4
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "93",
+        "country": "Libya",
+        "ct": "LBY",
+        "points": 472,
+        "previousPoints": 472,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lby",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "93",
+        "country": "Cyprus",
+        "ct": "CYP",
+        "points": 472,
+        "previousPoints": 474,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cyp",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "95",
+        "country": "Vietnam",
+        "ct": "VIE",
+        "points": 471,
+        "previousPoints": 440,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vie",
+        "delta": 31
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "96",
+        "country": "FYR Macedonia",
+        "ct": "MKD",
+        "points": 470,
+        "previousPoints": 469,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mkd",
+        "delta": 1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "97",
+        "country": "Togo",
+        "ct": "TOG",
+        "points": 468,
+        "previousPoints": 446,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tog",
+        "delta": 22
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "98",
+        "country": "El Salvador",
+        "ct": "SLV",
+        "points": 465,
+        "previousPoints": 467,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/slv",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "99",
+        "country": "Bolivia",
+        "ct": "BOL",
+        "points": 457,
+        "previousPoints": 454,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bol",
+        "delta": 3
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "100",
+        "country": "Lithuania",
+        "ct": "LTU",
+        "points": 445,
+        "previousPoints": 445,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ltu",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "101",
+        "country": "Guinea",
+        "ct": "GUI",
+        "points": 444,
+        "previousPoints": 423,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gui",
+        "delta": 21
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "102",
+        "country": "Singapore",
+        "ct": "SIN",
+        "points": 443,
+        "previousPoints": 430,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sin",
+        "delta": 13
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "103",
+        "country": "Malawi",
+        "ct": "MWI",
+        "points": 437,
+        "previousPoints": 435,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mwi",
+        "delta": 2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "104",
+        "country": "Uganda",
+        "ct": "UGA",
+        "points": 433,
+        "previousPoints": 433,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uga",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "105",
+        "country": "Moldova",
+        "ct": "MDA",
+        "points": 429,
+        "previousPoints": 430,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mda",
+        "delta": -1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "105",
+        "country": "Gabon",
+        "ct": "GAB",
+        "points": 429,
+        "previousPoints": 415,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gab",
+        "delta": 14
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "107",
+        "country": "Sudan",
+        "ct": "SDN",
+        "points": 427,
+        "previousPoints": 420,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sdn",
+        "delta": 7
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "108",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 425,
+        "previousPoints": 428,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -3
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "108",
+        "country": "Liberia",
+        "ct": "LBR",
+        "points": 425,
+        "previousPoints": 406,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbr",
+        "delta": 19
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "110",
+        "country": "Malaysia",
+        "ct": "MAS",
+        "points": 424,
+        "previousPoints": 438,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mas",
+        "delta": -14
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "111",
+        "country": "Congo",
+        "ct": "CGO",
+        "points": 419,
+        "previousPoints": 408,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cgo",
+        "delta": 11
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "112",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 411,
+        "previousPoints": 413,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "113",
+        "country": "Lebanon",
+        "ct": "LBN",
+        "points": 408,
+        "previousPoints": 406,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbn",
+        "delta": 2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "114",
+        "country": "Botswana",
+        "ct": "BOT",
+        "points": 407,
+        "previousPoints": 404,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bot",
+        "delta": 3
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "115",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 404,
+        "previousPoints": 408,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -4
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "116",
+        "country": "Korea DPR",
+        "ct": "PRK",
+        "points": 399,
+        "previousPoints": 391,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/prk",
+        "delta": 8
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "117",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 396,
+        "previousPoints": 399,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -3
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "118",
+        "country": "Northern Ireland",
+        "ct": "NIR",
+        "points": 389,
+        "previousPoints": 393,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nir",
+        "delta": -4
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "119",
+        "country": "Azerbaijan",
+        "ct": "AZE",
+        "points": 388,
+        "previousPoints": 388,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aze",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "120",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 386,
+        "previousPoints": 418,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -32
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "121",
+        "country": "Lesotho",
+        "ct": "LES",
+        "points": 383,
+        "previousPoints": 381,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/les",
+        "delta": 2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "122",
+        "country": "Turkmenistan",
+        "ct": "TKM",
+        "points": 382,
+        "previousPoints": 272,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tkm",
+        "delta": 110
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "123",
+        "country": "Mauritius",
+        "ct": "MRI",
+        "points": 379,
+        "previousPoints": 352,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mri",
+        "delta": 27
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "123",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 379,
+        "previousPoints": 372,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 7
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "125",
+        "country": "Panama",
+        "ct": "PAN",
+        "points": 373,
+        "previousPoints": 376,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pan",
+        "delta": -3
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "126",
+        "country": "St. Lucia",
+        "ct": "LCA",
+        "points": 372,
+        "previousPoints": 374,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lca",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "127",
+        "country": "Faroe Islands",
+        "ct": "FRO",
+        "points": 370,
+        "previousPoints": 372,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fro",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "128",
+        "country": "India",
+        "ct": "IND",
+        "points": 367,
+        "previousPoints": 321,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ind",
+        "delta": 46
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "129",
+        "country": "Mozambique",
+        "ct": "MOZ",
+        "points": 364,
+        "previousPoints": 356,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/moz",
+        "delta": 8
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "130",
+        "country": "Malta",
+        "ct": "MLT",
+        "points": 356,
+        "previousPoints": 356,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mlt",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "131",
+        "country": "St. Kitts and Nevis",
+        "ct": "SKN",
+        "points": 355,
+        "previousPoints": 368,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/skn",
+        "delta": -13
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "132",
+        "country": "Tahiti",
+        "ct": "TAH",
+        "points": 354,
+        "previousPoints": 358,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tah",
+        "delta": -4
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "133",
+        "country": "Yemen",
+        "ct": "YEM",
+        "points": 349,
+        "previousPoints": 326,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yem",
+        "delta": 23
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "134",
+        "country": "Ethiopia",
+        "ct": "ETH",
+        "points": 342,
+        "previousPoints": 321,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eth",
+        "delta": 21
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "135",
+        "country": "Kazakhstan",
+        "ct": "KAZ",
+        "points": 336,
+        "previousPoints": 341,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kaz",
+        "delta": -5
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "136",
+        "country": "Hong Kong",
+        "ct": "HKG",
+        "points": 331,
+        "previousPoints": 316,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hkg",
+        "delta": 15
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "137",
+        "country": "Cape Verde Islands",
+        "ct": "CPV",
+        "points": 324,
+        "previousPoints": 295,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cpv",
+        "delta": 29
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "138",
+        "country": "Palestine",
+        "ct": "PLE",
+        "points": 322,
+        "previousPoints": 309,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ple",
+        "delta": 13
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "139",
+        "country": "Myanmar",
+        "ct": "MYA",
+        "points": 321,
+        "previousPoints": 297,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mya",
+        "delta": 24
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "139",
+        "country": "Gambia",
+        "ct": "GAM",
+        "points": 321,
+        "previousPoints": 320,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gam",
+        "delta": 1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "141",
+        "country": "Namibia",
+        "ct": "NAM",
+        "points": 317,
+        "previousPoints": 309,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nam",
+        "delta": 8
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "142",
+        "country": "Burundi",
+        "ct": "BDI",
+        "points": 306,
+        "previousPoints": 310,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bdi",
+        "delta": -4
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "143",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 298,
+        "previousPoints": 286,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 12
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "144",
+        "country": "Sri Lanka",
+        "ct": "SRI",
+        "points": 296,
+        "previousPoints": 302,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sri",
+        "delta": -6
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "144",
+        "country": "Andorra",
+        "ct": "AND",
+        "points": 296,
+        "previousPoints": 297,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/and",
+        "delta": -1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "146",
+        "country": "Fiji",
+        "ct": "FIJ",
+        "points": 291,
+        "previousPoints": 294,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fij",
+        "delta": -3
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "147",
+        "country": "Liechtenstein",
+        "ct": "LIE",
+        "points": 286,
+        "previousPoints": 285,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lie",
+        "delta": 1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "148",
+        "country": "Bangladesh",
+        "ct": "BAN",
+        "points": 282,
+        "previousPoints": 282,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ban",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "149",
+        "country": "Grenada",
+        "ct": "GRN",
+        "points": 264,
+        "previousPoints": 272,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/grn",
+        "delta": -8
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "149",
+        "country": "Maldives",
+        "ct": "MDV",
+        "points": 264,
+        "previousPoints": 264,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mdv",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "151",
+        "country": "Luxembourg",
+        "ct": "LUX",
+        "points": 259,
+        "previousPoints": 259,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lux",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "152",
+        "country": "Chad",
+        "ct": "CHA",
+        "points": 258,
+        "previousPoints": 251,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cha",
+        "delta": 7
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "153",
+        "country": "Eritrea",
+        "ct": "ERI",
+        "points": 255,
+        "previousPoints": 242,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eri",
+        "delta": 13
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "154",
+        "country": "Solomon Islands",
+        "ct": "SOL",
+        "points": 251,
+        "previousPoints": 254,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sol",
+        "delta": -3
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "155",
+        "country": "Suriname",
+        "ct": "SUR",
+        "points": 243,
+        "previousPoints": 249,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sur",
+        "delta": -6
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "156",
+        "country": "Tanzania",
+        "ct": "TAN",
+        "points": 233,
+        "previousPoints": 237,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tan",
+        "delta": -4
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "157",
+        "country": "Vanuatu",
+        "ct": "VAN",
+        "points": 227,
+        "previousPoints": 227,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/van",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "158",
+        "country": "San Marino",
+        "ct": "SMR",
+        "points": 220,
+        "previousPoints": 220,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/smr",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "159",
+        "country": "Tajikistan",
+        "ct": "TJK",
+        "points": 218,
+        "previousPoints": 142,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tjk",
+        "delta": 76
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "160",
+        "country": "Pakistan",
+        "ct": "PAK",
+        "points": 215,
+        "previousPoints": 215,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pak",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "160",
+        "country": "Chinese Taipei",
+        "ct": "TPE",
+        "points": 215,
+        "previousPoints": 215,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tpe",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "162",
+        "country": "Seychelles",
+        "ct": "SEY",
+        "points": 213,
+        "previousPoints": 193,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sey",
+        "delta": 20
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "163",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 212,
+        "previousPoints": 219,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -7
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "164",
+        "country": "Niger",
+        "ct": "NIG",
+        "points": 211,
+        "previousPoints": 205,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nig",
+        "delta": 6
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "164",
+        "country": "Nepal",
+        "ct": "NEP",
+        "points": 211,
+        "previousPoints": 209,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nep",
+        "delta": 2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "166",
+        "country": "Mauritania",
+        "ct": "MTN",
+        "points": 208,
+        "previousPoints": 166,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mtn",
+        "delta": 42
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "166",
+        "country": "Equatorial Guinea",
+        "ct": "EQG",
+        "points": 208,
+        "previousPoints": 201,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eqg",
+        "delta": 7
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "168",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 205,
+        "previousPoints": 206,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "169",
+        "country": "Antigua and Barbuda",
+        "ct": "ATG",
+        "points": 202,
+        "previousPoints": 215,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/atg",
+        "delta": -13
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "170",
+        "country": "Dominican Republic",
+        "ct": "DOM",
+        "points": 191,
+        "previousPoints": 197,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dom",
+        "delta": -6
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "171",
+        "country": "Nicaragua",
+        "ct": "NCA",
+        "points": 179,
+        "previousPoints": 177,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nca",
+        "delta": 2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "172",
+        "country": "Papua New Guinea",
+        "ct": "PNG",
+        "points": 174,
+        "previousPoints": 176,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/png",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "173",
+        "country": "Cambodia",
+        "ct": "CAM",
+        "points": 173,
+        "previousPoints": 174,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cam",
+        "delta": -1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "174",
+        "country": "Belize",
+        "ct": "BLZ",
+        "points": 169,
+        "previousPoints": 173,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blz",
+        "delta": -4
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "175",
+        "country": "Kyrgyz Republic",
+        "ct": "KGZ",
+        "points": 168,
+        "previousPoints": 170,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kgz",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "176",
+        "country": "British Virgin Islands",
+        "ct": "VGB",
+        "points": 167,
+        "previousPoints": 172,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vgb",
+        "delta": -5
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "176",
+        "country": "Samoa",
+        "ct": "SAM",
+        "points": 167,
+        "previousPoints": 171,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sam",
+        "delta": -4
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "178",
+        "country": "Cayman Islands",
+        "ct": "CAY",
+        "points": 162,
+        "previousPoints": 164,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cay",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "179",
+        "country": "Central African Republic",
+        "ct": "CTA",
+        "points": 154,
+        "previousPoints": 154,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cta",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "180",
+        "country": "Mongolia",
+        "ct": "MNG",
+        "points": 142,
+        "previousPoints": 141,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mng",
+        "delta": 1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "181",
+        "country": "Guyana",
+        "ct": "GUY",
+        "points": 140,
+        "previousPoints": 144,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/guy",
+        "delta": -4
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "182",
+        "country": "Tonga",
+        "ct": "TGA",
+        "points": 139,
+        "previousPoints": 141,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tga",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "183",
+        "country": "Bermuda",
+        "ct": "BER",
+        "points": 136,
+        "previousPoints": 140,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ber",
+        "delta": -4
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "184",
+        "country": "Dominica",
+        "ct": "DMA",
+        "points": 126,
+        "previousPoints": 131,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dma",
+        "delta": -5
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "185",
+        "country": "Macau",
+        "ct": "MAC",
+        "points": 123,
+        "previousPoints": 124,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mac",
+        "delta": -1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "186",
+        "country": "Guinea-Bissau",
+        "ct": "GNB",
+        "points": 119,
+        "previousPoints": 108,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gnb",
+        "delta": 11
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "188",
+        "country": "Philippines",
+        "ct": "PHI",
+        "points": 117,
+        "previousPoints": 119,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/phi",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "189",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 112,
+        "previousPoints": 109,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 3
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "190",
+        "country": "Cook Islands",
+        "ct": "COK",
+        "points": 103,
+        "previousPoints": 106,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cok",
+        "delta": -3
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "191",
+        "country": "Somalia",
+        "ct": "SOM",
+        "points": 93,
+        "previousPoints": 84,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/som",
+        "delta": 9
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "192",
+        "country": "Bahamas",
+        "ct": "BAH",
+        "points": 92,
+        "previousPoints": 94,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bah",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "193",
+        "country": "Sao Tome e Principe",
+        "ct": "STP",
+        "points": 82,
+        "previousPoints": 83,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/stp",
+        "delta": -1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "194",
+        "country": "Brunei Darussalam",
+        "ct": "BRU",
+        "points": 81,
+        "previousPoints": 81,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bru",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "195",
+        "country": "Aruba",
+        "ct": "ARU",
+        "points": 72,
+        "previousPoints": 74,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aru",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "196",
+        "country": "Djibouti",
+        "ct": "DJI",
+        "points": 56,
+        "previousPoints": 57,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dji",
+        "delta": -1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "197",
+        "country": "Anguilla",
+        "ct": "AIA",
+        "points": 54,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aia",
+        "delta": -1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "198",
+        "country": "Afghanistan",
+        "ct": "AFG",
+        "points": 48,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/afg",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "199",
+        "country": "US Virgin Islands",
+        "ct": "VIR",
+        "points": 44,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vir",
+        "delta": -1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "200",
+        "country": "Puerto Rico",
+        "ct": "PUR",
+        "points": 40,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pur",
+        "delta": -1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "201",
+        "country": "Guam",
+        "ct": "GUM",
+        "points": 19,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gum",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "202",
+        "country": "American Samoa",
+        "ct": "ASA",
+        "points": 18,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/asa",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "203",
+        "country": "Turks and Caicos Islands",
+        "ct": "TCA",
+        "points": 14,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tca",
+        "delta": -1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "204",
+        "country": "Montserrat",
+        "ct": "MSR",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/msr",
+        "delta": 0
+    }
+]

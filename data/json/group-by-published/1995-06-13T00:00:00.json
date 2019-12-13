@@ -1,0 +1,1774 @@
+[
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 67,
+        "previousPoints": 66,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "2",
+        "country": "Italy",
+        "ct": "ITA",
+        "points": 62,
+        "previousPoints": 62,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ita",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "3",
+        "country": "Spain",
+        "ct": "ESP",
+        "points": 61,
+        "previousPoints": 61,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/esp",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "4",
+        "country": "Norway",
+        "ct": "NOR",
+        "points": 61,
+        "previousPoints": 60,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nor",
+        "delta": 1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "5",
+        "country": "Germany",
+        "ct": "GER",
+        "points": 59,
+        "previousPoints": 60,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ger",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "6",
+        "country": "Sweden",
+        "ct": "SWE",
+        "points": 58,
+        "previousPoints": 59,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swe",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "7",
+        "country": "Mexico",
+        "ct": "MEX",
+        "points": 58,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mex",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "8",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 58,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 2
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "9",
+        "country": "Netherlands",
+        "ct": "NED",
+        "points": 57,
+        "previousPoints": 59,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ned",
+        "delta": -2
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "10",
+        "country": "Argentina",
+        "ct": "ARG",
+        "points": 57,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arg",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "11",
+        "country": "Romania",
+        "ct": "ROU",
+        "points": 57,
+        "previousPoints": 57,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rou",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "12",
+        "country": "Denmark",
+        "ct": "DEN",
+        "points": 57,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/den",
+        "delta": 2
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "13",
+        "country": "Russia",
+        "ct": "RUS",
+        "points": 56,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rus",
+        "delta": 2
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "14",
+        "country": "Switzerland",
+        "ct": "SUI",
+        "points": 55,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sui",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "15",
+        "country": "Republic of Ireland",
+        "ct": "IRL",
+        "points": 55,
+        "previousPoints": 57,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irl",
+        "delta": -2
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "16",
+        "country": "Portugal",
+        "ct": "POR",
+        "points": 54,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/por",
+        "delta": 1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "17",
+        "country": "France",
+        "ct": "FRA",
+        "points": 51,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fra",
+        "delta": -2
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "18",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 51,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "19",
+        "country": "Belgium",
+        "ct": "BEL",
+        "points": 50,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bel",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "20",
+        "country": "Egypt",
+        "ct": "EGY",
+        "points": 48,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/egy",
+        "delta": 2
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "21",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 48,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 5
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "22",
+        "country": "England",
+        "ct": "ENG",
+        "points": 47,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eng",
+        "delta": -2
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "23",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 47,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -3
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "24",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 47,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "25",
+        "country": "Turkey",
+        "ct": "TUR",
+        "points": 46,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tur",
+        "delta": 3
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "26",
+        "country": "Czech Republic",
+        "ct": "CZE",
+        "points": 46,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cze",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "27",
+        "country": "Ghana",
+        "ct": "GHA",
+        "points": 46,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gha",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "28",
+        "country": "Greece",
+        "ct": "GRE",
+        "points": 45,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gre",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "29",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 45,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 3
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "30",
+        "country": "Saudi Arabia",
+        "ct": "KSA",
+        "points": 45,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ksa",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "31",
+        "country": "C\u00f4te d'Ivoire",
+        "ct": "CIV",
+        "points": 44,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/civ",
+        "delta": 1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "32",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 44,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "33",
+        "country": "Japan",
+        "ct": "JPN",
+        "points": 43,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jpn",
+        "delta": 1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "34",
+        "country": "USA",
+        "ct": "USA",
+        "points": 42,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/usa",
+        "delta": -4
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "35",
+        "country": "Morocco",
+        "ct": "MAR",
+        "points": 42,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mar",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "36",
+        "country": "Uruguay",
+        "ct": "URU",
+        "points": 42,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uru",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "37",
+        "country": "Korea Republic",
+        "ct": "KOR",
+        "points": 41,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kor",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "38",
+        "country": "Finland",
+        "ct": "FIN",
+        "points": 40,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fin",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "39",
+        "country": "Slovakia",
+        "ct": "SVK",
+        "points": 40,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svk",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "40",
+        "country": "Cameroon",
+        "ct": "CMR",
+        "points": 39,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cmr",
+        "delta": 1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "41",
+        "country": "Zimbabwe",
+        "ct": "ZIM",
+        "points": 39,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zim",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "42",
+        "country": "Chile",
+        "ct": "CHI",
+        "points": 39,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chi",
+        "delta": 3
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "43",
+        "country": "Senegal",
+        "ct": "SEN",
+        "points": 38,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sen",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "44",
+        "country": "Israel",
+        "ct": "ISR",
+        "points": 38,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isr",
+        "delta": 1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "45",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 37,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "46",
+        "country": "China PR",
+        "ct": "CHN",
+        "points": 37,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/chn",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "47",
+        "country": "Lithuania",
+        "ct": "LTU",
+        "points": 37,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ltu",
+        "delta": 6
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "48",
+        "country": "Austria",
+        "ct": "AUT",
+        "points": 36,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aut",
+        "delta": -4
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "49",
+        "country": "Iceland",
+        "ct": "ISL",
+        "points": 36,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/isl",
+        "delta": -2
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "50",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 36,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 2
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "51",
+        "country": "Croatia",
+        "ct": "CRO",
+        "points": 36,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cro",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "52",
+        "country": "Wales",
+        "ct": "WAL",
+        "points": 35,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/wal",
+        "delta": -3
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "53",
+        "country": "Northern Ireland",
+        "ct": "NIR",
+        "points": 35,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nir",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "54",
+        "country": "Hungary",
+        "ct": "HUN",
+        "points": 35,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hun",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "55",
+        "country": "Guinea",
+        "ct": "GUI",
+        "points": 35,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gui",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "56",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 35,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 4
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "57",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 35,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "58",
+        "country": "Australia",
+        "ct": "AUS",
+        "points": 33,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aus",
+        "delta": -3
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "59",
+        "country": "South Africa",
+        "ct": "RSA",
+        "points": 33,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rsa",
+        "delta": 1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "60",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 33,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 2
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "61",
+        "country": "Gabon",
+        "ct": "GAB",
+        "points": 33,
+        "previousPoints": 30,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gab",
+        "delta": 3
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "62",
+        "country": "Bolivia",
+        "ct": "BOL",
+        "points": 32,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bol",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "63",
+        "country": "Honduras",
+        "ct": "HON",
+        "points": 32,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hon",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "64",
+        "country": "Kuwait",
+        "ct": "KUW",
+        "points": 32,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kuw",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "65",
+        "country": "Costa Rica",
+        "ct": "CRC",
+        "points": 32,
+        "previousPoints": 29,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/crc",
+        "delta": 3
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "66",
+        "country": "Latvia",
+        "ct": "LVA",
+        "points": 31,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lva",
+        "delta": 6
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "67",
+        "country": "Qatar",
+        "ct": "QAT",
+        "points": 31,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/qat",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "68",
+        "country": "Cyprus",
+        "ct": "CYP",
+        "points": 30,
+        "previousPoints": 30,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cyp",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "69",
+        "country": "Uganda",
+        "ct": "UGA",
+        "points": 30,
+        "previousPoints": 29,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uga",
+        "delta": 1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "70",
+        "country": "Canada",
+        "ct": "CAN",
+        "points": 30,
+        "previousPoints": 30,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/can",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "71",
+        "country": "Tanzania",
+        "ct": "TAN",
+        "points": 29,
+        "previousPoints": 29,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tan",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "72",
+        "country": "Malawi",
+        "ct": "MWI",
+        "points": 28,
+        "previousPoints": 29,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mwi",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "73",
+        "country": "Peru",
+        "ct": "PER",
+        "points": 28,
+        "previousPoints": 29,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/per",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "74",
+        "country": "Angola",
+        "ct": "ANG",
+        "points": 27,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ang",
+        "delta": 3
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "75",
+        "country": "Mozambique",
+        "ct": "MOZ",
+        "points": 27,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/moz",
+        "delta": 2
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "76",
+        "country": "Ecuador",
+        "ct": "ECU",
+        "points": 26,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ecu",
+        "delta": -5
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "77",
+        "country": "Bahrain",
+        "ct": "BHR",
+        "points": 25,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhr",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "78",
+        "country": "Niger",
+        "ct": "NIG",
+        "points": 25,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nig",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "79",
+        "country": "Oman",
+        "ct": "OMA",
+        "points": 25,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/oma",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "80",
+        "country": "Ukraine",
+        "ct": "UKR",
+        "points": 25,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ukr",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "81",
+        "country": "Trinidad and Tobago",
+        "ct": "TRI",
+        "points": 24,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tri",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "82",
+        "country": "Togo",
+        "ct": "TOG",
+        "points": 24,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tog",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "83",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 24,
+        "previousPoints": 21,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 3
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "84",
+        "country": "IR Iran",
+        "ct": "IRN",
+        "points": 24,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irn",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "85",
+        "country": "Slovenia",
+        "ct": "SVN",
+        "points": 23,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/svn",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "86",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 23,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "87",
+        "country": "Uzbekistan",
+        "ct": "UZB",
+        "points": 23,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uzb",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "88",
+        "country": "Sudan",
+        "ct": "SDN",
+        "points": 22,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sdn",
+        "delta": 2
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "89",
+        "country": "Malta",
+        "ct": "MLT",
+        "points": 22,
+        "previousPoints": 22,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mlt",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "90",
+        "country": "Thailand",
+        "ct": "THA",
+        "points": 22,
+        "previousPoints": 22,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tha",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "91",
+        "country": "Liberia",
+        "ct": "LBR",
+        "points": 21,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbr",
+        "delta": 3
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "92",
+        "country": "FYR Macedonia",
+        "ct": "MKD",
+        "points": 21,
+        "previousPoints": 22,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mkd",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "93",
+        "country": "Kenya",
+        "ct": "KEN",
+        "points": 21,
+        "previousPoints": 21,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ken",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "94",
+        "country": "Albania",
+        "ct": "ALB",
+        "points": 21,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alb",
+        "delta": 3
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "95",
+        "country": "Jamaica",
+        "ct": "JAM",
+        "points": 21,
+        "previousPoints": 21,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jam",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "96",
+        "country": "Iraq",
+        "ct": "IRQ",
+        "points": 21,
+        "previousPoints": 21,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/irq",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "97",
+        "country": "Ethiopia",
+        "ct": "ETH",
+        "points": 20,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/eth",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "98",
+        "country": "Korea DPR",
+        "ct": "PRK",
+        "points": 19,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/prk",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "99",
+        "country": "El Salvador",
+        "ct": "SLV",
+        "points": 19,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/slv",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "100",
+        "country": "Paraguay",
+        "ct": "PAR",
+        "points": 19,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/par",
+        "delta": 1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "101",
+        "country": "Burkina Faso",
+        "ct": "BFA",
+        "points": 19,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bfa",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "102",
+        "country": "Malaysia",
+        "ct": "MAS",
+        "points": 18,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mas",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "103",
+        "country": "Hong Kong",
+        "ct": "HKG",
+        "points": 18,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hkg",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "104",
+        "country": "Belarus",
+        "ct": "BLR",
+        "points": 18,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/blr",
+        "delta": 4
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "105",
+        "country": "Luxembourg",
+        "ct": "LUX",
+        "points": 17,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lux",
+        "delta": 3
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "106",
+        "country": "Congo",
+        "ct": "CGO",
+        "points": 17,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cgo",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "107",
+        "country": "Mauritania",
+        "ct": "MTN",
+        "points": 16,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mtn",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "108",
+        "country": "New Zealand",
+        "ct": "NZL",
+        "points": 16,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nzl",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "109",
+        "country": "Yemen",
+        "ct": "YEM",
+        "points": 16,
+        "previousPoints": 16,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yem",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "110",
+        "country": "Singapore",
+        "ct": "SIN",
+        "points": 15,
+        "previousPoints": 16,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sin",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "111",
+        "country": "Gambia",
+        "ct": "GAM",
+        "points": 15,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gam",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "112",
+        "country": "Moldova",
+        "ct": "MDA",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mda",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "113",
+        "country": "India",
+        "ct": "IND",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ind",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "114",
+        "country": "Namibia",
+        "ct": "NAM",
+        "points": 14,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nam",
+        "delta": 1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "115",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "116",
+        "country": "Suriname",
+        "ct": "SUR",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sur",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "117",
+        "country": "Turkmenistan",
+        "ct": "TKM",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tkm",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "118",
+        "country": "Estonia",
+        "ct": "EST",
+        "points": 12,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/est",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "119",
+        "country": "Syria",
+        "ct": "SYR",
+        "points": 12,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/syr",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "120",
+        "country": "Bermuda",
+        "ct": "BER",
+        "points": 12,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ber",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "121",
+        "country": "Faroe Islands",
+        "ct": "FRO",
+        "points": 12,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fro",
+        "delta": 4
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "122",
+        "country": "Guinea-Bissau",
+        "ct": "GNB",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gnb",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "123",
+        "country": "Myanmar",
+        "ct": "MYA",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mya",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "124",
+        "country": "Venezuela",
+        "ct": "VEN",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ven",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "125",
+        "country": "Jordan",
+        "ct": "JOR",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/jor",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "126",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "127",
+        "country": "Puerto Rico",
+        "ct": "PUR",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pur",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "128",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 10,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "129",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 10,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "130",
+        "country": "Burundi",
+        "ct": "BDI",
+        "points": 10,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bdi",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "131",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 10,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "132",
+        "country": "St. Lucia",
+        "ct": "LCA",
+        "points": 9,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lca",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "133",
+        "country": "Fiji",
+        "ct": "FIJ",
+        "points": 9,
+        "previousPoints": 12,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/fij",
+        "delta": -3
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "134",
+        "country": "Bangladesh",
+        "ct": "BAN",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ban",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "135",
+        "country": "Lesotho",
+        "ct": "LES",
+        "points": 9,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/les",
+        "delta": 1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "136",
+        "country": "San Marino",
+        "ct": "SMR",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/smr",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "137",
+        "country": "Lebanon",
+        "ct": "LBN",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lbn",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "138",
+        "country": "Botswana",
+        "ct": "BOT",
+        "points": 7,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bot",
+        "delta": 1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "139",
+        "country": "Haiti",
+        "ct": "HAI",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/hai",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "140",
+        "country": "Mauritius",
+        "ct": "MRI",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mri",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "141",
+        "country": "Indonesia",
+        "ct": "IDN",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/idn",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "142",
+        "country": "Panama",
+        "ct": "PAN",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pan",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "143",
+        "country": "St. Kitts and Nevis",
+        "ct": "SKN",
+        "points": 6,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/skn",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "144",
+        "country": "Antigua and Barbuda",
+        "ct": "ATG",
+        "points": 6,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/atg",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "145",
+        "country": "Azerbaijan",
+        "ct": "AZE",
+        "points": 6,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aze",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "146",
+        "country": "Nepal",
+        "ct": "NEP",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nep",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "147",
+        "country": "Grenada",
+        "ct": "GRN",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/grn",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "148",
+        "country": "Sri Lanka",
+        "ct": "SRI",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sri",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "149",
+        "country": "Liechtenstein",
+        "ct": "LIE",
+        "points": 5,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lie",
+        "delta": 2
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "150",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 5,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "151",
+        "country": "Vietnam",
+        "ct": "VIE",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vie",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "152",
+        "country": "Cayman Islands",
+        "ct": "CAY",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cay",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "153",
+        "country": "Guyana",
+        "ct": "GUY",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/guy",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "154",
+        "country": "Tahiti",
+        "ct": "TAH",
+        "points": 3,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tah",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "155",
+        "country": "Guatemala",
+        "ct": "GUA",
+        "points": 3,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/gua",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "157",
+        "country": "Kazakhstan",
+        "ct": "KAZ",
+        "points": 3,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kaz",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "158",
+        "country": "Somalia",
+        "ct": "SOM",
+        "points": 3,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/som",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "159",
+        "country": "Pakistan",
+        "ct": "PAK",
+        "points": 3,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pak",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "160",
+        "country": "Tajikistan",
+        "ct": "TJK",
+        "points": 3,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tjk",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "161",
+        "country": "Dominican Republic",
+        "ct": "DOM",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dom",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "162",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "163",
+        "country": "Maldives",
+        "ct": "MDV",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mdv",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "164",
+        "country": "Cape Verde Islands",
+        "ct": "CPV",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cpv",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "165",
+        "country": "Solomon Islands",
+        "ct": "SOL",
+        "points": 1,
+        "previousPoints": 1,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sol",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "166",
+        "country": "Dominica",
+        "ct": "DMA",
+        "points": 1,
+        "previousPoints": 1,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dma",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "167",
+        "country": "Brunei Darussalam",
+        "ct": "BRU",
+        "points": 1,
+        "previousPoints": 1,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bru",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "168",
+        "country": "Kyrgyz Republic",
+        "ct": "KGZ",
+        "points": 1,
+        "previousPoints": 1,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kgz",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "169",
+        "country": "Libya",
+        "ct": "LBY",
+        "points": 1,
+        "previousPoints": 1,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lby",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "170",
+        "country": "Nicaragua",
+        "ct": "NCA",
+        "points": 1,
+        "previousPoints": 1,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nca",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "171",
+        "country": "Seychelles",
+        "ct": "SEY",
+        "points": 1,
+        "previousPoints": 1,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sey",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "172",
+        "country": "Djibouti",
+        "ct": "DJI",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/dji"
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "173",
+        "country": "Chinese Taipei",
+        "ct": "TPE",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tpe"
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "174",
+        "country": "Philippines",
+        "ct": "PHI",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/phi"
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "175",
+        "country": "Vanuatu",
+        "ct": "VAN",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/van"
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "176",
+        "country": "Aruba",
+        "ct": "ARU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/aru"
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "177",
+        "country": "Central African Republic",
+        "ct": "CTA",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cta"
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "178",
+        "country": "Chad",
+        "ct": "CHA",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cha"
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "178",
+        "country": "Macau",
+        "ct": "MAC",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mac"
+    }
+]

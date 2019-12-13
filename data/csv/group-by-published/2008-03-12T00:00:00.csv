@@ -1,0 +1,210 @@
+,date,rank,country,ct,points,previousPoints,flag,delta
+0,2008-03-12T00:00:00,1,Argentina,ARG,1556,1518,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,38.0
+1,2008-03-12T00:00:00,2,Brazil,BRA,1514,1502,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,12.0
+2,2008-03-12T00:00:00,3,Italy,ITA,1505,1484,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,21.0
+3,2008-03-12T00:00:00,4,Spain,ESP,1355,1352,https://api.fifa.com/api/v1/picture/flags-sq-4/esp,3.0
+4,2008-03-12T00:00:00,5,Germany,GER,1294,1281,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,13.0
+5,2008-03-12T00:00:00,6,Czech Republic,CZE,1253,1244,https://api.fifa.com/api/v1/picture/flags-sq-4/cze,9.0
+6,2008-03-12T00:00:00,7,France,FRA,1234,1223,https://api.fifa.com/api/v1/picture/flags-sq-4/fra,11.0
+7,2008-03-12T00:00:00,8,Portugal,POR,1206,1191,https://api.fifa.com/api/v1/picture/flags-sq-4/por,15.0
+8,2008-03-12T00:00:00,9,Netherlands,NED,1179,1179,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,0.0
+9,2008-03-12T00:00:00,10,Greece,GRE,1160,1142,https://api.fifa.com/api/v1/picture/flags-sq-4/gre,18.0
+10,2008-03-12T00:00:00,11,England,ENG,1142,1133,https://api.fifa.com/api/v1/picture/flags-sq-4/eng,9.0
+11,2008-03-12T00:00:00,12,Croatia,CRO,1101,1096,https://api.fifa.com/api/v1/picture/flags-sq-4/cro,5.0
+12,2008-03-12T00:00:00,13,Romania,ROU,1060,1060,https://api.fifa.com/api/v1/picture/flags-sq-4/rou,0.0
+13,2008-03-12T00:00:00,14,Scotland,SCO,1020,990,https://api.fifa.com/api/v1/picture/flags-sq-4/sco,30.0
+14,2008-03-12T00:00:00,15,Ghana,GHA,1003,990,https://api.fifa.com/api/v1/picture/flags-sq-4/gha,13.0
+15,2008-03-12T00:00:00,16,Mexico,MEX,990,970,https://api.fifa.com/api/v1/picture/flags-sq-4/mex,20.0
+16,2008-03-12T00:00:00,17,Cameroon,CMR,967,967,https://api.fifa.com/api/v1/picture/flags-sq-4/cmr,0.0
+17,2008-03-12T00:00:00,18,Turkey,TUR,924,927,https://api.fifa.com/api/v1/picture/flags-sq-4/tur,-3.0
+18,2008-03-12T00:00:00,19,Bulgaria,BUL,922,919,https://api.fifa.com/api/v1/picture/flags-sq-4/bul,3.0
+19,2008-03-12T00:00:00,20,Colombia,COL,909,899,https://api.fifa.com/api/v1/picture/flags-sq-4/col,10.0
+20,2008-03-12T00:00:00,21,Russia,RUS,906,890,https://api.fifa.com/api/v1/picture/flags-sq-4/rus,16.0
+21,2008-03-12T00:00:00,22,Israel,ISR,894,878,https://api.fifa.com/api/v1/picture/flags-sq-4/isr,16.0
+22,2008-03-12T00:00:00,23,Côte d'Ivoire,CIV,886,877,https://api.fifa.com/api/v1/picture/flags-sq-4/civ,9.0
+23,2008-03-12T00:00:00,24,Poland,POL,885,903,https://api.fifa.com/api/v1/picture/flags-sq-4/pol,-18.0
+24,2008-03-12T00:00:00,24,Sweden,SWE,885,877,https://api.fifa.com/api/v1/picture/flags-sq-4/swe,8.0
+25,2008-03-12T00:00:00,26,Paraguay,PAR,844,849,https://api.fifa.com/api/v1/picture/flags-sq-4/par,-5.0
+26,2008-03-12T00:00:00,27,Norway,NOR,843,830,https://api.fifa.com/api/v1/picture/flags-sq-4/nor,13.0
+27,2008-03-12T00:00:00,28,USA,USA,837,852,https://api.fifa.com/api/v1/picture/flags-sq-4/usa,-15.0
+28,2008-03-12T00:00:00,29,Uruguay,URU,829,820,https://api.fifa.com/api/v1/picture/flags-sq-4/uru,9.0
+29,2008-03-12T00:00:00,30,Egypt,EGY,825,825,https://api.fifa.com/api/v1/picture/flags-sq-4/egy,0.0
+30,2008-03-12T00:00:00,31,Serbia,SRB,815,818,https://api.fifa.com/api/v1/picture/flags-sq-4/srb,-3.0
+31,2008-03-12T00:00:00,32,Ukraine,UKR,814,805,https://api.fifa.com/api/v1/picture/flags-sq-4/ukr,9.0
+32,2008-03-12T00:00:00,33,Denmark,DEN,787,795,https://api.fifa.com/api/v1/picture/flags-sq-4/den,-8.0
+33,2008-03-12T00:00:00,34,Northern Ireland,NIR,763,754,https://api.fifa.com/api/v1/picture/flags-sq-4/nir,9.0
+34,2008-03-12T00:00:00,35,Finland,FIN,730,682,https://api.fifa.com/api/v1/picture/flags-sq-4/fin,48.0
+35,2008-03-12T00:00:00,36,Japan,JPN,702,747,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn,-45.0
+36,2008-03-12T00:00:00,37,Republic of Ireland,IRL,690,703,https://api.fifa.com/api/v1/picture/flags-sq-4/irl,-13.0
+37,2008-03-12T00:00:00,38,Australia,AUS,666,663,https://api.fifa.com/api/v1/picture/flags-sq-4/aus,3.0
+38,2008-03-12T00:00:00,39,Chile,CHI,658,654,https://api.fifa.com/api/v1/picture/flags-sq-4/chi,4.0
+39,2008-03-12T00:00:00,40,Switzerland,SUI,650,647,https://api.fifa.com/api/v1/picture/flags-sq-4/sui,3.0
+40,2008-03-12T00:00:00,41,IR Iran,IRN,645,656,https://api.fifa.com/api/v1/picture/flags-sq-4/irn,-11.0
+41,2008-03-12T00:00:00,42,Belgium,BEL,635,636,https://api.fifa.com/api/v1/picture/flags-sq-4/bel,-1.0
+42,2008-03-12T00:00:00,43,Honduras,HON,625,601,https://api.fifa.com/api/v1/picture/flags-sq-4/hon,24.0
+43,2008-03-12T00:00:00,44,Senegal,SEN,622,636,https://api.fifa.com/api/v1/picture/flags-sq-4/sen,-14.0
+44,2008-03-12T00:00:00,45,Mali,MLI,621,619,https://api.fifa.com/api/v1/picture/flags-sq-4/mli,2.0
+45,2008-03-12T00:00:00,46,Nigeria,NGA,618,631,https://api.fifa.com/api/v1/picture/flags-sq-4/nga,-13.0
+46,2008-03-12T00:00:00,47,Korea Republic,KOR,613,647,https://api.fifa.com/api/v1/picture/flags-sq-4/kor,-34.0
+47,2008-03-12T00:00:00,48,Guinea,GUI,611,611,https://api.fifa.com/api/v1/picture/flags-sq-4/gui,0.0
+48,2008-03-12T00:00:00,49,Morocco,MAR,607,605,https://api.fifa.com/api/v1/picture/flags-sq-4/mar,2.0
+49,2008-03-12T00:00:00,50,Saudi Arabia,KSA,596,601,https://api.fifa.com/api/v1/picture/flags-sq-4/ksa,-5.0
+50,2008-03-12T00:00:00,51,Moldova,MDA,594,602,https://api.fifa.com/api/v1/picture/flags-sq-4/mda,-8.0
+51,2008-03-12T00:00:00,51,Hungary,HUN,594,598,https://api.fifa.com/api/v1/picture/flags-sq-4/hun,-4.0
+52,2008-03-12T00:00:00,53,Wales,WAL,580,585,https://api.fifa.com/api/v1/picture/flags-sq-4/wal,-5.0
+53,2008-03-12T00:00:00,54,Ecuador,ECU,575,561,https://api.fifa.com/api/v1/picture/flags-sq-4/ecu,14.0
+54,2008-03-12T00:00:00,55,Lithuania,LTU,571,575,https://api.fifa.com/api/v1/picture/flags-sq-4/ltu,-4.0
+55,2008-03-12T00:00:00,56,Tunisia,TUN,566,589,https://api.fifa.com/api/v1/picture/flags-sq-4/tun,-23.0
+56,2008-03-12T00:00:00,57,Venezuela,VEN,564,554,https://api.fifa.com/api/v1/picture/flags-sq-4/ven,10.0
+57,2008-03-12T00:00:00,58,Slovakia,SVK,562,568,https://api.fifa.com/api/v1/picture/flags-sq-4/svk,-6.0
+58,2008-03-12T00:00:00,59,FYR Macedonia,MKD,555,545,https://api.fifa.com/api/v1/picture/flags-sq-4/mkd,10.0
+59,2008-03-12T00:00:00,60,Bosnia and Herzegovina,BIH,553,554,https://api.fifa.com/api/v1/picture/flags-sq-4/bih,-1.0
+60,2008-03-12T00:00:00,61,Belarus,BLR,541,530,https://api.fifa.com/api/v1/picture/flags-sq-4/blr,11.0
+61,2008-03-12T00:00:00,62,Canada,CAN,520,557,https://api.fifa.com/api/v1/picture/flags-sq-4/can,-37.0
+62,2008-03-12T00:00:00,63,Cyprus,CYP,502,492,https://api.fifa.com/api/v1/picture/flags-sq-4/cyp,10.0
+63,2008-03-12T00:00:00,64,Angola,ANG,499,497,https://api.fifa.com/api/v1/picture/flags-sq-4/ang,2.0
+64,2008-03-12T00:00:00,64,Equatorial Guinea,EQG,499,386,https://api.fifa.com/api/v1/picture/flags-sq-4/eqg,113.0
+65,2008-03-12T00:00:00,66,Peru,PER,496,490,https://api.fifa.com/api/v1/picture/flags-sq-4/per,6.0
+66,2008-03-12T00:00:00,67,Zambia,ZAM,495,494,https://api.fifa.com/api/v1/picture/flags-sq-4/zam,1.0
+67,2008-03-12T00:00:00,68,Iraq,IRQ,483,476,https://api.fifa.com/api/v1/picture/flags-sq-4/irq,7.0
+68,2008-03-12T00:00:00,69,Panama,PAN,478,512,https://api.fifa.com/api/v1/picture/flags-sq-4/pan,-34.0
+69,2008-03-12T00:00:00,70,Uzbekistan,UZB,477,486,https://api.fifa.com/api/v1/picture/flags-sq-4/uzb,-9.0
+70,2008-03-12T00:00:00,71,South Africa,RSA,451,454,https://api.fifa.com/api/v1/picture/flags-sq-4/rsa,-3.0
+71,2008-03-12T00:00:00,72,Costa Rica,CRC,433,438,https://api.fifa.com/api/v1/picture/flags-sq-4/crc,-5.0
+72,2008-03-12T00:00:00,73,Latvia,LVA,427,424,https://api.fifa.com/api/v1/picture/flags-sq-4/lva,3.0
+73,2008-03-12T00:00:00,74,Albania,ALB,416,421,https://api.fifa.com/api/v1/picture/flags-sq-4/alb,-5.0
+74,2008-03-12T00:00:00,74,Togo,TOG,416,416,https://api.fifa.com/api/v1/picture/flags-sq-4/tog,0.0
+75,2008-03-12T00:00:00,76,Georgia,GEO,407,384,https://api.fifa.com/api/v1/picture/flags-sq-4/geo,23.0
+76,2008-03-12T00:00:00,77,Congo DR,COD,406,406,https://api.fifa.com/api/v1/picture/flags-sq-4/cod,0.0
+77,2008-03-12T00:00:00,78,Algeria,ALG,396,391,https://api.fifa.com/api/v1/picture/flags-sq-4/alg,5.0
+78,2008-03-12T00:00:00,79,Congo,CGO,391,362,https://api.fifa.com/api/v1/picture/flags-sq-4/cgo,29.0
+79,2008-03-12T00:00:00,80,China PR,CHN,389,406,https://api.fifa.com/api/v1/picture/flags-sq-4/chn,-17.0
+80,2008-03-12T00:00:00,80,Slovenia,SVN,389,385,https://api.fifa.com/api/v1/picture/flags-sq-4/svn,4.0
+81,2008-03-12T00:00:00,82,Bahrain,BHR,387,379,https://api.fifa.com/api/v1/picture/flags-sq-4/bhr,8.0
+82,2008-03-12T00:00:00,83,Armenia,ARM,385,383,https://api.fifa.com/api/v1/picture/flags-sq-4/arm,2.0
+83,2008-03-12T00:00:00,84,Mozambique,MOZ,381,381,https://api.fifa.com/api/v1/picture/flags-sq-4/moz,0.0
+84,2008-03-12T00:00:00,85,Libya,LBY,374,370,https://api.fifa.com/api/v1/picture/flags-sq-4/lby,4.0
+85,2008-03-12T00:00:00,86,Oman,OMA,371,340,https://api.fifa.com/api/v1/picture/flags-sq-4/oma,31.0
+86,2008-03-12T00:00:00,87,Ethiopia,ETH,369,366,https://api.fifa.com/api/v1/picture/flags-sq-4/eth,3.0
+87,2008-03-12T00:00:00,88,Austria,AUT,367,377,https://api.fifa.com/api/v1/picture/flags-sq-4/aut,-10.0
+88,2008-03-12T00:00:00,89,Iceland,ISL,366,351,https://api.fifa.com/api/v1/picture/flags-sq-4/isl,15.0
+89,2008-03-12T00:00:00,90,Thailand,THA,359,348,https://api.fifa.com/api/v1/picture/flags-sq-4/tha,11.0
+90,2008-03-12T00:00:00,91,New Zealand,NZL,358,349,https://api.fifa.com/api/v1/picture/flags-sq-4/nzl,9.0
+91,2008-03-12T00:00:00,92,Uganda,UGA,346,346,https://api.fifa.com/api/v1/picture/flags-sq-4/uga,0.0
+92,2008-03-12T00:00:00,93,Trinidad and Tobago,TRI,345,340,https://api.fifa.com/api/v1/picture/flags-sq-4/tri,5.0
+93,2008-03-12T00:00:00,94,Zimbabwe,ZIM,343,341,https://api.fifa.com/api/v1/picture/flags-sq-4/zim,2.0
+94,2008-03-12T00:00:00,95,Guatemala,GUA,336,344,https://api.fifa.com/api/v1/picture/flags-sq-4/gua,-8.0
+95,2008-03-12T00:00:00,95,United Arab Emirates,UAE,336,343,https://api.fifa.com/api/v1/picture/flags-sq-4/uae,-7.0
+96,2008-03-12T00:00:00,97,Haiti,HAI,333,337,https://api.fifa.com/api/v1/picture/flags-sq-4/hai,-4.0
+97,2008-03-12T00:00:00,97,Tanzania,TAN,333,333,https://api.fifa.com/api/v1/picture/flags-sq-4/tan,0.0
+98,2008-03-12T00:00:00,99,Qatar,QAT,332,341,https://api.fifa.com/api/v1/picture/flags-sq-4/qat,-9.0
+99,2008-03-12T00:00:00,99,Bolivia,BOL,332,332,https://api.fifa.com/api/v1/picture/flags-sq-4/bol,0.0
+100,2008-03-12T00:00:00,101,Syria,SYR,329,328,https://api.fifa.com/api/v1/picture/flags-sq-4/syr,1.0
+101,2008-03-12T00:00:00,102,Gambia,GAM,328,328,https://api.fifa.com/api/v1/picture/flags-sq-4/gam,0.0
+102,2008-03-12T00:00:00,103,Jamaica,JAM,325,349,https://api.fifa.com/api/v1/picture/flags-sq-4/jam,-24.0
+103,2008-03-12T00:00:00,104,Gabon,GAB,318,322,https://api.fifa.com/api/v1/picture/flags-sq-4/gab,-4.0
+104,2008-03-12T00:00:00,105,Kazakhstan,KAZ,317,295,https://api.fifa.com/api/v1/picture/flags-sq-4/kaz,22.0
+105,2008-03-12T00:00:00,106,Jordan,JOR,312,294,https://api.fifa.com/api/v1/picture/flags-sq-4/jor,18.0
+106,2008-03-12T00:00:00,107,Botswana,BOT,310,314,https://api.fifa.com/api/v1/picture/flags-sq-4/bot,-4.0
+107,2008-03-12T00:00:00,108,Sudan,SDN,308,309,https://api.fifa.com/api/v1/picture/flags-sq-4/sdn,-1.0
+108,2008-03-12T00:00:00,109,Burkina Faso,BFA,305,296,https://api.fifa.com/api/v1/picture/flags-sq-4/bfa,9.0
+109,2008-03-12T00:00:00,110,Benin,BEN,302,292,https://api.fifa.com/api/v1/picture/flags-sq-4/ben,10.0
+110,2008-03-12T00:00:00,111,Cape Verde Islands,CPV,301,301,https://api.fifa.com/api/v1/picture/flags-sq-4/cpv,0.0
+111,2008-03-12T00:00:00,112,Cuba,CUB,292,356,https://api.fifa.com/api/v1/picture/flags-sq-4/cub,-64.0
+112,2008-03-12T00:00:00,113,Guyana,GUY,289,196,https://api.fifa.com/api/v1/picture/flags-sq-4/guy,93.0
+113,2008-03-12T00:00:00,114,Mauritania,MTN,283,283,https://api.fifa.com/api/v1/picture/flags-sq-4/mtn,0.0
+114,2008-03-12T00:00:00,115,Rwanda,RWA,274,274,https://api.fifa.com/api/v1/picture/flags-sq-4/rwa,0.0
+115,2008-03-12T00:00:00,116,New Caledonia,NCL,271,271,https://api.fifa.com/api/v1/picture/flags-sq-4/ncl,0.0
+116,2008-03-12T00:00:00,117,Vietnam,VIE,264,269,https://api.fifa.com/api/v1/picture/flags-sq-4/vie,-5.0
+117,2008-03-12T00:00:00,118,Kenya,KEN,262,261,https://api.fifa.com/api/v1/picture/flags-sq-4/ken,1.0
+118,2008-03-12T00:00:00,119,Azerbaijan,AZE,261,250,https://api.fifa.com/api/v1/picture/flags-sq-4/aze,11.0
+119,2008-03-12T00:00:00,120,Liechtenstein,LIE,260,260,https://api.fifa.com/api/v1/picture/flags-sq-4/lie,0.0
+120,2008-03-12T00:00:00,121,Kuwait,KUW,256,251,https://api.fifa.com/api/v1/picture/flags-sq-4/kuw,5.0
+121,2008-03-12T00:00:00,122,Namibia,NAM,253,253,https://api.fifa.com/api/v1/picture/flags-sq-4/nam,0.0
+122,2008-03-12T00:00:00,123,Burundi,BDI,250,250,https://api.fifa.com/api/v1/picture/flags-sq-4/bdi,0.0
+123,2008-03-12T00:00:00,123,Solomon Islands,SOL,250,250,https://api.fifa.com/api/v1/picture/flags-sq-4/sol,0.0
+124,2008-03-12T00:00:00,125,Hong Kong,HKG,240,235,https://api.fifa.com/api/v1/picture/flags-sq-4/hkg,5.0
+125,2008-03-12T00:00:00,126,Korea DPR,PRK,233,252,https://api.fifa.com/api/v1/picture/flags-sq-4/prk,-19.0
+126,2008-03-12T00:00:00,127,Kyrgyz Republic,KGZ,228,180,https://api.fifa.com/api/v1/picture/flags-sq-4/kgz,48.0
+127,2008-03-12T00:00:00,128,El Salvador,SLV,226,226,https://api.fifa.com/api/v1/picture/flags-sq-4/slv,0.0
+128,2008-03-12T00:00:00,129,Estonia,EST,225,239,https://api.fifa.com/api/v1/picture/flags-sq-4/est,-14.0
+129,2008-03-12T00:00:00,130,Indonesia,IDN,220,219,https://api.fifa.com/api/v1/picture/flags-sq-4/idn,1.0
+130,2008-03-12T00:00:00,131,Singapore,SIN,219,213,https://api.fifa.com/api/v1/picture/flags-sq-4/sin,6.0
+131,2008-03-12T00:00:00,132,Fiji,FIJ,208,208,https://api.fifa.com/api/v1/picture/flags-sq-4/fij,0.0
+132,2008-03-12T00:00:00,133,Eritrea,ERI,203,203,https://api.fifa.com/api/v1/picture/flags-sq-4/eri,0.0
+133,2008-03-12T00:00:00,134,Malta,MLT,198,193,https://api.fifa.com/api/v1/picture/flags-sq-4/mlt,5.0
+134,2008-03-12T00:00:00,135,Chad,CHA,191,164,https://api.fifa.com/api/v1/picture/flags-sq-4/cha,27.0
+135,2008-03-12T00:00:00,136,Turkmenistan,TKM,188,192,https://api.fifa.com/api/v1/picture/flags-sq-4/tkm,-4.0
+136,2008-03-12T00:00:00,137,Barbados,BRB,187,194,https://api.fifa.com/api/v1/picture/flags-sq-4/brb,-7.0
+137,2008-03-12T00:00:00,138,Malawi,MWI,179,182,https://api.fifa.com/api/v1/picture/flags-sq-4/mwi,-3.0
+138,2008-03-12T00:00:00,138,Yemen,YEM,179,162,https://api.fifa.com/api/v1/picture/flags-sq-4/yem,17.0
+139,2008-03-12T00:00:00,140,Antigua and Barbuda,ATG,176,170,https://api.fifa.com/api/v1/picture/flags-sq-4/atg,6.0
+140,2008-03-12T00:00:00,141,Vanuatu,VAN,175,175,https://api.fifa.com/api/v1/picture/flags-sq-4/van,0.0
+141,2008-03-12T00:00:00,142,St. Vincent / Grenadines,VIN,170,170,https://api.fifa.com/api/v1/picture/flags-sq-4/vin,0.0
+142,2008-03-12T00:00:00,143,Tajikistan,TJK,162,165,https://api.fifa.com/api/v1/picture/flags-sq-4/tjk,-3.0
+143,2008-03-12T00:00:00,144,Lebanon,LBN,161,168,https://api.fifa.com/api/v1/picture/flags-sq-4/lbn,-7.0
+144,2008-03-12T00:00:00,145,Liberia,LBR,152,152,https://api.fifa.com/api/v1/picture/flags-sq-4/lbr,0.0
+145,2008-03-12T00:00:00,146,Bermuda,BER,147,150,https://api.fifa.com/api/v1/picture/flags-sq-4/ber,-3.0
+146,2008-03-12T00:00:00,147,Samoa,SAM,142,142,https://api.fifa.com/api/v1/picture/flags-sq-4/sam,0.0
+147,2008-03-12T00:00:00,148,India,IND,138,152,https://api.fifa.com/api/v1/picture/flags-sq-4/ind,-14.0
+148,2008-03-12T00:00:00,149,Madagascar,MAD,127,127,https://api.fifa.com/api/v1/picture/flags-sq-4/mad,0.0
+149,2008-03-12T00:00:00,150,Niger,NIG,123,123,https://api.fifa.com/api/v1/picture/flags-sq-4/nig,0.0
+150,2008-03-12T00:00:00,150,St. Kitts and Nevis,SKN,123,125,https://api.fifa.com/api/v1/picture/flags-sq-4/skn,-2.0
+151,2008-03-12T00:00:00,152,Luxembourg,LUX,119,117,https://api.fifa.com/api/v1/picture/flags-sq-4/lux,2.0
+152,2008-03-12T00:00:00,153,Swaziland,SWZ,118,131,https://api.fifa.com/api/v1/picture/flags-sq-4/swz,-13.0
+153,2008-03-12T00:00:00,153,Maldives,MDV,118,116,https://api.fifa.com/api/v1/picture/flags-sq-4/mdv,2.0
+154,2008-03-12T00:00:00,155,Suriname,SUR,117,122,https://api.fifa.com/api/v1/picture/flags-sq-4/sur,-5.0
+155,2008-03-12T00:00:00,156,Lesotho,LES,116,113,https://api.fifa.com/api/v1/picture/flags-sq-4/les,3.0
+156,2008-03-12T00:00:00,157,Grenada,GRN,109,81,https://api.fifa.com/api/v1/picture/flags-sq-4/grn,28.0
+157,2008-03-12T00:00:00,158,Myanmar,MYA,99,99,https://api.fifa.com/api/v1/picture/flags-sq-4/mya,0.0
+158,2008-03-12T00:00:00,159,Palestine,PLE,97,92,https://api.fifa.com/api/v1/picture/flags-sq-4/ple,5.0
+159,2008-03-12T00:00:00,160,Turks and Caicos Islands,TCA,96,96,https://api.fifa.com/api/v1/picture/flags-sq-4/tca,0.0
+160,2008-03-12T00:00:00,161,Sierra Leone,SLE,94,94,https://api.fifa.com/api/v1/picture/flags-sq-4/sle,0.0
+161,2008-03-12T00:00:00,161,Tahiti,TAH,94,94,https://api.fifa.com/api/v1/picture/flags-sq-4/tah,0.0
+162,2008-03-12T00:00:00,163,Netherlands Antilles,ANT,93,93,https://api.fifa.com/api/v1/picture/flags-sq-4/ant,0.0
+163,2008-03-12T00:00:00,164,Malaysia,MAS,90,84,https://api.fifa.com/api/v1/picture/flags-sq-4/mas,6.0
+164,2008-03-12T00:00:00,165,Seychelles,SEY,89,89,https://api.fifa.com/api/v1/picture/flags-sq-4/sey,0.0
+165,2008-03-12T00:00:00,166,Dominican Republic,DOM,83,83,https://api.fifa.com/api/v1/picture/flags-sq-4/dom,0.0
+166,2008-03-12T00:00:00,166,Pakistan,PAK,83,85,https://api.fifa.com/api/v1/picture/flags-sq-4/pak,-2.0
+167,2008-03-12T00:00:00,168,Mauritius,MRI,81,83,https://api.fifa.com/api/v1/picture/flags-sq-4/mri,-2.0
+168,2008-03-12T00:00:00,168,Sri Lanka,SRI,81,79,https://api.fifa.com/api/v1/picture/flags-sq-4/sri,2.0
+169,2008-03-12T00:00:00,168,Puerto Rico,PUR,81,81,https://api.fifa.com/api/v1/picture/flags-sq-4/pur,0.0
+170,2008-03-12T00:00:00,171,Chinese Taipei,TPE,77,78,https://api.fifa.com/api/v1/picture/flags-sq-4/tpe,-1.0
+171,2008-03-12T00:00:00,171,Tonga,TGA,77,77,https://api.fifa.com/api/v1/picture/flags-sq-4/tga,0.0
+172,2008-03-12T00:00:00,173,Bangladesh,BAN,74,78,https://api.fifa.com/api/v1/picture/flags-sq-4/ban,-4.0
+173,2008-03-12T00:00:00,174,Guinea-Bissau,GNB,72,72,https://api.fifa.com/api/v1/picture/flags-sq-4/gnb,0.0
+174,2008-03-12T00:00:00,175,Montenegro,MNE,65,65,https://api.fifa.com/api/v1/picture/flags-sq-4/mne,0.0
+175,2008-03-12T00:00:00,175,Montenegro,MNE,65,65,https://api.fifa.com/api/v1/picture/flags-sq-4/mne,0.0
+176,2008-03-12T00:00:00,176,Djibouti,DJI,64,64,https://api.fifa.com/api/v1/picture/flags-sq-4/dji,0.0
+177,2008-03-12T00:00:00,176,Belize,BLZ,64,64,https://api.fifa.com/api/v1/picture/flags-sq-4/blz,0.0
+178,2008-03-12T00:00:00,178,Bahamas,BAH,58,58,https://api.fifa.com/api/v1/picture/flags-sq-4/bah,0.0
+179,2008-03-12T00:00:00,179,Andorra,AND,50,50,https://api.fifa.com/api/v1/picture/flags-sq-4/and,0.0
+180,2008-03-12T00:00:00,180,Nicaragua,NCA,46,64,https://api.fifa.com/api/v1/picture/flags-sq-4/nca,-18.0
+181,2008-03-12T00:00:00,181,Dominica,DMA,42,42,https://api.fifa.com/api/v1/picture/flags-sq-4/dma,0.0
+182,2008-03-12T00:00:00,181,Mongolia,MNG,42,44,https://api.fifa.com/api/v1/picture/flags-sq-4/mng,-2.0
+183,2008-03-12T00:00:00,183,Cayman Islands,CAY,36,36,https://api.fifa.com/api/v1/picture/flags-sq-4/cay,0.0
+184,2008-03-12T00:00:00,184,Laos,LAO,33,33,https://api.fifa.com/api/v1/picture/flags-sq-4/lao,0.0
+185,2008-03-12T00:00:00,185,St. Lucia,LCA,31,34,https://api.fifa.com/api/v1/picture/flags-sq-4/lca,-3.0
+186,2008-03-12T00:00:00,186,Cambodia,CAM,30,30,https://api.fifa.com/api/v1/picture/flags-sq-4/cam,0.0
+187,2008-03-12T00:00:00,186,Papua New Guinea,PNG,30,30,https://api.fifa.com/api/v1/picture/flags-sq-4/png,0.0
+188,2008-03-12T00:00:00,188,Nepal,NEP,29,29,https://api.fifa.com/api/v1/picture/flags-sq-4/nep,0.0
+189,2008-03-12T00:00:00,189,Brunei Darussalam,BRU,24,24,https://api.fifa.com/api/v1/picture/flags-sq-4/bru,0.0
+190,2008-03-12T00:00:00,190,Philippines,PHI,21,21,https://api.fifa.com/api/v1/picture/flags-sq-4/phi,0.0
+191,2008-03-12T00:00:00,191,Macau,MAC,18,18,https://api.fifa.com/api/v1/picture/flags-sq-4/mac,0.0
+192,2008-03-12T00:00:00,192,Afghanistan,AFG,16,16,https://api.fifa.com/api/v1/picture/flags-sq-4/afg,0.0
+193,2008-03-12T00:00:00,193,Faroe Islands,FRO,14,12,https://api.fifa.com/api/v1/picture/flags-sq-4/fro,2.0
+194,2008-03-12T00:00:00,193,British Virgin Islands,VGB,14,13,https://api.fifa.com/api/v1/picture/flags-sq-4/vgb,1.0
+195,2008-03-12T00:00:00,195,Comoros,COM,13,13,https://api.fifa.com/api/v1/picture/flags-sq-4/com,0.0
+196,2008-03-12T00:00:00,196,Somalia,SOM,8,8,https://api.fifa.com/api/v1/picture/flags-sq-4/som,0.0
+197,2008-03-12T00:00:00,197,Central African Republic,CTA,6,10,https://api.fifa.com/api/v1/picture/flags-sq-4/cta,-4.0
+198,2008-03-12T00:00:00,198,San Marino,SMR,5,5,https://api.fifa.com/api/v1/picture/flags-sq-4/smr,0.0
+199,2008-03-12T00:00:00,199,Anguilla,AIA,4,4,https://api.fifa.com/api/v1/picture/flags-sq-4/aia,0.0
+200,2008-03-12T00:00:00,199,Bhutan,BHU,4,4,https://api.fifa.com/api/v1/picture/flags-sq-4/bhu,0.0
+201,2008-03-12T00:00:00,201,Cook Islands,COK,2,2,https://api.fifa.com/api/v1/picture/flags-sq-4/cok,0.0
+202,2008-03-12T00:00:00,202,Aruba,ARU,0,0,https://api.fifa.com/api/v1/picture/flags-sq-4/aru,
+203,2008-03-12T00:00:00,202,Guam,GUM,0,0,https://api.fifa.com/api/v1/picture/flags-sq-4/gum,
+204,2008-03-12T00:00:00,202,American Samoa,ASA,0,0,https://api.fifa.com/api/v1/picture/flags-sq-4/asa,
+205,2008-03-12T00:00:00,202,Timor-Leste,TLS,0,0,https://api.fifa.com/api/v1/picture/flags-sq-4/tls,
+206,2008-03-12T00:00:00,202,Montserrat,MSR,0,0,https://api.fifa.com/api/v1/picture/flags-sq-4/msr,
+207,2008-03-12T00:00:00,202,US Virgin Islands,VIR,0,0,https://api.fifa.com/api/v1/picture/flags-sq-4/vir,
+208,2008-03-12T00:00:00,208,Sao Tome e Principe,STP,0,0,https://api.fifa.com/api/v1/picture/flags-sq-4/stp,

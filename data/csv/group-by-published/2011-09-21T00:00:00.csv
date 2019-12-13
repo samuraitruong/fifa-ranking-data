@@ -1,0 +1,209 @@
+,date,rank,country,ct,points,previousPoints,flag,delta
+0,2011-09-21T00:00:00,1,Spain,ESP,1605,1563,https://api.fifa.com/api/v1/picture/flags-sq-4/esp,42.0
+1,2011-09-21T00:00:00,2,Netherlands,NED,1571,1596,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,-25.0
+2,2011-09-21T00:00:00,3,Germany,GER,1290,1330,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,-40.0
+3,2011-09-21T00:00:00,4,Uruguay,URU,1184,1174,https://api.fifa.com/api/v1/picture/flags-sq-4/uru,10.0
+4,2011-09-21T00:00:00,5,Portugal,POR,1158,1060,https://api.fifa.com/api/v1/picture/flags-sq-4/por,98.0
+5,2011-09-21T00:00:00,6,Italy,ITA,1142,1110,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,32.0
+6,2011-09-21T00:00:00,7,Brazil,BRA,1132,1156,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,-24.0
+7,2011-09-21T00:00:00,8,England,ENG,1089,1177,https://api.fifa.com/api/v1/picture/flags-sq-4/eng,-88.0
+8,2011-09-21T00:00:00,9,Croatia,CRO,1057,1009,https://api.fifa.com/api/v1/picture/flags-sq-4/cro,48.0
+9,2011-09-21T00:00:00,10,Argentina,ARG,1024,1017,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,7.0
+10,2011-09-21T00:00:00,11,Greece,GRE,1000,937,https://api.fifa.com/api/v1/picture/flags-sq-4/gre,63.0
+11,2011-09-21T00:00:00,12,France,FRA,956,918,https://api.fifa.com/api/v1/picture/flags-sq-4/fra,38.0
+12,2011-09-21T00:00:00,13,Russia,RUS,954,940,https://api.fifa.com/api/v1/picture/flags-sq-4/rus,14.0
+13,2011-09-21T00:00:00,14,Chile,CHI,932,960,https://api.fifa.com/api/v1/picture/flags-sq-4/chi,-28.0
+14,2011-09-21T00:00:00,15,Japan,JPN,924,918,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn,6.0
+15,2011-09-21T00:00:00,16,Côte d'Ivoire,CIV,910,918,https://api.fifa.com/api/v1/picture/flags-sq-4/civ,-8.0
+16,2011-09-21T00:00:00,17,Denmark,DEN,893,841,https://api.fifa.com/api/v1/picture/flags-sq-4/den,52.0
+17,2011-09-21T00:00:00,18,Switzerland,SUI,886,757,https://api.fifa.com/api/v1/picture/flags-sq-4/sui,129.0
+18,2011-09-21T00:00:00,19,Australia,AUS,882,837,https://api.fifa.com/api/v1/picture/flags-sq-4/aus,45.0
+19,2011-09-21T00:00:00,20,Mexico,MEX,866,864,https://api.fifa.com/api/v1/picture/flags-sq-4/mex,2.0
+20,2011-09-21T00:00:00,21,Serbia,SRB,855,784,https://api.fifa.com/api/v1/picture/flags-sq-4/srb,71.0
+21,2011-09-21T00:00:00,22,Bosnia and Herzegovina,BIH,839,656,https://api.fifa.com/api/v1/picture/flags-sq-4/bih,183.0
+22,2011-09-21T00:00:00,23,Norway,NOR,835,943,https://api.fifa.com/api/v1/picture/flags-sq-4/nor,-108.0
+23,2011-09-21T00:00:00,24,Paraguay,PAR,825,807,https://api.fifa.com/api/v1/picture/flags-sq-4/par,18.0
+24,2011-09-21T00:00:00,25,Sweden,SWE,792,889,https://api.fifa.com/api/v1/picture/flags-sq-4/swe,-97.0
+25,2011-09-21T00:00:00,26,Montenegro,MNE,777,875,https://api.fifa.com/api/v1/picture/flags-sq-4/mne,-98.0
+26,2011-09-21T00:00:00,27,Hungary,HUN,754,613,https://api.fifa.com/api/v1/picture/flags-sq-4/hun,141.0
+27,2011-09-21T00:00:00,27,Turkey,TUR,754,811,https://api.fifa.com/api/v1/picture/flags-sq-4/tur,-57.0
+28,2011-09-21T00:00:00,29,Korea Republic,KOR,749,745,https://api.fifa.com/api/v1/picture/flags-sq-4/kor,4.0
+29,2011-09-21T00:00:00,29,Republic of Ireland,IRL,749,754,https://api.fifa.com/api/v1/picture/flags-sq-4/irl,-5.0
+30,2011-09-21T00:00:00,31,USA,USA,741,791,https://api.fifa.com/api/v1/picture/flags-sq-4/usa,-50.0
+31,2011-09-21T00:00:00,32,Colombia,COL,738,730,https://api.fifa.com/api/v1/picture/flags-sq-4/col,8.0
+32,2011-09-21T00:00:00,33,Slovenia,SVN,732,816,https://api.fifa.com/api/v1/picture/flags-sq-4/svn,-84.0
+33,2011-09-21T00:00:00,34,Belgium,BEL,729,675,https://api.fifa.com/api/v1/picture/flags-sq-4/bel,54.0
+34,2011-09-21T00:00:00,35,Peru,PER,724,806,https://api.fifa.com/api/v1/picture/flags-sq-4/per,-82.0
+35,2011-09-21T00:00:00,36,Egypt,EGY,713,739,https://api.fifa.com/api/v1/picture/flags-sq-4/egy,-26.0
+36,2011-09-21T00:00:00,37,Ghana,GHA,700,726,https://api.fifa.com/api/v1/picture/flags-sq-4/gha,-26.0
+37,2011-09-21T00:00:00,38,Israel,ISR,677,746,https://api.fifa.com/api/v1/picture/flags-sq-4/isr,-69.0
+38,2011-09-21T00:00:00,39,Slovakia,SVK,662,806,https://api.fifa.com/api/v1/picture/flags-sq-4/svk,-144.0
+39,2011-09-21T00:00:00,40,Czech Republic,CZE,656,635,https://api.fifa.com/api/v1/picture/flags-sq-4/cze,21.0
+40,2011-09-21T00:00:00,41,Burkina Faso,BFA,651,646,https://api.fifa.com/api/v1/picture/flags-sq-4/bfa,5.0
+41,2011-09-21T00:00:00,42,Senegal,SEN,614,591,https://api.fifa.com/api/v1/picture/flags-sq-4/sen,23.0
+42,2011-09-21T00:00:00,43,Nigeria,NGA,613,659,https://api.fifa.com/api/v1/picture/flags-sq-4/nga,-46.0
+43,2011-09-21T00:00:00,44,Armenia,ARM,610,456,https://api.fifa.com/api/v1/picture/flags-sq-4/arm,154.0
+44,2011-09-21T00:00:00,45,Jamaica,JAM,606,623,https://api.fifa.com/api/v1/picture/flags-sq-4/jam,-17.0
+45,2011-09-21T00:00:00,46,Algeria,ALG,605,612,https://api.fifa.com/api/v1/picture/flags-sq-4/alg,-7.0
+46,2011-09-21T00:00:00,47,Venezuela,VEN,598,615,https://api.fifa.com/api/v1/picture/flags-sq-4/ven,-17.0
+47,2011-09-21T00:00:00,48,Cameroon,CMR,596,582,https://api.fifa.com/api/v1/picture/flags-sq-4/cmr,14.0
+48,2011-09-21T00:00:00,49,Romania,ROU,584,558,https://api.fifa.com/api/v1/picture/flags-sq-4/rou,26.0
+49,2011-09-21T00:00:00,50,IR Iran,IRN,576,559,https://api.fifa.com/api/v1/picture/flags-sq-4/irn,17.0
+50,2011-09-21T00:00:00,51,South Africa,RSA,574,602,https://api.fifa.com/api/v1/picture/flags-sq-4/rsa,-28.0
+51,2011-09-21T00:00:00,52,Scotland,SCO,572,554,https://api.fifa.com/api/v1/picture/flags-sq-4/sco,18.0
+52,2011-09-21T00:00:00,53,Honduras,HON,564,589,https://api.fifa.com/api/v1/picture/flags-sq-4/hon,-25.0
+53,2011-09-21T00:00:00,53,Panama,PAN,564,524,https://api.fifa.com/api/v1/picture/flags-sq-4/pan,40.0
+54,2011-09-21T00:00:00,55,Bulgaria,BUL,558,586,https://api.fifa.com/api/v1/picture/flags-sq-4/bul,-28.0
+55,2011-09-21T00:00:00,56,Belarus,BLR,554,645,https://api.fifa.com/api/v1/picture/flags-sq-4/blr,-91.0
+56,2011-09-21T00:00:00,57,Costa Rica,CRC,549,530,https://api.fifa.com/api/v1/picture/flags-sq-4/crc,19.0
+57,2011-09-21T00:00:00,58,Estonia,EST,537,374,https://api.fifa.com/api/v1/picture/flags-sq-4/est,163.0
+58,2011-09-21T00:00:00,59,Morocco,MAR,534,529,https://api.fifa.com/api/v1/picture/flags-sq-4/mar,5.0
+59,2011-09-21T00:00:00,60,Ukraine,UKR,531,598,https://api.fifa.com/api/v1/picture/flags-sq-4/ukr,-67.0
+60,2011-09-21T00:00:00,61,Tunisia,TUN,526,546,https://api.fifa.com/api/v1/picture/flags-sq-4/tun,-20.0
+61,2011-09-21T00:00:00,62,Libya,LBY,519,504,https://api.fifa.com/api/v1/picture/flags-sq-4/lby,15.0
+62,2011-09-21T00:00:00,62,Mali,MLI,519,408,https://api.fifa.com/api/v1/picture/flags-sq-4/mli,111.0
+63,2011-09-21T00:00:00,64,Georgia,GEO,499,522,https://api.fifa.com/api/v1/picture/flags-sq-4/geo,-23.0
+64,2011-09-21T00:00:00,65,Poland,POL,496,498,https://api.fifa.com/api/v1/picture/flags-sq-4/pol,-2.0
+65,2011-09-21T00:00:00,66,Zimbabwe,ZIM,490,434,https://api.fifa.com/api/v1/picture/flags-sq-4/zim,56.0
+66,2011-09-21T00:00:00,67,Gabon,GAB,489,482,https://api.fifa.com/api/v1/picture/flags-sq-4/gab,7.0
+67,2011-09-21T00:00:00,68,Sierra Leone,SLE,488,348,https://api.fifa.com/api/v1/picture/flags-sq-4/sle,140.0
+68,2011-09-21T00:00:00,69,Ecuador,ECU,481,491,https://api.fifa.com/api/v1/picture/flags-sq-4/ecu,-10.0
+69,2011-09-21T00:00:00,70,Northern Ireland,NIR,477,545,https://api.fifa.com/api/v1/picture/flags-sq-4/nir,-68.0
+70,2011-09-21T00:00:00,71,Albania,ALB,474,546,https://api.fifa.com/api/v1/picture/flags-sq-4/alb,-72.0
+71,2011-09-21T00:00:00,72,Finland,FIN,471,416,https://api.fifa.com/api/v1/picture/flags-sq-4/fin,55.0
+72,2011-09-21T00:00:00,73,China PR,CHN,469,464,https://api.fifa.com/api/v1/picture/flags-sq-4/chn,5.0
+73,2011-09-21T00:00:00,74,Latvia,LVA,460,388,https://api.fifa.com/api/v1/picture/flags-sq-4/lva,72.0
+74,2011-09-21T00:00:00,75,Lithuania,LTU,459,552,https://api.fifa.com/api/v1/picture/flags-sq-4/ltu,-93.0
+75,2011-09-21T00:00:00,76,Guinea,GUI,447,464,https://api.fifa.com/api/v1/picture/flags-sq-4/gui,-17.0
+76,2011-09-21T00:00:00,77,Austria,AUT,442,472,https://api.fifa.com/api/v1/picture/flags-sq-4/aut,-30.0
+77,2011-09-21T00:00:00,78,Malawi,MWI,439,436,https://api.fifa.com/api/v1/picture/flags-sq-4/mwi,3.0
+78,2011-09-21T00:00:00,79,Uzbekistan,UZB,421,401,https://api.fifa.com/api/v1/picture/flags-sq-4/uzb,20.0
+79,2011-09-21T00:00:00,80,Trinidad and Tobago,TRI,414,355,https://api.fifa.com/api/v1/picture/flags-sq-4/tri,59.0
+80,2011-09-21T00:00:00,81,Bolivia,BOL,412,380,https://api.fifa.com/api/v1/picture/flags-sq-4/bol,32.0
+81,2011-09-21T00:00:00,82,Uganda,UGA,411,411,https://api.fifa.com/api/v1/picture/flags-sq-4/uga,0.0
+82,2011-09-21T00:00:00,83,Zambia,ZAM,409,427,https://api.fifa.com/api/v1/picture/flags-sq-4/zam,-18.0
+83,2011-09-21T00:00:00,84,Angola,ANG,407,338,https://api.fifa.com/api/v1/picture/flags-sq-4/ang,69.0
+84,2011-09-21T00:00:00,85,Jordan,JOR,406,348,https://api.fifa.com/api/v1/picture/flags-sq-4/jor,58.0
+85,2011-09-21T00:00:00,86,Cyprus,CYP,398,427,https://api.fifa.com/api/v1/picture/flags-sq-4/cyp,-29.0
+86,2011-09-21T00:00:00,87,Canada,CAN,395,319,https://api.fifa.com/api/v1/picture/flags-sq-4/can,76.0
+87,2011-09-21T00:00:00,88,El Salvador,SLV,390,431,https://api.fifa.com/api/v1/picture/flags-sq-4/slv,-41.0
+88,2011-09-21T00:00:00,89,New Zealand,NZL,377,346,https://api.fifa.com/api/v1/picture/flags-sq-4/nzl,31.0
+89,2011-09-21T00:00:00,90,Wales,WAL,374,251,https://api.fifa.com/api/v1/picture/flags-sq-4/wal,123.0
+90,2011-09-21T00:00:00,91,Cape Verde Islands,CPV,372,444,https://api.fifa.com/api/v1/picture/flags-sq-4/cpv,-72.0
+91,2011-09-21T00:00:00,92,Benin,BEN,370,394,https://api.fifa.com/api/v1/picture/flags-sq-4/ben,-24.0
+92,2011-09-21T00:00:00,93,Niger,NIG,369,309,https://api.fifa.com/api/v1/picture/flags-sq-4/nig,60.0
+93,2011-09-21T00:00:00,94,FYR Macedonia,MKD,366,358,https://api.fifa.com/api/v1/picture/flags-sq-4/mkd,8.0
+94,2011-09-21T00:00:00,95,Botswana,BOT,364,424,https://api.fifa.com/api/v1/picture/flags-sq-4/bot,-60.0
+95,2011-09-21T00:00:00,95,Togo,TOG,364,242,https://api.fifa.com/api/v1/picture/flags-sq-4/tog,122.0
+96,2011-09-21T00:00:00,97,Azerbaijan,AZE,359,272,https://api.fifa.com/api/v1/picture/flags-sq-4/aze,87.0
+97,2011-09-21T00:00:00,97,Saudi Arabia,KSA,359,372,https://api.fifa.com/api/v1/picture/flags-sq-4/ksa,-13.0
+98,2011-09-21T00:00:00,99,Kuwait,KUW,352,341,https://api.fifa.com/api/v1/picture/flags-sq-4/kuw,11.0
+99,2011-09-21T00:00:00,100,Qatar,QAT,350,364,https://api.fifa.com/api/v1/picture/flags-sq-4/qat,-14.0
+100,2011-09-21T00:00:00,101,Antigua and Barbuda,ATG,345,308,https://api.fifa.com/api/v1/picture/flags-sq-4/atg,37.0
+101,2011-09-21T00:00:00,102,Bahrain,BHR,335,325,https://api.fifa.com/api/v1/picture/flags-sq-4/bhr,10.0
+102,2011-09-21T00:00:00,103,Cuba,CUB,332,327,https://api.fifa.com/api/v1/picture/flags-sq-4/cub,5.0
+103,2011-09-21T00:00:00,103,Sudan,SDN,332,329,https://api.fifa.com/api/v1/picture/flags-sq-4/sdn,3.0
+104,2011-09-21T00:00:00,105,Oman,OMA,319,312,https://api.fifa.com/api/v1/picture/flags-sq-4/oma,7.0
+105,2011-09-21T00:00:00,106,Iceland,ISL,316,232,https://api.fifa.com/api/v1/picture/flags-sq-4/isl,84.0
+106,2011-09-21T00:00:00,107,Iraq,IRQ,307,293,https://api.fifa.com/api/v1/picture/flags-sq-4/irq,14.0
+107,2011-09-21T00:00:00,108,Haiti,HAI,305,259,https://api.fifa.com/api/v1/picture/flags-sq-4/hai,46.0
+108,2011-09-21T00:00:00,109,Guatemala,GUA,302,261,https://api.fifa.com/api/v1/picture/flags-sq-4/gua,41.0
+109,2011-09-21T00:00:00,109,Syria,SYR,302,337,https://api.fifa.com/api/v1/picture/flags-sq-4/syr,-35.0
+110,2011-09-21T00:00:00,111,Central African Republic,CTA,296,309,https://api.fifa.com/api/v1/picture/flags-sq-4/cta,-13.0
+111,2011-09-21T00:00:00,112,United Arab Emirates,UAE,287,299,https://api.fifa.com/api/v1/picture/flags-sq-4/uae,-12.0
+112,2011-09-21T00:00:00,113,Suriname,SUR,286,285,https://api.fifa.com/api/v1/picture/flags-sq-4/sur,1.0
+113,2011-09-21T00:00:00,114,Luxembourg,LUX,284,211,https://api.fifa.com/api/v1/picture/flags-sq-4/lux,73.0
+114,2011-09-21T00:00:00,115,Mozambique,MOZ,280,327,https://api.fifa.com/api/v1/picture/flags-sq-4/moz,-47.0
+115,2011-09-21T00:00:00,116,Guyana,GUY,278,260,https://api.fifa.com/api/v1/picture/flags-sq-4/guy,18.0
+116,2011-09-21T00:00:00,117,Thailand,THA,274,246,https://api.fifa.com/api/v1/picture/flags-sq-4/tha,28.0
+117,2011-09-21T00:00:00,118,Liechtenstein,LIE,270,247,https://api.fifa.com/api/v1/picture/flags-sq-4/lie,23.0
+118,2011-09-21T00:00:00,119,Namibia,NAM,269,169,https://api.fifa.com/api/v1/picture/flags-sq-4/nam,100.0
+119,2011-09-21T00:00:00,120,Grenada,GRN,265,249,https://api.fifa.com/api/v1/picture/flags-sq-4/grn,16.0
+120,2011-09-21T00:00:00,121,Korea DPR,PRK,258,260,https://api.fifa.com/api/v1/picture/flags-sq-4/prk,-2.0
+121,2011-09-21T00:00:00,122,Moldova,MDA,255,364,https://api.fifa.com/api/v1/picture/flags-sq-4/mda,-109.0
+122,2011-09-21T00:00:00,123,St. Kitts and Nevis,SKN,252,239,https://api.fifa.com/api/v1/picture/flags-sq-4/skn,13.0
+123,2011-09-21T00:00:00,124,Tajikistan,TJK,250,132,https://api.fifa.com/api/v1/picture/flags-sq-4/tjk,118.0
+124,2011-09-21T00:00:00,125,Gambia,GAM,248,306,https://api.fifa.com/api/v1/picture/flags-sq-4/gam,-58.0
+125,2011-09-21T00:00:00,126,Faroe Islands,FRO,244,273,https://api.fifa.com/api/v1/picture/flags-sq-4/fro,-29.0
+126,2011-09-21T00:00:00,127,Tanzania,TAN,240,229,https://api.fifa.com/api/v1/picture/flags-sq-4/tan,11.0
+127,2011-09-21T00:00:00,128,Liberia,LBR,230,238,https://api.fifa.com/api/v1/picture/flags-sq-4/lbr,-8.0
+128,2011-09-21T00:00:00,129,Congo DR,COD,225,222,https://api.fifa.com/api/v1/picture/flags-sq-4/cod,3.0
+129,2011-09-21T00:00:00,130,Vietnam,VIE,209,209,https://api.fifa.com/api/v1/picture/flags-sq-4/vie,0.0
+130,2011-09-21T00:00:00,131,Kenya,KEN,200,198,https://api.fifa.com/api/v1/picture/flags-sq-4/ken,2.0
+131,2011-09-21T00:00:00,132,Kazakhstan,KAZ,198,227,https://api.fifa.com/api/v1/picture/flags-sq-4/kaz,-29.0
+132,2011-09-21T00:00:00,133,Ethiopia,ETH,196,181,https://api.fifa.com/api/v1/picture/flags-sq-4/eth,15.0
+133,2011-09-21T00:00:00,134,Belize,BLZ,195,146,https://api.fifa.com/api/v1/picture/flags-sq-4/blz,49.0
+134,2011-09-21T00:00:00,135,Nepal,NEP,193,193,https://api.fifa.com/api/v1/picture/flags-sq-4/nep,0.0
+135,2011-09-21T00:00:00,136,Singapore,SIN,188,209,https://api.fifa.com/api/v1/picture/flags-sq-4/sin,-21.0
+136,2011-09-21T00:00:00,137,Yemen,YEM,185,198,https://api.fifa.com/api/v1/picture/flags-sq-4/yem,-13.0
+137,2011-09-21T00:00:00,138,Bangladesh,BAN,183,182,https://api.fifa.com/api/v1/picture/flags-sq-4/ban,1.0
+138,2011-09-21T00:00:00,139,Dominican Republic,DOM,182,198,https://api.fifa.com/api/v1/picture/flags-sq-4/dom,-16.0
+139,2011-09-21T00:00:00,139,Indonesia,IDN,182,207,https://api.fifa.com/api/v1/picture/flags-sq-4/idn,-25.0
+140,2011-09-21T00:00:00,141,Burundi,BDI,179,164,https://api.fifa.com/api/v1/picture/flags-sq-4/bdi,15.0
+141,2011-09-21T00:00:00,141,Turkmenistan,TKM,179,179,https://api.fifa.com/api/v1/picture/flags-sq-4/tkm,0.0
+142,2011-09-21T00:00:00,143,Rwanda,RWA,178,192,https://api.fifa.com/api/v1/picture/flags-sq-4/rwa,-14.0
+143,2011-09-21T00:00:00,144,Congo,CGO,177,201,https://api.fifa.com/api/v1/picture/flags-sq-4/cgo,-24.0
+144,2011-09-21T00:00:00,145,Puerto Rico,PUR,173,167,https://api.fifa.com/api/v1/picture/flags-sq-4/pur,6.0
+145,2011-09-21T00:00:00,146,Lebanon,LIB,163,106,https://api.fifa.com/api/v1/picture/flags-sq-4/lib,57.0
+146,2011-09-21T00:00:00,147,Fiji,FIJ,158,180,https://api.fifa.com/api/v1/picture/flags-sq-4/fij,-22.0
+147,2011-09-21T00:00:00,147,Malaysia,MAS,158,158,https://api.fifa.com/api/v1/picture/flags-sq-4/mas,0.0
+148,2011-09-21T00:00:00,149,Dominica,DMA,154,193,https://api.fifa.com/api/v1/picture/flags-sq-4/dma,-39.0
+149,2011-09-21T00:00:00,150,Barbados,BRB,148,156,https://api.fifa.com/api/v1/picture/flags-sq-4/brb,-8.0
+150,2011-09-21T00:00:00,151,US Virgin Islands,VIR,144,144,https://api.fifa.com/api/v1/picture/flags-sq-4/vir,0.0
+151,2011-09-21T00:00:00,152,Bahamas,BAH,141,141,https://api.fifa.com/api/v1/picture/flags-sq-4/bah,0.0
+152,2011-09-21T00:00:00,152,Equatorial Guinea,EQG,141,131,https://api.fifa.com/api/v1/picture/flags-sq-4/eqg,10.0
+153,2011-09-21T00:00:00,154,Malta,MLT,138,102,https://api.fifa.com/api/v1/picture/flags-sq-4/mlt,36.0
+154,2011-09-21T00:00:00,155,New Caledonia,NCL,128,104,https://api.fifa.com/api/v1/picture/flags-sq-4/ncl,24.0
+155,2011-09-21T00:00:00,156,Hong Kong,HKG,124,131,https://api.fifa.com/api/v1/picture/flags-sq-4/hkg,-7.0
+156,2011-09-21T00:00:00,156,Nicaragua,NCA,124,75,https://api.fifa.com/api/v1/picture/flags-sq-4/nca,49.0
+157,2011-09-21T00:00:00,158,Madagascar,MAD,115,139,https://api.fifa.com/api/v1/picture/flags-sq-4/mad,-24.0
+158,2011-09-21T00:00:00,158,St. Vincent / Grenadines,VIN,115,112,https://api.fifa.com/api/v1/picture/flags-sq-4/vin,3.0
+159,2011-09-21T00:00:00,160,Lesotho,LES,113,40,https://api.fifa.com/api/v1/picture/flags-sq-4/les,73.0
+160,2011-09-21T00:00:00,161,Chad,CHA,110,131,https://api.fifa.com/api/v1/picture/flags-sq-4/cha,-21.0
+161,2011-09-21T00:00:00,162,Palestine,PLE,108,117,https://api.fifa.com/api/v1/picture/flags-sq-4/ple,-9.0
+162,2011-09-21T00:00:00,163,Guinea-Bissau,GNB,106,142,https://api.fifa.com/api/v1/picture/flags-sq-4/gnb,-36.0
+163,2011-09-21T00:00:00,163,India,IND,106,112,https://api.fifa.com/api/v1/picture/flags-sq-4/ind,-6.0
+164,2011-09-21T00:00:00,163,Mongolia,MNG,106,106,https://api.fifa.com/api/v1/picture/flags-sq-4/mng,0.0
+165,2011-09-21T00:00:00,166,Maldives,MDV,105,105,https://api.fifa.com/api/v1/picture/flags-sq-4/mdv,0.0
+166,2011-09-21T00:00:00,166,Philippines,PHI,105,105,https://api.fifa.com/api/v1/picture/flags-sq-4/phi,0.0
+167,2011-09-21T00:00:00,168,Myanmar,MYA,98,99,https://api.fifa.com/api/v1/picture/flags-sq-4/mya,-1.0
+168,2011-09-21T00:00:00,169,Swaziland,SWZ,96,90,https://api.fifa.com/api/v1/picture/flags-sq-4/swz,6.0
+169,2011-09-21T00:00:00,170,Aruba,ARU,92,92,https://api.fifa.com/api/v1/picture/flags-sq-4/aru,0.0
+170,2011-09-21T00:00:00,170,Pakistan,PAK,92,92,https://api.fifa.com/api/v1/picture/flags-sq-4/pak,0.0
+171,2011-09-21T00:00:00,172,Chinese Taipei,TPE,89,97,https://api.fifa.com/api/v1/picture/flags-sq-4/tpe,-8.0
+172,2011-09-21T00:00:00,173,Vanuatu,VAN,88,105,https://api.fifa.com/api/v1/picture/flags-sq-4/van,-17.0
+173,2011-09-21T00:00:00,174,Cambodia,CAM,84,83,https://api.fifa.com/api/v1/picture/flags-sq-4/cam,1.0
+174,2011-09-21T00:00:00,174,Cayman Islands,CAY,84,90,https://api.fifa.com/api/v1/picture/flags-sq-4/cay,-6.0
+175,2011-09-21T00:00:00,176,Sri Lanka,SRI,83,86,https://api.fifa.com/api/v1/picture/flags-sq-4/sri,-3.0
+176,2011-09-21T00:00:00,177,Seychelles,SEY,82,85,https://api.fifa.com/api/v1/picture/flags-sq-4/sey,-3.0
+177,2011-09-21T00:00:00,178,Comoros,COM,75,68,https://api.fifa.com/api/v1/picture/flags-sq-4/com,7.0
+178,2011-09-21T00:00:00,178,Curacao,CUW,75,103,https://api.fifa.com/api/v1/picture/flags-sq-4/cuw,-28.0
+179,2011-09-21T00:00:00,178,Kyrgyz Republic,KGZ,75,79,https://api.fifa.com/api/v1/picture/flags-sq-4/kgz,-4.0
+180,2011-09-21T00:00:00,178,Solomon Islands,SOL,75,79,https://api.fifa.com/api/v1/picture/flags-sq-4/sol,-4.0
+181,2011-09-21T00:00:00,182,Laos,LAO,71,71,https://api.fifa.com/api/v1/picture/flags-sq-4/lao,0.0
+182,2011-09-21T00:00:00,183,Afghanistan,AFG,70,70,https://api.fifa.com/api/v1/picture/flags-sq-4/afg,0.0
+183,2011-09-21T00:00:00,184,Tahiti,TAH,68,57,https://api.fifa.com/api/v1/picture/flags-sq-4/tah,11.0
+184,2011-09-21T00:00:00,185,St. Lucia,LCA,46,54,https://api.fifa.com/api/v1/picture/flags-sq-4/lca,-8.0
+185,2011-09-21T00:00:00,186,Guam,GUM,36,10,https://api.fifa.com/api/v1/picture/flags-sq-4/gum,26.0
+186,2011-09-21T00:00:00,187,Papua New Guinea,PNG,34,0,https://api.fifa.com/api/v1/picture/flags-sq-4/png,
+187,2011-09-21T00:00:00,188,Mauritius,MRI,33,35,https://api.fifa.com/api/v1/picture/flags-sq-4/mri,-2.0
+188,2011-09-21T00:00:00,189,Bermuda,BER,30,40,https://api.fifa.com/api/v1/picture/flags-sq-4/ber,-10.0
+189,2011-09-21T00:00:00,190,Eritrea,ERI,28,29,https://api.fifa.com/api/v1/picture/flags-sq-4/eri,-1.0
+190,2011-09-21T00:00:00,191,British Virgin Islands,VGB,25,38,https://api.fifa.com/api/v1/picture/flags-sq-4/vgb,-13.0
+191,2011-09-21T00:00:00,191,Macau,MAC,25,25,https://api.fifa.com/api/v1/picture/flags-sq-4/mac,0.0
+192,2011-09-21T00:00:00,193,Mauritania,MTN,23,27,https://api.fifa.com/api/v1/picture/flags-sq-4/mtn,-4.0
+193,2011-09-21T00:00:00,193,Somalia,SOM,23,23,https://api.fifa.com/api/v1/picture/flags-sq-4/som,0.0
+194,2011-09-21T00:00:00,195,Turks and Caicos Islands,TCA,13,13,https://api.fifa.com/api/v1/picture/flags-sq-4/tca,0.0
+195,2011-09-21T00:00:00,196,Djibouti,DJI,12,12,https://api.fifa.com/api/v1/picture/flags-sq-4/dji,0.0
+196,2011-09-21T00:00:00,197,Cook Islands,COK,10,10,https://api.fifa.com/api/v1/picture/flags-sq-4/cok,0.0
+197,2011-09-21T00:00:00,198,Anguilla,AIA,9,7,https://api.fifa.com/api/v1/picture/flags-sq-4/aia,2.0
+198,2011-09-21T00:00:00,198,Brunei Darussalam,BRU,9,9,https://api.fifa.com/api/v1/picture/flags-sq-4/bru,0.0
+199,2011-09-21T00:00:00,200,Bhutan,BHU,6,6,https://api.fifa.com/api/v1/picture/flags-sq-4/bhu,0.0
+200,2011-09-21T00:00:00,201,Timor-Leste,TLS,3,3,https://api.fifa.com/api/v1/picture/flags-sq-4/tls,0.0
+201,2011-09-21T00:00:00,201,Tonga,TGA,3,15,https://api.fifa.com/api/v1/picture/flags-sq-4/tga,-12.0
+202,2011-09-21T00:00:00,203,American Samoa,ASA,0,0,https://api.fifa.com/api/v1/picture/flags-sq-4/asa,
+203,2011-09-21T00:00:00,203,Andorra,AND,0,0,https://api.fifa.com/api/v1/picture/flags-sq-4/and,
+204,2011-09-21T00:00:00,203,Montserrat,MSR,0,0,https://api.fifa.com/api/v1/picture/flags-sq-4/msr,
+205,2011-09-21T00:00:00,203,Samoa,SAM,0,26,https://api.fifa.com/api/v1/picture/flags-sq-4/sam,
+206,2011-09-21T00:00:00,203,San Marino,SMR,0,0,https://api.fifa.com/api/v1/picture/flags-sq-4/smr,
+207,2011-09-21T00:00:00,208,Sao Tome e Principe,STP,0,0,https://api.fifa.com/api/v1/picture/flags-sq-4/stp,
