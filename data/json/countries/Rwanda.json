@@ -1,0 +1,2760 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "131",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 1089,
+        "previousPoints": 1106,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -17
+    },
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "137",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 1093,
+        "previousPoints": 1100,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -7
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "138",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 1088,
+        "previousPoints": 1094,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -6
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "137",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 1094,
+        "previousPoints": 1094,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "130",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 1104,
+        "previousPoints": 1088,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 16
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "133",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 1088,
+        "previousPoints": 1088,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "129",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 1106,
+        "previousPoints": 1104,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 2
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "112",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 296,
+        "previousPoints": 283,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 13
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "138",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 1092,
+        "previousPoints": 1093,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "136",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 1100,
+        "previousPoints": 1100,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "135",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 1094,
+        "previousPoints": 1094,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "132",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 1266,
+        "previousPoints": 1266,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "136",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 1088,
+        "previousPoints": 1088,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "113",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 295,
+        "previousPoints": 269,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 26
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "136",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 216,
+        "previousPoints": 252,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -36
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "120",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 269,
+        "previousPoints": 268,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 1
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "123",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 252,
+        "previousPoints": 252,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "137",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 1094,
+        "previousPoints": 1092,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 2
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "114",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 283,
+        "previousPoints": 282,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 1
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "116",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 282,
+        "previousPoints": 295,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -13
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "123",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 252,
+        "previousPoints": 296,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -44
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "118",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 268,
+        "previousPoints": 273,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -5
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "118",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 273,
+        "previousPoints": 260,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 13
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "128",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 246,
+        "previousPoints": 285,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -39
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "127",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 248,
+        "previousPoints": 246,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 2
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "119",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 260,
+        "previousPoints": 248,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 12
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "93",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 364,
+        "previousPoints": 345,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 19
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "118",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 285,
+        "previousPoints": 285,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "117",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 285,
+        "previousPoints": 364,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -79
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "100",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 345,
+        "previousPoints": 368,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -23
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "93",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 368,
+        "previousPoints": 373,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -5
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "92",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 373,
+        "previousPoints": 336,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 37
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "107",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 325,
+        "previousPoints": 325,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "101",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 336,
+        "previousPoints": 325,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 11
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "107",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 325,
+        "previousPoints": 303,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 22
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "121",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 303,
+        "previousPoints": 334,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -31
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "87",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 401,
+        "previousPoints": 401,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "111",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 334,
+        "previousPoints": 332,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 2
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "85",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 397,
+        "previousPoints": 402,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -5
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "87",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 401,
+        "previousPoints": 397,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 4
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "85",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 402,
+        "previousPoints": 375,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 27
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "103",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 332,
+        "previousPoints": 401,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -69
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "91",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 375,
+        "previousPoints": 338,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 37
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "101",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 338,
+        "previousPoints": 356,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -18
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "96",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 356,
+        "previousPoints": 364,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -8
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "93",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 364,
+        "previousPoints": 426,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -62
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "78",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 426,
+        "previousPoints": 369,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 57
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "91",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 369,
+        "previousPoints": 433,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -64
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "73",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 474,
+        "previousPoints": 474,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "78",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 433,
+        "previousPoints": 346,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 87
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "64",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 550,
+        "previousPoints": 492,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 58
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "74",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 474,
+        "previousPoints": 550,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -76
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "94",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 346,
+        "previousPoints": 474,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -128
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "72",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 492,
+        "previousPoints": 494,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -2
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "68",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 494,
+        "previousPoints": 494,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "95",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 356,
+        "previousPoints": 349,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 7
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "68",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 494,
+        "previousPoints": 367,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 127
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "90",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 367,
+        "previousPoints": 356,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 11
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "93",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 349,
+        "previousPoints": 318,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 31
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "101",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 318,
+        "previousPoints": 276,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 42
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "109",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 276,
+        "previousPoints": 271,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 5
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "131",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 197,
+        "previousPoints": 197,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "116",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 271,
+        "previousPoints": 197,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 74
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "129",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 197,
+        "previousPoints": 186,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 11
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "134",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 186,
+        "previousPoints": 195,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -9
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "133",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 197,
+        "previousPoints": 229,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -32
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "134",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 195,
+        "previousPoints": 198,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -3
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "130",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 198,
+        "previousPoints": 197,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 1
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "127",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 229,
+        "previousPoints": 242,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -13
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "129",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 242,
+        "previousPoints": 233,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 9
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "131",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 233,
+        "previousPoints": 240,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -7
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "134",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 233,
+        "previousPoints": 224,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 9
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "135",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 224,
+        "previousPoints": 219,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 5
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "136",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 219,
+        "previousPoints": 219,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "131",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 240,
+        "previousPoints": 233,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 7
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "130",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 246,
+        "previousPoints": 236,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 10
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "132",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 228,
+        "previousPoints": 246,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -18
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "135",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 219,
+        "previousPoints": 228,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -9
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "137",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 236,
+        "previousPoints": 246,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -10
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "122",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 280,
+        "previousPoints": 272,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 8
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "120",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 278,
+        "previousPoints": 264,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 14
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "124",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 272,
+        "previousPoints": 278,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -6
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "134",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 246,
+        "previousPoints": 280,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -34
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "rank": "125",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 256,
+        "previousPoints": 284,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -28
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "125",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 264,
+        "previousPoints": 256,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 8
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "rank": "105",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 327,
+        "previousPoints": 327,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "rank": "119",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 284,
+        "previousPoints": 327,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -43
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "rank": "105",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 327,
+        "previousPoints": 316,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 11
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "rank": "105",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 316,
+        "previousPoints": 308,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 8
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "rank": "108",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 308,
+        "previousPoints": 304,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 4
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "rank": "110",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 304,
+        "previousPoints": 314,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -10
+    },
+    {
+        "date": "2011-11-23T00:00:00",
+        "rank": "114",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 297,
+        "previousPoints": 277,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 20
+    },
+    {
+        "date": "2011-12-21T00:00:00",
+        "rank": "106",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 314,
+        "previousPoints": 297,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 17
+    },
+    {
+        "date": "2011-10-19T00:00:00",
+        "rank": "112",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 277,
+        "previousPoints": 178,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 99
+    },
+    {
+        "date": "2011-09-21T00:00:00",
+        "rank": "143",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 178,
+        "previousPoints": 192,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -14
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "134",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 190,
+        "previousPoints": 189,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 1
+    },
+    {
+        "date": "2011-06-29T00:00:00",
+        "rank": "134",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 189,
+        "previousPoints": 228,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -39
+    },
+    {
+        "date": "2011-05-18T00:00:00",
+        "rank": "122",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 228,
+        "previousPoints": 228,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2011-04-13T00:00:00",
+        "rank": "123",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 228,
+        "previousPoints": 175,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 53
+    },
+    {
+        "date": "2011-08-24T00:00:00",
+        "rank": "138",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 192,
+        "previousPoints": 190,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 2
+    },
+    {
+        "date": "2011-01-12T00:00:00",
+        "rank": "134",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 171,
+        "previousPoints": 185,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -14
+    },
+    {
+        "date": "2011-02-02T00:00:00",
+        "rank": "135",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 171,
+        "previousPoints": 171,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2011-03-09T00:00:00",
+        "rank": "133",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 175,
+        "previousPoints": 171,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 4
+    },
+    {
+        "date": "2010-12-15T00:00:00",
+        "rank": "132",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 185,
+        "previousPoints": 215,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -30
+    },
+    {
+        "date": "2010-10-20T00:00:00",
+        "rank": "118",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 227,
+        "previousPoints": 226,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 1
+    },
+    {
+        "date": "2010-09-15T00:00:00",
+        "rank": "112",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 226,
+        "previousPoints": 235,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -9
+    },
+    {
+        "date": "2010-11-17T00:00:00",
+        "rank": "127",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 215,
+        "previousPoints": 227,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -12
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "111",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 235,
+        "previousPoints": 233,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 2
+    },
+    {
+        "date": "2010-07-14T00:00:00",
+        "rank": "113",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 233,
+        "previousPoints": 269,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -36
+    },
+    {
+        "date": "2010-05-26T00:00:00",
+        "rank": "107",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 269,
+        "previousPoints": 269,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2010-04-28T00:00:00",
+        "rank": "107",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 269,
+        "previousPoints": 269,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2010-03-31T00:00:00",
+        "rank": "107",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 269,
+        "previousPoints": 282,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -13
+    },
+    {
+        "date": "2010-02-03T00:00:00",
+        "rank": "107",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 275,
+        "previousPoints": 308,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -33
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "105",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 282,
+        "previousPoints": 275,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 7
+    },
+    {
+        "date": "2009-12-16T00:00:00",
+        "rank": "102",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 308,
+        "previousPoints": 255,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 53
+    },
+    {
+        "date": "2009-11-20T00:00:00",
+        "rank": "110",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 255,
+        "previousPoints": 246,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 9
+    },
+    {
+        "date": "2009-10-16T00:00:00",
+        "rank": "114",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 246,
+        "previousPoints": 279,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -33
+    },
+    {
+        "date": "2009-09-02T00:00:00",
+        "rank": "117",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 279,
+        "previousPoints": 287,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -8
+    },
+    {
+        "date": "2009-07-01T00:00:00",
+        "rank": "113",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 298,
+        "previousPoints": 375,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -77
+    },
+    {
+        "date": "2009-08-05T00:00:00",
+        "rank": "117",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 287,
+        "previousPoints": 298,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -11
+    },
+    {
+        "date": "2009-06-03T00:00:00",
+        "rank": "96",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 375,
+        "previousPoints": 417,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -42
+    },
+    {
+        "date": "2009-05-06T00:00:00",
+        "rank": "84",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 417,
+        "previousPoints": 417,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2009-04-08T00:00:00",
+        "rank": "83",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 417,
+        "previousPoints": 406,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 11
+    },
+    {
+        "date": "2009-03-11T00:00:00",
+        "rank": "85",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 406,
+        "previousPoints": 406,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2008-12-17T00:00:00",
+        "rank": "78",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 450,
+        "previousPoints": 406,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 44
+    },
+    {
+        "date": "2009-02-11T00:00:00",
+        "rank": "86",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 406,
+        "previousPoints": 391,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 15
+    },
+    {
+        "date": "2008-11-12T00:00:00",
+        "rank": "87",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 406,
+        "previousPoints": 410,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -4
+    },
+    {
+        "date": "2009-01-14T00:00:00",
+        "rank": "91",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 391,
+        "previousPoints": 450,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -59
+    },
+    {
+        "date": "2008-09-03T00:00:00",
+        "rank": "85",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 400,
+        "previousPoints": 399,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 1
+    },
+    {
+        "date": "2008-10-08T00:00:00",
+        "rank": "87",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 410,
+        "previousPoints": 400,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 10
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "83",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 399,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 3
+    },
+    {
+        "date": "2008-06-04T00:00:00",
+        "rank": "106",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 297,
+        "previousPoints": 289,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 8
+    },
+    {
+        "date": "2008-07-02T00:00:00",
+        "rank": "87",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 396,
+        "previousPoints": 297,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 99
+    },
+    {
+        "date": "2008-04-09T00:00:00",
+        "rank": "111",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 289,
+        "previousPoints": 274,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 15
+    },
+    {
+        "date": "2008-05-07T00:00:00",
+        "rank": "110",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 289,
+        "previousPoints": 289,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2008-03-12T00:00:00",
+        "rank": "115",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 274,
+        "previousPoints": 274,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2008-01-16T00:00:00",
+        "rank": "109",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 302,
+        "previousPoints": 345,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -43
+    },
+    {
+        "date": "2008-02-13T00:00:00",
+        "rank": "114",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 274,
+        "previousPoints": 302,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -28
+    },
+    {
+        "date": "2007-11-22T00:00:00",
+        "rank": "118",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 271,
+        "previousPoints": 270,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 1
+    },
+    {
+        "date": "2007-12-17T00:00:00",
+        "rank": "99",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 345,
+        "previousPoints": 271,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 74
+    },
+    {
+        "date": "2007-10-24T00:00:00",
+        "rank": "118",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 270,
+        "previousPoints": 267,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 3
+    },
+    {
+        "date": "2007-09-19T00:00:00",
+        "rank": "118",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 267,
+        "previousPoints": 227,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 40
+    },
+    {
+        "date": "2007-07-18T00:00:00",
+        "rank": "122",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 228,
+        "previousPoints": 256,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -28
+    },
+    {
+        "date": "2007-06-13T00:00:00",
+        "rank": "112",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 256,
+        "previousPoints": 212,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 44
+    },
+    {
+        "date": "2007-08-22T00:00:00",
+        "rank": "121",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 227,
+        "previousPoints": 228,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "2007-04-18T00:00:00",
+        "rank": "121",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 212,
+        "previousPoints": 205,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 7
+    },
+    {
+        "date": "2007-05-16T00:00:00",
+        "rank": "122",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 212,
+        "previousPoints": 212,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2007-03-14T00:00:00",
+        "rank": "121",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 205,
+        "previousPoints": 206,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "2007-02-14T00:00:00",
+        "rank": "120",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 206,
+        "previousPoints": 219,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -13
+    },
+    {
+        "date": "2007-01-17T00:00:00",
+        "rank": "119",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 219,
+        "previousPoints": 220,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "2006-12-18T00:00:00",
+        "rank": "121",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 220,
+        "previousPoints": 226,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -6
+    },
+    {
+        "date": "2006-10-18T00:00:00",
+        "rank": "114",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 226,
+        "previousPoints": 238,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -12
+    },
+    {
+        "date": "2006-11-22T00:00:00",
+        "rank": "114",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 226,
+        "previousPoints": 226,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "106",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 238,
+        "previousPoints": 237,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 1
+    },
+    {
+        "date": "2006-08-16T00:00:00",
+        "rank": "109",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 237,
+        "previousPoints": 256,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -19
+    },
+    {
+        "date": "2006-07-12T00:00:00",
+        "rank": "103",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 256,
+        "previousPoints": 476,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -220
+    },
+    {
+        "date": "2006-03-15T00:00:00",
+        "rank": "92",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 484,
+        "previousPoints": 486,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -2
+    },
+    {
+        "date": "2006-05-17T00:00:00",
+        "rank": "94",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 476,
+        "previousPoints": 478,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -2
+    },
+    {
+        "date": "2006-04-19T00:00:00",
+        "rank": "93",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 478,
+        "previousPoints": 484,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -6
+    },
+    {
+        "date": "2006-02-15T00:00:00",
+        "rank": "91",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 486,
+        "previousPoints": 487,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "106",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 446,
+        "previousPoints": 450,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -4
+    },
+    {
+        "date": "2005-12-16T00:00:00",
+        "rank": "89",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 488,
+        "previousPoints": 446,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 42
+    },
+    {
+        "date": "2006-01-18T00:00:00",
+        "rank": "90",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 487,
+        "previousPoints": 488,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "2005-10-17T00:00:00",
+        "rank": "105",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 450,
+        "previousPoints": 456,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -6
+    },
+    {
+        "date": "2005-09-12T00:00:00",
+        "rank": "106",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 456,
+        "previousPoints": 457,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "2005-08-17T00:00:00",
+        "rank": "104",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 457,
+        "previousPoints": 462,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -5
+    },
+    {
+        "date": "2005-07-20T00:00:00",
+        "rank": "104",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 462,
+        "previousPoints": 472,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -10
+    },
+    {
+        "date": "2005-06-15T00:00:00",
+        "rank": "99",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 472,
+        "previousPoints": 467,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 5
+    },
+    {
+        "date": "2005-05-18T00:00:00",
+        "rank": "100",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 467,
+        "previousPoints": 471,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -4
+    },
+    {
+        "date": "2005-04-20T00:00:00",
+        "rank": "101",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 471,
+        "previousPoints": 474,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -3
+    },
+    {
+        "date": "2004-12-20T00:00:00",
+        "rank": "99",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 475,
+        "previousPoints": 470,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 5
+    },
+    {
+        "date": "2005-03-23T00:00:00",
+        "rank": "100",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 474,
+        "previousPoints": 477,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -3
+    },
+    {
+        "date": "2005-01-19T00:00:00",
+        "rank": "98",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 479,
+        "previousPoints": 475,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 4
+    },
+    {
+        "date": "2005-02-16T00:00:00",
+        "rank": "99",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 477,
+        "previousPoints": 479,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -2
+    },
+    {
+        "date": "2004-11-10T00:00:00",
+        "rank": "97",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 470,
+        "previousPoints": 469,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 1
+    },
+    {
+        "date": "2004-09-01T00:00:00",
+        "rank": "98",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 471,
+        "previousPoints": 461,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 10
+    },
+    {
+        "date": "2004-10-06T00:00:00",
+        "rank": "97",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 469,
+        "previousPoints": 471,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -2
+    },
+    {
+        "date": "2004-07-07T00:00:00",
+        "rank": "98",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 467,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 18
+    },
+    {
+        "date": "2004-08-04T00:00:00",
+        "rank": "99",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 461,
+        "previousPoints": 467,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -6
+    },
+    {
+        "date": "2004-05-12T00:00:00",
+        "rank": "98",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 454,
+        "previousPoints": 455,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "2004-06-09T00:00:00",
+        "rank": "100",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 449,
+        "previousPoints": 454,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -5
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "101",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 451,
+        "previousPoints": 452,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "2004-04-14T00:00:00",
+        "rank": "100",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 455,
+        "previousPoints": 451,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 4
+    },
+    {
+        "date": "2004-02-18T00:00:00",
+        "rank": "100",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 452,
+        "previousPoints": 430,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 22
+    },
+    {
+        "date": "2004-01-14T00:00:00",
+        "rank": "109",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 430,
+        "previousPoints": 425,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 5
+    },
+    {
+        "date": "2003-12-15T00:00:00",
+        "rank": "109",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 425,
+        "previousPoints": 425,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "108",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 425,
+        "previousPoints": 428,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -3
+    },
+    {
+        "date": "2003-10-22T00:00:00",
+        "rank": "104",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 428,
+        "previousPoints": 404,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 24
+    },
+    {
+        "date": "2003-08-27T00:00:00",
+        "rank": "109",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 406,
+        "previousPoints": 403,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 3
+    },
+    {
+        "date": "2003-09-24T00:00:00",
+        "rank": "111",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 404,
+        "previousPoints": 406,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -2
+    },
+    {
+        "date": "2003-07-30T00:00:00",
+        "rank": "110",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 403,
+        "previousPoints": 386,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 17
+    },
+    {
+        "date": "2003-06-25T00:00:00",
+        "rank": "119",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 386,
+        "previousPoints": 367,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 19
+    },
+    {
+        "date": "2003-05-21T00:00:00",
+        "rank": "121",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 367,
+        "previousPoints": 368,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "2003-04-23T00:00:00",
+        "rank": "122",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 368,
+        "previousPoints": 346,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 22
+    },
+    {
+        "date": "2003-02-19T00:00:00",
+        "rank": "125",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 346,
+        "previousPoints": 347,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "2002-12-18T00:00:00",
+        "rank": "130",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 326,
+        "previousPoints": 328,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -2
+    },
+    {
+        "date": "2003-01-15T00:00:00",
+        "rank": "124",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 347,
+        "previousPoints": 326,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 21
+    },
+    {
+        "date": "2003-03-26T00:00:00",
+        "rank": "126",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 346,
+        "previousPoints": 346,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2002-11-20T00:00:00",
+        "rank": "130",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 328,
+        "previousPoints": 329,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "2002-10-23T00:00:00",
+        "rank": "131",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 329,
+        "previousPoints": 322,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 7
+    },
+    {
+        "date": "2002-07-03T00:00:00",
+        "rank": "132",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 317,
+        "previousPoints": 319,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -2
+    },
+    {
+        "date": "2002-08-14T00:00:00",
+        "rank": "132",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 315,
+        "previousPoints": 317,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -2
+    },
+    {
+        "date": "2002-09-18T00:00:00",
+        "rank": "131",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 322,
+        "previousPoints": 315,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 7
+    },
+    {
+        "date": "2002-05-15T00:00:00",
+        "rank": "133",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 319,
+        "previousPoints": 321,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -2
+    },
+    {
+        "date": "2002-03-20T00:00:00",
+        "rank": "133",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 322,
+        "previousPoints": 323,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "2002-04-17T00:00:00",
+        "rank": "132",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 321,
+        "previousPoints": 322,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "2002-01-16T00:00:00",
+        "rank": "132",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 323,
+        "previousPoints": 255,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 68
+    },
+    {
+        "date": "2001-12-19T00:00:00",
+        "rank": "144",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 255,
+        "previousPoints": 265,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -10
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "132",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 323,
+        "previousPoints": 323,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2001-08-22T00:00:00",
+        "rank": "140",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 285,
+        "previousPoints": 286,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "2001-11-21T00:00:00",
+        "rank": "142",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 265,
+        "previousPoints": 282,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -17
+    },
+    {
+        "date": "2001-10-17T00:00:00",
+        "rank": "140",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 282,
+        "previousPoints": 283,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "2001-09-19T00:00:00",
+        "rank": "140",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 283,
+        "previousPoints": 285,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -2
+    },
+    {
+        "date": "2001-07-18T00:00:00",
+        "rank": "139",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 286,
+        "previousPoints": 293,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -7
+    },
+    {
+        "date": "2001-05-16T00:00:00",
+        "rank": "136",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 294,
+        "previousPoints": 298,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -4
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "139",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 293,
+        "previousPoints": 294,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "2001-04-11T00:00:00",
+        "rank": "132",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 298,
+        "previousPoints": 298,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2001-03-14T00:00:00",
+        "rank": "131",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 298,
+        "previousPoints": 299,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "2001-02-14T00:00:00",
+        "rank": "130",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 299,
+        "previousPoints": 300,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "2000-12-20T00:00:00",
+        "rank": "128",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 300,
+        "previousPoints": 292,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 8
+    },
+    {
+        "date": "2001-01-17T00:00:00",
+        "rank": "128",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 300,
+        "previousPoints": 300,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2000-10-11T00:00:00",
+        "rank": "140",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 252,
+        "previousPoints": 252,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2000-11-15T00:00:00",
+        "rank": "127",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 292,
+        "previousPoints": 252,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 40
+    },
+    {
+        "date": "2000-09-06T00:00:00",
+        "rank": "140",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 252,
+        "previousPoints": 252,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2000-08-09T00:00:00",
+        "rank": "141",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 252,
+        "previousPoints": 198,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 54
+    },
+    {
+        "date": "2000-07-05T00:00:00",
+        "rank": "155",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 198,
+        "previousPoints": 199,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "2000-06-07T00:00:00",
+        "rank": "151",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 199,
+        "previousPoints": 199,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2000-04-12T00:00:00",
+        "rank": "151",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 179,
+        "previousPoints": 179,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2000-05-10T00:00:00",
+        "rank": "149",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 199,
+        "previousPoints": 179,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 20
+    },
+    {
+        "date": "2000-02-16T00:00:00",
+        "rank": "147",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 180,
+        "previousPoints": 180,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "148",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 179,
+        "previousPoints": 180,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "1999-11-17T00:00:00",
+        "rank": "159",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 151,
+        "previousPoints": 151,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1999-12-22T00:00:00",
+        "rank": "146",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 180,
+        "previousPoints": 151,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 29
+    },
+    {
+        "date": "2000-01-19T00:00:00",
+        "rank": "147",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 180,
+        "previousPoints": 180,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1999-10-13T00:00:00",
+        "rank": "157",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 151,
+        "previousPoints": 151,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1999-08-18T00:00:00",
+        "rank": "158",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 147,
+        "previousPoints": 82,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 65
+    },
+    {
+        "date": "1999-09-15T00:00:00",
+        "rank": "157",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 151,
+        "previousPoints": 147,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 4
+    },
+    {
+        "date": "1999-07-21T00:00:00",
+        "rank": "178",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 82,
+        "previousPoints": 85,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -3
+    },
+    {
+        "date": "1999-06-16T00:00:00",
+        "rank": "175",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 85,
+        "previousPoints": 86,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "1999-05-19T00:00:00",
+        "rank": "175",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 86,
+        "previousPoints": 86,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1999-04-21T00:00:00",
+        "rank": "173",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 86,
+        "previousPoints": 86,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1999-03-24T00:00:00",
+        "rank": "173",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 86,
+        "previousPoints": 86,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1999-01-27T00:00:00",
+        "rank": "173",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 87,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 80
+    },
+    {
+        "date": "1999-02-24T00:00:00",
+        "rank": "173",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 86,
+        "previousPoints": 87,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "1998-12-23T00:00:00",
+        "rank": "170",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 7,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "1998-11-18T00:00:00",
+        "rank": "166",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1998-10-21T00:00:00",
+        "rank": "166",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1998-09-16T00:00:00",
+        "rank": "163",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 8,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 2
+    },
+    {
+        "date": "1998-07-15T00:00:00",
+        "rank": "172",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 5,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1998-08-19T00:00:00",
+        "rank": "167",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 6,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 1
+    },
+    {
+        "date": "1998-04-22T00:00:00",
+        "rank": "172",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 5,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1998-05-20T00:00:00",
+        "rank": "172",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 5,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1998-03-18T00:00:00",
+        "rank": "172",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 5,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1998-02-18T00:00:00",
+        "rank": "172",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 5,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1997-12-23T00:00:00",
+        "rank": "172",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 5,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "172",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 5,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1997-08-20T00:00:00",
+        "rank": "168",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1997-10-17T00:00:00",
+        "rank": "173",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 5,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1997-07-16T00:00:00",
+        "rank": "168",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1997-06-18T00:00:00",
+        "rank": "168",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1997-04-09T00:00:00",
+        "rank": "163",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1997-09-17T00:00:00",
+        "rank": "170",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 5,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": -1
+    },
+    {
+        "date": "1997-05-14T00:00:00",
+        "rank": "164",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1997-02-27T00:00:00",
+        "rank": "159",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1996-12-18T00:00:00",
+        "rank": "159",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 6,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 1
+    },
+    {
+        "date": "1996-10-23T00:00:00",
+        "rank": "164",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 5,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1996-11-20T00:00:00",
+        "rank": "164",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 5,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1996-08-28T00:00:00",
+        "rank": "165",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1996-09-25T00:00:00",
+        "rank": "164",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 5,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 1
+    },
+    {
+        "date": "1996-07-03T00:00:00",
+        "rank": "164",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 4,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 2
+    },
+    {
+        "date": "1996-04-24T00:00:00",
+        "rank": "171",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1996-02-21T00:00:00",
+        "rank": "171",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1996-05-22T00:00:00",
+        "rank": "173",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1996-01-24T00:00:00",
+        "rank": "168",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa",
+        "delta": 0
+    },
+    {
+        "date": "1995-12-19T00:00:00",
+        "rank": "168",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 2,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa"
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "163",
+        "country": "Rwanda",
+        "ct": "RWA",
+        "points": 0,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/rwa"
+    }
+]

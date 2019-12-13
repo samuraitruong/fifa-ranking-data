@@ -1,0 +1,3001 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "118",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 1155,
+        "previousPoints": 1167,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -12
+    },
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "114",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 1172,
+        "previousPoints": 1188,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -16
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "115",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 1172,
+        "previousPoints": 1172,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "115",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 1172,
+        "previousPoints": 1172,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "117",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 1167,
+        "previousPoints": 1172,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -5
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "114",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 1172,
+        "previousPoints": 1172,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "117",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 1167,
+        "previousPoints": 1167,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "98",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 360,
+        "previousPoints": 360,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "115",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 1172,
+        "previousPoints": 1172,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "111",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 1188,
+        "previousPoints": 1188,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "114",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 1172,
+        "previousPoints": 1172,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "113",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 1373,
+        "previousPoints": 1373,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "115",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 1172,
+        "previousPoints": 1172,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "97",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 360,
+        "previousPoints": 360,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "111",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 292,
+        "previousPoints": 332,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -40
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "97",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 360,
+        "previousPoints": 358,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 2
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "103",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 332,
+        "previousPoints": 332,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "116",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 1172,
+        "previousPoints": 1172,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "97",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 360,
+        "previousPoints": 360,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "98",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 360,
+        "previousPoints": 360,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "102",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 332,
+        "previousPoints": 360,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -28
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "99",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 358,
+        "previousPoints": 366,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -8
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "97",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 366,
+        "previousPoints": 448,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -82
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "113",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 309,
+        "previousPoints": 300,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 9
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "83",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 415,
+        "previousPoints": 309,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 106
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "76",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 448,
+        "previousPoints": 415,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 33
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "95",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 355,
+        "previousPoints": 355,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "113",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 300,
+        "previousPoints": 300,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "113",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 300,
+        "previousPoints": 355,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -55
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "94",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 355,
+        "previousPoints": 355,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "96",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 355,
+        "previousPoints": 355,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "96",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 355,
+        "previousPoints": 357,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -2
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "97",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 352,
+        "previousPoints": 372,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -20
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "96",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 357,
+        "previousPoints": 352,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 5
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "93",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 372,
+        "previousPoints": 381,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -9
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "88",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 381,
+        "previousPoints": 376,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 5
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "118",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 298,
+        "previousPoints": 298,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "90",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 376,
+        "previousPoints": 317,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 59
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "115",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 297,
+        "previousPoints": 290,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 7
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "118",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 298,
+        "previousPoints": 297,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 1
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "117",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 290,
+        "previousPoints": 285,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 5
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "108",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 317,
+        "previousPoints": 298,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 19
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "121",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 285,
+        "previousPoints": 295,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -10
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "118",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 295,
+        "previousPoints": 281,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 14
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "121",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 281,
+        "previousPoints": 286,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -5
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "121",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 286,
+        "previousPoints": 304,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -18
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "105",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 304,
+        "previousPoints": 304,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "104",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 304,
+        "previousPoints": 300,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 4
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "88",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 382,
+        "previousPoints": 382,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "111",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 300,
+        "previousPoints": 387,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -87
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "87",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 379,
+        "previousPoints": 382,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -3
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "88",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 382,
+        "previousPoints": 379,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 3
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "83",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 387,
+        "previousPoints": 382,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 5
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "86",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 382,
+        "previousPoints": 374,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 8
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "85",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 374,
+        "previousPoints": 374,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "77",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 421,
+        "previousPoints": 424,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -3
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "86",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 374,
+        "previousPoints": 387,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -13
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "84",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 387,
+        "previousPoints": 421,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -34
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "75",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 424,
+        "previousPoints": 533,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -109
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "50",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 533,
+        "previousPoints": 469,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 64
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "64",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 469,
+        "previousPoints": 565,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -96
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "71",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 484,
+        "previousPoints": 484,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "54",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 565,
+        "previousPoints": 484,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 81
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "71",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 484,
+        "previousPoints": 481,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 3
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "72",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 481,
+        "previousPoints": 484,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -3
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "75",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 471,
+        "previousPoints": 493,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -22
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "73",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 484,
+        "previousPoints": 464,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 20
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "76",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 464,
+        "previousPoints": 471,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -7
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "74",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 493,
+        "previousPoints": 493,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "73",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 493,
+        "previousPoints": 497,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -4
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "72",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 497,
+        "previousPoints": 443,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 54
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "83",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 443,
+        "previousPoints": 497,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -54
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "70",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 497,
+        "previousPoints": 517,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -20
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "67",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 517,
+        "previousPoints": 517,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "80",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 443,
+        "previousPoints": 443,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "61",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 517,
+        "previousPoints": 526,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -9
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "63",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 517,
+        "previousPoints": 517,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "67",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 517,
+        "previousPoints": 517,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "62",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 526,
+        "previousPoints": 521,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 5
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "61",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 521,
+        "previousPoints": 499,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 22
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "59",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 518,
+        "previousPoints": 529,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -11
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "67",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 499,
+        "previousPoints": 518,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -19
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "62",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 521,
+        "previousPoints": 521,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "rank": "65",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 488,
+        "previousPoints": 523,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -35
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "57",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 529,
+        "previousPoints": 488,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 41
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "rank": "61",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 542,
+        "previousPoints": 533,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 9
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "rank": "59",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 523,
+        "previousPoints": 542,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -19
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "rank": "63",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 533,
+        "previousPoints": 465,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 68
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "rank": "73",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 465,
+        "previousPoints": 533,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -68
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "rank": "64",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 533,
+        "previousPoints": 533,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "rank": "60",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 533,
+        "previousPoints": 526,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 7
+    },
+    {
+        "date": "2011-11-23T00:00:00",
+        "rank": "61",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 521,
+        "previousPoints": 519,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 2
+    },
+    {
+        "date": "2011-12-21T00:00:00",
+        "rank": "60",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 526,
+        "previousPoints": 521,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 5
+    },
+    {
+        "date": "2011-10-19T00:00:00",
+        "rank": "63",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 519,
+        "previousPoints": 488,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 31
+    },
+    {
+        "date": "2011-09-21T00:00:00",
+        "rank": "68",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 488,
+        "previousPoints": 348,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 140
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "93",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 348,
+        "previousPoints": 348,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2011-06-29T00:00:00",
+        "rank": "96",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 348,
+        "previousPoints": 246,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 102
+    },
+    {
+        "date": "2011-05-18T00:00:00",
+        "rank": "118",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 246,
+        "previousPoints": 234,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 12
+    },
+    {
+        "date": "2011-04-13T00:00:00",
+        "rank": "121",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 234,
+        "previousPoints": 233,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 1
+    },
+    {
+        "date": "2011-08-24T00:00:00",
+        "rank": "92",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 348,
+        "previousPoints": 348,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2011-01-12T00:00:00",
+        "rank": "123",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 233,
+        "previousPoints": 224,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 9
+    },
+    {
+        "date": "2011-02-02T00:00:00",
+        "rank": "121",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 233,
+        "previousPoints": 233,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2011-03-09T00:00:00",
+        "rank": "122",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 233,
+        "previousPoints": 233,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2010-12-15T00:00:00",
+        "rank": "125",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 224,
+        "previousPoints": 219,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 5
+    },
+    {
+        "date": "2010-10-20T00:00:00",
+        "rank": "122",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 214,
+        "previousPoints": 144,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 70
+    },
+    {
+        "date": "2010-09-15T00:00:00",
+        "rank": "132",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 144,
+        "previousPoints": 130,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 14
+    },
+    {
+        "date": "2010-11-17T00:00:00",
+        "rank": "125",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 219,
+        "previousPoints": 214,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 5
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "137",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 130,
+        "previousPoints": 130,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2010-07-14T00:00:00",
+        "rank": "139",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 130,
+        "previousPoints": 181,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -51
+    },
+    {
+        "date": "2010-05-26T00:00:00",
+        "rank": "130",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 181,
+        "previousPoints": 162,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 19
+    },
+    {
+        "date": "2010-04-28T00:00:00",
+        "rank": "133",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 162,
+        "previousPoints": 162,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2010-03-31T00:00:00",
+        "rank": "135",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 162,
+        "previousPoints": 159,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 3
+    },
+    {
+        "date": "2010-02-03T00:00:00",
+        "rank": "132",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 159,
+        "previousPoints": 145,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 14
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "135",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 159,
+        "previousPoints": 159,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2009-12-16T00:00:00",
+        "rank": "138",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 145,
+        "previousPoints": 137,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 8
+    },
+    {
+        "date": "2009-11-20T00:00:00",
+        "rank": "141",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 137,
+        "previousPoints": 117,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 20
+    },
+    {
+        "date": "2009-10-16T00:00:00",
+        "rank": "152",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 117,
+        "previousPoints": 241,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -124
+    },
+    {
+        "date": "2009-09-02T00:00:00",
+        "rank": "121",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 241,
+        "previousPoints": 241,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2009-07-01T00:00:00",
+        "rank": "125",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 241,
+        "previousPoints": 421,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -180
+    },
+    {
+        "date": "2009-08-05T00:00:00",
+        "rank": "125",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 241,
+        "previousPoints": 241,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2009-06-03T00:00:00",
+        "rank": "85",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 421,
+        "previousPoints": 359,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 62
+    },
+    {
+        "date": "2009-05-06T00:00:00",
+        "rank": "98",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 359,
+        "previousPoints": 319,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 40
+    },
+    {
+        "date": "2009-04-08T00:00:00",
+        "rank": "110",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 319,
+        "previousPoints": 315,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 4
+    },
+    {
+        "date": "2009-03-11T00:00:00",
+        "rank": "110",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 315,
+        "previousPoints": 315,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2008-12-17T00:00:00",
+        "rank": "116",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 286,
+        "previousPoints": 253,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 33
+    },
+    {
+        "date": "2009-02-11T00:00:00",
+        "rank": "109",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 315,
+        "previousPoints": 315,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2008-11-12T00:00:00",
+        "rank": "124",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 253,
+        "previousPoints": 232,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 21
+    },
+    {
+        "date": "2009-01-14T00:00:00",
+        "rank": "110",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 315,
+        "previousPoints": 286,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 29
+    },
+    {
+        "date": "2008-09-03T00:00:00",
+        "rank": "145",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 181,
+        "previousPoints": 193,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -12
+    },
+    {
+        "date": "2008-10-08T00:00:00",
+        "rank": "133",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 232,
+        "previousPoints": 181,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 51
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "134",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 193,
+        "previousPoints": 193,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2008-06-04T00:00:00",
+        "rank": "163",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 102,
+        "previousPoints": 94,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 8
+    },
+    {
+        "date": "2008-07-02T00:00:00",
+        "rank": "137",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 193,
+        "previousPoints": 102,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 91
+    },
+    {
+        "date": "2008-04-09T00:00:00",
+        "rank": "162",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 102,
+        "previousPoints": 94,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 8
+    },
+    {
+        "date": "2008-05-07T00:00:00",
+        "rank": "166",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 94,
+        "previousPoints": 102,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -8
+    },
+    {
+        "date": "2008-03-12T00:00:00",
+        "rank": "161",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 94,
+        "previousPoints": 94,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2008-01-16T00:00:00",
+        "rank": "159",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 94,
+        "previousPoints": 102,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -8
+    },
+    {
+        "date": "2008-02-13T00:00:00",
+        "rank": "159",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 94,
+        "previousPoints": 94,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2007-11-22T00:00:00",
+        "rank": "155",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 112,
+        "previousPoints": 115,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -3
+    },
+    {
+        "date": "2007-12-17T00:00:00",
+        "rank": "156",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 102,
+        "previousPoints": 112,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -10
+    },
+    {
+        "date": "2007-10-24T00:00:00",
+        "rank": "155",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 115,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 64
+    },
+    {
+        "date": "2007-09-19T00:00:00",
+        "rank": "172",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 51,
+        "previousPoints": 81,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -30
+    },
+    {
+        "date": "2007-07-18T00:00:00",
+        "rank": "161",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 81,
+        "previousPoints": 94,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -13
+    },
+    {
+        "date": "2007-06-13T00:00:00",
+        "rank": "156",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 94,
+        "previousPoints": 100,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -6
+    },
+    {
+        "date": "2007-08-22T00:00:00",
+        "rank": "164",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 81,
+        "previousPoints": 81,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2007-04-18T00:00:00",
+        "rank": "153",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 100,
+        "previousPoints": 108,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -8
+    },
+    {
+        "date": "2007-05-16T00:00:00",
+        "rank": "155",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 100,
+        "previousPoints": 100,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2007-03-14T00:00:00",
+        "rank": "152",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 108,
+        "previousPoints": 108,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2007-02-14T00:00:00",
+        "rank": "151",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 108,
+        "previousPoints": 108,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2007-01-17T00:00:00",
+        "rank": "151",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 108,
+        "previousPoints": 108,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2006-12-18T00:00:00",
+        "rank": "148",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 108,
+        "previousPoints": 108,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2006-10-18T00:00:00",
+        "rank": "147",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 130,
+        "previousPoints": 155,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -25
+    },
+    {
+        "date": "2006-11-22T00:00:00",
+        "rank": "151",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 108,
+        "previousPoints": 130,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -22
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "133",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 155,
+        "previousPoints": 89,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 66
+    },
+    {
+        "date": "2006-08-16T00:00:00",
+        "rank": "154",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 89,
+        "previousPoints": 89,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2006-07-12T00:00:00",
+        "rank": "155",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 89,
+        "previousPoints": 207,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -118
+    },
+    {
+        "date": "2006-03-15T00:00:00",
+        "rank": "163",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 211,
+        "previousPoints": 212,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -1
+    },
+    {
+        "date": "2006-05-17T00:00:00",
+        "rank": "165",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 207,
+        "previousPoints": 208,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -1
+    },
+    {
+        "date": "2006-04-19T00:00:00",
+        "rank": "165",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 208,
+        "previousPoints": 211,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -3
+    },
+    {
+        "date": "2006-02-15T00:00:00",
+        "rank": "163",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 212,
+        "previousPoints": 213,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "162",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 204,
+        "previousPoints": 209,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -5
+    },
+    {
+        "date": "2005-12-16T00:00:00",
+        "rank": "163",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 213,
+        "previousPoints": 204,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 9
+    },
+    {
+        "date": "2006-01-18T00:00:00",
+        "rank": "163",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 213,
+        "previousPoints": 213,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2005-10-17T00:00:00",
+        "rank": "162",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 209,
+        "previousPoints": 214,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -5
+    },
+    {
+        "date": "2005-09-12T00:00:00",
+        "rank": "162",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 214,
+        "previousPoints": 218,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -4
+    },
+    {
+        "date": "2005-08-17T00:00:00",
+        "rank": "162",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 218,
+        "previousPoints": 245,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -27
+    },
+    {
+        "date": "2005-07-20T00:00:00",
+        "rank": "156",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 245,
+        "previousPoints": 218,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 27
+    },
+    {
+        "date": "2005-06-15T00:00:00",
+        "rank": "164",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 218,
+        "previousPoints": 223,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -5
+    },
+    {
+        "date": "2005-05-18T00:00:00",
+        "rank": "162",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 223,
+        "previousPoints": 226,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -3
+    },
+    {
+        "date": "2005-04-20T00:00:00",
+        "rank": "163",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 226,
+        "previousPoints": 229,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -3
+    },
+    {
+        "date": "2004-12-20T00:00:00",
+        "rank": "160",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 232,
+        "previousPoints": 250,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -18
+    },
+    {
+        "date": "2005-03-23T00:00:00",
+        "rank": "162",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 229,
+        "previousPoints": 231,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -2
+    },
+    {
+        "date": "2005-01-19T00:00:00",
+        "rank": "160",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 232,
+        "previousPoints": 232,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2005-02-16T00:00:00",
+        "rank": "162",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 231,
+        "previousPoints": 232,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -1
+    },
+    {
+        "date": "2004-11-10T00:00:00",
+        "rank": "157",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 250,
+        "previousPoints": 255,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -5
+    },
+    {
+        "date": "2004-09-01T00:00:00",
+        "rank": "153",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 264,
+        "previousPoints": 270,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -6
+    },
+    {
+        "date": "2004-10-06T00:00:00",
+        "rank": "156",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 255,
+        "previousPoints": 264,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -9
+    },
+    {
+        "date": "2004-07-07T00:00:00",
+        "rank": "152",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 276,
+        "previousPoints": 281,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -5
+    },
+    {
+        "date": "2004-08-04T00:00:00",
+        "rank": "153",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 270,
+        "previousPoints": 276,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -6
+    },
+    {
+        "date": "2004-05-12T00:00:00",
+        "rank": "148",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 285,
+        "previousPoints": 289,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -4
+    },
+    {
+        "date": "2004-06-09T00:00:00",
+        "rank": "151",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 281,
+        "previousPoints": 285,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "146",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 292,
+        "previousPoints": 294,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -2
+    },
+    {
+        "date": "2004-04-14T00:00:00",
+        "rank": "147",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 289,
+        "previousPoints": 292,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -3
+    },
+    {
+        "date": "2004-02-18T00:00:00",
+        "rank": "146",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 294,
+        "previousPoints": 295,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -1
+    },
+    {
+        "date": "2004-01-14T00:00:00",
+        "rank": "146",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 295,
+        "previousPoints": 295,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2003-12-15T00:00:00",
+        "rank": "146",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 295,
+        "previousPoints": 298,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -3
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "143",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 298,
+        "previousPoints": 286,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 12
+    },
+    {
+        "date": "2003-10-22T00:00:00",
+        "rank": "145",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 286,
+        "previousPoints": 308,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -22
+    },
+    {
+        "date": "2003-08-27T00:00:00",
+        "rank": "134",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 322,
+        "previousPoints": 324,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -2
+    },
+    {
+        "date": "2003-09-24T00:00:00",
+        "rank": "136",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 308,
+        "previousPoints": 322,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -14
+    },
+    {
+        "date": "2003-07-30T00:00:00",
+        "rank": "134",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 324,
+        "previousPoints": 329,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -5
+    },
+    {
+        "date": "2003-06-25T00:00:00",
+        "rank": "135",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 329,
+        "previousPoints": 323,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 6
+    },
+    {
+        "date": "2003-05-21T00:00:00",
+        "rank": "133",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 323,
+        "previousPoints": 325,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -2
+    },
+    {
+        "date": "2003-04-23T00:00:00",
+        "rank": "132",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 325,
+        "previousPoints": 309,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 16
+    },
+    {
+        "date": "2003-02-19T00:00:00",
+        "rank": "134",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 311,
+        "previousPoints": 312,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -1
+    },
+    {
+        "date": "2002-12-18T00:00:00",
+        "rank": "133",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 312,
+        "previousPoints": 312,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2003-01-15T00:00:00",
+        "rank": "134",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 312,
+        "previousPoints": 312,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2003-03-26T00:00:00",
+        "rank": "136",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 309,
+        "previousPoints": 311,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -2
+    },
+    {
+        "date": "2002-11-20T00:00:00",
+        "rank": "135",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 312,
+        "previousPoints": 288,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 24
+    },
+    {
+        "date": "2002-10-23T00:00:00",
+        "rank": "141",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 288,
+        "previousPoints": 269,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 19
+    },
+    {
+        "date": "2002-07-03T00:00:00",
+        "rank": "144",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 270,
+        "previousPoints": 279,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -9
+    },
+    {
+        "date": "2002-08-14T00:00:00",
+        "rank": "144",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 261,
+        "previousPoints": 270,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -9
+    },
+    {
+        "date": "2002-09-18T00:00:00",
+        "rank": "144",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 269,
+        "previousPoints": 261,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 8
+    },
+    {
+        "date": "2002-05-15T00:00:00",
+        "rank": "144",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 279,
+        "previousPoints": 283,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -4
+    },
+    {
+        "date": "2002-03-20T00:00:00",
+        "rank": "141",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 286,
+        "previousPoints": 289,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -3
+    },
+    {
+        "date": "2002-04-17T00:00:00",
+        "rank": "142",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 283,
+        "previousPoints": 286,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -3
+    },
+    {
+        "date": "2002-01-16T00:00:00",
+        "rank": "141",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 290,
+        "previousPoints": 290,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2001-12-19T00:00:00",
+        "rank": "138",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 290,
+        "previousPoints": 290,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "141",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 289,
+        "previousPoints": 290,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -1
+    },
+    {
+        "date": "2001-08-22T00:00:00",
+        "rank": "135",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 309,
+        "previousPoints": 314,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -5
+    },
+    {
+        "date": "2001-11-21T00:00:00",
+        "rank": "139",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 290,
+        "previousPoints": 290,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2001-10-17T00:00:00",
+        "rank": "139",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 290,
+        "previousPoints": 290,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2001-09-19T00:00:00",
+        "rank": "139",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 290,
+        "previousPoints": 309,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -19
+    },
+    {
+        "date": "2001-07-18T00:00:00",
+        "rank": "132",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 314,
+        "previousPoints": 312,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 2
+    },
+    {
+        "date": "2001-05-16T00:00:00",
+        "rank": "131",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 313,
+        "previousPoints": 289,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 24
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "134",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 312,
+        "previousPoints": 313,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -1
+    },
+    {
+        "date": "2001-04-11T00:00:00",
+        "rank": "135",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 289,
+        "previousPoints": 288,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 1
+    },
+    {
+        "date": "2001-03-14T00:00:00",
+        "rank": "134",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 288,
+        "previousPoints": 290,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -2
+    },
+    {
+        "date": "2001-02-14T00:00:00",
+        "rank": "131",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 290,
+        "previousPoints": 291,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -1
+    },
+    {
+        "date": "2000-12-20T00:00:00",
+        "rank": "129",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 291,
+        "previousPoints": 298,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -7
+    },
+    {
+        "date": "2001-01-17T00:00:00",
+        "rank": "130",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 291,
+        "previousPoints": 291,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "2000-10-11T00:00:00",
+        "rank": "124",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 302,
+        "previousPoints": 298,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 4
+    },
+    {
+        "date": "2000-11-15T00:00:00",
+        "rank": "126",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 298,
+        "previousPoints": 302,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -4
+    },
+    {
+        "date": "2000-09-06T00:00:00",
+        "rank": "126",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 298,
+        "previousPoints": 275,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 23
+    },
+    {
+        "date": "2000-08-09T00:00:00",
+        "rank": "131",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 275,
+        "previousPoints": 277,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -2
+    },
+    {
+        "date": "2000-07-05T00:00:00",
+        "rank": "133",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 277,
+        "previousPoints": 276,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 1
+    },
+    {
+        "date": "2000-06-07T00:00:00",
+        "rank": "129",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 276,
+        "previousPoints": 275,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 1
+    },
+    {
+        "date": "2000-04-12T00:00:00",
+        "rank": "129",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 266,
+        "previousPoints": 270,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -4
+    },
+    {
+        "date": "2000-05-10T00:00:00",
+        "rank": "129",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 275,
+        "previousPoints": 266,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 9
+    },
+    {
+        "date": "2000-02-16T00:00:00",
+        "rank": "121",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 272,
+        "previousPoints": 273,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "125",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 270,
+        "previousPoints": 272,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -2
+    },
+    {
+        "date": "1999-11-17T00:00:00",
+        "rank": "121",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 281,
+        "previousPoints": 293,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -12
+    },
+    {
+        "date": "1999-12-22T00:00:00",
+        "rank": "120",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 274,
+        "previousPoints": 281,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -7
+    },
+    {
+        "date": "2000-01-19T00:00:00",
+        "rank": "121",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 273,
+        "previousPoints": 274,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -1
+    },
+    {
+        "date": "1999-10-13T00:00:00",
+        "rank": "118",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 293,
+        "previousPoints": 302,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -9
+    },
+    {
+        "date": "1999-08-18T00:00:00",
+        "rank": "115",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 310,
+        "previousPoints": 317,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -7
+    },
+    {
+        "date": "1999-09-15T00:00:00",
+        "rank": "116",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 302,
+        "previousPoints": 310,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -8
+    },
+    {
+        "date": "1999-07-21T00:00:00",
+        "rank": "115",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 317,
+        "previousPoints": 325,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -8
+    },
+    {
+        "date": "1999-06-16T00:00:00",
+        "rank": "110",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 325,
+        "previousPoints": 331,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -6
+    },
+    {
+        "date": "1999-05-19T00:00:00",
+        "rank": "108",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 331,
+        "previousPoints": 336,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -5
+    },
+    {
+        "date": "1999-04-21T00:00:00",
+        "rank": "107",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 336,
+        "previousPoints": 340,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -4
+    },
+    {
+        "date": "1999-03-24T00:00:00",
+        "rank": "107",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 340,
+        "previousPoints": 342,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -2
+    },
+    {
+        "date": "1999-01-27T00:00:00",
+        "rank": "104",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 344,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 316
+    },
+    {
+        "date": "1999-02-24T00:00:00",
+        "rank": "105",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 342,
+        "previousPoints": 344,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -2
+    },
+    {
+        "date": "1998-12-23T00:00:00",
+        "rank": "111",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 28,
+        "previousPoints": 29,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -1
+    },
+    {
+        "date": "1998-11-18T00:00:00",
+        "rank": "103",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 29,
+        "previousPoints": 29,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "1998-10-21T00:00:00",
+        "rank": "103",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 29,
+        "previousPoints": 29,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "1998-09-16T00:00:00",
+        "rank": "103",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 29,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -3
+    },
+    {
+        "date": "1998-07-15T00:00:00",
+        "rank": "87",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 32,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -1
+    },
+    {
+        "date": "1998-08-19T00:00:00",
+        "rank": "89",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 32,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "1998-04-22T00:00:00",
+        "rank": "90",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 33,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -3
+    },
+    {
+        "date": "1998-05-20T00:00:00",
+        "rank": "91",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 33,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "1998-03-18T00:00:00",
+        "rank": "87",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 36,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "1998-02-18T00:00:00",
+        "rank": "88",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 36,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "1997-12-23T00:00:00",
+        "rank": "84",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 36,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "79",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 37,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "1997-08-20T00:00:00",
+        "rank": "86",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 33,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -1
+    },
+    {
+        "date": "1997-10-17T00:00:00",
+        "rank": "80",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 37,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "1997-07-16T00:00:00",
+        "rank": "86",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 34,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "1997-06-18T00:00:00",
+        "rank": "80",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 34,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "1997-04-09T00:00:00",
+        "rank": "91",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 31,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "1997-09-17T00:00:00",
+        "rank": "79",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 37,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 4
+    },
+    {
+        "date": "1997-05-14T00:00:00",
+        "rank": "81",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 34,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 3
+    },
+    {
+        "date": "1997-02-27T00:00:00",
+        "rank": "86",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 31,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -2
+    },
+    {
+        "date": "1996-12-18T00:00:00",
+        "rank": "84",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 33,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -3
+    },
+    {
+        "date": "1996-10-23T00:00:00",
+        "rank": "65",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 36,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "1996-11-20T00:00:00",
+        "rank": "66",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 36,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "1996-08-28T00:00:00",
+        "rank": "60",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 36,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "1996-09-25T00:00:00",
+        "rank": "61",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 36,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "1996-07-03T00:00:00",
+        "rank": "56",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 36,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -1
+    },
+    {
+        "date": "1996-04-24T00:00:00",
+        "rank": "55",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 37,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -1
+    },
+    {
+        "date": "1996-02-21T00:00:00",
+        "rank": "53",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 38,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "1996-05-22T00:00:00",
+        "rank": "53",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 37,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "1995-11-21T00:00:00",
+        "rank": "68",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 31,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -2
+    },
+    {
+        "date": "1995-10-17T00:00:00",
+        "rank": "62",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 33,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 9
+    },
+    {
+        "date": "1996-01-24T00:00:00",
+        "rank": "51",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 38,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 2
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "60",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 33,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 2
+    },
+    {
+        "date": "1995-08-22T00:00:00",
+        "rank": "66",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 33,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "1995-12-19T00:00:00",
+        "rank": "58",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 36,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 5
+    },
+    {
+        "date": "1995-09-19T00:00:00",
+        "rank": "64",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 24,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -9
+    },
+    {
+        "date": "1995-07-25T00:00:00",
+        "rank": "64",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 33,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "1994-12-20T00:00:00",
+        "rank": "76",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 24,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -2
+    },
+    {
+        "date": "1994-11-22T00:00:00",
+        "rank": "70",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "1995-04-19T00:00:00",
+        "rank": "69",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 28,
+        "previousPoints": 27,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 1
+    },
+    {
+        "date": "1995-05-16T00:00:00",
+        "rank": "63",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 31,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 3
+    },
+    {
+        "date": "1995-02-20T00:00:00",
+        "rank": "71",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 27,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 3
+    },
+    {
+        "date": "1994-10-25T00:00:00",
+        "rank": "68",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 26,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 2
+    },
+    {
+        "date": "1994-07-21T00:00:00",
+        "rank": "65",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 24,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "1994-09-13T00:00:00",
+        "rank": "64",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 24,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "1994-05-17T00:00:00",
+        "rank": "68",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 24,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -1
+    },
+    {
+        "date": "1994-03-15T00:00:00",
+        "rank": "73",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 24,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -1
+    },
+    {
+        "date": "1994-06-14T00:00:00",
+        "rank": "66",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 24,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 0
+    },
+    {
+        "date": "1994-04-19T00:00:00",
+        "rank": "70",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 25,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 1
+    },
+    {
+        "date": "1993-12-23T00:00:00",
+        "rank": "76",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 23,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 4
+    },
+    {
+        "date": "1994-02-15T00:00:00",
+        "rank": "72",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 25,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 2
+    },
+    {
+        "date": "1993-11-19T00:00:00",
+        "rank": "84",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 19,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -1
+    },
+    {
+        "date": "1993-08-08T00:00:00",
+        "rank": "86",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 18,
+        "previousPoints": 16,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 2
+    },
+    {
+        "date": "1993-09-23T00:00:00",
+        "rank": "79",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 21,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": 3
+    },
+    {
+        "date": "1993-10-22T00:00:00",
+        "rank": "83",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 20,
+        "previousPoints": 21,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle",
+        "delta": -1
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "79",
+        "country": "Sierra Leone",
+        "ct": "SLE",
+        "points": 16,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sle"
+    }
+]

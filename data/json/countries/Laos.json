@@ -1,0 +1,2991 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "188",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 912,
+        "previousPoints": 912,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "179",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 946,
+        "previousPoints": 948,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -2
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "184",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 923,
+        "previousPoints": 923,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "184",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 923,
+        "previousPoints": 923,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "187",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 912,
+        "previousPoints": 912,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "188",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 912,
+        "previousPoints": 912,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "188",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 912,
+        "previousPoints": 912,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "183",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 82,
+        "previousPoints": 82,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "181",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 937,
+        "previousPoints": 946,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -9
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "178",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 948,
+        "previousPoints": 948,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "184",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 923,
+        "previousPoints": 923,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "182",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 946,
+        "previousPoints": 946,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "188",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 912,
+        "previousPoints": 923,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -11
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "182",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 82,
+        "previousPoints": 62,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 20
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "178",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 82,
+        "previousPoints": 80,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 2
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "184",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 62,
+        "previousPoints": 122,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -60
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "179",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 80,
+        "previousPoints": 80,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "184",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 923,
+        "previousPoints": 937,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -14
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "183",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 82,
+        "previousPoints": 82,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "183",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 82,
+        "previousPoints": 82,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "179",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 80,
+        "previousPoints": 82,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -2
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "162",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 122,
+        "previousPoints": 126,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -4
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "166",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 126,
+        "previousPoints": 116,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 10
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "172",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 113,
+        "previousPoints": 107,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 6
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "171",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 116,
+        "previousPoints": 113,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 3
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "171",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 116,
+        "previousPoints": 116,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "173",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 116,
+        "previousPoints": 134,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -18
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "176",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 107,
+        "previousPoints": 107,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "174",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 107,
+        "previousPoints": 116,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -9
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "167",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 134,
+        "previousPoints": 134,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "167",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 134,
+        "previousPoints": 134,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "167",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 134,
+        "previousPoints": 130,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 4
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "175",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 107,
+        "previousPoints": 99,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 8
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "167",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 130,
+        "previousPoints": 107,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 23
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "176",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 99,
+        "previousPoints": 107,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -8
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "177",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 107,
+        "previousPoints": 107,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "176",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 105,
+        "previousPoints": 68,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 37
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "177",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 107,
+        "previousPoints": 115,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -8
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "178",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 88,
+        "previousPoints": 88,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "182",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 68,
+        "previousPoints": 88,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -20
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "178",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 88,
+        "previousPoints": 88,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "174",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 115,
+        "previousPoints": 105,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 10
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "177",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 88,
+        "previousPoints": 88,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "177",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 88,
+        "previousPoints": 90,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -2
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "176",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 90,
+        "previousPoints": 85,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 5
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "179",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 85,
+        "previousPoints": 92,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -7
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "174",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 92,
+        "previousPoints": 86,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 6
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "177",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 86,
+        "previousPoints": 86,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "178",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 88,
+        "previousPoints": 88,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "177",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 86,
+        "previousPoints": 94,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -8
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "170",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 88,
+        "previousPoints": 123,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -35
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "178",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 88,
+        "previousPoints": 88,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "175",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 94,
+        "previousPoints": 88,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 6
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "161",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 123,
+        "previousPoints": 121,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 2
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "160",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 121,
+        "previousPoints": 121,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "154",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 141,
+        "previousPoints": 84,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 57
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "160",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 121,
+        "previousPoints": 120,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 1
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "159",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 120,
+        "previousPoints": 141,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -21
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "169",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 84,
+        "previousPoints": 84,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "172",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 84,
+        "previousPoints": 87,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -3
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "170",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 87,
+        "previousPoints": 97,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -10
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "173",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 73,
+        "previousPoints": 73,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "168",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 97,
+        "previousPoints": 73,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 24
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "174",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 73,
+        "previousPoints": 73,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "172",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 73,
+        "previousPoints": 146,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -73
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "152",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 144,
+        "previousPoints": 120,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 24
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "156",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 146,
+        "previousPoints": 144,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 2
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "153",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 144,
+        "previousPoints": 144,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "163",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 120,
+        "previousPoints": 105,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 15
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "167",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 105,
+        "previousPoints": 84,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 21
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "172",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 84,
+        "previousPoints": 84,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "173",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 87,
+        "previousPoints": 118,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -31
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "168",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 118,
+        "previousPoints": 118,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "168",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 118,
+        "previousPoints": 118,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "172",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 84,
+        "previousPoints": 87,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -3
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "173",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 83,
+        "previousPoints": 83,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "168",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 118,
+        "previousPoints": 83,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 35
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "168",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 118,
+        "previousPoints": 118,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "170",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 83,
+        "previousPoints": 83,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "177",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 87,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 49
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "193",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 38,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "193",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 38,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "171",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 83,
+        "previousPoints": 87,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -4
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "rank": "190",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 44,
+        "previousPoints": 96,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -52
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "194",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 38,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -6
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "rank": "173",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 96,
+        "previousPoints": 96,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "rank": "172",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 96,
+        "previousPoints": 96,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "rank": "175",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 96,
+        "previousPoints": 96,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "rank": "173",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 96,
+        "previousPoints": 105,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -9
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "rank": "171",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 105,
+        "previousPoints": 96,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 9
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "rank": "174",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 96,
+        "previousPoints": 96,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2011-11-23T00:00:00",
+        "rank": "175",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 86,
+        "previousPoints": 74,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 12
+    },
+    {
+        "date": "2011-12-21T00:00:00",
+        "rank": "174",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 96,
+        "previousPoints": 86,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 10
+    },
+    {
+        "date": "2011-10-19T00:00:00",
+        "rank": "181",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 74,
+        "previousPoints": 71,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 3
+    },
+    {
+        "date": "2011-09-21T00:00:00",
+        "rank": "182",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 71,
+        "previousPoints": 71,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "177",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 76,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 18
+    },
+    {
+        "date": "2011-06-29T00:00:00",
+        "rank": "174",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 57,
+        "previousPoints": 57,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2011-05-18T00:00:00",
+        "rank": "174",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 57,
+        "previousPoints": 57,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2011-04-13T00:00:00",
+        "rank": "175",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 57,
+        "previousPoints": 57,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2011-08-24T00:00:00",
+        "rank": "180",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 71,
+        "previousPoints": 75,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -4
+    },
+    {
+        "date": "2011-01-12T00:00:00",
+        "rank": "168",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 64,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2011-02-02T00:00:00",
+        "rank": "169",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 64,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2011-03-09T00:00:00",
+        "rank": "170",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 57,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -7
+    },
+    {
+        "date": "2010-12-15T00:00:00",
+        "rank": "169",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 64,
+        "previousPoints": 70,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -6
+    },
+    {
+        "date": "2010-10-20T00:00:00",
+        "rank": "175",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 41,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 4
+    },
+    {
+        "date": "2010-09-15T00:00:00",
+        "rank": "177",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 37,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -2
+    },
+    {
+        "date": "2010-11-17T00:00:00",
+        "rank": "171",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 70,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 29
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "173",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 39,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2010-07-14T00:00:00",
+        "rank": "173",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 39,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2010-05-26T00:00:00",
+        "rank": "173",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 39,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2010-04-28T00:00:00",
+        "rank": "174",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 39,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2010-03-31T00:00:00",
+        "rank": "177",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 39,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2010-02-03T00:00:00",
+        "rank": "179",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 39,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -5
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "178",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 39,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2009-12-16T00:00:00",
+        "rank": "178",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 44,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -11
+    },
+    {
+        "date": "2009-11-20T00:00:00",
+        "rank": "174",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 55,
+        "previousPoints": 69,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -14
+    },
+    {
+        "date": "2009-10-16T00:00:00",
+        "rank": "170",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 69,
+        "previousPoints": 69,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2009-09-02T00:00:00",
+        "rank": "170",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 69,
+        "previousPoints": 73,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -4
+    },
+    {
+        "date": "2009-07-01T00:00:00",
+        "rank": "172",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 73,
+        "previousPoints": 73,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2009-08-05T00:00:00",
+        "rank": "171",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 73,
+        "previousPoints": 73,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2009-06-03T00:00:00",
+        "rank": "171",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 73,
+        "previousPoints": 73,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2009-05-06T00:00:00",
+        "rank": "172",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 73,
+        "previousPoints": 73,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2009-04-08T00:00:00",
+        "rank": "170",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 73,
+        "previousPoints": 73,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2009-03-11T00:00:00",
+        "rank": "170",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 73,
+        "previousPoints": 73,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2008-12-17T00:00:00",
+        "rank": "169",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 80,
+        "previousPoints": 108,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -28
+    },
+    {
+        "date": "2009-02-11T00:00:00",
+        "rank": "171",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 73,
+        "previousPoints": 80,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -7
+    },
+    {
+        "date": "2008-11-12T00:00:00",
+        "rank": "162",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 108,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 80
+    },
+    {
+        "date": "2009-01-14T00:00:00",
+        "rank": "168",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 80,
+        "previousPoints": 80,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2008-09-03T00:00:00",
+        "rank": "190",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 27,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -7
+    },
+    {
+        "date": "2008-10-08T00:00:00",
+        "rank": "190",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 28,
+        "previousPoints": 27,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 1
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "189",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 34,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2008-06-04T00:00:00",
+        "rank": "190",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 34,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2008-07-02T00:00:00",
+        "rank": "189",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 34,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2008-04-09T00:00:00",
+        "rank": "187",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 34,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 1
+    },
+    {
+        "date": "2008-05-07T00:00:00",
+        "rank": "187",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 34,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2008-03-12T00:00:00",
+        "rank": "184",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 33,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2008-01-16T00:00:00",
+        "rank": "178",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 38,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -7
+    },
+    {
+        "date": "2008-02-13T00:00:00",
+        "rank": "185",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 33,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -5
+    },
+    {
+        "date": "2007-11-22T00:00:00",
+        "rank": "175",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 53,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -5
+    },
+    {
+        "date": "2007-12-17T00:00:00",
+        "rank": "176",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 45,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -8
+    },
+    {
+        "date": "2007-10-24T00:00:00",
+        "rank": "175",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 58,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2007-09-19T00:00:00",
+        "rank": "170",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 58,
+        "previousPoints": 71,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -13
+    },
+    {
+        "date": "2007-07-18T00:00:00",
+        "rank": "163",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 71,
+        "previousPoints": 71,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2007-06-13T00:00:00",
+        "rank": "162",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 71,
+        "previousPoints": 70,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 1
+    },
+    {
+        "date": "2007-08-22T00:00:00",
+        "rank": "165",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 71,
+        "previousPoints": 71,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2007-04-18T00:00:00",
+        "rank": "165",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 70,
+        "previousPoints": 86,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -16
+    },
+    {
+        "date": "2007-05-16T00:00:00",
+        "rank": "165",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 70,
+        "previousPoints": 70,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2007-03-14T00:00:00",
+        "rank": "161",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 86,
+        "previousPoints": 85,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 1
+    },
+    {
+        "date": "2007-02-14T00:00:00",
+        "rank": "157",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 85,
+        "previousPoints": 109,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -24
+    },
+    {
+        "date": "2007-01-17T00:00:00",
+        "rank": "150",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 109,
+        "previousPoints": 105,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 4
+    },
+    {
+        "date": "2006-12-18T00:00:00",
+        "rank": "151",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 105,
+        "previousPoints": 94,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 11
+    },
+    {
+        "date": "2006-10-18T00:00:00",
+        "rank": "183",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 35,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 1
+    },
+    {
+        "date": "2006-11-22T00:00:00",
+        "rank": "157",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 94,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 59
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "184",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 34,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2006-08-16T00:00:00",
+        "rank": "182",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 34,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2006-07-12T00:00:00",
+        "rank": "182",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 34,
+        "previousPoints": 173,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -139
+    },
+    {
+        "date": "2006-03-15T00:00:00",
+        "rank": "171",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 178,
+        "previousPoints": 180,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -2
+    },
+    {
+        "date": "2006-05-17T00:00:00",
+        "rank": "172",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 173,
+        "previousPoints": 176,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -3
+    },
+    {
+        "date": "2006-04-19T00:00:00",
+        "rank": "172",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 176,
+        "previousPoints": 178,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -2
+    },
+    {
+        "date": "2006-02-15T00:00:00",
+        "rank": "170",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 180,
+        "previousPoints": 180,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "165",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 195,
+        "previousPoints": 202,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -7
+    },
+    {
+        "date": "2005-12-16T00:00:00",
+        "rank": "170",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 180,
+        "previousPoints": 195,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -15
+    },
+    {
+        "date": "2006-01-18T00:00:00",
+        "rank": "170",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 180,
+        "previousPoints": 180,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2005-10-17T00:00:00",
+        "rank": "165",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 202,
+        "previousPoints": 211,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -9
+    },
+    {
+        "date": "2005-09-12T00:00:00",
+        "rank": "164",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 211,
+        "previousPoints": 217,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -6
+    },
+    {
+        "date": "2005-08-17T00:00:00",
+        "rank": "163",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 217,
+        "previousPoints": 218,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "2005-07-20T00:00:00",
+        "rank": "163",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 218,
+        "previousPoints": 220,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -2
+    },
+    {
+        "date": "2005-06-15T00:00:00",
+        "rank": "163",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 220,
+        "previousPoints": 223,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -3
+    },
+    {
+        "date": "2005-05-18T00:00:00",
+        "rank": "162",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 223,
+        "previousPoints": 224,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "2005-04-20T00:00:00",
+        "rank": "164",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 224,
+        "previousPoints": 226,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -2
+    },
+    {
+        "date": "2004-12-20T00:00:00",
+        "rank": "162",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 230,
+        "previousPoints": 216,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 14
+    },
+    {
+        "date": "2005-03-23T00:00:00",
+        "rank": "164",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 226,
+        "previousPoints": 228,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -2
+    },
+    {
+        "date": "2005-01-19T00:00:00",
+        "rank": "162",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 228,
+        "previousPoints": 230,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -2
+    },
+    {
+        "date": "2005-02-16T00:00:00",
+        "rank": "164",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 228,
+        "previousPoints": 228,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2004-11-10T00:00:00",
+        "rank": "166",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 216,
+        "previousPoints": 202,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 14
+    },
+    {
+        "date": "2004-09-01T00:00:00",
+        "rank": "171",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 196,
+        "previousPoints": 196,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2004-10-06T00:00:00",
+        "rank": "170",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 202,
+        "previousPoints": 196,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 6
+    },
+    {
+        "date": "2004-07-07T00:00:00",
+        "rank": "173",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 198,
+        "previousPoints": 198,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2004-08-04T00:00:00",
+        "rank": "173",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 196,
+        "previousPoints": 198,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -2
+    },
+    {
+        "date": "2004-05-12T00:00:00",
+        "rank": "174",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 200,
+        "previousPoints": 201,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "2004-06-09T00:00:00",
+        "rank": "175",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 198,
+        "previousPoints": 200,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "167",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 209,
+        "previousPoints": 203,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 6
+    },
+    {
+        "date": "2004-04-14T00:00:00",
+        "rank": "172",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 201,
+        "previousPoints": 209,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -8
+    },
+    {
+        "date": "2004-02-18T00:00:00",
+        "rank": "167",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 203,
+        "previousPoints": 204,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "2004-01-14T00:00:00",
+        "rank": "167",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 204,
+        "previousPoints": 204,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2003-12-15T00:00:00",
+        "rank": "167",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 204,
+        "previousPoints": 205,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "168",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 205,
+        "previousPoints": 206,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "2003-10-22T00:00:00",
+        "rank": "164",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 206,
+        "previousPoints": 208,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -2
+    },
+    {
+        "date": "2003-08-27T00:00:00",
+        "rank": "162",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 209,
+        "previousPoints": 210,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "2003-09-24T00:00:00",
+        "rank": "163",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 208,
+        "previousPoints": 209,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "2003-07-30T00:00:00",
+        "rank": "164",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 210,
+        "previousPoints": 211,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "2003-06-25T00:00:00",
+        "rank": "163",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 211,
+        "previousPoints": 213,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -2
+    },
+    {
+        "date": "2003-05-21T00:00:00",
+        "rank": "161",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 213,
+        "previousPoints": 214,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "2003-04-23T00:00:00",
+        "rank": "161",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 214,
+        "previousPoints": 186,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 28
+    },
+    {
+        "date": "2003-02-19T00:00:00",
+        "rank": "165",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 188,
+        "previousPoints": 189,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "2002-12-18T00:00:00",
+        "rank": "170",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 163,
+        "previousPoints": 170,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -7
+    },
+    {
+        "date": "2003-01-15T00:00:00",
+        "rank": "164",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 189,
+        "previousPoints": 163,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 26
+    },
+    {
+        "date": "2003-03-26T00:00:00",
+        "rank": "169",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 186,
+        "previousPoints": 188,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -2
+    },
+    {
+        "date": "2002-11-20T00:00:00",
+        "rank": "168",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 170,
+        "previousPoints": 175,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -5
+    },
+    {
+        "date": "2002-10-23T00:00:00",
+        "rank": "167",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 175,
+        "previousPoints": 181,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -6
+    },
+    {
+        "date": "2002-07-03T00:00:00",
+        "rank": "165",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 191,
+        "previousPoints": 196,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -5
+    },
+    {
+        "date": "2002-08-14T00:00:00",
+        "rank": "165",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 186,
+        "previousPoints": 191,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -5
+    },
+    {
+        "date": "2002-09-18T00:00:00",
+        "rank": "166",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 181,
+        "previousPoints": 186,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -5
+    },
+    {
+        "date": "2002-05-15T00:00:00",
+        "rank": "164",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 196,
+        "previousPoints": 201,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -5
+    },
+    {
+        "date": "2002-03-20T00:00:00",
+        "rank": "164",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 201,
+        "previousPoints": 202,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "2002-04-17T00:00:00",
+        "rank": "161",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 201,
+        "previousPoints": 201,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2002-01-16T00:00:00",
+        "rank": "162",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 203,
+        "previousPoints": 203,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2001-12-19T00:00:00",
+        "rank": "162",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 203,
+        "previousPoints": 203,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "162",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 202,
+        "previousPoints": 203,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "2001-08-22T00:00:00",
+        "rank": "166",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 194,
+        "previousPoints": 194,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2001-11-21T00:00:00",
+        "rank": "162",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 203,
+        "previousPoints": 194,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 9
+    },
+    {
+        "date": "2001-10-17T00:00:00",
+        "rank": "166",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 194,
+        "previousPoints": 194,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2001-09-19T00:00:00",
+        "rank": "166",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 194,
+        "previousPoints": 194,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2001-07-18T00:00:00",
+        "rank": "166",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 194,
+        "previousPoints": 194,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2001-05-16T00:00:00",
+        "rank": "171",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 168,
+        "previousPoints": 168,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "166",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 194,
+        "previousPoints": 168,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 26
+    },
+    {
+        "date": "2001-04-11T00:00:00",
+        "rank": "169",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 168,
+        "previousPoints": 170,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -2
+    },
+    {
+        "date": "2001-03-14T00:00:00",
+        "rank": "167",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 170,
+        "previousPoints": 170,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2001-02-14T00:00:00",
+        "rank": "166",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 170,
+        "previousPoints": 171,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "2000-12-20T00:00:00",
+        "rank": "165",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 171,
+        "previousPoints": 170,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 1
+    },
+    {
+        "date": "2001-01-17T00:00:00",
+        "rank": "165",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 171,
+        "previousPoints": 171,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2000-10-11T00:00:00",
+        "rank": "165",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 169,
+        "previousPoints": 169,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2000-11-15T00:00:00",
+        "rank": "165",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 170,
+        "previousPoints": 169,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 1
+    },
+    {
+        "date": "2000-09-06T00:00:00",
+        "rank": "166",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 169,
+        "previousPoints": 169,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2000-08-09T00:00:00",
+        "rank": "164",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 169,
+        "previousPoints": 189,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -20
+    },
+    {
+        "date": "2000-07-05T00:00:00",
+        "rank": "156",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 189,
+        "previousPoints": 189,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2000-06-07T00:00:00",
+        "rank": "153",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 189,
+        "previousPoints": 191,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -2
+    },
+    {
+        "date": "2000-04-12T00:00:00",
+        "rank": "160",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 168,
+        "previousPoints": 163,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 5
+    },
+    {
+        "date": "2000-05-10T00:00:00",
+        "rank": "151",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 191,
+        "previousPoints": 168,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 23
+    },
+    {
+        "date": "2000-02-16T00:00:00",
+        "rank": "156",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 164,
+        "previousPoints": 164,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "158",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 163,
+        "previousPoints": 164,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "1999-11-17T00:00:00",
+        "rank": "153",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 166,
+        "previousPoints": 165,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 1
+    },
+    {
+        "date": "1999-12-22T00:00:00",
+        "rank": "156",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 164,
+        "previousPoints": 166,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -2
+    },
+    {
+        "date": "2000-01-19T00:00:00",
+        "rank": "156",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 164,
+        "previousPoints": 164,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1999-10-13T00:00:00",
+        "rank": "153",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 165,
+        "previousPoints": 165,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1999-08-18T00:00:00",
+        "rank": "151",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 168,
+        "previousPoints": 146,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 22
+    },
+    {
+        "date": "1999-09-15T00:00:00",
+        "rank": "154",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 165,
+        "previousPoints": 168,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -3
+    },
+    {
+        "date": "1999-07-21T00:00:00",
+        "rank": "158",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 146,
+        "previousPoints": 149,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -3
+    },
+    {
+        "date": "1999-06-16T00:00:00",
+        "rank": "158",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 149,
+        "previousPoints": 151,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -2
+    },
+    {
+        "date": "1999-05-19T00:00:00",
+        "rank": "156",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 151,
+        "previousPoints": 152,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "1999-04-21T00:00:00",
+        "rank": "153",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 152,
+        "previousPoints": 153,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "1999-03-24T00:00:00",
+        "rank": "152",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 153,
+        "previousPoints": 154,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "1999-01-27T00:00:00",
+        "rank": "151",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 155,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 140
+    },
+    {
+        "date": "1999-02-24T00:00:00",
+        "rank": "152",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 154,
+        "previousPoints": 155,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "1998-12-23T00:00:00",
+        "rank": "144",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 15,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 1
+    },
+    {
+        "date": "1998-11-18T00:00:00",
+        "rank": "143",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1998-10-21T00:00:00",
+        "rank": "143",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 14,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -3
+    },
+    {
+        "date": "1998-09-16T00:00:00",
+        "rank": "134",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 17,
+        "previousPoints": 16,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 1
+    },
+    {
+        "date": "1998-07-15T00:00:00",
+        "rank": "137",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 16,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 2
+    },
+    {
+        "date": "1998-08-19T00:00:00",
+        "rank": "137",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 16,
+        "previousPoints": 16,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1998-04-22T00:00:00",
+        "rank": "143",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1998-05-20T00:00:00",
+        "rank": "145",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1998-03-18T00:00:00",
+        "rank": "143",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1998-02-18T00:00:00",
+        "rank": "145",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1997-12-23T00:00:00",
+        "rank": "143",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "142",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 14,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 3
+    },
+    {
+        "date": "1997-08-20T00:00:00",
+        "rank": "150",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1997-10-17T00:00:00",
+        "rank": "149",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 11,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 3
+    },
+    {
+        "date": "1997-07-16T00:00:00",
+        "rank": "151",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1997-06-18T00:00:00",
+        "rank": "151",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1997-04-09T00:00:00",
+        "rank": "147",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1997-09-17T00:00:00",
+        "rank": "160",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 8,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "1997-05-14T00:00:00",
+        "rank": "147",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1997-02-27T00:00:00",
+        "rank": "147",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 9,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "1996-12-18T00:00:00",
+        "rank": "147",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 10,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": -1
+    },
+    {
+        "date": "1996-10-23T00:00:00",
+        "rank": "145",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1996-11-20T00:00:00",
+        "rank": "145",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1996-08-28T00:00:00",
+        "rank": "156",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1996-09-25T00:00:00",
+        "rank": "144",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 11,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 4
+    },
+    {
+        "date": "1996-07-03T00:00:00",
+        "rank": "155",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1996-04-24T00:00:00",
+        "rank": "152",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1996-02-21T00:00:00",
+        "rank": "151",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1996-05-22T00:00:00",
+        "rank": "152",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1995-11-21T00:00:00",
+        "rank": "164",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1995-10-17T00:00:00",
+        "rank": "164",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1996-01-24T00:00:00",
+        "rank": "151",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "162",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1995-08-22T00:00:00",
+        "rank": "164",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1995-12-19T00:00:00",
+        "rank": "152",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 7,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 5
+    },
+    {
+        "date": "1995-09-19T00:00:00",
+        "rank": "157",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1995-07-25T00:00:00",
+        "rank": "164",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1994-12-20T00:00:00",
+        "rank": "160",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1994-11-22T00:00:00",
+        "rank": "160",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1995-04-19T00:00:00",
+        "rank": "162",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1995-05-16T00:00:00",
+        "rank": "162",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1995-02-20T00:00:00",
+        "rank": "162",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1994-10-25T00:00:00",
+        "rank": "158",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1994-07-21T00:00:00",
+        "rank": "154",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1994-09-13T00:00:00",
+        "rank": "157",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1994-05-17T00:00:00",
+        "rank": "151",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1994-03-15T00:00:00",
+        "rank": "148",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1994-06-14T00:00:00",
+        "rank": "154",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1994-04-19T00:00:00",
+        "rank": "148",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1993-12-23T00:00:00",
+        "rank": "146",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1994-02-15T00:00:00",
+        "rank": "146",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1993-11-19T00:00:00",
+        "rank": "141",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1993-08-08T00:00:00",
+        "rank": "141",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao"
+    },
+    {
+        "date": "1993-09-23T00:00:00",
+        "rank": "141",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    },
+    {
+        "date": "1993-10-22T00:00:00",
+        "rank": "141",
+        "country": "Laos",
+        "ct": "LAO",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/lao",
+        "delta": 0
+    }
+]

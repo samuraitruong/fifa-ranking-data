@@ -1,0 +1,3001 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1712,
+        "previousPoints": 1715,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -3
+    },
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1663,
+        "previousPoints": 1657,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 6
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1676,
+        "previousPoints": 1676,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1676,
+        "previousPoints": 1676,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1719,
+        "previousPoints": 1726,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -7
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1726,
+        "previousPoints": 1681,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 45
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1715,
+        "previousPoints": 1719,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -4
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1489,
+        "previousPoints": 1484,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 5
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1669,
+        "previousPoints": 1663,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 6
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1657,
+        "previousPoints": 1596,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 61
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1676,
+        "previousPoints": 1676,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "4",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 2160,
+        "previousPoints": 2151,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 9
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1681,
+        "previousPoints": 1676,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 5
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1483,
+        "previousPoints": 1483,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1431,
+        "previousPoints": 1384,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 47
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1483,
+        "previousPoints": 1619,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -136
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1384,
+        "previousPoints": 1384,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1676,
+        "previousPoints": 1669,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 7
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1484,
+        "previousPoints": 1483,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 1
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1483,
+        "previousPoints": 1483,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1384,
+        "previousPoints": 1489,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -105
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1619,
+        "previousPoints": 1590,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 29
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1590,
+        "previousPoints": 1604,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -14
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1715,
+        "previousPoints": 1672,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 43
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1603,
+        "previousPoints": 1715,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -112
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1604,
+        "previousPoints": 1603,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 1
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1534,
+        "previousPoints": 1529,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 5
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1672,
+        "previousPoints": 1661,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 11
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1661,
+        "previousPoints": 1534,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 127
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1529,
+        "previousPoints": 1544,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -15
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1544,
+        "previousPoints": 1544,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1544,
+        "previousPoints": 1544,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1410,
+        "previousPoints": 1323,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 87
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1544,
+        "previousPoints": 1410,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 134
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "4",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1323,
+        "previousPoints": 1156,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 167
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "9",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1156,
+        "previousPoints": 1156,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "7",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1261,
+        "previousPoints": 1251,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 10
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "9",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1156,
+        "previousPoints": 1257,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -101
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "6",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1254,
+        "previousPoints": 1251,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 3
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "7",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1251,
+        "previousPoints": 1254,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -3
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "6",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1251,
+        "previousPoints": 1251,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "7",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1257,
+        "previousPoints": 1261,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -4
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "6",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1251,
+        "previousPoints": 1251,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "6",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1251,
+        "previousPoints": 1208,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 43
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "8",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1208,
+        "previousPoints": 1204,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 4
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "7",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1204,
+        "previousPoints": 1209,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -5
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "5",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1209,
+        "previousPoints": 1186,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 23
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "5",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1186,
+        "previousPoints": 1186,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "5",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1372,
+        "previousPoints": 1354,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 18
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "6",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1186,
+        "previousPoints": 1392,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -206
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "6",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1348,
+        "previousPoints": 1333,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 15
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "5",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1354,
+        "previousPoints": 1348,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 6
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "5",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1392,
+        "previousPoints": 1372,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 20
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "6",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1333,
+        "previousPoints": 1316,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 17
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "6",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1316,
+        "previousPoints": 1316,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "6",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1307,
+        "previousPoints": 1291,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 16
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "6",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1316,
+        "previousPoints": 1316,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "6",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1316,
+        "previousPoints": 1307,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 9
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "6",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1291,
+        "previousPoints": 1241,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 50
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "7",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1241,
+        "previousPoints": 1241,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "7",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1241,
+        "previousPoints": 1242,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -1
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "4",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1210,
+        "previousPoints": 1174,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 36
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1242,
+        "previousPoints": 1210,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 32
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "6",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1174,
+        "previousPoints": 1104,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 70
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "9",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1104,
+        "previousPoints": 1125,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -21
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "10",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1102,
+        "previousPoints": 1102,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "9",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1125,
+        "previousPoints": 1102,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 23
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "10",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1102,
+        "previousPoints": 1102,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "10",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1102,
+        "previousPoints": 1078,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 24
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "11",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1078,
+        "previousPoints": 1067,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 11
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "8",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1067,
+        "previousPoints": 1089,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -22
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "9",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1095,
+        "previousPoints": 872,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 223
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "22",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 872,
+        "previousPoints": 902,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -30
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "19",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 902,
+        "previousPoints": 909,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -7
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "9",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1089,
+        "previousPoints": 1095,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -6
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "18",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 924,
+        "previousPoints": 946,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -22
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "18",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 908,
+        "previousPoints": 924,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -16
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "19",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 909,
+        "previousPoints": 908,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 1
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "18",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 946,
+        "previousPoints": 946,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "13",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 994,
+        "previousPoints": 1001,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -7
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "12",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 996,
+        "previousPoints": 991,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 5
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "14",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1001,
+        "previousPoints": 996,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 5
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "18",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 946,
+        "previousPoints": 994,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -48
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "rank": "11",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1012,
+        "previousPoints": 1155,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -143
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "13",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 991,
+        "previousPoints": 1012,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -21
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "rank": "6",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1165,
+        "previousPoints": 1165,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "rank": "5",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1155,
+        "previousPoints": 1165,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -10
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "rank": "6",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1165,
+        "previousPoints": 1157,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 8
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "rank": "5",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1157,
+        "previousPoints": 1152,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 5
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "rank": "7",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1152,
+        "previousPoints": 1143,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 9
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "rank": "6",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1143,
+        "previousPoints": 1143,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2011-11-23T00:00:00",
+        "rank": "6",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1143,
+        "previousPoints": 1144,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -1
+    },
+    {
+        "date": "2011-12-21T00:00:00",
+        "rank": "6",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1143,
+        "previousPoints": 1143,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2011-10-19T00:00:00",
+        "rank": "5",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1144,
+        "previousPoints": 1132,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 12
+    },
+    {
+        "date": "2011-09-21T00:00:00",
+        "rank": "7",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1132,
+        "previousPoints": 1156,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -24
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "4",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1202,
+        "previousPoints": 1131,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 71
+    },
+    {
+        "date": "2011-06-29T00:00:00",
+        "rank": "5",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1131,
+        "previousPoints": 1426,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -295
+    },
+    {
+        "date": "2011-05-18T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1426,
+        "previousPoints": 1426,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2011-04-13T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1426,
+        "previousPoints": 1412,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 14
+    },
+    {
+        "date": "2011-08-24T00:00:00",
+        "rank": "6",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1156,
+        "previousPoints": 1202,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -46
+    },
+    {
+        "date": "2011-01-12T00:00:00",
+        "rank": "4",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1447,
+        "previousPoints": 1447,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2011-02-02T00:00:00",
+        "rank": "4",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1447,
+        "previousPoints": 1447,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2011-03-09T00:00:00",
+        "rank": "5",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1411,
+        "previousPoints": 1446,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -35
+    },
+    {
+        "date": "2010-12-15T00:00:00",
+        "rank": "4",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1446,
+        "previousPoints": 1493,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -47
+    },
+    {
+        "date": "2010-10-20T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1493,
+        "previousPoints": 1480,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 13
+    },
+    {
+        "date": "2010-09-15T00:00:00",
+        "rank": "4",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1480,
+        "previousPoints": 1524,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -44
+    },
+    {
+        "date": "2010-11-17T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1493,
+        "previousPoints": 1493,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1524,
+        "previousPoints": 1536,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -12
+    },
+    {
+        "date": "2010-07-14T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1536,
+        "previousPoints": 1611,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -75
+    },
+    {
+        "date": "2010-05-26T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1611,
+        "previousPoints": 1611,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2010-04-28T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1611,
+        "previousPoints": 1589,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 22
+    },
+    {
+        "date": "2010-03-31T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1589,
+        "previousPoints": 1594,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -5
+    },
+    {
+        "date": "2010-02-03T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1568,
+        "previousPoints": 1568,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1594,
+        "previousPoints": 1568,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 26
+    },
+    {
+        "date": "2009-12-16T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1568,
+        "previousPoints": 1592,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -24
+    },
+    {
+        "date": "2009-11-20T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1592,
+        "previousPoints": 1632,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -40
+    },
+    {
+        "date": "2009-10-16T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1632,
+        "previousPoints": 1604,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 28
+    },
+    {
+        "date": "2009-09-02T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1604,
+        "previousPoints": 1642,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -38
+    },
+    {
+        "date": "2009-07-01T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1672,
+        "previousPoints": 1288,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 384
+    },
+    {
+        "date": "2009-08-05T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1642,
+        "previousPoints": 1672,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -30
+    },
+    {
+        "date": "2009-06-03T00:00:00",
+        "rank": "5",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1288,
+        "previousPoints": 1281,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 7
+    },
+    {
+        "date": "2009-05-06T00:00:00",
+        "rank": "4",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1281,
+        "previousPoints": 1275,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 6
+    },
+    {
+        "date": "2009-04-08T00:00:00",
+        "rank": "4",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1275,
+        "previousPoints": 1260,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 15
+    },
+    {
+        "date": "2009-03-11T00:00:00",
+        "rank": "5",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1260,
+        "previousPoints": 1248,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 12
+    },
+    {
+        "date": "2008-12-17T00:00:00",
+        "rank": "5",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1246,
+        "previousPoints": 1286,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -40
+    },
+    {
+        "date": "2009-02-11T00:00:00",
+        "rank": "5",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1248,
+        "previousPoints": 1246,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 2
+    },
+    {
+        "date": "2008-11-12T00:00:00",
+        "rank": "5",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1286,
+        "previousPoints": 1280,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 6
+    },
+    {
+        "date": "2009-01-14T00:00:00",
+        "rank": "5",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1246,
+        "previousPoints": 1246,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2008-09-03T00:00:00",
+        "rank": "6",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1252,
+        "previousPoints": 1242,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 10
+    },
+    {
+        "date": "2008-10-08T00:00:00",
+        "rank": "4",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1280,
+        "previousPoints": 1252,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 28
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "6",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1242,
+        "previousPoints": 1344,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -102
+    },
+    {
+        "date": "2008-06-04T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1513,
+        "previousPoints": 1518,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -5
+    },
+    {
+        "date": "2008-07-02T00:00:00",
+        "rank": "4",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1344,
+        "previousPoints": 1513,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -169
+    },
+    {
+        "date": "2008-04-09T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1509,
+        "previousPoints": 1514,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -5
+    },
+    {
+        "date": "2008-05-07T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1518,
+        "previousPoints": 1509,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 9
+    },
+    {
+        "date": "2008-03-12T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1514,
+        "previousPoints": 1502,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 12
+    },
+    {
+        "date": "2008-01-16T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1502,
+        "previousPoints": 1502,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2008-02-13T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1502,
+        "previousPoints": 1502,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2007-11-22T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1502,
+        "previousPoints": 1459,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 43
+    },
+    {
+        "date": "2007-12-17T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1502,
+        "previousPoints": 1502,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2007-10-24T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1459,
+        "previousPoints": 1444,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 15
+    },
+    {
+        "date": "2007-09-19T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1444,
+        "previousPoints": 1508,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -64
+    },
+    {
+        "date": "2007-07-18T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1500,
+        "previousPoints": 1484,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 16
+    },
+    {
+        "date": "2007-06-13T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1484,
+        "previousPoints": 1538,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -54
+    },
+    {
+        "date": "2007-08-22T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1508,
+        "previousPoints": 1500,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 8
+    },
+    {
+        "date": "2007-04-18T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1520,
+        "previousPoints": 1557,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -37
+    },
+    {
+        "date": "2007-05-16T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1538,
+        "previousPoints": 1520,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 18
+    },
+    {
+        "date": "2007-03-14T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1557,
+        "previousPoints": 1540,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 17
+    },
+    {
+        "date": "2007-02-14T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1540,
+        "previousPoints": 1588,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -48
+    },
+    {
+        "date": "2007-01-17T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1588,
+        "previousPoints": 1588,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2006-12-18T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1588,
+        "previousPoints": 1588,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2006-10-18T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1560,
+        "previousPoints": 1574,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -14
+    },
+    {
+        "date": "2006-11-22T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1588,
+        "previousPoints": 1560,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 28
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1574,
+        "previousPoints": 1649,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -75
+    },
+    {
+        "date": "2006-08-16T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1649,
+        "previousPoints": 1630,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 19
+    },
+    {
+        "date": "2006-07-12T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 1630,
+        "previousPoints": 827,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 803
+    },
+    {
+        "date": "2006-03-15T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 835,
+        "previousPoints": 837,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -2
+    },
+    {
+        "date": "2006-05-17T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 827,
+        "previousPoints": 830,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -3
+    },
+    {
+        "date": "2006-04-19T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 830,
+        "previousPoints": 835,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -5
+    },
+    {
+        "date": "2006-02-15T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 837,
+        "previousPoints": 839,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 841,
+        "previousPoints": 840,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 1
+    },
+    {
+        "date": "2005-12-16T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 840,
+        "previousPoints": 841,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -1
+    },
+    {
+        "date": "2006-01-18T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 839,
+        "previousPoints": 840,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -1
+    },
+    {
+        "date": "2005-10-17T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 840,
+        "previousPoints": 839,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 1
+    },
+    {
+        "date": "2005-09-12T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 839,
+        "previousPoints": 837,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 2
+    },
+    {
+        "date": "2005-08-17T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 837,
+        "previousPoints": 846,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -9
+    },
+    {
+        "date": "2005-07-20T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 846,
+        "previousPoints": 829,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 17
+    },
+    {
+        "date": "2005-06-15T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 829,
+        "previousPoints": 831,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -2
+    },
+    {
+        "date": "2005-05-18T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 831,
+        "previousPoints": 834,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -3
+    },
+    {
+        "date": "2005-04-20T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 834,
+        "previousPoints": 836,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -2
+    },
+    {
+        "date": "2004-12-20T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 843,
+        "previousPoints": 847,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -4
+    },
+    {
+        "date": "2005-03-23T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 836,
+        "previousPoints": 840,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -4
+    },
+    {
+        "date": "2005-01-19T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 842,
+        "previousPoints": 843,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -1
+    },
+    {
+        "date": "2005-02-16T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 840,
+        "previousPoints": 842,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -2
+    },
+    {
+        "date": "2004-11-10T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 847,
+        "previousPoints": 845,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 2
+    },
+    {
+        "date": "2004-09-01T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 848,
+        "previousPoints": 849,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -1
+    },
+    {
+        "date": "2004-10-06T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 845,
+        "previousPoints": 848,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -3
+    },
+    {
+        "date": "2004-07-07T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 835,
+        "previousPoints": 842,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -7
+    },
+    {
+        "date": "2004-08-04T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 849,
+        "previousPoints": 835,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 14
+    },
+    {
+        "date": "2004-05-12T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 838,
+        "previousPoints": 840,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -2
+    },
+    {
+        "date": "2004-06-09T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 842,
+        "previousPoints": 838,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 842,
+        "previousPoints": 846,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -4
+    },
+    {
+        "date": "2004-04-14T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 840,
+        "previousPoints": 842,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -2
+    },
+    {
+        "date": "2004-02-18T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 846,
+        "previousPoints": 848,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -2
+    },
+    {
+        "date": "2004-01-14T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 848,
+        "previousPoints": 848,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2003-12-15T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 848,
+        "previousPoints": 852,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -4
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 852,
+        "previousPoints": 854,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -2
+    },
+    {
+        "date": "2003-10-22T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 854,
+        "previousPoints": 855,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -1
+    },
+    {
+        "date": "2003-08-27T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 846,
+        "previousPoints": 848,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -2
+    },
+    {
+        "date": "2003-09-24T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 855,
+        "previousPoints": 846,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 9
+    },
+    {
+        "date": "2003-07-30T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 848,
+        "previousPoints": 834,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 14
+    },
+    {
+        "date": "2003-06-25T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 834,
+        "previousPoints": 843,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -9
+    },
+    {
+        "date": "2003-05-21T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 843,
+        "previousPoints": 849,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -6
+    },
+    {
+        "date": "2003-04-23T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 849,
+        "previousPoints": 853,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -4
+    },
+    {
+        "date": "2003-02-19T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 852,
+        "previousPoints": 856,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -4
+    },
+    {
+        "date": "2002-12-18T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 856,
+        "previousPoints": 857,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -1
+    },
+    {
+        "date": "2003-01-15T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 856,
+        "previousPoints": 856,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2003-03-26T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 853,
+        "previousPoints": 852,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 1
+    },
+    {
+        "date": "2002-11-20T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 857,
+        "previousPoints": 855,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 2
+    },
+    {
+        "date": "2002-10-23T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 855,
+        "previousPoints": 858,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -3
+    },
+    {
+        "date": "2002-07-03T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 852,
+        "previousPoints": 784,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 68
+    },
+    {
+        "date": "2002-08-14T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 859,
+        "previousPoints": 852,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 7
+    },
+    {
+        "date": "2002-09-18T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 858,
+        "previousPoints": 859,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -1
+    },
+    {
+        "date": "2002-05-15T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 784,
+        "previousPoints": 787,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -3
+    },
+    {
+        "date": "2002-03-20T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 788,
+        "previousPoints": 791,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -3
+    },
+    {
+        "date": "2002-04-17T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 787,
+        "previousPoints": 788,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -1
+    },
+    {
+        "date": "2002-01-16T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 793,
+        "previousPoints": 793,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2001-12-19T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 793,
+        "previousPoints": 797,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -4
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 791,
+        "previousPoints": 793,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -2
+    },
+    {
+        "date": "2001-08-22T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 808,
+        "previousPoints": 795,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 13
+    },
+    {
+        "date": "2001-11-21T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 797,
+        "previousPoints": 799,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -2
+    },
+    {
+        "date": "2001-10-17T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 799,
+        "previousPoints": 799,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2001-09-19T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 799,
+        "previousPoints": 808,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -9
+    },
+    {
+        "date": "2001-07-18T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 795,
+        "previousPoints": 796,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -1
+    },
+    {
+        "date": "2001-05-16T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 794,
+        "previousPoints": 807,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -13
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 796,
+        "previousPoints": 794,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 2
+    },
+    {
+        "date": "2001-04-11T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 807,
+        "previousPoints": 814,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -7
+    },
+    {
+        "date": "2001-03-14T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 814,
+        "previousPoints": 818,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -4
+    },
+    {
+        "date": "2001-02-14T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 818,
+        "previousPoints": 821,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -3
+    },
+    {
+        "date": "2000-12-20T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 821,
+        "previousPoints": 818,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 3
+    },
+    {
+        "date": "2001-01-17T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 821,
+        "previousPoints": 821,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "2000-10-11T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 822,
+        "previousPoints": 818,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 4
+    },
+    {
+        "date": "2000-11-15T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 818,
+        "previousPoints": 822,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -4
+    },
+    {
+        "date": "2000-09-06T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 818,
+        "previousPoints": 819,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -1
+    },
+    {
+        "date": "2000-08-09T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 819,
+        "previousPoints": 825,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -6
+    },
+    {
+        "date": "2000-07-05T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 825,
+        "previousPoints": 828,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -3
+    },
+    {
+        "date": "2000-06-07T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 828,
+        "previousPoints": 830,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -2
+    },
+    {
+        "date": "2000-04-12T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 833,
+        "previousPoints": 834,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -1
+    },
+    {
+        "date": "2000-05-10T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 830,
+        "previousPoints": 833,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -3
+    },
+    {
+        "date": "2000-02-16T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 836,
+        "previousPoints": 839,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -3
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 834,
+        "previousPoints": 836,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -2
+    },
+    {
+        "date": "1999-11-17T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 838,
+        "previousPoints": 839,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -1
+    },
+    {
+        "date": "1999-12-22T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 839,
+        "previousPoints": 838,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 1
+    },
+    {
+        "date": "2000-01-19T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 839,
+        "previousPoints": 839,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1999-10-13T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 839,
+        "previousPoints": 838,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 1
+    },
+    {
+        "date": "1999-08-18T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 842,
+        "previousPoints": 835,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 7
+    },
+    {
+        "date": "1999-09-15T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 838,
+        "previousPoints": 842,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -4
+    },
+    {
+        "date": "1999-07-21T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 835,
+        "previousPoints": 808,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 27
+    },
+    {
+        "date": "1999-06-16T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 808,
+        "previousPoints": 817,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -9
+    },
+    {
+        "date": "1999-05-19T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 817,
+        "previousPoints": 817,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1999-04-21T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 817,
+        "previousPoints": 824,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -7
+    },
+    {
+        "date": "1999-03-24T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 824,
+        "previousPoints": 827,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -3
+    },
+    {
+        "date": "1999-01-27T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 829,
+        "previousPoints": 73,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 756
+    },
+    {
+        "date": "1999-02-24T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 827,
+        "previousPoints": 829,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -2
+    },
+    {
+        "date": "1998-12-23T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 73,
+        "previousPoints": 74,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -1
+    },
+    {
+        "date": "1998-11-18T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 74,
+        "previousPoints": 74,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1998-10-21T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 74,
+        "previousPoints": 74,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1998-09-16T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 74,
+        "previousPoints": 74,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1998-07-15T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 74,
+        "previousPoints": 72,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 2
+    },
+    {
+        "date": "1998-08-19T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 74,
+        "previousPoints": 74,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1998-04-22T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 72,
+        "previousPoints": 72,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1998-05-20T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 72,
+        "previousPoints": 72,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1998-03-18T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 72,
+        "previousPoints": 73,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -1
+    },
+    {
+        "date": "1998-02-18T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 73,
+        "previousPoints": 73,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1997-12-23T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 73,
+        "previousPoints": 72,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 72,
+        "previousPoints": 72,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1997-08-20T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 72,
+        "previousPoints": 72,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1997-10-17T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 72,
+        "previousPoints": 72,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1997-07-16T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 72,
+        "previousPoints": 66,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 6
+    },
+    {
+        "date": "1997-06-18T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 66,
+        "previousPoints": 66,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1997-04-09T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 66,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 2
+    },
+    {
+        "date": "1997-09-17T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 72,
+        "previousPoints": 72,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1997-05-14T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 66,
+        "previousPoints": 66,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1997-02-27T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 64,
+        "previousPoints": 68,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -4
+    },
+    {
+        "date": "1996-12-18T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 68,
+        "previousPoints": 69,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -1
+    },
+    {
+        "date": "1996-10-23T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 68,
+        "previousPoints": 68,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1996-11-20T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 69,
+        "previousPoints": 68,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 1
+    },
+    {
+        "date": "1996-08-28T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 68,
+        "previousPoints": 69,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -1
+    },
+    {
+        "date": "1996-09-25T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 68,
+        "previousPoints": 68,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1996-07-03T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 69,
+        "previousPoints": 69,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1996-04-24T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 69,
+        "previousPoints": 69,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1996-02-21T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 69,
+        "previousPoints": 70,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -1
+    },
+    {
+        "date": "1996-05-22T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 69,
+        "previousPoints": 69,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1995-11-21T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 68,
+        "previousPoints": 68,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1995-10-17T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 68,
+        "previousPoints": 66,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 2
+    },
+    {
+        "date": "1996-01-24T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 70,
+        "previousPoints": 68,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 2
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 67,
+        "previousPoints": 66,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 1
+    },
+    {
+        "date": "1995-08-22T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 68,
+        "previousPoints": 68,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1995-12-19T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 68,
+        "previousPoints": 68,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1995-09-19T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 66,
+        "previousPoints": 68,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -2
+    },
+    {
+        "date": "1995-07-25T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 68,
+        "previousPoints": 67,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 1
+    },
+    {
+        "date": "1994-12-20T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 67,
+        "previousPoints": 67,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1994-11-22T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 67,
+        "previousPoints": 66,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 1
+    },
+    {
+        "date": "1995-04-19T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 66,
+        "previousPoints": 67,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -1
+    },
+    {
+        "date": "1995-05-16T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 66,
+        "previousPoints": 66,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1995-02-20T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 67,
+        "previousPoints": 67,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1994-10-25T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 66,
+        "previousPoints": 66,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1994-07-21T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 65,
+        "previousPoints": 59,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 6
+    },
+    {
+        "date": "1994-09-13T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 66,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 1
+    },
+    {
+        "date": "1994-05-17T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 59,
+        "previousPoints": 59,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1994-03-15T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 58,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1994-06-14T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 59,
+        "previousPoints": 59,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1994-04-19T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 59,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 1
+    },
+    {
+        "date": "1993-12-23T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 59,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 1
+    },
+    {
+        "date": "1994-02-15T00:00:00",
+        "rank": "2",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 58,
+        "previousPoints": 59,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -1
+    },
+    {
+        "date": "1993-11-19T00:00:00",
+        "rank": "4",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 58,
+        "previousPoints": 59,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -1
+    },
+    {
+        "date": "1993-08-08T00:00:00",
+        "rank": "8",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 54,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": -2
+    },
+    {
+        "date": "1993-09-23T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 59,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 5
+    },
+    {
+        "date": "1993-10-22T00:00:00",
+        "rank": "1",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 59,
+        "previousPoints": 59,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra",
+        "delta": 0
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "3",
+        "country": "Brazil",
+        "ct": "BRA",
+        "points": 56,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bra"
+    }
+]

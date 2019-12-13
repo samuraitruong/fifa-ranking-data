@@ -1,0 +1,3001 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "56",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 1389,
+        "previousPoints": 1386,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 3
+    },
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "63",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 1365,
+        "previousPoints": 1360,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 5
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "65",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 1365,
+        "previousPoints": 1363,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 2
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "64",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 1363,
+        "previousPoints": 1363,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "57",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 1391,
+        "previousPoints": 1389,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 2
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "59",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 1389,
+        "previousPoints": 1365,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 24
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "59",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 1386,
+        "previousPoints": 1391,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -5
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "67",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 506,
+        "previousPoints": 503,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 3
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "66",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 1352,
+        "previousPoints": 1365,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -13
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "63",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 1360,
+        "previousPoints": 1360,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "65",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 1363,
+        "previousPoints": 1363,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "69",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 1628,
+        "previousPoints": 1628,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "62",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 1365,
+        "previousPoints": 1365,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "72",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 493,
+        "previousPoints": 493,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "64",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 484,
+        "previousPoints": 462,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 22
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "72",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 493,
+        "previousPoints": 488,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 5
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "67",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 462,
+        "previousPoints": 462,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "64",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 1363,
+        "previousPoints": 1352,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 11
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "69",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 503,
+        "previousPoints": 477,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 26
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "71",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 477,
+        "previousPoints": 493,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -16
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "67",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 462,
+        "previousPoints": 506,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -44
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "72",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 488,
+        "previousPoints": 464,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 24
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "76",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 464,
+        "previousPoints": 545,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -81
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "66",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 544,
+        "previousPoints": 504,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 40
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "59",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 607,
+        "previousPoints": 544,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 63
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "65",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 545,
+        "previousPoints": 607,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -62
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "61",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 586,
+        "previousPoints": 600,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -14
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "69",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 504,
+        "previousPoints": 504,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "69",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 504,
+        "previousPoints": 586,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -82
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "58",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 600,
+        "previousPoints": 544,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 56
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "64",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 544,
+        "previousPoints": 569,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -25
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "60",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 569,
+        "previousPoints": 569,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "58",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 568,
+        "previousPoints": 580,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -12
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "61",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 569,
+        "previousPoints": 568,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 1
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "55",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 580,
+        "previousPoints": 542,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 38
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "59",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 542,
+        "previousPoints": 546,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -4
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "65",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 551,
+        "previousPoints": 551,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "61",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 546,
+        "previousPoints": 554,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -8
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "73",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 490,
+        "previousPoints": 510,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -20
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "65",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 551,
+        "previousPoints": 490,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 61
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "68",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 510,
+        "previousPoints": 552,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -42
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "63",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 554,
+        "previousPoints": 551,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 3
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "63",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 552,
+        "previousPoints": 552,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "62",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 552,
+        "previousPoints": 552,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "63",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 552,
+        "previousPoints": 546,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 6
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "62",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 546,
+        "previousPoints": 550,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -4
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "60",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 550,
+        "previousPoints": 545,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 5
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "63",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 545,
+        "previousPoints": 550,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -5
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "56",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 578,
+        "previousPoints": 578,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "61",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 550,
+        "previousPoints": 623,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -73
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "51",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 626,
+        "previousPoints": 613,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 13
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "56",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 578,
+        "previousPoints": 626,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -48
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "52",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 623,
+        "previousPoints": 578,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 45
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "53",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 613,
+        "previousPoints": 603,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 10
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "49",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 603,
+        "previousPoints": 603,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "58",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 533,
+        "previousPoints": 526,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 7
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "50",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 603,
+        "previousPoints": 603,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "49",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 603,
+        "previousPoints": 533,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 70
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "59",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 526,
+        "previousPoints": 488,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 38
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "60",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 488,
+        "previousPoints": 483,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 5
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "60",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 483,
+        "previousPoints": 547,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -64
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "59",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 545,
+        "previousPoints": 545,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "57",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 547,
+        "previousPoints": 545,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 2
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "59",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 545,
+        "previousPoints": 561,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -16
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "56",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 561,
+        "previousPoints": 561,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "45",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 664,
+        "previousPoints": 684,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -20
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "59",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 561,
+        "previousPoints": 703,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -142
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "40",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 703,
+        "previousPoints": 664,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 39
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "42",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 684,
+        "previousPoints": 668,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 16
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "41",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 668,
+        "previousPoints": 704,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -36
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "38",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 704,
+        "previousPoints": 735,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -31
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "28",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 774,
+        "previousPoints": 869,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -95
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "23",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 869,
+        "previousPoints": 826,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 43
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "26",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 826,
+        "previousPoints": 826,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "32",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 735,
+        "previousPoints": 774,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -39
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "25",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 813,
+        "previousPoints": 807,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 6
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "24",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 815,
+        "previousPoints": 813,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 2
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "26",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 826,
+        "previousPoints": 815,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 11
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "25",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 807,
+        "previousPoints": 809,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -2
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "28",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 772,
+        "previousPoints": 759,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 13
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "32",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 710,
+        "previousPoints": 650,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 60
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "27",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 759,
+        "previousPoints": 710,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 49
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "25",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 809,
+        "previousPoints": 772,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 37
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "rank": "40",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 650,
+        "previousPoints": 601,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 49
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "39",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 650,
+        "previousPoints": 650,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "rank": "39",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 656,
+        "previousPoints": 656,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "rank": "43",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 601,
+        "previousPoints": 656,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -55
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "rank": "39",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 656,
+        "previousPoints": 629,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 27
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "rank": "42",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 629,
+        "previousPoints": 625,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 4
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "rank": "44",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 625,
+        "previousPoints": 476,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 149
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "rank": "69",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 476,
+        "previousPoints": 472,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 4
+    },
+    {
+        "date": "2011-11-23T00:00:00",
+        "rank": "67",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 472,
+        "previousPoints": 473,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -1
+    },
+    {
+        "date": "2011-12-21T00:00:00",
+        "rank": "67",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 472,
+        "previousPoints": 472,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2011-10-19T00:00:00",
+        "rank": "68",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 473,
+        "previousPoints": 519,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -46
+    },
+    {
+        "date": "2011-09-21T00:00:00",
+        "rank": "62",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 519,
+        "previousPoints": 408,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 111
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "77",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 416,
+        "previousPoints": 416,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2011-06-29T00:00:00",
+        "rank": "78",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 416,
+        "previousPoints": 451,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -35
+    },
+    {
+        "date": "2011-05-18T00:00:00",
+        "rank": "70",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 451,
+        "previousPoints": 451,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2011-04-13T00:00:00",
+        "rank": "70",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 451,
+        "previousPoints": 389,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 62
+    },
+    {
+        "date": "2011-08-24T00:00:00",
+        "rank": "81",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 408,
+        "previousPoints": 416,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -8
+    },
+    {
+        "date": "2011-01-12T00:00:00",
+        "rank": "68",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 474,
+        "previousPoints": 488,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -14
+    },
+    {
+        "date": "2011-02-02T00:00:00",
+        "rank": "84",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 399,
+        "previousPoints": 474,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -75
+    },
+    {
+        "date": "2011-03-09T00:00:00",
+        "rank": "85",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 389,
+        "previousPoints": 399,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -10
+    },
+    {
+        "date": "2010-12-15T00:00:00",
+        "rank": "67",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 488,
+        "previousPoints": 480,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 8
+    },
+    {
+        "date": "2010-10-20T00:00:00",
+        "rank": "64",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 493,
+        "previousPoints": 518,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -25
+    },
+    {
+        "date": "2010-09-15T00:00:00",
+        "rank": "65",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 518,
+        "previousPoints": 548,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -30
+    },
+    {
+        "date": "2010-11-17T00:00:00",
+        "rank": "64",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 480,
+        "previousPoints": 493,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -13
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "55",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 548,
+        "previousPoints": 548,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2010-07-14T00:00:00",
+        "rank": "55",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 548,
+        "previousPoints": 575,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -27
+    },
+    {
+        "date": "2010-05-26T00:00:00",
+        "rank": "54",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 575,
+        "previousPoints": 575,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2010-04-28T00:00:00",
+        "rank": "54",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 575,
+        "previousPoints": 573,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 2
+    },
+    {
+        "date": "2010-03-31T00:00:00",
+        "rank": "57",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 573,
+        "previousPoints": 595,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -22
+    },
+    {
+        "date": "2010-02-03T00:00:00",
+        "rank": "53",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 598,
+        "previousPoints": 662,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -64
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "54",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 595,
+        "previousPoints": 598,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -3
+    },
+    {
+        "date": "2009-12-16T00:00:00",
+        "rank": "47",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 662,
+        "previousPoints": 662,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2009-11-20T00:00:00",
+        "rank": "47",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 662,
+        "previousPoints": 632,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 30
+    },
+    {
+        "date": "2009-10-16T00:00:00",
+        "rank": "51",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 632,
+        "previousPoints": 593,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 39
+    },
+    {
+        "date": "2009-09-02T00:00:00",
+        "rank": "53",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 593,
+        "previousPoints": 551,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 42
+    },
+    {
+        "date": "2009-07-01T00:00:00",
+        "rank": "59",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 551,
+        "previousPoints": 583,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -32
+    },
+    {
+        "date": "2009-08-05T00:00:00",
+        "rank": "58",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 551,
+        "previousPoints": 551,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2009-06-03T00:00:00",
+        "rank": "54",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 583,
+        "previousPoints": 604,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -21
+    },
+    {
+        "date": "2009-05-06T00:00:00",
+        "rank": "49",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 604,
+        "previousPoints": 609,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -5
+    },
+    {
+        "date": "2009-04-08T00:00:00",
+        "rank": "49",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 609,
+        "previousPoints": 607,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 2
+    },
+    {
+        "date": "2009-03-11T00:00:00",
+        "rank": "46",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 607,
+        "previousPoints": 601,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 6
+    },
+    {
+        "date": "2008-12-17T00:00:00",
+        "rank": "45",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 615,
+        "previousPoints": 603,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 12
+    },
+    {
+        "date": "2009-02-11T00:00:00",
+        "rank": "47",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 601,
+        "previousPoints": 626,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -25
+    },
+    {
+        "date": "2008-11-12T00:00:00",
+        "rank": "49",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 603,
+        "previousPoints": 587,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 16
+    },
+    {
+        "date": "2009-01-14T00:00:00",
+        "rank": "43",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 626,
+        "previousPoints": 615,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 11
+    },
+    {
+        "date": "2008-09-03T00:00:00",
+        "rank": "47",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 604,
+        "previousPoints": 624,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -20
+    },
+    {
+        "date": "2008-10-08T00:00:00",
+        "rank": "53",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 587,
+        "previousPoints": 604,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -17
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "48",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 624,
+        "previousPoints": 619,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 5
+    },
+    {
+        "date": "2008-06-04T00:00:00",
+        "rank": "46",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 630,
+        "previousPoints": 632,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -2
+    },
+    {
+        "date": "2008-07-02T00:00:00",
+        "rank": "51",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 619,
+        "previousPoints": 630,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -11
+    },
+    {
+        "date": "2008-04-09T00:00:00",
+        "rank": "44",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 629,
+        "previousPoints": 621,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 8
+    },
+    {
+        "date": "2008-05-07T00:00:00",
+        "rank": "44",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 632,
+        "previousPoints": 629,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 3
+    },
+    {
+        "date": "2008-03-12T00:00:00",
+        "rank": "45",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 621,
+        "previousPoints": 619,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 2
+    },
+    {
+        "date": "2008-01-16T00:00:00",
+        "rank": "47",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 622,
+        "previousPoints": 652,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -30
+    },
+    {
+        "date": "2008-02-13T00:00:00",
+        "rank": "46",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 619,
+        "previousPoints": 622,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -3
+    },
+    {
+        "date": "2007-11-22T00:00:00",
+        "rank": "46",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 652,
+        "previousPoints": 694,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -42
+    },
+    {
+        "date": "2007-12-17T00:00:00",
+        "rank": "46",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 652,
+        "previousPoints": 652,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2007-10-24T00:00:00",
+        "rank": "40",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 694,
+        "previousPoints": 613,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 81
+    },
+    {
+        "date": "2007-09-19T00:00:00",
+        "rank": "49",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 613,
+        "previousPoints": 634,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -21
+    },
+    {
+        "date": "2007-07-18T00:00:00",
+        "rank": "48",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 604,
+        "previousPoints": 616,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -12
+    },
+    {
+        "date": "2007-06-13T00:00:00",
+        "rank": "49",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 616,
+        "previousPoints": 685,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -69
+    },
+    {
+        "date": "2007-08-22T00:00:00",
+        "rank": "48",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 634,
+        "previousPoints": 604,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 30
+    },
+    {
+        "date": "2007-04-18T00:00:00",
+        "rank": "40",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 686,
+        "previousPoints": 696,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -10
+    },
+    {
+        "date": "2007-05-16T00:00:00",
+        "rank": "40",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 685,
+        "previousPoints": 686,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -1
+    },
+    {
+        "date": "2007-03-14T00:00:00",
+        "rank": "35",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 696,
+        "previousPoints": 696,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2007-02-14T00:00:00",
+        "rank": "35",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 696,
+        "previousPoints": 731,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -35
+    },
+    {
+        "date": "2007-01-17T00:00:00",
+        "rank": "36",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 731,
+        "previousPoints": 732,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -1
+    },
+    {
+        "date": "2006-12-18T00:00:00",
+        "rank": "36",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 732,
+        "previousPoints": 732,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2006-10-18T00:00:00",
+        "rank": "41",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 680,
+        "previousPoints": 483,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 197
+    },
+    {
+        "date": "2006-11-22T00:00:00",
+        "rank": "36",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 732,
+        "previousPoints": 680,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 52
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "60",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 483,
+        "previousPoints": 497,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -14
+    },
+    {
+        "date": "2006-08-16T00:00:00",
+        "rank": "60",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 497,
+        "previousPoints": 497,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2006-07-12T00:00:00",
+        "rank": "63",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 497,
+        "previousPoints": 550,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -53
+    },
+    {
+        "date": "2006-03-15T00:00:00",
+        "rank": "64",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 564,
+        "previousPoints": 567,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -3
+    },
+    {
+        "date": "2006-05-17T00:00:00",
+        "rank": "66",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 550,
+        "previousPoints": 556,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -6
+    },
+    {
+        "date": "2006-04-19T00:00:00",
+        "rank": "65",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 556,
+        "previousPoints": 564,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -8
+    },
+    {
+        "date": "2006-02-15T00:00:00",
+        "rank": "64",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 567,
+        "previousPoints": 569,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "59",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 573,
+        "previousPoints": 576,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -3
+    },
+    {
+        "date": "2005-12-16T00:00:00",
+        "rank": "63",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 569,
+        "previousPoints": 573,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -4
+    },
+    {
+        "date": "2006-01-18T00:00:00",
+        "rank": "62",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 569,
+        "previousPoints": 569,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2005-10-17T00:00:00",
+        "rank": "58",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 576,
+        "previousPoints": 578,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -2
+    },
+    {
+        "date": "2005-09-12T00:00:00",
+        "rank": "55",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 578,
+        "previousPoints": 566,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 12
+    },
+    {
+        "date": "2005-08-17T00:00:00",
+        "rank": "60",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 566,
+        "previousPoints": 571,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -5
+    },
+    {
+        "date": "2005-07-20T00:00:00",
+        "rank": "59",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 571,
+        "previousPoints": 570,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 1
+    },
+    {
+        "date": "2005-06-15T00:00:00",
+        "rank": "59",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 570,
+        "previousPoints": 571,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -1
+    },
+    {
+        "date": "2005-05-18T00:00:00",
+        "rank": "61",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 571,
+        "previousPoints": 578,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -7
+    },
+    {
+        "date": "2005-04-20T00:00:00",
+        "rank": "57",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 578,
+        "previousPoints": 583,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -5
+    },
+    {
+        "date": "2004-12-20T00:00:00",
+        "rank": "51",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 589,
+        "previousPoints": 587,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 2
+    },
+    {
+        "date": "2005-03-23T00:00:00",
+        "rank": "54",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 583,
+        "previousPoints": 587,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -4
+    },
+    {
+        "date": "2005-01-19T00:00:00",
+        "rank": "51",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 589,
+        "previousPoints": 589,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2005-02-16T00:00:00",
+        "rank": "53",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 587,
+        "previousPoints": 589,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -2
+    },
+    {
+        "date": "2004-11-10T00:00:00",
+        "rank": "47",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 587,
+        "previousPoints": 590,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -3
+    },
+    {
+        "date": "2004-09-01T00:00:00",
+        "rank": "43",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 588,
+        "previousPoints": 577,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 11
+    },
+    {
+        "date": "2004-10-06T00:00:00",
+        "rank": "44",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 590,
+        "previousPoints": 588,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 2
+    },
+    {
+        "date": "2004-07-07T00:00:00",
+        "rank": "46",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 576,
+        "previousPoints": 579,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -3
+    },
+    {
+        "date": "2004-08-04T00:00:00",
+        "rank": "46",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 577,
+        "previousPoints": 576,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 1
+    },
+    {
+        "date": "2004-05-12T00:00:00",
+        "rank": "45",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 583,
+        "previousPoints": 585,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -2
+    },
+    {
+        "date": "2004-06-09T00:00:00",
+        "rank": "46",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 579,
+        "previousPoints": 583,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "45",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 586,
+        "previousPoints": 586,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2004-04-14T00:00:00",
+        "rank": "46",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 585,
+        "previousPoints": 586,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -1
+    },
+    {
+        "date": "2004-02-18T00:00:00",
+        "rank": "46",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 586,
+        "previousPoints": 552,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 34
+    },
+    {
+        "date": "2004-01-14T00:00:00",
+        "rank": "51",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 552,
+        "previousPoints": 552,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2003-12-15T00:00:00",
+        "rank": "54",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 552,
+        "previousPoints": 545,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 7
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "56",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 545,
+        "previousPoints": 542,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 3
+    },
+    {
+        "date": "2003-10-22T00:00:00",
+        "rank": "56",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 542,
+        "previousPoints": 521,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 21
+    },
+    {
+        "date": "2003-08-27T00:00:00",
+        "rank": "69",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 520,
+        "previousPoints": 521,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -1
+    },
+    {
+        "date": "2003-09-24T00:00:00",
+        "rank": "66",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 521,
+        "previousPoints": 520,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 1
+    },
+    {
+        "date": "2003-07-30T00:00:00",
+        "rank": "68",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 521,
+        "previousPoints": 505,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 16
+    },
+    {
+        "date": "2003-06-25T00:00:00",
+        "rank": "73",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 505,
+        "previousPoints": 493,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 12
+    },
+    {
+        "date": "2003-05-21T00:00:00",
+        "rank": "74",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 493,
+        "previousPoints": 483,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 10
+    },
+    {
+        "date": "2003-04-23T00:00:00",
+        "rank": "79",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 483,
+        "previousPoints": 483,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2003-02-19T00:00:00",
+        "rank": "74",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 488,
+        "previousPoints": 489,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -1
+    },
+    {
+        "date": "2002-12-18T00:00:00",
+        "rank": "73",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 490,
+        "previousPoints": 477,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 13
+    },
+    {
+        "date": "2003-01-15T00:00:00",
+        "rank": "74",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 489,
+        "previousPoints": 490,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -1
+    },
+    {
+        "date": "2003-03-26T00:00:00",
+        "rank": "78",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 483,
+        "previousPoints": 488,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -5
+    },
+    {
+        "date": "2002-11-20T00:00:00",
+        "rank": "78",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 477,
+        "previousPoints": 472,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 5
+    },
+    {
+        "date": "2002-10-23T00:00:00",
+        "rank": "83",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 472,
+        "previousPoints": 467,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 5
+    },
+    {
+        "date": "2002-07-03T00:00:00",
+        "rank": "86",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 471,
+        "previousPoints": 471,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2002-08-14T00:00:00",
+        "rank": "87",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 470,
+        "previousPoints": 471,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -1
+    },
+    {
+        "date": "2002-09-18T00:00:00",
+        "rank": "88",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 467,
+        "previousPoints": 470,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -3
+    },
+    {
+        "date": "2002-05-15T00:00:00",
+        "rank": "85",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 471,
+        "previousPoints": 472,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -1
+    },
+    {
+        "date": "2002-03-20T00:00:00",
+        "rank": "87",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 475,
+        "previousPoints": 475,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2002-04-17T00:00:00",
+        "rank": "86",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 472,
+        "previousPoints": 475,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -3
+    },
+    {
+        "date": "2002-01-16T00:00:00",
+        "rank": "108",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 419,
+        "previousPoints": 391,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 28
+    },
+    {
+        "date": "2001-12-19T00:00:00",
+        "rank": "112",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 391,
+        "previousPoints": 415,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -24
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "86",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 475,
+        "previousPoints": 419,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 56
+    },
+    {
+        "date": "2001-08-22T00:00:00",
+        "rank": "112",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 391,
+        "previousPoints": 399,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -8
+    },
+    {
+        "date": "2001-11-21T00:00:00",
+        "rank": "109",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 415,
+        "previousPoints": 375,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 40
+    },
+    {
+        "date": "2001-10-17T00:00:00",
+        "rank": "117",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 375,
+        "previousPoints": 383,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -8
+    },
+    {
+        "date": "2001-09-19T00:00:00",
+        "rank": "114",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 383,
+        "previousPoints": 391,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -8
+    },
+    {
+        "date": "2001-07-18T00:00:00",
+        "rank": "110",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 399,
+        "previousPoints": 406,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -7
+    },
+    {
+        "date": "2001-05-16T00:00:00",
+        "rank": "105",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 412,
+        "previousPoints": 416,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -4
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "109",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 406,
+        "previousPoints": 412,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -6
+    },
+    {
+        "date": "2001-04-11T00:00:00",
+        "rank": "102",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 416,
+        "previousPoints": 420,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -4
+    },
+    {
+        "date": "2001-03-14T00:00:00",
+        "rank": "100",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 420,
+        "previousPoints": 423,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -3
+    },
+    {
+        "date": "2001-02-14T00:00:00",
+        "rank": "98",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 423,
+        "previousPoints": 424,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -1
+    },
+    {
+        "date": "2000-12-20T00:00:00",
+        "rank": "98",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 424,
+        "previousPoints": 430,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -6
+    },
+    {
+        "date": "2001-01-17T00:00:00",
+        "rank": "98",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 424,
+        "previousPoints": 424,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "2000-10-11T00:00:00",
+        "rank": "93",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 435,
+        "previousPoints": 440,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -5
+    },
+    {
+        "date": "2000-11-15T00:00:00",
+        "rank": "93",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 430,
+        "previousPoints": 435,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -5
+    },
+    {
+        "date": "2000-09-06T00:00:00",
+        "rank": "89",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 440,
+        "previousPoints": 443,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -3
+    },
+    {
+        "date": "2000-08-09T00:00:00",
+        "rank": "86",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 443,
+        "previousPoints": 447,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -4
+    },
+    {
+        "date": "2000-07-05T00:00:00",
+        "rank": "85",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 447,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -2
+    },
+    {
+        "date": "2000-06-07T00:00:00",
+        "rank": "82",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 449,
+        "previousPoints": 445,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 4
+    },
+    {
+        "date": "2000-04-12T00:00:00",
+        "rank": "81",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 447,
+        "previousPoints": 453,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -6
+    },
+    {
+        "date": "2000-05-10T00:00:00",
+        "rank": "83",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 445,
+        "previousPoints": 447,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -2
+    },
+    {
+        "date": "2000-02-16T00:00:00",
+        "rank": "75",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 455,
+        "previousPoints": 460,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -5
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "77",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 453,
+        "previousPoints": 455,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -2
+    },
+    {
+        "date": "1999-11-17T00:00:00",
+        "rank": "72",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 453,
+        "previousPoints": 454,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -1
+    },
+    {
+        "date": "1999-12-22T00:00:00",
+        "rank": "72",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 456,
+        "previousPoints": 453,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 3
+    },
+    {
+        "date": "2000-01-19T00:00:00",
+        "rank": "70",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 460,
+        "previousPoints": 456,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 4
+    },
+    {
+        "date": "1999-10-13T00:00:00",
+        "rank": "70",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 454,
+        "previousPoints": 455,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -1
+    },
+    {
+        "date": "1999-08-18T00:00:00",
+        "rank": "72",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 454,
+        "previousPoints": 456,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -2
+    },
+    {
+        "date": "1999-09-15T00:00:00",
+        "rank": "72",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 455,
+        "previousPoints": 454,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 1
+    },
+    {
+        "date": "1999-07-21T00:00:00",
+        "rank": "73",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 456,
+        "previousPoints": 453,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 3
+    },
+    {
+        "date": "1999-06-16T00:00:00",
+        "rank": "73",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 453,
+        "previousPoints": 445,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 8
+    },
+    {
+        "date": "1999-05-19T00:00:00",
+        "rank": "74",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 445,
+        "previousPoints": 442,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 3
+    },
+    {
+        "date": "1999-04-21T00:00:00",
+        "rank": "81",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 442,
+        "previousPoints": 426,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 16
+    },
+    {
+        "date": "1999-03-24T00:00:00",
+        "rank": "82",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 426,
+        "previousPoints": 429,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -3
+    },
+    {
+        "date": "1999-01-27T00:00:00",
+        "rank": "79",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 430,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 390
+    },
+    {
+        "date": "1999-02-24T00:00:00",
+        "rank": "80",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 429,
+        "previousPoints": 430,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -1
+    },
+    {
+        "date": "1998-12-23T00:00:00",
+        "rank": "70",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 40,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -3
+    },
+    {
+        "date": "1998-11-18T00:00:00",
+        "rank": "53",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "1998-10-21T00:00:00",
+        "rank": "54",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 43,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 1
+    },
+    {
+        "date": "1998-09-16T00:00:00",
+        "rank": "53",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 42,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "1998-07-15T00:00:00",
+        "rank": "67",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 39,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -1
+    },
+    {
+        "date": "1998-08-19T00:00:00",
+        "rank": "58",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 42,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 3
+    },
+    {
+        "date": "1998-04-22T00:00:00",
+        "rank": "66",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 40,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "1998-05-20T00:00:00",
+        "rank": "66",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 40,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "1998-03-18T00:00:00",
+        "rank": "68",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 40,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "1998-02-18T00:00:00",
+        "rank": "69",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 40,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 3
+    },
+    {
+        "date": "1997-12-23T00:00:00",
+        "rank": "80",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 37,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "88",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 35,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "1997-08-20T00:00:00",
+        "rank": "75",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 38,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -1
+    },
+    {
+        "date": "1997-10-17T00:00:00",
+        "rank": "86",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 35,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -3
+    },
+    {
+        "date": "1997-07-16T00:00:00",
+        "rank": "70",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 39,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 1
+    },
+    {
+        "date": "1997-06-18T00:00:00",
+        "rank": "72",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 38,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "1997-04-09T00:00:00",
+        "rank": "65",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 39,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "1997-09-17T00:00:00",
+        "rank": "77",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 38,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "1997-05-14T00:00:00",
+        "rank": "69",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 38,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -1
+    },
+    {
+        "date": "1997-02-27T00:00:00",
+        "rank": "60",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 39,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 3
+    },
+    {
+        "date": "1996-12-18T00:00:00",
+        "rank": "67",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 36,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 1
+    },
+    {
+        "date": "1996-10-23T00:00:00",
+        "rank": "69",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 34,
+        "previousPoints": 30,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 4
+    },
+    {
+        "date": "1996-11-20T00:00:00",
+        "rank": "70",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 35,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 1
+    },
+    {
+        "date": "1996-08-28T00:00:00",
+        "rank": "77",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 30,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -3
+    },
+    {
+        "date": "1996-09-25T00:00:00",
+        "rank": "81",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 30,
+        "previousPoints": 30,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "1996-07-03T00:00:00",
+        "rank": "69",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 33,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "1996-04-24T00:00:00",
+        "rank": "61",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 35,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -1
+    },
+    {
+        "date": "1996-02-21T00:00:00",
+        "rank": "59",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 36,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "1996-05-22T00:00:00",
+        "rank": "64",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 33,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -2
+    },
+    {
+        "date": "1995-11-21T00:00:00",
+        "rank": "52",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 37,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -1
+    },
+    {
+        "date": "1995-10-17T00:00:00",
+        "rank": "49",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 38,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 5
+    },
+    {
+        "date": "1996-01-24T00:00:00",
+        "rank": "59",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 36,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -2
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "50",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 36,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 2
+    },
+    {
+        "date": "1995-08-22T00:00:00",
+        "rank": "47",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 38,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 1
+    },
+    {
+        "date": "1995-12-19T00:00:00",
+        "rank": "52",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 38,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 1
+    },
+    {
+        "date": "1995-09-19T00:00:00",
+        "rank": "49",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 33,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -5
+    },
+    {
+        "date": "1995-07-25T00:00:00",
+        "rank": "46",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 37,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 1
+    },
+    {
+        "date": "1994-12-20T00:00:00",
+        "rank": "52",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 35,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 1
+    },
+    {
+        "date": "1994-11-22T00:00:00",
+        "rank": "52",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 34,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "1995-04-19T00:00:00",
+        "rank": "59",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 33,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -1
+    },
+    {
+        "date": "1995-05-16T00:00:00",
+        "rank": "56",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 34,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 1
+    },
+    {
+        "date": "1995-02-20T00:00:00",
+        "rank": "55",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 34,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -1
+    },
+    {
+        "date": "1994-10-25T00:00:00",
+        "rank": "49",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 34,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 1
+    },
+    {
+        "date": "1994-07-21T00:00:00",
+        "rank": "50",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 33,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -1
+    },
+    {
+        "date": "1994-09-13T00:00:00",
+        "rank": "49",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 33,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "1994-05-17T00:00:00",
+        "rank": "48",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 34,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "1994-03-15T00:00:00",
+        "rank": "57",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 31,
+        "previousPoints": 29,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 2
+    },
+    {
+        "date": "1994-06-14T00:00:00",
+        "rank": "49",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 34,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 0
+    },
+    {
+        "date": "1994-04-19T00:00:00",
+        "rank": "48",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 34,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 3
+    },
+    {
+        "date": "1993-12-23T00:00:00",
+        "rank": "70",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 25,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 2
+    },
+    {
+        "date": "1994-02-15T00:00:00",
+        "rank": "61",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 29,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 4
+    },
+    {
+        "date": "1993-11-19T00:00:00",
+        "rank": "75",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 23,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -2
+    },
+    {
+        "date": "1993-08-08T00:00:00",
+        "rank": "74",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 24,
+        "previousPoints": 22,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 2
+    },
+    {
+        "date": "1993-09-23T00:00:00",
+        "rank": "70",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 27,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": 3
+    },
+    {
+        "date": "1993-10-22T00:00:00",
+        "rank": "73",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 25,
+        "previousPoints": 27,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli",
+        "delta": -2
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "69",
+        "country": "Mali",
+        "ct": "MLI",
+        "points": 22,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mli"
+    }
+]

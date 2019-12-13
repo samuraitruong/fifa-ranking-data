@@ -1,0 +1,3001 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "59",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 1381,
+        "previousPoints": 1371,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 10
+    },
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "44",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 1430,
+        "previousPoints": 1416,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 14
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "51",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 1419,
+        "previousPoints": 1425,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -6
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "46",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 1425,
+        "previousPoints": 1425,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "62",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 1377,
+        "previousPoints": 1388,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -11
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "60",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 1388,
+        "previousPoints": 1388,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "61",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 1371,
+        "previousPoints": 1377,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -6
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "40",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 715,
+        "previousPoints": 719,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -4
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "45",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 1428,
+        "previousPoints": 1430,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -2
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "47",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 1416,
+        "previousPoints": 1416,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "48",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 1425,
+        "previousPoints": 1425,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "54",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 1743,
+        "previousPoints": 1743,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "57",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 1388,
+        "previousPoints": 1419,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -31
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "43",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 719,
+        "previousPoints": 719,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "49",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 614,
+        "previousPoints": 583,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 31
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "43",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 719,
+        "previousPoints": 750,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -31
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "53",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 583,
+        "previousPoints": 583,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "46",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 1425,
+        "previousPoints": 1428,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -3
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "40",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 719,
+        "previousPoints": 719,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "42",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 719,
+        "previousPoints": 719,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "54",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 583,
+        "previousPoints": 715,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -132
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "36",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 750,
+        "previousPoints": 739,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 11
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "38",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 739,
+        "previousPoints": 643,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 96
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "60",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 615,
+        "previousPoints": 614,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 1
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "54",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 643,
+        "previousPoints": 615,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 28
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "52",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 643,
+        "previousPoints": 643,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "71",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 489,
+        "previousPoints": 492,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -3
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "55",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 614,
+        "previousPoints": 614,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "55",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 614,
+        "previousPoints": 489,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 125
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "71",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 492,
+        "previousPoints": 492,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "72",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 492,
+        "previousPoints": 492,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "71",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 492,
+        "previousPoints": 492,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "89",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 395,
+        "previousPoints": 470,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -75
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "72",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 492,
+        "previousPoints": 395,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 97
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "74",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 470,
+        "previousPoints": 446,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 24
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "77",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 446,
+        "previousPoints": 446,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "69",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 508,
+        "previousPoints": 508,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "77",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 446,
+        "previousPoints": 518,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -72
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "70",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 500,
+        "previousPoints": 494,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 6
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "69",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 508,
+        "previousPoints": 500,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 8
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "75",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 494,
+        "previousPoints": 494,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "69",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 518,
+        "previousPoints": 508,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 10
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "72",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 494,
+        "previousPoints": 494,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "71",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 494,
+        "previousPoints": 497,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -3
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "66",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 497,
+        "previousPoints": 414,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 83
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "78",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 414,
+        "previousPoints": 503,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -89
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "68",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 503,
+        "previousPoints": 489,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 14
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "69",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 489,
+        "previousPoints": 489,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "67",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 505,
+        "previousPoints": 505,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "68",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 489,
+        "previousPoints": 537,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -48
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "71",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 501,
+        "previousPoints": 506,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -5
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "67",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 505,
+        "previousPoints": 501,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 4
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "62",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 537,
+        "previousPoints": 505,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 32
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "70",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 506,
+        "previousPoints": 506,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "66",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 506,
+        "previousPoints": 506,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "59",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 532,
+        "previousPoints": 570,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -38
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "66",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 506,
+        "previousPoints": 506,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "66",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 506,
+        "previousPoints": 532,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -26
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "46",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 570,
+        "previousPoints": 429,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 141
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "72",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 429,
+        "previousPoints": 425,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 4
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "72",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 425,
+        "previousPoints": 425,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "73",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 460,
+        "previousPoints": 460,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "78",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 425,
+        "previousPoints": 460,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -35
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "73",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 460,
+        "previousPoints": 518,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -58
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "67",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 518,
+        "previousPoints": 486,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 32
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "74",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 486,
+        "previousPoints": 486,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "72",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 486,
+        "previousPoints": 486,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "74",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 486,
+        "previousPoints": 486,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "76",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 486,
+        "previousPoints": 487,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -1
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "76",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 487,
+        "previousPoints": 549,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -62
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "64",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 549,
+        "previousPoints": 596,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -47
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "52",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 596,
+        "previousPoints": 628,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -32
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "46",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 628,
+        "previousPoints": 583,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 45
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "52",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 583,
+        "previousPoints": 583,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "53",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 596,
+        "previousPoints": 596,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "48",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 590,
+        "previousPoints": 585,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 5
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "46",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 615,
+        "previousPoints": 590,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 25
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "51",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 583,
+        "previousPoints": 615,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -32
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "50",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 585,
+        "previousPoints": 585,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "40",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 627,
+        "previousPoints": 565,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 62
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "89",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 388,
+        "previousPoints": 373,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 15
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "55",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 565,
+        "previousPoints": 388,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 177
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "50",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 585,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -42
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "rank": "92",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 373,
+        "previousPoints": 373,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "94",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 373,
+        "previousPoints": 373,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "rank": "96",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 354,
+        "previousPoints": 354,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "rank": "90",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 373,
+        "previousPoints": 354,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 19
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "rank": "96",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 354,
+        "previousPoints": 406,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -52
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "rank": "85",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 406,
+        "previousPoints": 408,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -2
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "rank": "88",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 408,
+        "previousPoints": 410,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -2
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "rank": "83",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 410,
+        "previousPoints": 410,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2011-11-23T00:00:00",
+        "rank": "85",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 410,
+        "previousPoints": 447,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -37
+    },
+    {
+        "date": "2011-12-21T00:00:00",
+        "rank": "84",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 410,
+        "previousPoints": 410,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2011-10-19T00:00:00",
+        "rank": "75",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 447,
+        "previousPoints": 558,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -111
+    },
+    {
+        "date": "2011-09-21T00:00:00",
+        "rank": "55",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 558,
+        "previousPoints": 586,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -28
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "48",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 598,
+        "previousPoints": 598,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2011-06-29T00:00:00",
+        "rank": "46",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 598,
+        "previousPoints": 591,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 7
+    },
+    {
+        "date": "2011-05-18T00:00:00",
+        "rank": "46",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 592,
+        "previousPoints": 592,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2011-04-13T00:00:00",
+        "rank": "45",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 591,
+        "previousPoints": 557,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 34
+    },
+    {
+        "date": "2011-08-24T00:00:00",
+        "rank": "51",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 586,
+        "previousPoints": 599,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -13
+    },
+    {
+        "date": "2011-01-12T00:00:00",
+        "rank": "49",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 555,
+        "previousPoints": 555,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2011-02-02T00:00:00",
+        "rank": "51",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 555,
+        "previousPoints": 555,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2011-03-09T00:00:00",
+        "rank": "47",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 558,
+        "previousPoints": 555,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 3
+    },
+    {
+        "date": "2010-12-15T00:00:00",
+        "rank": "49",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 555,
+        "previousPoints": 597,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -42
+    },
+    {
+        "date": "2010-10-20T00:00:00",
+        "rank": "43",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 604,
+        "previousPoints": 556,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 48
+    },
+    {
+        "date": "2010-09-15T00:00:00",
+        "rank": "54",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 556,
+        "previousPoints": 672,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -116
+    },
+    {
+        "date": "2010-11-17T00:00:00",
+        "rank": "45",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 597,
+        "previousPoints": 604,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -7
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "43",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 672,
+        "previousPoints": 672,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2010-07-14T00:00:00",
+        "rank": "43",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 672,
+        "previousPoints": 711,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -39
+    },
+    {
+        "date": "2010-05-26T00:00:00",
+        "rank": "39",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 711,
+        "previousPoints": 740,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -29
+    },
+    {
+        "date": "2010-04-28T00:00:00",
+        "rank": "39",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 740,
+        "previousPoints": 764,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -24
+    },
+    {
+        "date": "2010-03-31T00:00:00",
+        "rank": "38",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 764,
+        "previousPoints": 812,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -48
+    },
+    {
+        "date": "2010-02-03T00:00:00",
+        "rank": "30",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 801,
+        "previousPoints": 801,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "30",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 812,
+        "previousPoints": 801,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 11
+    },
+    {
+        "date": "2009-12-16T00:00:00",
+        "rank": "30",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 801,
+        "previousPoints": 827,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -26
+    },
+    {
+        "date": "2009-11-20T00:00:00",
+        "rank": "27",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 827,
+        "previousPoints": 854,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -27
+    },
+    {
+        "date": "2009-10-16T00:00:00",
+        "rank": "23",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 854,
+        "previousPoints": 860,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -6
+    },
+    {
+        "date": "2009-09-02T00:00:00",
+        "rank": "19",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 860,
+        "previousPoints": 839,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 21
+    },
+    {
+        "date": "2009-07-01T00:00:00",
+        "rank": "23",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 839,
+        "previousPoints": 838,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 1
+    },
+    {
+        "date": "2009-08-05T00:00:00",
+        "rank": "23",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 839,
+        "previousPoints": 839,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2009-06-03T00:00:00",
+        "rank": "23",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 838,
+        "previousPoints": 840,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -2
+    },
+    {
+        "date": "2009-05-06T00:00:00",
+        "rank": "20",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 840,
+        "previousPoints": 840,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2009-04-08T00:00:00",
+        "rank": "20",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 840,
+        "previousPoints": 756,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 84
+    },
+    {
+        "date": "2009-03-11T00:00:00",
+        "rank": "27",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 756,
+        "previousPoints": 772,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -16
+    },
+    {
+        "date": "2008-12-17T00:00:00",
+        "rank": "27",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 782,
+        "previousPoints": 951,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -169
+    },
+    {
+        "date": "2009-02-11T00:00:00",
+        "rank": "26",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 772,
+        "previousPoints": 782,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -10
+    },
+    {
+        "date": "2008-11-12T00:00:00",
+        "rank": "16",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 951,
+        "previousPoints": 969,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -18
+    },
+    {
+        "date": "2009-01-14T00:00:00",
+        "rank": "28",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 782,
+        "previousPoints": 782,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2008-09-03T00:00:00",
+        "rank": "16",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 976,
+        "previousPoints": 930,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 46
+    },
+    {
+        "date": "2008-10-08T00:00:00",
+        "rank": "15",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 969,
+        "previousPoints": 976,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -7
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "17",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 930,
+        "previousPoints": 930,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2008-06-04T00:00:00",
+        "rank": "18",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 949,
+        "previousPoints": 948,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 1
+    },
+    {
+        "date": "2008-07-02T00:00:00",
+        "rank": "17",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 930,
+        "previousPoints": 949,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -19
+    },
+    {
+        "date": "2008-04-09T00:00:00",
+        "rank": "18",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 953,
+        "previousPoints": 922,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 31
+    },
+    {
+        "date": "2008-05-07T00:00:00",
+        "rank": "18",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 948,
+        "previousPoints": 953,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -5
+    },
+    {
+        "date": "2008-03-12T00:00:00",
+        "rank": "19",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 922,
+        "previousPoints": 919,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 3
+    },
+    {
+        "date": "2008-01-16T00:00:00",
+        "rank": "18",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 881,
+        "previousPoints": 881,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2008-02-13T00:00:00",
+        "rank": "19",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 919,
+        "previousPoints": 881,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 38
+    },
+    {
+        "date": "2007-11-22T00:00:00",
+        "rank": "18",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 877,
+        "previousPoints": 717,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 160
+    },
+    {
+        "date": "2007-12-17T00:00:00",
+        "rank": "18",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 881,
+        "previousPoints": 877,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 4
+    },
+    {
+        "date": "2007-10-24T00:00:00",
+        "rank": "34",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 717,
+        "previousPoints": 727,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -10
+    },
+    {
+        "date": "2007-09-19T00:00:00",
+        "rank": "35",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 727,
+        "previousPoints": 856,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -129
+    },
+    {
+        "date": "2007-07-18T00:00:00",
+        "rank": "30",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 832,
+        "previousPoints": 829,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 3
+    },
+    {
+        "date": "2007-06-13T00:00:00",
+        "rank": "33",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 829,
+        "previousPoints": 705,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 124
+    },
+    {
+        "date": "2007-08-22T00:00:00",
+        "rank": "29",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 856,
+        "previousPoints": 832,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 24
+    },
+    {
+        "date": "2007-04-18T00:00:00",
+        "rank": "38",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 695,
+        "previousPoints": 687,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 8
+    },
+    {
+        "date": "2007-05-16T00:00:00",
+        "rank": "36",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 705,
+        "previousPoints": 695,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 10
+    },
+    {
+        "date": "2007-03-14T00:00:00",
+        "rank": "39",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 687,
+        "previousPoints": 689,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -2
+    },
+    {
+        "date": "2007-02-14T00:00:00",
+        "rank": "37",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 689,
+        "previousPoints": 684,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 5
+    },
+    {
+        "date": "2007-01-17T00:00:00",
+        "rank": "42",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 684,
+        "previousPoints": 684,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2006-12-18T00:00:00",
+        "rank": "43",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 684,
+        "previousPoints": 677,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 7
+    },
+    {
+        "date": "2006-10-18T00:00:00",
+        "rank": "38",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 707,
+        "previousPoints": 728,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -21
+    },
+    {
+        "date": "2006-11-22T00:00:00",
+        "rank": "43",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 677,
+        "previousPoints": 707,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -30
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "37",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 728,
+        "previousPoints": 716,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 12
+    },
+    {
+        "date": "2006-08-16T00:00:00",
+        "rank": "36",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 716,
+        "previousPoints": 716,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2006-07-12T00:00:00",
+        "rank": "37",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 716,
+        "previousPoints": 645,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 71
+    },
+    {
+        "date": "2006-03-15T00:00:00",
+        "rank": "39",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 643,
+        "previousPoints": 638,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 5
+    },
+    {
+        "date": "2006-05-17T00:00:00",
+        "rank": "37",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 645,
+        "previousPoints": 642,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 3
+    },
+    {
+        "date": "2006-04-19T00:00:00",
+        "rank": "38",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 642,
+        "previousPoints": 643,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -1
+    },
+    {
+        "date": "2006-02-15T00:00:00",
+        "rank": "40",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 638,
+        "previousPoints": 638,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "39",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 638,
+        "previousPoints": 616,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 22
+    },
+    {
+        "date": "2005-12-16T00:00:00",
+        "rank": "39",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 638,
+        "previousPoints": 638,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2006-01-18T00:00:00",
+        "rank": "39",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 638,
+        "previousPoints": 638,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2005-10-17T00:00:00",
+        "rank": "46",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 616,
+        "previousPoints": 613,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 3
+    },
+    {
+        "date": "2005-09-12T00:00:00",
+        "rank": "45",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 613,
+        "previousPoints": 606,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 7
+    },
+    {
+        "date": "2005-08-17T00:00:00",
+        "rank": "46",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 606,
+        "previousPoints": 610,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -4
+    },
+    {
+        "date": "2005-07-20T00:00:00",
+        "rank": "46",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 610,
+        "previousPoints": 605,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 5
+    },
+    {
+        "date": "2005-06-15T00:00:00",
+        "rank": "45",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 605,
+        "previousPoints": 608,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -3
+    },
+    {
+        "date": "2005-05-18T00:00:00",
+        "rank": "43",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 608,
+        "previousPoints": 620,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -12
+    },
+    {
+        "date": "2005-04-20T00:00:00",
+        "rank": "40",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 620,
+        "previousPoints": 620,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2004-12-20T00:00:00",
+        "rank": "37",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 623,
+        "previousPoints": 626,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -3
+    },
+    {
+        "date": "2005-03-23T00:00:00",
+        "rank": "39",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 620,
+        "previousPoints": 621,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -1
+    },
+    {
+        "date": "2005-01-19T00:00:00",
+        "rank": "37",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 623,
+        "previousPoints": 623,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2005-02-16T00:00:00",
+        "rank": "39",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 621,
+        "previousPoints": 623,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -2
+    },
+    {
+        "date": "2004-11-10T00:00:00",
+        "rank": "37",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 626,
+        "previousPoints": 601,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 25
+    },
+    {
+        "date": "2004-09-01T00:00:00",
+        "rank": "41",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 595,
+        "previousPoints": 596,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -1
+    },
+    {
+        "date": "2004-10-06T00:00:00",
+        "rank": "41",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 601,
+        "previousPoints": 595,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 6
+    },
+    {
+        "date": "2004-07-07T00:00:00",
+        "rank": "41",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 602,
+        "previousPoints": 609,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -7
+    },
+    {
+        "date": "2004-08-04T00:00:00",
+        "rank": "42",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 596,
+        "previousPoints": 602,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -6
+    },
+    {
+        "date": "2004-05-12T00:00:00",
+        "rank": "38",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 618,
+        "previousPoints": 616,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 2
+    },
+    {
+        "date": "2004-06-09T00:00:00",
+        "rank": "40",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 609,
+        "previousPoints": 618,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -9
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "37",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 620,
+        "previousPoints": 625,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -5
+    },
+    {
+        "date": "2004-04-14T00:00:00",
+        "rank": "38",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 616,
+        "previousPoints": 620,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -4
+    },
+    {
+        "date": "2004-02-18T00:00:00",
+        "rank": "37",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 625,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -2
+    },
+    {
+        "date": "2004-01-14T00:00:00",
+        "rank": "34",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 627,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2003-12-15T00:00:00",
+        "rank": "34",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 627,
+        "previousPoints": 615,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 12
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "39",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 615,
+        "previousPoints": 615,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2003-10-22T00:00:00",
+        "rank": "39",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 615,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -12
+    },
+    {
+        "date": "2003-08-27T00:00:00",
+        "rank": "35",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 615,
+        "previousPoints": 610,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 5
+    },
+    {
+        "date": "2003-09-24T00:00:00",
+        "rank": "31",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 627,
+        "previousPoints": 615,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 12
+    },
+    {
+        "date": "2003-07-30T00:00:00",
+        "rank": "37",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 610,
+        "previousPoints": 612,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -2
+    },
+    {
+        "date": "2003-06-25T00:00:00",
+        "rank": "38",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 612,
+        "previousPoints": 611,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 1
+    },
+    {
+        "date": "2003-05-21T00:00:00",
+        "rank": "35",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 611,
+        "previousPoints": 607,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 4
+    },
+    {
+        "date": "2003-04-23T00:00:00",
+        "rank": "38",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 607,
+        "previousPoints": 576,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 31
+    },
+    {
+        "date": "2003-02-19T00:00:00",
+        "rank": "44",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 580,
+        "previousPoints": 582,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -2
+    },
+    {
+        "date": "2002-12-18T00:00:00",
+        "rank": "42",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 582,
+        "previousPoints": 586,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -4
+    },
+    {
+        "date": "2003-01-15T00:00:00",
+        "rank": "42",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 582,
+        "previousPoints": 582,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2003-03-26T00:00:00",
+        "rank": "46",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 576,
+        "previousPoints": 580,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -4
+    },
+    {
+        "date": "2002-11-20T00:00:00",
+        "rank": "41",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 586,
+        "previousPoints": 586,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2002-10-23T00:00:00",
+        "rank": "42",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 586,
+        "previousPoints": 546,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 40
+    },
+    {
+        "date": "2002-07-03T00:00:00",
+        "rank": "54",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 542,
+        "previousPoints": 557,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -15
+    },
+    {
+        "date": "2002-08-14T00:00:00",
+        "rank": "58",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 526,
+        "previousPoints": 542,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -16
+    },
+    {
+        "date": "2002-09-18T00:00:00",
+        "rank": "50",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 546,
+        "previousPoints": 526,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 20
+    },
+    {
+        "date": "2002-05-15T00:00:00",
+        "rank": "54",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 557,
+        "previousPoints": 564,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -7
+    },
+    {
+        "date": "2002-03-20T00:00:00",
+        "rank": "52",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 569,
+        "previousPoints": 574,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -5
+    },
+    {
+        "date": "2002-04-17T00:00:00",
+        "rank": "52",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 564,
+        "previousPoints": 569,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -5
+    },
+    {
+        "date": "2002-01-16T00:00:00",
+        "rank": "51",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 576,
+        "previousPoints": 576,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2001-12-19T00:00:00",
+        "rank": "51",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 576,
+        "previousPoints": 576,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "52",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 574,
+        "previousPoints": 576,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -2
+    },
+    {
+        "date": "2001-08-22T00:00:00",
+        "rank": "50",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 581,
+        "previousPoints": 577,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 4
+    },
+    {
+        "date": "2001-11-21T00:00:00",
+        "rank": "51",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 576,
+        "previousPoints": 576,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2001-10-17T00:00:00",
+        "rank": "51",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 576,
+        "previousPoints": 586,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -10
+    },
+    {
+        "date": "2001-09-19T00:00:00",
+        "rank": "48",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 586,
+        "previousPoints": 581,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 5
+    },
+    {
+        "date": "2001-07-18T00:00:00",
+        "rank": "49",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 577,
+        "previousPoints": 578,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -1
+    },
+    {
+        "date": "2001-05-16T00:00:00",
+        "rank": "43",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 570,
+        "previousPoints": 570,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "46",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 578,
+        "previousPoints": 570,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 8
+    },
+    {
+        "date": "2001-04-11T00:00:00",
+        "rank": "44",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 570,
+        "previousPoints": 553,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 17
+    },
+    {
+        "date": "2001-03-14T00:00:00",
+        "rank": "49",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 553,
+        "previousPoints": 544,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 9
+    },
+    {
+        "date": "2001-02-14T00:00:00",
+        "rank": "52",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 544,
+        "previousPoints": 540,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 4
+    },
+    {
+        "date": "2000-12-20T00:00:00",
+        "rank": "53",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 540,
+        "previousPoints": 535,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 5
+    },
+    {
+        "date": "2001-01-17T00:00:00",
+        "rank": "54",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 540,
+        "previousPoints": 540,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "2000-10-11T00:00:00",
+        "rank": "55",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 529,
+        "previousPoints": 522,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 7
+    },
+    {
+        "date": "2000-11-15T00:00:00",
+        "rank": "54",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 535,
+        "previousPoints": 529,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 6
+    },
+    {
+        "date": "2000-09-06T00:00:00",
+        "rank": "56",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 522,
+        "previousPoints": 529,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -7
+    },
+    {
+        "date": "2000-08-09T00:00:00",
+        "rank": "52",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 529,
+        "previousPoints": 538,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -9
+    },
+    {
+        "date": "2000-07-05T00:00:00",
+        "rank": "47",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 538,
+        "previousPoints": 544,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -6
+    },
+    {
+        "date": "2000-06-07T00:00:00",
+        "rank": "44",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 544,
+        "previousPoints": 550,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -6
+    },
+    {
+        "date": "2000-04-12T00:00:00",
+        "rank": "40",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 555,
+        "previousPoints": 558,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -3
+    },
+    {
+        "date": "2000-05-10T00:00:00",
+        "rank": "43",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 550,
+        "previousPoints": 555,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -5
+    },
+    {
+        "date": "2000-02-16T00:00:00",
+        "rank": "39",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 569,
+        "previousPoints": 563,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 6
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "39",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 558,
+        "previousPoints": 569,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -11
+    },
+    {
+        "date": "1999-11-17T00:00:00",
+        "rank": "37",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 571,
+        "previousPoints": 573,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -2
+    },
+    {
+        "date": "1999-12-22T00:00:00",
+        "rank": "37",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 563,
+        "previousPoints": 571,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -8
+    },
+    {
+        "date": "2000-01-19T00:00:00",
+        "rank": "37",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 563,
+        "previousPoints": 563,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "1999-10-13T00:00:00",
+        "rank": "36",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 573,
+        "previousPoints": 570,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 3
+    },
+    {
+        "date": "1999-08-18T00:00:00",
+        "rank": "34",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 568,
+        "previousPoints": 573,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -5
+    },
+    {
+        "date": "1999-09-15T00:00:00",
+        "rank": "36",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 570,
+        "previousPoints": 568,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 2
+    },
+    {
+        "date": "1999-07-21T00:00:00",
+        "rank": "34",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 573,
+        "previousPoints": 575,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -2
+    },
+    {
+        "date": "1999-06-16T00:00:00",
+        "rank": "33",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 575,
+        "previousPoints": 589,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -14
+    },
+    {
+        "date": "1999-05-19T00:00:00",
+        "rank": "30",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 589,
+        "previousPoints": 601,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -12
+    },
+    {
+        "date": "1999-04-21T00:00:00",
+        "rank": "23",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 601,
+        "previousPoints": 579,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 22
+    },
+    {
+        "date": "1999-03-24T00:00:00",
+        "rank": "30",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 579,
+        "previousPoints": 577,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 2
+    },
+    {
+        "date": "1999-01-27T00:00:00",
+        "rank": "30",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 580,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 535
+    },
+    {
+        "date": "1999-02-24T00:00:00",
+        "rank": "30",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 577,
+        "previousPoints": 580,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -3
+    },
+    {
+        "date": "1998-12-23T00:00:00",
+        "rank": "49",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 45,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -1
+    },
+    {
+        "date": "1998-11-18T00:00:00",
+        "rank": "46",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 46,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 1
+    },
+    {
+        "date": "1998-10-21T00:00:00",
+        "rank": "45",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 45,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "1998-09-16T00:00:00",
+        "rank": "47",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 45,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -5
+    },
+    {
+        "date": "1998-07-15T00:00:00",
+        "rank": "34",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 50,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "1998-08-19T00:00:00",
+        "rank": "35",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 50,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "1998-04-22T00:00:00",
+        "rank": "42",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 48,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -3
+    },
+    {
+        "date": "1998-05-20T00:00:00",
+        "rank": "35",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 50,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 2
+    },
+    {
+        "date": "1998-03-18T00:00:00",
+        "rank": "38",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 51,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -1
+    },
+    {
+        "date": "1998-02-18T00:00:00",
+        "rank": "38",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "1997-12-23T00:00:00",
+        "rank": "36",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 52,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -3
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "24",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 55,
+        "previousPoints": 57,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -2
+    },
+    {
+        "date": "1997-08-20T00:00:00",
+        "rank": "22",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 54,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "1997-10-17T00:00:00",
+        "rank": "18",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 57,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -1
+    },
+    {
+        "date": "1997-07-16T00:00:00",
+        "rank": "20",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 54,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 1
+    },
+    {
+        "date": "1997-06-18T00:00:00",
+        "rank": "23",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 53,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -3
+    },
+    {
+        "date": "1997-04-09T00:00:00",
+        "rank": "13",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 56,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 1
+    },
+    {
+        "date": "1997-09-17T00:00:00",
+        "rank": "13",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 58,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 4
+    },
+    {
+        "date": "1997-05-14T00:00:00",
+        "rank": "14",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 56,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "1997-02-27T00:00:00",
+        "rank": "14",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 55,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -1
+    },
+    {
+        "date": "1996-12-18T00:00:00",
+        "rank": "15",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 56,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 2
+    },
+    {
+        "date": "1996-10-23T00:00:00",
+        "rank": "21",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 52,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 1
+    },
+    {
+        "date": "1996-11-20T00:00:00",
+        "rank": "17",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 54,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 2
+    },
+    {
+        "date": "1996-08-28T00:00:00",
+        "rank": "17",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "1996-09-25T00:00:00",
+        "rank": "21",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 51,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -1
+    },
+    {
+        "date": "1996-07-03T00:00:00",
+        "rank": "19",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 52,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 5
+    },
+    {
+        "date": "1996-04-24T00:00:00",
+        "rank": "24",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 49,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -3
+    },
+    {
+        "date": "1996-02-21T00:00:00",
+        "rank": "17",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 52,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -1
+    },
+    {
+        "date": "1996-05-22T00:00:00",
+        "rank": "28",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 47,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -2
+    },
+    {
+        "date": "1995-11-21T00:00:00",
+        "rank": "14",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 54,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -1
+    },
+    {
+        "date": "1995-10-17T00:00:00",
+        "rank": "11",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 55,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 2
+    },
+    {
+        "date": "1996-01-24T00:00:00",
+        "rank": "18",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 53,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "8",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 58,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 2
+    },
+    {
+        "date": "1995-08-22T00:00:00",
+        "rank": "12",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 54,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "1995-12-19T00:00:00",
+        "rank": "17",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 53,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -1
+    },
+    {
+        "date": "1995-09-19T00:00:00",
+        "rank": "14",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 53,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -1
+    },
+    {
+        "date": "1995-07-25T00:00:00",
+        "rank": "11",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 54,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -4
+    },
+    {
+        "date": "1994-12-20T00:00:00",
+        "rank": "16",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 54,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 2
+    },
+    {
+        "date": "1994-11-22T00:00:00",
+        "rank": "17",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 52,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -1
+    },
+    {
+        "date": "1995-04-19T00:00:00",
+        "rank": "13",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 55,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 1
+    },
+    {
+        "date": "1995-05-16T00:00:00",
+        "rank": "12",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 56,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 1
+    },
+    {
+        "date": "1995-02-20T00:00:00",
+        "rank": "14",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 54,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "1994-10-25T00:00:00",
+        "rank": "16",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 53,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "1994-07-21T00:00:00",
+        "rank": "14",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 53,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 9
+    },
+    {
+        "date": "1994-09-13T00:00:00",
+        "rank": "14",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 53,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "1994-05-17T00:00:00",
+        "rank": "29",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 44,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -1
+    },
+    {
+        "date": "1994-03-15T00:00:00",
+        "rank": "23",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 45,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "1994-06-14T00:00:00",
+        "rank": "29",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 44,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "1994-04-19T00:00:00",
+        "rank": "25",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 45,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "1993-12-23T00:00:00",
+        "rank": "31",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 44,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -2
+    },
+    {
+        "date": "1994-02-15T00:00:00",
+        "rank": "23",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 45,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 1
+    },
+    {
+        "date": "1993-11-19T00:00:00",
+        "rank": "23",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 46,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 4
+    },
+    {
+        "date": "1993-08-08T00:00:00",
+        "rank": "37",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 39,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": -2
+    },
+    {
+        "date": "1993-09-23T00:00:00",
+        "rank": "37",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 39,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 0
+    },
+    {
+        "date": "1993-10-22T00:00:00",
+        "rank": "32",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 42,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul",
+        "delta": 3
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "26",
+        "country": "Bulgaria",
+        "ct": "BUL",
+        "points": 41,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bul"
+    }
+]

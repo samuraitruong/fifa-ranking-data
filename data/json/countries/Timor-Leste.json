@@ -1,0 +1,1497 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "196",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 879,
+        "previousPoints": 879,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "190",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 909,
+        "previousPoints": 912,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": -3
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "195",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 900,
+        "previousPoints": 900,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "196",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 900,
+        "previousPoints": 900,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "199",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 879,
+        "previousPoints": 879,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "201",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 879,
+        "previousPoints": 879,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "198",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 879,
+        "previousPoints": 879,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "190",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 44,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "191",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 910,
+        "previousPoints": 909,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 1
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "190",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 912,
+        "previousPoints": 912,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "196",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 900,
+        "previousPoints": 900,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "196",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 861,
+        "previousPoints": 861,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "200",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 879,
+        "previousPoints": 900,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": -21
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "191",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 44,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 12
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "190",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 45,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 1
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "196",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 32,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": -10
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "190",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 44,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "196",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 900,
+        "previousPoints": 910,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": -10
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "191",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 44,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "191",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 44,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "190",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 44,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "192",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 42,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 2
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "192",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 40,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": -2
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "196",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 51,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": -1
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "196",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 42,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": -9
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "196",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 42,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "194",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 53,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "195",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "195",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 52,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": -1
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "194",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 53,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": -11
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "191",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 64,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "191",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 64,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "186",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 74,
+        "previousPoints": 80,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": -6
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "191",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 64,
+        "previousPoints": 74,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": -10
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "183",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 80,
+        "previousPoints": 84,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": -4
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "186",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 84,
+        "previousPoints": 84,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "175",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 110,
+        "previousPoints": 110,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "185",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 84,
+        "previousPoints": 106,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": -22
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "170",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 127,
+        "previousPoints": 127,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "175",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 110,
+        "previousPoints": 127,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": -17
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "170",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 127,
+        "previousPoints": 127,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "177",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 106,
+        "previousPoints": 110,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": -4
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "170",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 127,
+        "previousPoints": 127,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "170",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 127,
+        "previousPoints": 155,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": -28
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "162",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 155,
+        "previousPoints": 118,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 37
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "170",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 118,
+        "previousPoints": 130,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": -12
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "163",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 130,
+        "previousPoints": 130,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "163",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 130,
+        "previousPoints": 130,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "151",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 151,
+        "previousPoints": 151,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "165",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 130,
+        "previousPoints": 151,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": -21
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "185",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 51,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "152",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 151,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 100
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "146",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 151,
+        "previousPoints": 151,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "187",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 51,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "185",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 51,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "182",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 51,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 25
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "185",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 51,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "185",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 51,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "193",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "193",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "192",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "191",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "192",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "191",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "191",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "190",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "190",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "190",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "189",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "193",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 26,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": -26
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "182",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "182",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "185",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "186",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "183",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "185",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "186",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "186",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "182",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "187",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 52,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 50
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "205",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "206",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "182",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "rank": "204",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "205",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "rank": "204",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "rank": "205",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "rank": "204",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "rank": "204",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "rank": "204",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "rank": "205",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2011-11-23T00:00:00",
+        "rank": "203",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 2,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": -1
+    },
+    {
+        "date": "2011-12-21T00:00:00",
+        "rank": "205",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2011-10-19T00:00:00",
+        "rank": "201",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 3,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2011-09-21T00:00:00",
+        "rank": "201",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 3,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "202",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 3,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2011-06-29T00:00:00",
+        "rank": "202",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 3,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2011-05-18T00:00:00",
+        "rank": "200",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 3,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2011-04-13T00:00:00",
+        "rank": "200",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 3,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2011-08-24T00:00:00",
+        "rank": "202",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 3,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2011-01-12T00:00:00",
+        "rank": "201",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 3,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2011-02-02T00:00:00",
+        "rank": "201",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 3,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2011-03-09T00:00:00",
+        "rank": "201",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 3,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2010-12-15T00:00:00",
+        "rank": "201",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 3,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2010-10-20T00:00:00",
+        "rank": "201",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 3,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": -1
+    },
+    {
+        "date": "2010-09-15T00:00:00",
+        "rank": "201",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2010-11-17T00:00:00",
+        "rank": "201",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 3,
+        "previousPoints": 3,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "200",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2010-07-14T00:00:00",
+        "rank": "200",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2010-05-26T00:00:00",
+        "rank": "200",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2010-04-28T00:00:00",
+        "rank": "200",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2010-03-31T00:00:00",
+        "rank": "200",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2010-02-03T00:00:00",
+        "rank": "200",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "200",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2009-12-16T00:00:00",
+        "rank": "200",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2009-11-20T00:00:00",
+        "rank": "200",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 4,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": -5
+    },
+    {
+        "date": "2009-10-16T00:00:00",
+        "rank": "198",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2009-09-02T00:00:00",
+        "rank": "199",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2009-07-01T00:00:00",
+        "rank": "199",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2009-08-05T00:00:00",
+        "rank": "199",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2009-06-03T00:00:00",
+        "rank": "198",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2009-05-06T00:00:00",
+        "rank": "198",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2009-04-08T00:00:00",
+        "rank": "198",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2009-03-11T00:00:00",
+        "rank": "198",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2008-12-17T00:00:00",
+        "rank": "197",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2009-02-11T00:00:00",
+        "rank": "198",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2008-11-12T00:00:00",
+        "rank": "198",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 9,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2009-01-14T00:00:00",
+        "rank": "198",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls",
+        "delta": 0
+    },
+    {
+        "date": "2008-09-03T00:00:00",
+        "rank": "200",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2008-10-08T00:00:00",
+        "rank": "200",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "200",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2008-06-04T00:00:00",
+        "rank": "199",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2008-07-02T00:00:00",
+        "rank": "199",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2008-04-09T00:00:00",
+        "rank": "202",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2008-05-07T00:00:00",
+        "rank": "200",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2008-03-12T00:00:00",
+        "rank": "202",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2008-01-16T00:00:00",
+        "rank": "201",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2008-02-13T00:00:00",
+        "rank": "202",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2007-11-22T00:00:00",
+        "rank": "201",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2007-12-17T00:00:00",
+        "rank": "201",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2007-10-24T00:00:00",
+        "rank": "200",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2007-09-19T00:00:00",
+        "rank": "200",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2007-07-18T00:00:00",
+        "rank": "199",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2007-06-13T00:00:00",
+        "rank": "199",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2007-08-22T00:00:00",
+        "rank": "199",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2007-04-18T00:00:00",
+        "rank": "199",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2007-05-16T00:00:00",
+        "rank": "199",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2007-03-14T00:00:00",
+        "rank": "199",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2007-02-14T00:00:00",
+        "rank": "199",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2007-01-17T00:00:00",
+        "rank": "199",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2006-12-18T00:00:00",
+        "rank": "198",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    },
+    {
+        "date": "2006-11-22T00:00:00",
+        "rank": "198",
+        "country": "Timor-Leste",
+        "ct": "TLS",
+        "points": 0,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tls"
+    }
+]

@@ -1,0 +1,3001 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "31",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 1493,
+        "previousPoints": 1481,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 12
+    },
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "48",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 1415,
+        "previousPoints": 1410,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 5
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "42",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 1435,
+        "previousPoints": 1427,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 8
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "44",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 1427,
+        "previousPoints": 1427,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "34",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 1482,
+        "previousPoints": 1481,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 1
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "33",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 1481,
+        "previousPoints": 1433,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 48
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "35",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 1481,
+        "previousPoints": 1482,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "52",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 609,
+        "previousPoints": 606,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 3
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "44",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 1431,
+        "previousPoints": 1415,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 16
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "49",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 1410,
+        "previousPoints": 1420,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -10
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "46",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 1427,
+        "previousPoints": 1427,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "47",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 1765,
+        "previousPoints": 1745,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 20
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "45",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 1433,
+        "previousPoints": 1435,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -2
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "51",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 640,
+        "previousPoints": 671,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -31
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "48",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 618,
+        "previousPoints": 635,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -17
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "50",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 671,
+        "previousPoints": 721,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -50
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "47",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 635,
+        "previousPoints": 635,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "44",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 1427,
+        "previousPoints": 1431,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -4
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "52",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 606,
+        "previousPoints": 651,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -45
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "51",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 651,
+        "previousPoints": 640,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 11
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "47",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 635,
+        "previousPoints": 609,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 26
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "41",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 721,
+        "previousPoints": 696,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 25
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "44",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 696,
+        "previousPoints": 716,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -20
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "38",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 730,
+        "previousPoints": 726,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 4
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "39",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 715,
+        "previousPoints": 730,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -15
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "38",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 716,
+        "previousPoints": 715,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 1
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "41",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 685,
+        "previousPoints": 686,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "40",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 726,
+        "previousPoints": 726,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "40",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 726,
+        "previousPoints": 685,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 41
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "41",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 686,
+        "previousPoints": 619,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 67
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "50",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 619,
+        "previousPoints": 616,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 3
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "51",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 616,
+        "previousPoints": 616,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "60",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 562,
+        "previousPoints": 534,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 28
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "50",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 616,
+        "previousPoints": 562,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 54
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "64",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 534,
+        "previousPoints": 513,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 21
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "67",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 513,
+        "previousPoints": 514,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "67",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 540,
+        "previousPoints": 534,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 6
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "70",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 514,
+        "previousPoints": 559,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -45
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "62",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 547,
+        "previousPoints": 543,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 4
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "67",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 534,
+        "previousPoints": 547,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -13
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "63",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 543,
+        "previousPoints": 540,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 3
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "61",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 559,
+        "previousPoints": 540,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 19
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "66",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 540,
+        "previousPoints": 541,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "66",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 541,
+        "previousPoints": 582,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -41
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "59",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 582,
+        "previousPoints": 600,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -18
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "52",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 600,
+        "previousPoints": 599,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 1
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "53",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 599,
+        "previousPoints": 601,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -2
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "53",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 601,
+        "previousPoints": 601,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "45",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 659,
+        "previousPoints": 652,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 7
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "57",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 601,
+        "previousPoints": 681,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -80
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "41",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 701,
+        "previousPoints": 664,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 37
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "45",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 652,
+        "previousPoints": 701,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -49
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "43",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 681,
+        "previousPoints": 659,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 22
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "42",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 664,
+        "previousPoints": 654,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 10
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "43",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 654,
+        "previousPoints": 656,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -2
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "42",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 632,
+        "previousPoints": 642,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -10
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "43",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 656,
+        "previousPoints": 656,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "42",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 656,
+        "previousPoints": 632,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 24
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "37",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 642,
+        "previousPoints": 673,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -31
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "33",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 673,
+        "previousPoints": 664,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 9
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "34",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 664,
+        "previousPoints": 640,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 24
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "44",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 631,
+        "previousPoints": 620,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 11
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "44",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 640,
+        "previousPoints": 631,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 9
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "45",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 620,
+        "previousPoints": 626,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -6
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "47",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 626,
+        "previousPoints": 616,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 10
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "37",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 710,
+        "previousPoints": 710,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "47",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 616,
+        "previousPoints": 701,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -85
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "41",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 701,
+        "previousPoints": 710,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -9
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "36",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 710,
+        "previousPoints": 724,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -14
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "33",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 724,
+        "previousPoints": 707,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 17
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "36",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 707,
+        "previousPoints": 700,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 7
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "35",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 723,
+        "previousPoints": 785,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -62
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "31",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 785,
+        "previousPoints": 780,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 5
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "28",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 780,
+        "previousPoints": 757,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 23
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "35",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 700,
+        "previousPoints": 723,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -23
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "30",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 747,
+        "previousPoints": 573,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 174
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "30",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 775,
+        "previousPoints": 747,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 28
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "31",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 757,
+        "previousPoints": 775,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -18
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "52",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 573,
+        "previousPoints": 581,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -8
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "57",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 553,
+        "previousPoints": 511,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 42
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "58",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 523,
+        "previousPoints": 525,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -2
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "63",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 511,
+        "previousPoints": 523,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -12
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "52",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 581,
+        "previousPoints": 553,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 28
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "rank": "58",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 525,
+        "previousPoints": 520,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 5
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "58",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 525,
+        "previousPoints": 525,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "rank": "63",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 537,
+        "previousPoints": 554,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -17
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "rank": "60",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 520,
+        "previousPoints": 537,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -17
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "rank": "60",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 554,
+        "previousPoints": 557,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -3
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "rank": "57",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 557,
+        "previousPoints": 573,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -16
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "rank": "56",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 573,
+        "previousPoints": 612,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -39
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "rank": "45",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 612,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -15
+    },
+    {
+        "date": "2011-11-23T00:00:00",
+        "rank": "43",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 627,
+        "previousPoints": 625,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 2
+    },
+    {
+        "date": "2011-12-21T00:00:00",
+        "rank": "43",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 627,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2011-10-19T00:00:00",
+        "rank": "44",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 625,
+        "previousPoints": 613,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 12
+    },
+    {
+        "date": "2011-09-21T00:00:00",
+        "rank": "43",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 613,
+        "previousPoints": 659,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -46
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "43",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 634,
+        "previousPoints": 634,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2011-06-29T00:00:00",
+        "rank": "41",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 635,
+        "previousPoints": 637,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -2
+    },
+    {
+        "date": "2011-05-18T00:00:00",
+        "rank": "39",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 637,
+        "previousPoints": 637,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2011-04-13T00:00:00",
+        "rank": "38",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 637,
+        "previousPoints": 609,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 28
+    },
+    {
+        "date": "2011-08-24T00:00:00",
+        "rank": "38",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 659,
+        "previousPoints": 635,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 24
+    },
+    {
+        "date": "2011-01-12T00:00:00",
+        "rank": "32",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 730,
+        "previousPoints": 725,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 5
+    },
+    {
+        "date": "2011-02-02T00:00:00",
+        "rank": "40",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 604,
+        "previousPoints": 730,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -126
+    },
+    {
+        "date": "2011-03-09T00:00:00",
+        "rank": "39",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 609,
+        "previousPoints": 604,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 5
+    },
+    {
+        "date": "2010-12-15T00:00:00",
+        "rank": "32",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 725,
+        "previousPoints": 711,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 14
+    },
+    {
+        "date": "2010-10-20T00:00:00",
+        "rank": "34",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 708,
+        "previousPoints": 733,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -25
+    },
+    {
+        "date": "2010-09-15T00:00:00",
+        "rank": "34",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 733,
+        "previousPoints": 773,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -40
+    },
+    {
+        "date": "2010-11-17T00:00:00",
+        "rank": "33",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 711,
+        "previousPoints": 708,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 3
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "30",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 773,
+        "previousPoints": 773,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2010-07-14T00:00:00",
+        "rank": "30",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 773,
+        "previousPoints": 883,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -110
+    },
+    {
+        "date": "2010-05-26T00:00:00",
+        "rank": "21",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 883,
+        "previousPoints": 883,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2010-04-28T00:00:00",
+        "rank": "20",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 883,
+        "previousPoints": 883,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2010-03-31T00:00:00",
+        "rank": "22",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 883,
+        "previousPoints": 879,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 4
+    },
+    {
+        "date": "2010-02-03T00:00:00",
+        "rank": "15",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 956,
+        "previousPoints": 848,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 108
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "21",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 879,
+        "previousPoints": 956,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -77
+    },
+    {
+        "date": "2009-12-16T00:00:00",
+        "rank": "22",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 848,
+        "previousPoints": 848,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2009-11-20T00:00:00",
+        "rank": "22",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 848,
+        "previousPoints": 763,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 85
+    },
+    {
+        "date": "2009-10-16T00:00:00",
+        "rank": "32",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 763,
+        "previousPoints": 773,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -10
+    },
+    {
+        "date": "2009-09-02T00:00:00",
+        "rank": "34",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 773,
+        "previousPoints": 773,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2009-07-01T00:00:00",
+        "rank": "34",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 773,
+        "previousPoints": 770,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 3
+    },
+    {
+        "date": "2009-08-05T00:00:00",
+        "rank": "34",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 773,
+        "previousPoints": 773,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2009-06-03T00:00:00",
+        "rank": "30",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 770,
+        "previousPoints": 781,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -11
+    },
+    {
+        "date": "2009-05-06T00:00:00",
+        "rank": "30",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 781,
+        "previousPoints": 781,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2009-04-08T00:00:00",
+        "rank": "30",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 781,
+        "previousPoints": 783,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -2
+    },
+    {
+        "date": "2009-03-11T00:00:00",
+        "rank": "24",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 783,
+        "previousPoints": 827,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -44
+    },
+    {
+        "date": "2008-12-17T00:00:00",
+        "rank": "19",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 876,
+        "previousPoints": 852,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 24
+    },
+    {
+        "date": "2009-02-11T00:00:00",
+        "rank": "23",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 827,
+        "previousPoints": 891,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -64
+    },
+    {
+        "date": "2008-11-12T00:00:00",
+        "rank": "22",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 852,
+        "previousPoints": 818,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 34
+    },
+    {
+        "date": "2009-01-14T00:00:00",
+        "rank": "17",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 891,
+        "previousPoints": 876,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 15
+    },
+    {
+        "date": "2008-09-03T00:00:00",
+        "rank": "27",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 791,
+        "previousPoints": 788,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 3
+    },
+    {
+        "date": "2008-10-08T00:00:00",
+        "rank": "27",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 818,
+        "previousPoints": 791,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 27
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "27",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 788,
+        "previousPoints": 801,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -13
+    },
+    {
+        "date": "2008-06-04T00:00:00",
+        "rank": "34",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 709,
+        "previousPoints": 660,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 49
+    },
+    {
+        "date": "2008-07-02T00:00:00",
+        "rank": "26",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 801,
+        "previousPoints": 709,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 92
+    },
+    {
+        "date": "2008-04-09T00:00:00",
+        "rank": "39",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 659,
+        "previousPoints": 618,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 41
+    },
+    {
+        "date": "2008-05-07T00:00:00",
+        "rank": "39",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 660,
+        "previousPoints": 659,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 1
+    },
+    {
+        "date": "2008-03-12T00:00:00",
+        "rank": "46",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 618,
+        "previousPoints": 631,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -13
+    },
+    {
+        "date": "2008-01-16T00:00:00",
+        "rank": "19",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 879,
+        "previousPoints": 875,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 4
+    },
+    {
+        "date": "2008-02-13T00:00:00",
+        "rank": "45",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 631,
+        "previousPoints": 879,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -248
+    },
+    {
+        "date": "2007-11-22T00:00:00",
+        "rank": "20",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 875,
+        "previousPoints": 841,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 34
+    },
+    {
+        "date": "2007-12-17T00:00:00",
+        "rank": "20",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 875,
+        "previousPoints": 875,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2007-10-24T00:00:00",
+        "rank": "19",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 841,
+        "previousPoints": 867,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -26
+    },
+    {
+        "date": "2007-09-19T00:00:00",
+        "rank": "23",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 867,
+        "previousPoints": 904,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -37
+    },
+    {
+        "date": "2007-07-18T00:00:00",
+        "rank": "25",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 867,
+        "previousPoints": 831,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 36
+    },
+    {
+        "date": "2007-06-13T00:00:00",
+        "rank": "32",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 831,
+        "previousPoints": 823,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 8
+    },
+    {
+        "date": "2007-08-22T00:00:00",
+        "rank": "26",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 904,
+        "previousPoints": 867,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 37
+    },
+    {
+        "date": "2007-04-18T00:00:00",
+        "rank": "27",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 824,
+        "previousPoints": 694,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 130
+    },
+    {
+        "date": "2007-05-16T00:00:00",
+        "rank": "27",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 823,
+        "previousPoints": 824,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "2007-03-14T00:00:00",
+        "rank": "36",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 694,
+        "previousPoints": 690,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 4
+    },
+    {
+        "date": "2007-02-14T00:00:00",
+        "rank": "36",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 690,
+        "previousPoints": 1244,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -554
+    },
+    {
+        "date": "2007-01-17T00:00:00",
+        "rank": "9",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 1244,
+        "previousPoints": 1244,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2006-12-18T00:00:00",
+        "rank": "9",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 1244,
+        "previousPoints": 1242,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 2
+    },
+    {
+        "date": "2006-10-18T00:00:00",
+        "rank": "11",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 1139,
+        "previousPoints": 1166,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -27
+    },
+    {
+        "date": "2006-11-22T00:00:00",
+        "rank": "9",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 1242,
+        "previousPoints": 1139,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 103
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "11",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 1166,
+        "previousPoints": 1156,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 10
+    },
+    {
+        "date": "2006-08-16T00:00:00",
+        "rank": "11",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 1156,
+        "previousPoints": 1149,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 7
+    },
+    {
+        "date": "2006-07-12T00:00:00",
+        "rank": "11",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 1149,
+        "previousPoints": 736,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 413
+    },
+    {
+        "date": "2006-03-15T00:00:00",
+        "rank": "12",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 738,
+        "previousPoints": 738,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2006-05-17T00:00:00",
+        "rank": "11",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 736,
+        "previousPoints": 737,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "2006-04-19T00:00:00",
+        "rank": "12",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 737,
+        "previousPoints": 738,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "2006-02-15T00:00:00",
+        "rank": "12",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 738,
+        "previousPoints": 692,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 46
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "25",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 692,
+        "previousPoints": 691,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 1
+    },
+    {
+        "date": "2005-12-16T00:00:00",
+        "rank": "24",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 692,
+        "previousPoints": 692,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2006-01-18T00:00:00",
+        "rank": "24",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 692,
+        "previousPoints": 692,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2005-10-17T00:00:00",
+        "rank": "23",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 691,
+        "previousPoints": 672,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 19
+    },
+    {
+        "date": "2005-09-12T00:00:00",
+        "rank": "29",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 672,
+        "previousPoints": 650,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 22
+    },
+    {
+        "date": "2005-08-17T00:00:00",
+        "rank": "30",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 650,
+        "previousPoints": 659,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -9
+    },
+    {
+        "date": "2005-07-20T00:00:00",
+        "rank": "29",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 659,
+        "previousPoints": 665,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -6
+    },
+    {
+        "date": "2005-06-15T00:00:00",
+        "rank": "29",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 665,
+        "previousPoints": 671,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -6
+    },
+    {
+        "date": "2005-05-18T00:00:00",
+        "rank": "25",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 671,
+        "previousPoints": 678,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -7
+    },
+    {
+        "date": "2005-04-20T00:00:00",
+        "rank": "24",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 678,
+        "previousPoints": 682,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -4
+    },
+    {
+        "date": "2004-12-20T00:00:00",
+        "rank": "21",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 690,
+        "previousPoints": 691,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "2005-03-23T00:00:00",
+        "rank": "23",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 682,
+        "previousPoints": 688,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -6
+    },
+    {
+        "date": "2005-01-19T00:00:00",
+        "rank": "21",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 689,
+        "previousPoints": 690,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "2005-02-16T00:00:00",
+        "rank": "21",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 688,
+        "previousPoints": 689,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "2004-11-10T00:00:00",
+        "rank": "21",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 691,
+        "previousPoints": 701,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -10
+    },
+    {
+        "date": "2004-09-01T00:00:00",
+        "rank": "20",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 691,
+        "previousPoints": 696,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -5
+    },
+    {
+        "date": "2004-10-06T00:00:00",
+        "rank": "18",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 701,
+        "previousPoints": 691,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 10
+    },
+    {
+        "date": "2004-07-07T00:00:00",
+        "rank": "18",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 697,
+        "previousPoints": 691,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 6
+    },
+    {
+        "date": "2004-08-04T00:00:00",
+        "rank": "18",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 696,
+        "previousPoints": 697,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "2004-05-12T00:00:00",
+        "rank": "16",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 683,
+        "previousPoints": 665,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 18
+    },
+    {
+        "date": "2004-06-09T00:00:00",
+        "rank": "16",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 691,
+        "previousPoints": 683,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 8
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "19",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 672,
+        "previousPoints": 672,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2004-04-14T00:00:00",
+        "rank": "21",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 665,
+        "previousPoints": 672,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -7
+    },
+    {
+        "date": "2004-02-18T00:00:00",
+        "rank": "21",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 672,
+        "previousPoints": 623,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 49
+    },
+    {
+        "date": "2004-01-14T00:00:00",
+        "rank": "35",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 623,
+        "previousPoints": 623,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2003-12-15T00:00:00",
+        "rank": "35",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 623,
+        "previousPoints": 625,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -2
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "32",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 625,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -2
+    },
+    {
+        "date": "2003-10-22T00:00:00",
+        "rank": "32",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 627,
+        "previousPoints": 628,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "2003-08-27T00:00:00",
+        "rank": "27",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 629,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 2
+    },
+    {
+        "date": "2003-09-24T00:00:00",
+        "rank": "30",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 628,
+        "previousPoints": 629,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "2003-07-30T00:00:00",
+        "rank": "29",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 627,
+        "previousPoints": 626,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 1
+    },
+    {
+        "date": "2003-06-25T00:00:00",
+        "rank": "31",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 626,
+        "previousPoints": 621,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 5
+    },
+    {
+        "date": "2003-05-21T00:00:00",
+        "rank": "32",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 621,
+        "previousPoints": 626,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -5
+    },
+    {
+        "date": "2003-04-23T00:00:00",
+        "rank": "32",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 626,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "2003-02-19T00:00:00",
+        "rank": "29",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 640,
+        "previousPoints": 642,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -2
+    },
+    {
+        "date": "2002-12-18T00:00:00",
+        "rank": "29",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 642,
+        "previousPoints": 643,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "2003-01-15T00:00:00",
+        "rank": "29",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 642,
+        "previousPoints": 642,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2003-03-26T00:00:00",
+        "rank": "30",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 627,
+        "previousPoints": 640,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -13
+    },
+    {
+        "date": "2002-11-20T00:00:00",
+        "rank": "27",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 643,
+        "previousPoints": 642,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 1
+    },
+    {
+        "date": "2002-10-23T00:00:00",
+        "rank": "28",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 642,
+        "previousPoints": 641,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 1
+    },
+    {
+        "date": "2002-07-03T00:00:00",
+        "rank": "29",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 642,
+        "previousPoints": 644,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -2
+    },
+    {
+        "date": "2002-08-14T00:00:00",
+        "rank": "28",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 640,
+        "previousPoints": 642,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -2
+    },
+    {
+        "date": "2002-09-18T00:00:00",
+        "rank": "30",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 641,
+        "previousPoints": 640,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 1
+    },
+    {
+        "date": "2002-05-15T00:00:00",
+        "rank": "27",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 644,
+        "previousPoints": 640,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 4
+    },
+    {
+        "date": "2002-03-20T00:00:00",
+        "rank": "32",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 632,
+        "previousPoints": 640,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -8
+    },
+    {
+        "date": "2002-04-17T00:00:00",
+        "rank": "29",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 640,
+        "previousPoints": 632,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 8
+    },
+    {
+        "date": "2002-01-16T00:00:00",
+        "rank": "40",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 604,
+        "previousPoints": 604,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2001-12-19T00:00:00",
+        "rank": "40",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 604,
+        "previousPoints": 602,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 2
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "31",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 640,
+        "previousPoints": 604,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 36
+    },
+    {
+        "date": "2001-08-22T00:00:00",
+        "rank": "34",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 610,
+        "previousPoints": 599,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 11
+    },
+    {
+        "date": "2001-11-21T00:00:00",
+        "rank": "40",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 602,
+        "previousPoints": 602,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2001-10-17T00:00:00",
+        "rank": "42",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 602,
+        "previousPoints": 604,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -2
+    },
+    {
+        "date": "2001-09-19T00:00:00",
+        "rank": "40",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 604,
+        "previousPoints": 610,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -6
+    },
+    {
+        "date": "2001-07-18T00:00:00",
+        "rank": "40",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 599,
+        "previousPoints": 581,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 18
+    },
+    {
+        "date": "2001-05-16T00:00:00",
+        "rank": "50",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 555,
+        "previousPoints": 545,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 10
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "45",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 581,
+        "previousPoints": 555,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 26
+    },
+    {
+        "date": "2001-04-11T00:00:00",
+        "rank": "55",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 545,
+        "previousPoints": 545,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2001-03-14T00:00:00",
+        "rank": "52",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 545,
+        "previousPoints": 546,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "2001-02-14T00:00:00",
+        "rank": "51",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 546,
+        "previousPoints": 555,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -9
+    },
+    {
+        "date": "2000-12-20T00:00:00",
+        "rank": "52",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 547,
+        "previousPoints": 544,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 3
+    },
+    {
+        "date": "2001-01-17T00:00:00",
+        "rank": "50",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 555,
+        "previousPoints": 547,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 8
+    },
+    {
+        "date": "2000-10-11T00:00:00",
+        "rank": "57",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 528,
+        "previousPoints": 530,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -2
+    },
+    {
+        "date": "2000-11-15T00:00:00",
+        "rank": "51",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 544,
+        "previousPoints": 528,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 16
+    },
+    {
+        "date": "2000-09-06T00:00:00",
+        "rank": "54",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 530,
+        "previousPoints": 521,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 9
+    },
+    {
+        "date": "2000-08-09T00:00:00",
+        "rank": "55",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 521,
+        "previousPoints": 525,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -4
+    },
+    {
+        "date": "2000-07-05T00:00:00",
+        "rank": "53",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 525,
+        "previousPoints": 526,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "2000-06-07T00:00:00",
+        "rank": "52",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 526,
+        "previousPoints": 526,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "2000-04-12T00:00:00",
+        "rank": "52",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 528,
+        "previousPoints": 530,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -2
+    },
+    {
+        "date": "2000-05-10T00:00:00",
+        "rank": "52",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 526,
+        "previousPoints": 528,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -2
+    },
+    {
+        "date": "2000-02-16T00:00:00",
+        "rank": "51",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 529,
+        "previousPoints": 444,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 85
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "51",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 530,
+        "previousPoints": 529,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 1
+    },
+    {
+        "date": "1999-11-17T00:00:00",
+        "rank": "82",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 434,
+        "previousPoints": 442,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -8
+    },
+    {
+        "date": "1999-12-22T00:00:00",
+        "rank": "76",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 444,
+        "previousPoints": 434,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 10
+    },
+    {
+        "date": "2000-01-19T00:00:00",
+        "rank": "76",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 444,
+        "previousPoints": 444,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "1999-10-13T00:00:00",
+        "rank": "77",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 442,
+        "previousPoints": 450,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -8
+    },
+    {
+        "date": "1999-08-18T00:00:00",
+        "rank": "75",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 453,
+        "previousPoints": 460,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -7
+    },
+    {
+        "date": "1999-09-15T00:00:00",
+        "rank": "76",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 450,
+        "previousPoints": 453,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -3
+    },
+    {
+        "date": "1999-07-21T00:00:00",
+        "rank": "70",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 460,
+        "previousPoints": 468,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -8
+    },
+    {
+        "date": "1999-06-16T00:00:00",
+        "rank": "68",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 468,
+        "previousPoints": 489,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -21
+    },
+    {
+        "date": "1999-05-19T00:00:00",
+        "rank": "61",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 489,
+        "previousPoints": 489,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "1999-04-21T00:00:00",
+        "rank": "61",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 489,
+        "previousPoints": 491,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -2
+    },
+    {
+        "date": "1999-03-24T00:00:00",
+        "rank": "61",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 491,
+        "previousPoints": 487,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 4
+    },
+    {
+        "date": "1999-01-27T00:00:00",
+        "rank": "57",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 493,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 452
+    },
+    {
+        "date": "1999-02-24T00:00:00",
+        "rank": "64",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 487,
+        "previousPoints": 493,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -6
+    },
+    {
+        "date": "1998-12-23T00:00:00",
+        "rank": "65",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 41,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "1998-11-18T00:00:00",
+        "rank": "65",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 41,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "1998-10-21T00:00:00",
+        "rank": "68",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 41,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 1
+    },
+    {
+        "date": "1998-09-16T00:00:00",
+        "rank": "68",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 40,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "1998-07-15T00:00:00",
+        "rank": "64",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 40,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 3
+    },
+    {
+        "date": "1998-08-19T00:00:00",
+        "rank": "65",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 40,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "1998-04-22T00:00:00",
+        "rank": "69",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 39,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -2
+    },
+    {
+        "date": "1998-05-20T00:00:00",
+        "rank": "74",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 37,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -2
+    },
+    {
+        "date": "1998-03-18T00:00:00",
+        "rank": "65",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 41,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 1
+    },
+    {
+        "date": "1998-02-18T00:00:00",
+        "rank": "67",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 40,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 1
+    },
+    {
+        "date": "1997-12-23T00:00:00",
+        "rank": "71",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 39,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "71",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 39,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -2
+    },
+    {
+        "date": "1997-08-20T00:00:00",
+        "rank": "59",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 44,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 1
+    },
+    {
+        "date": "1997-10-17T00:00:00",
+        "rank": "67",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 41,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "1997-07-16T00:00:00",
+        "rank": "58",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 43,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "1997-06-18T00:00:00",
+        "rank": "54",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 44,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 3
+    },
+    {
+        "date": "1997-04-09T00:00:00",
+        "rank": "71",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 36,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "1997-09-17T00:00:00",
+        "rank": "63",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 42,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -2
+    },
+    {
+        "date": "1997-05-14T00:00:00",
+        "rank": "61",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 41,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 5
+    },
+    {
+        "date": "1997-02-27T00:00:00",
+        "rank": "64",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 37,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "1996-12-18T00:00:00",
+        "rank": "63",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 37,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "1996-10-23T00:00:00",
+        "rank": "63",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 36,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -3
+    },
+    {
+        "date": "1996-11-20T00:00:00",
+        "rank": "58",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 37,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 1
+    },
+    {
+        "date": "1996-08-28T00:00:00",
+        "rank": "49",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 39,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "1996-09-25T00:00:00",
+        "rank": "51",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 39,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "1996-07-03T00:00:00",
+        "rank": "47",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 40,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "1996-04-24T00:00:00",
+        "rank": "42",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 41,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -2
+    },
+    {
+        "date": "1996-02-21T00:00:00",
+        "rank": "39",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "1996-05-22T00:00:00",
+        "rank": "43",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 41,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "1995-11-21T00:00:00",
+        "rank": "24",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 47,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 4
+    },
+    {
+        "date": "1995-10-17T00:00:00",
+        "rank": "35",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 43,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -13
+    },
+    {
+        "date": "1996-01-24T00:00:00",
+        "rank": "38",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 43,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -4
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "18",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 51,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 1
+    },
+    {
+        "date": "1995-08-22T00:00:00",
+        "rank": "34",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "1995-12-19T00:00:00",
+        "rank": "27",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 47,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "1995-09-19T00:00:00",
+        "rank": "10",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 56,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 13
+    },
+    {
+        "date": "1995-07-25T00:00:00",
+        "rank": "33",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 43,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -8
+    },
+    {
+        "date": "1994-12-20T00:00:00",
+        "rank": "12",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 54,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "1994-11-22T00:00:00",
+        "rank": "12",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 54,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "1995-04-19T00:00:00",
+        "rank": "19",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 50,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -5
+    },
+    {
+        "date": "1995-05-16T00:00:00",
+        "rank": "20",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 50,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "1995-02-20T00:00:00",
+        "rank": "13",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 55,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 1
+    },
+    {
+        "date": "1994-10-25T00:00:00",
+        "rank": "12",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 55,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "1994-07-21T00:00:00",
+        "rank": "10",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 56,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 2
+    },
+    {
+        "date": "1994-09-13T00:00:00",
+        "rank": "10",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 56,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "1994-05-17T00:00:00",
+        "rank": "7",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 55,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "1994-03-15T00:00:00",
+        "rank": "18",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 50,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "1994-06-14T00:00:00",
+        "rank": "11",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 54,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "1994-04-19T00:00:00",
+        "rank": "5",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 56,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 6
+    },
+    {
+        "date": "1993-12-23T00:00:00",
+        "rank": "18",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 51,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": -1
+    },
+    {
+        "date": "1994-02-15T00:00:00",
+        "rank": "15",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 51,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "1993-11-19T00:00:00",
+        "rank": "16",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "1993-08-08T00:00:00",
+        "rank": "17",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 50,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "1993-09-23T00:00:00",
+        "rank": "18",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 50,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 0
+    },
+    {
+        "date": "1993-10-22T00:00:00",
+        "rank": "16",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 52,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga",
+        "delta": 2
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "13",
+        "country": "Nigeria",
+        "ct": "NGA",
+        "points": 50,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/nga"
+    }
+]

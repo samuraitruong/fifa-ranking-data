@@ -1,0 +1,7 @@
+,date,rank,country,ct,points,previousPoints,flag,delta
+0,1993-12-23T00:00:00,19,Czechoslovakia,TCH,49,50.0,https://api.fifa.com/api/v1/picture/flags-sq-4/tch,-1.0
+1,1993-11-19T00:00:00,19,Czechoslovakia,TCH,50,47.0,https://api.fifa.com/api/v1/picture/flags-sq-4/tch,3.0
+2,1993-08-08T00:00:00,15,Czechoslovakia,TCH,50,47.0,https://api.fifa.com/api/v1/picture/flags-sq-4/tch,3.0
+3,1993-09-23T00:00:00,17,Czechoslovakia,TCH,50,50.0,https://api.fifa.com/api/v1/picture/flags-sq-4/tch,0.0
+4,1993-10-22T00:00:00,21,Czechoslovakia,TCH,47,50.0,https://api.fifa.com/api/v1/picture/flags-sq-4/tch,-3.0
+5,1992-12-31T00:00:00,18,Czechoslovakia,TCH,47,,https://api.fifa.com/api/v1/picture/flags-sq-4/tch,

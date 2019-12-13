@@ -1,0 +1,3001 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "35",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 1482,
+        "previousPoints": 1469,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 13
+    },
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "69",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 1343,
+        "previousPoints": 1351,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -8
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "70",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 1348,
+        "previousPoints": 1349,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "67",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 1347,
+        "previousPoints": 1347,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "38",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 1466,
+        "previousPoints": 1463,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 3
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "40",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 1463,
+        "previousPoints": 1346,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 117
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "38",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 1469,
+        "previousPoints": 1466,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 3
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "60",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 553,
+        "previousPoints": 552,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 1
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "67",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 1339,
+        "previousPoints": 1343,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -4
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "66",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 1351,
+        "previousPoints": 1352,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "69",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 1349,
+        "previousPoints": 1347,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 2
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "66",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 1641,
+        "previousPoints": 1642,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "68",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 1346,
+        "previousPoints": 1348,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -2
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "58",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 588,
+        "previousPoints": 537,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 51
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "66",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 474,
+        "previousPoints": 499,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -25
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "64",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 537,
+        "previousPoints": 540,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -3
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "64",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 499,
+        "previousPoints": 516,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -17
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "67",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 1347,
+        "previousPoints": 1339,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 8
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "60",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 552,
+        "previousPoints": 585,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -33
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "57",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 585,
+        "previousPoints": 588,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -3
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "62",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 516,
+        "previousPoints": 553,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -37
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "67",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 540,
+        "previousPoints": 564,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -24
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "62",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 564,
+        "previousPoints": 677,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -113
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "53",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 636,
+        "previousPoints": 628,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 8
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "48",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 677,
+        "previousPoints": 636,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 41
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "48",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 677,
+        "previousPoints": 677,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "50",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 645,
+        "previousPoints": 644,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 1
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "54",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 628,
+        "previousPoints": 628,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "54",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 628,
+        "previousPoints": 645,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -17
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "50",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 644,
+        "previousPoints": 687,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -43
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "39",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 687,
+        "previousPoints": 692,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -5
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "38",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 692,
+        "previousPoints": 692,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "35",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 741,
+        "previousPoints": 749,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -8
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "38",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 692,
+        "previousPoints": 741,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -49
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "35",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 749,
+        "previousPoints": 781,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -32
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "32",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 781,
+        "previousPoints": 781,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "33",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 771,
+        "previousPoints": 771,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "32",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 781,
+        "previousPoints": 786,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -5
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "37",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 743,
+        "previousPoints": 746,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -3
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "33",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 771,
+        "previousPoints": 743,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 28
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "36",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 746,
+        "previousPoints": 845,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -99
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "32",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 786,
+        "previousPoints": 771,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 15
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "28",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 845,
+        "previousPoints": 845,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "28",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 845,
+        "previousPoints": 872,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -27
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "26",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 872,
+        "previousPoints": 927,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -55
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "19",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 927,
+        "previousPoints": 955,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -28
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "19",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 955,
+        "previousPoints": 941,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 14
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "19",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 941,
+        "previousPoints": 941,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "20",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 917,
+        "previousPoints": 917,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "19",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 941,
+        "previousPoints": 941,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "18",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 986,
+        "previousPoints": 981,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 5
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "21",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 917,
+        "previousPoints": 986,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -69
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "21",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 941,
+        "previousPoints": 917,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 24
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "18",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 981,
+        "previousPoints": 948,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 33
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "18",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 948,
+        "previousPoints": 948,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "15",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 989,
+        "previousPoints": 926,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 63
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "18",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 948,
+        "previousPoints": 948,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "18",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 948,
+        "previousPoints": 989,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -41
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "20",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 926,
+        "previousPoints": 880,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 46
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "24",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 880,
+        "previousPoints": 872,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 8
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "24",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 872,
+        "previousPoints": 858,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 14
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "25",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 795,
+        "previousPoints": 795,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "22",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 858,
+        "previousPoints": 795,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 63
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "25",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 795,
+        "previousPoints": 819,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -24
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "25",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 819,
+        "previousPoints": 819,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "26",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 800,
+        "previousPoints": 800,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "26",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 819,
+        "previousPoints": 792,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 27
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "27",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 792,
+        "previousPoints": 800,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -8
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "26",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 800,
+        "previousPoints": 741,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 59
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "32",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 741,
+        "previousPoints": 762,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -21
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "28",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 762,
+        "previousPoints": 730,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 32
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "34",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 730,
+        "previousPoints": 737,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -7
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "35",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 737,
+        "previousPoints": 735,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 2
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "35",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 735,
+        "previousPoints": 735,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "34",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 730,
+        "previousPoints": 730,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "34",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 725,
+        "previousPoints": 829,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -104
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "34",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 722,
+        "previousPoints": 725,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -3
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "35",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 735,
+        "previousPoints": 722,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 13
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "22",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 829,
+        "previousPoints": 887,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -58
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "19",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 907,
+        "previousPoints": 802,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 105
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "28",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 734,
+        "previousPoints": 693,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 41
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "24",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 802,
+        "previousPoints": 734,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 68
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "19",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 887,
+        "previousPoints": 907,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -20
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "rank": "35",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 693,
+        "previousPoints": 734,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -41
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "34",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 693,
+        "previousPoints": 693,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "rank": "38",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 667,
+        "previousPoints": 667,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "rank": "32",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 734,
+        "previousPoints": 667,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 67
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "rank": "38",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 667,
+        "previousPoints": 710,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -43
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "rank": "35",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 710,
+        "previousPoints": 684,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 26
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "rank": "36",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 684,
+        "previousPoints": 734,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -50
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "rank": "32",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 734,
+        "previousPoints": 758,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -24
+    },
+    {
+        "date": "2011-11-23T00:00:00",
+        "rank": "30",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 758,
+        "previousPoints": 713,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 45
+    },
+    {
+        "date": "2011-12-21T00:00:00",
+        "rank": "30",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 758,
+        "previousPoints": 758,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2011-10-19T00:00:00",
+        "rank": "35",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 713,
+        "previousPoints": 605,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 108
+    },
+    {
+        "date": "2011-09-21T00:00:00",
+        "rank": "46",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 605,
+        "previousPoints": 612,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -7
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "52",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 575,
+        "previousPoints": 575,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2011-06-29T00:00:00",
+        "rank": "51",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 575,
+        "previousPoints": 609,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -34
+    },
+    {
+        "date": "2011-05-18T00:00:00",
+        "rank": "41",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 609,
+        "previousPoints": 609,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2011-04-13T00:00:00",
+        "rank": "40",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 609,
+        "previousPoints": 539,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 70
+    },
+    {
+        "date": "2011-08-24T00:00:00",
+        "rank": "46",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 612,
+        "previousPoints": 575,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 37
+    },
+    {
+        "date": "2011-01-12T00:00:00",
+        "rank": "36",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 678,
+        "previousPoints": 687,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -9
+    },
+    {
+        "date": "2011-02-02T00:00:00",
+        "rank": "55",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 532,
+        "previousPoints": 678,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -146
+    },
+    {
+        "date": "2011-03-09T00:00:00",
+        "rank": "55",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 539,
+        "previousPoints": 532,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 7
+    },
+    {
+        "date": "2010-12-15T00:00:00",
+        "rank": "35",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 687,
+        "previousPoints": 706,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -19
+    },
+    {
+        "date": "2010-10-20T00:00:00",
+        "rank": "33",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 709,
+        "previousPoints": 732,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -23
+    },
+    {
+        "date": "2010-09-15T00:00:00",
+        "rank": "35",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 732,
+        "previousPoints": 759,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -27
+    },
+    {
+        "date": "2010-11-17T00:00:00",
+        "rank": "34",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 706,
+        "previousPoints": 709,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -3
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "33",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 759,
+        "previousPoints": 759,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2010-07-14T00:00:00",
+        "rank": "33",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 759,
+        "previousPoints": 821,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -62
+    },
+    {
+        "date": "2010-05-26T00:00:00",
+        "rank": "30",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 821,
+        "previousPoints": 821,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2010-04-28T00:00:00",
+        "rank": "31",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 821,
+        "previousPoints": 821,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2010-03-31T00:00:00",
+        "rank": "27",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 821,
+        "previousPoints": 803,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 18
+    },
+    {
+        "date": "2010-02-03T00:00:00",
+        "rank": "31",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 784,
+        "previousPoints": 823,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -39
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "32",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 803,
+        "previousPoints": 784,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 19
+    },
+    {
+        "date": "2009-12-16T00:00:00",
+        "rank": "26",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 823,
+        "previousPoints": 823,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2009-11-20T00:00:00",
+        "rank": "28",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 823,
+        "previousPoints": 781,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 42
+    },
+    {
+        "date": "2009-10-16T00:00:00",
+        "rank": "29",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 781,
+        "previousPoints": 707,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 74
+    },
+    {
+        "date": "2009-09-02T00:00:00",
+        "rank": "44",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 707,
+        "previousPoints": 661,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 46
+    },
+    {
+        "date": "2009-07-01T00:00:00",
+        "rank": "47",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 661,
+        "previousPoints": 490,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 171
+    },
+    {
+        "date": "2009-08-05T00:00:00",
+        "rank": "47",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 661,
+        "previousPoints": 661,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2009-06-03T00:00:00",
+        "rank": "66",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 490,
+        "previousPoints": 475,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 15
+    },
+    {
+        "date": "2009-05-06T00:00:00",
+        "rank": "72",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 475,
+        "previousPoints": 475,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2009-04-08T00:00:00",
+        "rank": "72",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 475,
+        "previousPoints": 501,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -26
+    },
+    {
+        "date": "2009-03-11T00:00:00",
+        "rank": "64",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 501,
+        "previousPoints": 497,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 4
+    },
+    {
+        "date": "2008-12-17T00:00:00",
+        "rank": "64",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 501,
+        "previousPoints": 514,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -13
+    },
+    {
+        "date": "2009-02-11T00:00:00",
+        "rank": "66",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 497,
+        "previousPoints": 501,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -4
+    },
+    {
+        "date": "2008-11-12T00:00:00",
+        "rank": "63",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 514,
+        "previousPoints": 542,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -28
+    },
+    {
+        "date": "2009-01-14T00:00:00",
+        "rank": "64",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 501,
+        "previousPoints": 501,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2008-09-03T00:00:00",
+        "rank": "76",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 423,
+        "previousPoints": 386,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 37
+    },
+    {
+        "date": "2008-10-08T00:00:00",
+        "rank": "56",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 542,
+        "previousPoints": 423,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 119
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "90",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 386,
+        "previousPoints": 383,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 3
+    },
+    {
+        "date": "2008-06-04T00:00:00",
+        "rank": "103",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 303,
+        "previousPoints": 329,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -26
+    },
+    {
+        "date": "2008-07-02T00:00:00",
+        "rank": "93",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 383,
+        "previousPoints": 303,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 80
+    },
+    {
+        "date": "2008-04-09T00:00:00",
+        "rank": "101",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 326,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -70
+    },
+    {
+        "date": "2008-05-07T00:00:00",
+        "rank": "100",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 329,
+        "previousPoints": 326,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 3
+    },
+    {
+        "date": "2008-03-12T00:00:00",
+        "rank": "78",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 396,
+        "previousPoints": 391,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 5
+    },
+    {
+        "date": "2008-01-16T00:00:00",
+        "rank": "76",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 414,
+        "previousPoints": 411,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 3
+    },
+    {
+        "date": "2008-02-13T00:00:00",
+        "rank": "77",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 391,
+        "previousPoints": 414,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -23
+    },
+    {
+        "date": "2007-11-22T00:00:00",
+        "rank": "81",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 411,
+        "previousPoints": 381,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 30
+    },
+    {
+        "date": "2007-12-17T00:00:00",
+        "rank": "79",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 411,
+        "previousPoints": 411,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2007-10-24T00:00:00",
+        "rank": "89",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 381,
+        "previousPoints": 395,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -14
+    },
+    {
+        "date": "2007-09-19T00:00:00",
+        "rank": "85",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 395,
+        "previousPoints": 433,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -38
+    },
+    {
+        "date": "2007-07-18T00:00:00",
+        "rank": "77",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 402,
+        "previousPoints": 457,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -55
+    },
+    {
+        "date": "2007-06-13T00:00:00",
+        "rank": "67",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 457,
+        "previousPoints": 471,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -14
+    },
+    {
+        "date": "2007-08-22T00:00:00",
+        "rank": "73",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 433,
+        "previousPoints": 402,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 31
+    },
+    {
+        "date": "2007-04-18T00:00:00",
+        "rank": "64",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 471,
+        "previousPoints": 415,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 56
+    },
+    {
+        "date": "2007-05-16T00:00:00",
+        "rank": "65",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 471,
+        "previousPoints": 471,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2007-03-14T00:00:00",
+        "rank": "78",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 415,
+        "previousPoints": 404,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 11
+    },
+    {
+        "date": "2007-02-14T00:00:00",
+        "rank": "80",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 404,
+        "previousPoints": 413,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -9
+    },
+    {
+        "date": "2007-01-17T00:00:00",
+        "rank": "78",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 413,
+        "previousPoints": 412,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 1
+    },
+    {
+        "date": "2006-12-18T00:00:00",
+        "rank": "80",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 412,
+        "previousPoints": 412,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2006-10-18T00:00:00",
+        "rank": "73",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 447,
+        "previousPoints": 388,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 59
+    },
+    {
+        "date": "2006-11-22T00:00:00",
+        "rank": "79",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 412,
+        "previousPoints": 447,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -35
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "83",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 388,
+        "previousPoints": 318,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 70
+    },
+    {
+        "date": "2006-08-16T00:00:00",
+        "rank": "89",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 318,
+        "previousPoints": 318,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2006-07-12T00:00:00",
+        "rank": "93",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 318,
+        "previousPoints": 505,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -187
+    },
+    {
+        "date": "2006-03-15T00:00:00",
+        "rank": "85",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 517,
+        "previousPoints": 520,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -3
+    },
+    {
+        "date": "2006-05-17T00:00:00",
+        "rank": "87",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 505,
+        "previousPoints": 511,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -6
+    },
+    {
+        "date": "2006-04-19T00:00:00",
+        "rank": "87",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 511,
+        "previousPoints": 517,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -6
+    },
+    {
+        "date": "2006-02-15T00:00:00",
+        "rank": "81",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 520,
+        "previousPoints": 522,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "82",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 524,
+        "previousPoints": 526,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -2
+    },
+    {
+        "date": "2005-12-16T00:00:00",
+        "rank": "80",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 522,
+        "previousPoints": 524,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -2
+    },
+    {
+        "date": "2006-01-18T00:00:00",
+        "rank": "80",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 522,
+        "previousPoints": 522,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2005-10-17T00:00:00",
+        "rank": "82",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 526,
+        "previousPoints": 519,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 7
+    },
+    {
+        "date": "2005-09-12T00:00:00",
+        "rank": "83",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 519,
+        "previousPoints": 521,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -2
+    },
+    {
+        "date": "2005-08-17T00:00:00",
+        "rank": "81",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 521,
+        "previousPoints": 524,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -3
+    },
+    {
+        "date": "2005-07-20T00:00:00",
+        "rank": "81",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 524,
+        "previousPoints": 523,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 1
+    },
+    {
+        "date": "2005-06-15T00:00:00",
+        "rank": "80",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 523,
+        "previousPoints": 529,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -6
+    },
+    {
+        "date": "2005-05-18T00:00:00",
+        "rank": "77",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 529,
+        "previousPoints": 530,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "2005-04-20T00:00:00",
+        "rank": "76",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 530,
+        "previousPoints": 531,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "2004-12-20T00:00:00",
+        "rank": "73",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 536,
+        "previousPoints": 544,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -8
+    },
+    {
+        "date": "2005-03-23T00:00:00",
+        "rank": "75",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 531,
+        "previousPoints": 535,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -4
+    },
+    {
+        "date": "2005-01-19T00:00:00",
+        "rank": "74",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 538,
+        "previousPoints": 536,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 2
+    },
+    {
+        "date": "2005-02-16T00:00:00",
+        "rank": "75",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 535,
+        "previousPoints": 538,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -3
+    },
+    {
+        "date": "2004-11-10T00:00:00",
+        "rank": "70",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 544,
+        "previousPoints": 545,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "2004-09-01T00:00:00",
+        "rank": "61",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 550,
+        "previousPoints": 551,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "2004-10-06T00:00:00",
+        "rank": "66",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 545,
+        "previousPoints": 550,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -5
+    },
+    {
+        "date": "2004-07-07T00:00:00",
+        "rank": "57",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 550,
+        "previousPoints": 552,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -2
+    },
+    {
+        "date": "2004-08-04T00:00:00",
+        "rank": "58",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 551,
+        "previousPoints": 550,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 1
+    },
+    {
+        "date": "2004-05-12T00:00:00",
+        "rank": "53",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 550,
+        "previousPoints": 555,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -5
+    },
+    {
+        "date": "2004-06-09T00:00:00",
+        "rank": "52",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 552,
+        "previousPoints": 550,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 2
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "53",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 554,
+        "previousPoints": 555,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "2004-04-14T00:00:00",
+        "rank": "54",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 555,
+        "previousPoints": 554,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 1
+    },
+    {
+        "date": "2004-02-18T00:00:00",
+        "rank": "52",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 555,
+        "previousPoints": 541,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 14
+    },
+    {
+        "date": "2004-01-14T00:00:00",
+        "rank": "63",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 541,
+        "previousPoints": 541,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2003-12-15T00:00:00",
+        "rank": "62",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 541,
+        "previousPoints": 540,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "61",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 540,
+        "previousPoints": 531,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 9
+    },
+    {
+        "date": "2003-10-22T00:00:00",
+        "rank": "62",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 531,
+        "previousPoints": 515,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 16
+    },
+    {
+        "date": "2003-08-27T00:00:00",
+        "rank": "69",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 520,
+        "previousPoints": 520,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2003-09-24T00:00:00",
+        "rank": "71",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 515,
+        "previousPoints": 520,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -5
+    },
+    {
+        "date": "2003-07-30T00:00:00",
+        "rank": "69",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 520,
+        "previousPoints": 522,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -2
+    },
+    {
+        "date": "2003-06-25T00:00:00",
+        "rank": "68",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 522,
+        "previousPoints": 517,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 5
+    },
+    {
+        "date": "2003-05-21T00:00:00",
+        "rank": "66",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 517,
+        "previousPoints": 514,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 3
+    },
+    {
+        "date": "2003-04-23T00:00:00",
+        "rank": "70",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 514,
+        "previousPoints": 513,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 1
+    },
+    {
+        "date": "2003-02-19T00:00:00",
+        "rank": "65",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 514,
+        "previousPoints": 514,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2002-12-18T00:00:00",
+        "rank": "68",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 505,
+        "previousPoints": 506,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "2003-01-15T00:00:00",
+        "rank": "65",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 514,
+        "previousPoints": 505,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 9
+    },
+    {
+        "date": "2003-03-26T00:00:00",
+        "rank": "67",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 513,
+        "previousPoints": 514,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "2002-11-20T00:00:00",
+        "rank": "65",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 506,
+        "previousPoints": 507,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "2002-10-23T00:00:00",
+        "rank": "69",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 507,
+        "previousPoints": 495,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 12
+    },
+    {
+        "date": "2002-07-03T00:00:00",
+        "rank": "79",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 490,
+        "previousPoints": 497,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -7
+    },
+    {
+        "date": "2002-08-14T00:00:00",
+        "rank": "82",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 481,
+        "previousPoints": 490,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -9
+    },
+    {
+        "date": "2002-09-18T00:00:00",
+        "rank": "74",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 495,
+        "previousPoints": 481,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 14
+    },
+    {
+        "date": "2002-05-15T00:00:00",
+        "rank": "79",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 497,
+        "previousPoints": 503,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -6
+    },
+    {
+        "date": "2002-03-20T00:00:00",
+        "rank": "77",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 507,
+        "previousPoints": 510,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -3
+    },
+    {
+        "date": "2002-04-17T00:00:00",
+        "rank": "78",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 503,
+        "previousPoints": 507,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -4
+    },
+    {
+        "date": "2002-01-16T00:00:00",
+        "rank": "74",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 511,
+        "previousPoints": 510,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 1
+    },
+    {
+        "date": "2001-12-19T00:00:00",
+        "rank": "75",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 510,
+        "previousPoints": 510,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "76",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 510,
+        "previousPoints": 511,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "2001-08-22T00:00:00",
+        "rank": "73",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 507,
+        "previousPoints": 505,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 2
+    },
+    {
+        "date": "2001-11-21T00:00:00",
+        "rank": "75",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 510,
+        "previousPoints": 509,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 1
+    },
+    {
+        "date": "2001-10-17T00:00:00",
+        "rank": "75",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 509,
+        "previousPoints": 508,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 1
+    },
+    {
+        "date": "2001-09-19T00:00:00",
+        "rank": "73",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 508,
+        "previousPoints": 507,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 1
+    },
+    {
+        "date": "2001-07-18T00:00:00",
+        "rank": "72",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 505,
+        "previousPoints": 484,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 21
+    },
+    {
+        "date": "2001-05-16T00:00:00",
+        "rank": "83",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 474,
+        "previousPoints": 478,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -4
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "83",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 484,
+        "previousPoints": 474,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 10
+    },
+    {
+        "date": "2001-04-11T00:00:00",
+        "rank": "76",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 478,
+        "previousPoints": 470,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 8
+    },
+    {
+        "date": "2001-03-14T00:00:00",
+        "rank": "81",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 470,
+        "previousPoints": 471,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "2001-02-14T00:00:00",
+        "rank": "80",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 471,
+        "previousPoints": 471,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2000-12-20T00:00:00",
+        "rank": "82",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 465,
+        "previousPoints": 463,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 2
+    },
+    {
+        "date": "2001-01-17T00:00:00",
+        "rank": "80",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 471,
+        "previousPoints": 465,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 6
+    },
+    {
+        "date": "2000-10-11T00:00:00",
+        "rank": "80",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 463,
+        "previousPoints": 461,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 2
+    },
+    {
+        "date": "2000-11-15T00:00:00",
+        "rank": "82",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 463,
+        "previousPoints": 463,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2000-09-06T00:00:00",
+        "rank": "80",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 461,
+        "previousPoints": 462,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "2000-08-09T00:00:00",
+        "rank": "77",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 462,
+        "previousPoints": 465,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -3
+    },
+    {
+        "date": "2000-07-05T00:00:00",
+        "rank": "76",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 465,
+        "previousPoints": 465,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "2000-06-07T00:00:00",
+        "rank": "75",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 465,
+        "previousPoints": 453,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 12
+    },
+    {
+        "date": "2000-04-12T00:00:00",
+        "rank": "85",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 439,
+        "previousPoints": 462,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -23
+    },
+    {
+        "date": "2000-05-10T00:00:00",
+        "rank": "78",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 453,
+        "previousPoints": 439,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 14
+    },
+    {
+        "date": "2000-02-16T00:00:00",
+        "rank": "71",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 467,
+        "previousPoints": 421,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 46
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "75",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 462,
+        "previousPoints": 467,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -5
+    },
+    {
+        "date": "1999-11-17T00:00:00",
+        "rank": "88",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 426,
+        "previousPoints": 439,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -13
+    },
+    {
+        "date": "1999-12-22T00:00:00",
+        "rank": "86",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 422,
+        "previousPoints": 426,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -4
+    },
+    {
+        "date": "2000-01-19T00:00:00",
+        "rank": "86",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 421,
+        "previousPoints": 422,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "1999-10-13T00:00:00",
+        "rank": "81",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 439,
+        "previousPoints": 442,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -3
+    },
+    {
+        "date": "1999-08-18T00:00:00",
+        "rank": "77",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 444,
+        "previousPoints": 466,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -22
+    },
+    {
+        "date": "1999-09-15T00:00:00",
+        "rank": "79",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 442,
+        "previousPoints": 444,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -2
+    },
+    {
+        "date": "1999-07-21T00:00:00",
+        "rank": "69",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 466,
+        "previousPoints": 453,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 13
+    },
+    {
+        "date": "1999-06-16T00:00:00",
+        "rank": "72",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 453,
+        "previousPoints": 456,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -3
+    },
+    {
+        "date": "1999-05-19T00:00:00",
+        "rank": "68",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 456,
+        "previousPoints": 460,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -4
+    },
+    {
+        "date": "1999-04-21T00:00:00",
+        "rank": "68",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 460,
+        "previousPoints": 445,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 15
+    },
+    {
+        "date": "1999-03-24T00:00:00",
+        "rank": "72",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 445,
+        "previousPoints": 436,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 9
+    },
+    {
+        "date": "1999-01-27T00:00:00",
+        "rank": "78",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 437,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 397
+    },
+    {
+        "date": "1999-02-24T00:00:00",
+        "rank": "77",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 436,
+        "previousPoints": 437,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "1998-12-23T00:00:00",
+        "rank": "71",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 40,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "1998-11-18T00:00:00",
+        "rank": "61",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 41,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 1
+    },
+    {
+        "date": "1998-10-21T00:00:00",
+        "rank": "69",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 40,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "1998-09-16T00:00:00",
+        "rank": "56",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 41,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 1
+    },
+    {
+        "date": "1998-07-15T00:00:00",
+        "rank": "63",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 41,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -2
+    },
+    {
+        "date": "1998-08-19T00:00:00",
+        "rank": "64",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 40,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "1998-04-22T00:00:00",
+        "rank": "58",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 44,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1998-05-20T00:00:00",
+        "rank": "57",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 43,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "1998-03-18T00:00:00",
+        "rank": "59",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 44,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1998-02-18T00:00:00",
+        "rank": "59",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 44,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1997-12-23T00:00:00",
+        "rank": "59",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 44,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "55",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 45,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1997-08-20T00:00:00",
+        "rank": "47",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 45,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 3
+    },
+    {
+        "date": "1997-10-17T00:00:00",
+        "rank": "53",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 45,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1997-07-16T00:00:00",
+        "rank": "60",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 42,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1997-06-18T00:00:00",
+        "rank": "60",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 42,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1997-04-09T00:00:00",
+        "rank": "56",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 42,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1997-09-17T00:00:00",
+        "rank": "51",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 45,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1997-05-14T00:00:00",
+        "rank": "59",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 42,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1997-02-27T00:00:00",
+        "rank": "53",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 42,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "1996-12-18T00:00:00",
+        "rank": "49",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1996-10-23T00:00:00",
+        "rank": "46",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 42,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 1
+    },
+    {
+        "date": "1996-11-20T00:00:00",
+        "rank": "49",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 43,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 1
+    },
+    {
+        "date": "1996-08-28T00:00:00",
+        "rank": "43",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 41,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1996-09-25T00:00:00",
+        "rank": "44",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 41,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1996-07-03T00:00:00",
+        "rank": "44",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 41,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 1
+    },
+    {
+        "date": "1996-04-24T00:00:00",
+        "rank": "46",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 40,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1996-02-21T00:00:00",
+        "rank": "44",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 40,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1996-05-22T00:00:00",
+        "rank": "46",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 40,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1995-11-21T00:00:00",
+        "rank": "47",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 38,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 2
+    },
+    {
+        "date": "1995-10-17T00:00:00",
+        "rank": "51",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 36,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 4
+    },
+    {
+        "date": "1996-01-24T00:00:00",
+        "rank": "44",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 40,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 2
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "57",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 35,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1995-08-22T00:00:00",
+        "rank": "50",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 37,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 2
+    },
+    {
+        "date": "1995-12-19T00:00:00",
+        "rank": "48",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 38,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1995-09-19T00:00:00",
+        "rank": "50",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 32,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -5
+    },
+    {
+        "date": "1995-07-25T00:00:00",
+        "rank": "56",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 35,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1994-12-20T00:00:00",
+        "rank": "57",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 32,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1994-11-22T00:00:00",
+        "rank": "55",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 32,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 1
+    },
+    {
+        "date": "1995-04-19T00:00:00",
+        "rank": "53",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 35,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 1
+    },
+    {
+        "date": "1995-05-16T00:00:00",
+        "rank": "55",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 35,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1995-02-20T00:00:00",
+        "rank": "54",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 34,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 2
+    },
+    {
+        "date": "1994-10-25T00:00:00",
+        "rank": "58",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 31,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "1994-07-21T00:00:00",
+        "rank": "48",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 34,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1994-09-13T00:00:00",
+        "rank": "50",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 32,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -2
+    },
+    {
+        "date": "1994-05-17T00:00:00",
+        "rank": "46",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 34,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -3
+    },
+    {
+        "date": "1994-03-15T00:00:00",
+        "rank": "37",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 38,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "1994-06-14T00:00:00",
+        "rank": "48",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 34,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1994-04-19T00:00:00",
+        "rank": "38",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 37,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "1993-12-23T00:00:00",
+        "rank": "35",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 42,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1994-02-15T00:00:00",
+        "rank": "37",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 39,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -3
+    },
+    {
+        "date": "1993-11-19T00:00:00",
+        "rank": "33",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 42,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 0
+    },
+    {
+        "date": "1993-08-08T00:00:00",
+        "rank": "34",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 40,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 1
+    },
+    {
+        "date": "1993-09-23T00:00:00",
+        "rank": "30",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 43,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": 3
+    },
+    {
+        "date": "1993-10-22T00:00:00",
+        "rank": "31",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 42,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg",
+        "delta": -1
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "30",
+        "country": "Algeria",
+        "ct": "ALG",
+        "points": 39,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/alg"
+    }
+]

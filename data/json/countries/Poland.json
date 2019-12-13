@@ -1,0 +1,3001 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "19",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1559,
+        "previousPoints": 1544,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 15
+    },
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "18",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1537,
+        "previousPoints": 1538,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -1
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "20",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1535,
+        "previousPoints": 1518,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 17
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "20",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1518,
+        "previousPoints": 1518,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "22",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1532,
+        "previousPoints": 1550,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -18
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "20",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1550,
+        "previousPoints": 1550,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "21",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1544,
+        "previousPoints": 1532,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 12
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "6",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1228,
+        "previousPoints": 1213,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 15
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "21",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1523,
+        "previousPoints": 1537,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -14
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "18",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1538,
+        "previousPoints": 1572,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -34
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "20",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1518,
+        "previousPoints": 1518,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "13",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 2023,
+        "previousPoints": 2085,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -62
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "19",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1550,
+        "previousPoints": 1535,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 15
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "7",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1209,
+        "previousPoints": 1209,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "8",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1183,
+        "previousPoints": 1128,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 55
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "7",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1209,
+        "previousPoints": 1323,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -114
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "10",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1128,
+        "previousPoints": 1118,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 10
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "20",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1518,
+        "previousPoints": 1523,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -5
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "7",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1213,
+        "previousPoints": 1209,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 4
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "7",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1209,
+        "previousPoints": 1209,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "10",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1118,
+        "previousPoints": 1228,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -110
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "6",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1323,
+        "previousPoints": 1250,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 73
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "6",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1250,
+        "previousPoints": 1319,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -69
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "10",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1198,
+        "previousPoints": 1183,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 15
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "6",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1319,
+        "previousPoints": 1198,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 121
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "5",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1319,
+        "previousPoints": 1319,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "12",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1121,
+        "previousPoints": 1101,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 20
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "11",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1183,
+        "previousPoints": 1183,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "11",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1183,
+        "previousPoints": 1121,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 62
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "14",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1101,
+        "previousPoints": 1087,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 14
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "15",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1087,
+        "previousPoints": 1087,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "15",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1087,
+        "previousPoints": 1089,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -2
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "15",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1029,
+        "previousPoints": 984,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 45
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "15",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1089,
+        "previousPoints": 1029,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 60
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "17",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 984,
+        "previousPoints": 1011,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -27
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "16",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1011,
+        "previousPoints": 1011,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "27",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 821,
+        "previousPoints": 821,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "16",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 1011,
+        "previousPoints": 842,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 169
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "31",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 789,
+        "previousPoints": 787,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 2
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "27",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 821,
+        "previousPoints": 789,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 32
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "34",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 787,
+        "previousPoints": 769,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 18
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "27",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 842,
+        "previousPoints": 821,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 21
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "35",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 769,
+        "previousPoints": 776,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -7
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "34",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 776,
+        "previousPoints": 712,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 64
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "38",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 712,
+        "previousPoints": 680,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 32
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "43",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 680,
+        "previousPoints": 764,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -84
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "34",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 764,
+        "previousPoints": 769,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -5
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "33",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 769,
+        "previousPoints": 769,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "35",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 753,
+        "previousPoints": 753,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "30",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 769,
+        "previousPoints": 802,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -33
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "34",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 778,
+        "previousPoints": 709,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 69
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "35",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 753,
+        "previousPoints": 778,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -25
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "32",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 802,
+        "previousPoints": 753,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 49
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "40",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 709,
+        "previousPoints": 680,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 29
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "41",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 680,
+        "previousPoints": 680,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "44",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 621,
+        "previousPoints": 436,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 185
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "41",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 680,
+        "previousPoints": 684,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -4
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "40",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 684,
+        "previousPoints": 621,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 63
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "70",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 436,
+        "previousPoints": 482,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -46
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "61",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 482,
+        "previousPoints": 478,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 4
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "61",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 478,
+        "previousPoints": 474,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 4
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "72",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 479,
+        "previousPoints": 479,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "69",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 474,
+        "previousPoints": 479,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -5
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "72",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 479,
+        "previousPoints": 475,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 4
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "73",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 475,
+        "previousPoints": 494,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -19
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "76",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 461,
+        "previousPoints": 473,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -12
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "70",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 494,
+        "previousPoints": 461,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 33
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "77",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 461,
+        "previousPoints": 461,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "78",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 473,
+        "previousPoints": 503,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -30
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "69",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 503,
+        "previousPoints": 539,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -36
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "65",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 539,
+        "previousPoints": 493,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 46
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "75",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 493,
+        "previousPoints": 517,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -24
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "65",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 517,
+        "previousPoints": 529,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -12
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "63",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 529,
+        "previousPoints": 529,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "72",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 493,
+        "previousPoints": 493,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "59",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 528,
+        "previousPoints": 555,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -27
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "61",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 529,
+        "previousPoints": 528,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 1
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "63",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 529,
+        "previousPoints": 529,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "56",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 555,
+        "previousPoints": 553,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 2
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "54",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 579,
+        "previousPoints": 573,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 6
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "56",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 547,
+        "previousPoints": 560,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -13
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "54",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 573,
+        "previousPoints": 547,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 26
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "55",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 553,
+        "previousPoints": 579,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -26
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "rank": "54",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 560,
+        "previousPoints": 518,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 42
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "54",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 560,
+        "previousPoints": 560,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "rank": "65",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 514,
+        "previousPoints": 514,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "rank": "62",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 518,
+        "previousPoints": 514,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 4
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "rank": "65",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 514,
+        "previousPoints": 461,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 53
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "rank": "75",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 461,
+        "previousPoints": 470,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -9
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "rank": "70",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 470,
+        "previousPoints": 494,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -24
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "rank": "68",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 494,
+        "previousPoints": 492,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 2
+    },
+    {
+        "date": "2011-11-23T00:00:00",
+        "rank": "66",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 487,
+        "previousPoints": 517,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -30
+    },
+    {
+        "date": "2011-12-21T00:00:00",
+        "rank": "66",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 492,
+        "previousPoints": 487,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 5
+    },
+    {
+        "date": "2011-10-19T00:00:00",
+        "rank": "64",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 517,
+        "previousPoints": 496,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 21
+    },
+    {
+        "date": "2011-09-21T00:00:00",
+        "rank": "65",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 496,
+        "previousPoints": 498,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -2
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "69",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 474,
+        "previousPoints": 474,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2011-06-29T00:00:00",
+        "rank": "67",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 474,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 25
+    },
+    {
+        "date": "2011-05-18T00:00:00",
+        "rank": "71",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 449,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2011-04-13T00:00:00",
+        "rank": "71",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 449,
+        "previousPoints": 474,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -25
+    },
+    {
+        "date": "2011-08-24T00:00:00",
+        "rank": "65",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 498,
+        "previousPoints": 474,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 24
+    },
+    {
+        "date": "2011-01-12T00:00:00",
+        "rank": "72",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 449,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2011-02-02T00:00:00",
+        "rank": "71",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 449,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2011-03-09T00:00:00",
+        "rank": "70",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 474,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 25
+    },
+    {
+        "date": "2010-12-15T00:00:00",
+        "rank": "73",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 449,
+        "previousPoints": 452,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -3
+    },
+    {
+        "date": "2010-10-20T00:00:00",
+        "rank": "69",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 464,
+        "previousPoints": 504,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -40
+    },
+    {
+        "date": "2010-09-15T00:00:00",
+        "rank": "66",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 504,
+        "previousPoints": 547,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -43
+    },
+    {
+        "date": "2010-11-17T00:00:00",
+        "rank": "71",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 452,
+        "previousPoints": 464,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -12
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "56",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 547,
+        "previousPoints": 547,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2010-07-14T00:00:00",
+        "rank": "56",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 547,
+        "previousPoints": 561,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -14
+    },
+    {
+        "date": "2010-05-26T00:00:00",
+        "rank": "58",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 561,
+        "previousPoints": 552,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 9
+    },
+    {
+        "date": "2010-04-28T00:00:00",
+        "rank": "58",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 552,
+        "previousPoints": 562,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -10
+    },
+    {
+        "date": "2010-03-31T00:00:00",
+        "rank": "59",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 562,
+        "previousPoints": 540,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 22
+    },
+    {
+        "date": "2010-02-03T00:00:00",
+        "rank": "57",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 567,
+        "previousPoints": 556,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 11
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "59",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 540,
+        "previousPoints": 567,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -27
+    },
+    {
+        "date": "2009-12-16T00:00:00",
+        "rank": "58",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 556,
+        "previousPoints": 575,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -19
+    },
+    {
+        "date": "2009-11-20T00:00:00",
+        "rank": "56",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 575,
+        "previousPoints": 609,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -34
+    },
+    {
+        "date": "2009-10-16T00:00:00",
+        "rank": "56",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 609,
+        "previousPoints": 749,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -140
+    },
+    {
+        "date": "2009-09-02T00:00:00",
+        "rank": "36",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 749,
+        "previousPoints": 706,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 43
+    },
+    {
+        "date": "2009-07-01T00:00:00",
+        "rank": "41",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 706,
+        "previousPoints": 722,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -16
+    },
+    {
+        "date": "2009-08-05T00:00:00",
+        "rank": "40",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 706,
+        "previousPoints": 706,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2009-06-03T00:00:00",
+        "rank": "39",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 722,
+        "previousPoints": 724,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -2
+    },
+    {
+        "date": "2009-05-06T00:00:00",
+        "rank": "40",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 724,
+        "previousPoints": 719,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 5
+    },
+    {
+        "date": "2009-04-08T00:00:00",
+        "rank": "41",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 719,
+        "previousPoints": 747,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -28
+    },
+    {
+        "date": "2009-03-11T00:00:00",
+        "rank": "29",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 747,
+        "previousPoints": 754,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -7
+    },
+    {
+        "date": "2008-12-17T00:00:00",
+        "rank": "34",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 735,
+        "previousPoints": 765,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -30
+    },
+    {
+        "date": "2009-02-11T00:00:00",
+        "rank": "28",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 754,
+        "previousPoints": 748,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 6
+    },
+    {
+        "date": "2008-11-12T00:00:00",
+        "rank": "32",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 765,
+        "previousPoints": 763,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 2
+    },
+    {
+        "date": "2009-01-14T00:00:00",
+        "rank": "31",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 748,
+        "previousPoints": 735,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 13
+    },
+    {
+        "date": "2008-09-03T00:00:00",
+        "rank": "30",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 779,
+        "previousPoints": 778,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 1
+    },
+    {
+        "date": "2008-10-08T00:00:00",
+        "rank": "30",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 763,
+        "previousPoints": 779,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -16
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "29",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 778,
+        "previousPoints": 773,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 5
+    },
+    {
+        "date": "2008-06-04T00:00:00",
+        "rank": "28",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 805,
+        "previousPoints": 848,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -43
+    },
+    {
+        "date": "2008-07-02T00:00:00",
+        "rank": "32",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 773,
+        "previousPoints": 805,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -32
+    },
+    {
+        "date": "2008-04-09T00:00:00",
+        "rank": "28",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 839,
+        "previousPoints": 885,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -46
+    },
+    {
+        "date": "2008-05-07T00:00:00",
+        "rank": "27",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 848,
+        "previousPoints": 839,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 9
+    },
+    {
+        "date": "2008-03-12T00:00:00",
+        "rank": "24",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 885,
+        "previousPoints": 903,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -18
+    },
+    {
+        "date": "2008-01-16T00:00:00",
+        "rank": "23",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 862,
+        "previousPoints": 862,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2008-02-13T00:00:00",
+        "rank": "20",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 903,
+        "previousPoints": 862,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 41
+    },
+    {
+        "date": "2007-11-22T00:00:00",
+        "rank": "23",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 855,
+        "previousPoints": 837,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 18
+    },
+    {
+        "date": "2007-12-17T00:00:00",
+        "rank": "22",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 862,
+        "previousPoints": 855,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 7
+    },
+    {
+        "date": "2007-10-24T00:00:00",
+        "rank": "20",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 837,
+        "previousPoints": 926,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -89
+    },
+    {
+        "date": "2007-09-19T00:00:00",
+        "rank": "16",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 926,
+        "previousPoints": 941,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -15
+    },
+    {
+        "date": "2007-07-18T00:00:00",
+        "rank": "21",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 912,
+        "previousPoints": 933,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -21
+    },
+    {
+        "date": "2007-06-13T00:00:00",
+        "rank": "18",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 933,
+        "previousPoints": 902,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 31
+    },
+    {
+        "date": "2007-08-22T00:00:00",
+        "rank": "20",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 941,
+        "previousPoints": 912,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 29
+    },
+    {
+        "date": "2007-04-18T00:00:00",
+        "rank": "21",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 870,
+        "previousPoints": 850,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 20
+    },
+    {
+        "date": "2007-05-16T00:00:00",
+        "rank": "18",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 902,
+        "previousPoints": 870,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 32
+    },
+    {
+        "date": "2007-03-14T00:00:00",
+        "rank": "24",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 850,
+        "previousPoints": 844,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 6
+    },
+    {
+        "date": "2007-02-14T00:00:00",
+        "rank": "23",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 844,
+        "previousPoints": 854,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -10
+    },
+    {
+        "date": "2007-01-17T00:00:00",
+        "rank": "25",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 854,
+        "previousPoints": 854,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2006-12-18T00:00:00",
+        "rank": "24",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 854,
+        "previousPoints": 859,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -5
+    },
+    {
+        "date": "2006-10-18T00:00:00",
+        "rank": "27",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 804,
+        "previousPoints": 737,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 67
+    },
+    {
+        "date": "2006-11-22T00:00:00",
+        "rank": "22",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 859,
+        "previousPoints": 804,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 55
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "35",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 737,
+        "previousPoints": 805,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -68
+    },
+    {
+        "date": "2006-08-16T00:00:00",
+        "rank": "30",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 805,
+        "previousPoints": 809,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -4
+    },
+    {
+        "date": "2006-07-12T00:00:00",
+        "rank": "30",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 809,
+        "previousPoints": 677,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 132
+    },
+    {
+        "date": "2006-03-15T00:00:00",
+        "rank": "26",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 691,
+        "previousPoints": 697,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -6
+    },
+    {
+        "date": "2006-05-17T00:00:00",
+        "rank": "29",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 677,
+        "previousPoints": 682,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -5
+    },
+    {
+        "date": "2006-04-19T00:00:00",
+        "rank": "28",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 682,
+        "previousPoints": 691,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -9
+    },
+    {
+        "date": "2006-02-15T00:00:00",
+        "rank": "26",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 697,
+        "previousPoints": 695,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 2
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "23",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 696,
+        "previousPoints": 691,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 5
+    },
+    {
+        "date": "2005-12-16T00:00:00",
+        "rank": "22",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 696,
+        "previousPoints": 696,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2006-01-18T00:00:00",
+        "rank": "22",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 695,
+        "previousPoints": 696,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -1
+    },
+    {
+        "date": "2005-10-17T00:00:00",
+        "rank": "23",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 691,
+        "previousPoints": 705,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -14
+    },
+    {
+        "date": "2005-09-12T00:00:00",
+        "rank": "17",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 705,
+        "previousPoints": 688,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 17
+    },
+    {
+        "date": "2005-08-17T00:00:00",
+        "rank": "22",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 688,
+        "previousPoints": 689,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -1
+    },
+    {
+        "date": "2005-07-20T00:00:00",
+        "rank": "24",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 689,
+        "previousPoints": 689,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2005-06-15T00:00:00",
+        "rank": "23",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 689,
+        "previousPoints": 675,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 14
+    },
+    {
+        "date": "2005-05-18T00:00:00",
+        "rank": "24",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 675,
+        "previousPoints": 677,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -2
+    },
+    {
+        "date": "2005-04-20T00:00:00",
+        "rank": "25",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 677,
+        "previousPoints": 663,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 14
+    },
+    {
+        "date": "2004-12-20T00:00:00",
+        "rank": "25",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 672,
+        "previousPoints": 673,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -1
+    },
+    {
+        "date": "2005-03-23T00:00:00",
+        "rank": "27",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 663,
+        "previousPoints": 669,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -6
+    },
+    {
+        "date": "2005-01-19T00:00:00",
+        "rank": "25",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 671,
+        "previousPoints": 672,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -1
+    },
+    {
+        "date": "2005-02-16T00:00:00",
+        "rank": "25",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 669,
+        "previousPoints": 671,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -2
+    },
+    {
+        "date": "2004-11-10T00:00:00",
+        "rank": "26",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 673,
+        "previousPoints": 652,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 21
+    },
+    {
+        "date": "2004-09-01T00:00:00",
+        "rank": "29",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 647,
+        "previousPoints": 652,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -5
+    },
+    {
+        "date": "2004-10-06T00:00:00",
+        "rank": "29",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 652,
+        "previousPoints": 647,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 5
+    },
+    {
+        "date": "2004-07-07T00:00:00",
+        "rank": "27",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 653,
+        "previousPoints": 652,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 1
+    },
+    {
+        "date": "2004-08-04T00:00:00",
+        "rank": "28",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 652,
+        "previousPoints": 653,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -1
+    },
+    {
+        "date": "2004-05-12T00:00:00",
+        "rank": "29",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 653,
+        "previousPoints": 653,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2004-06-09T00:00:00",
+        "rank": "26",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 652,
+        "previousPoints": 653,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "24",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 658,
+        "previousPoints": 654,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 4
+    },
+    {
+        "date": "2004-04-14T00:00:00",
+        "rank": "30",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 653,
+        "previousPoints": 658,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -5
+    },
+    {
+        "date": "2004-02-18T00:00:00",
+        "rank": "26",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 654,
+        "previousPoints": 656,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -2
+    },
+    {
+        "date": "2004-01-14T00:00:00",
+        "rank": "25",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 656,
+        "previousPoints": 656,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2003-12-15T00:00:00",
+        "rank": "25",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 656,
+        "previousPoints": 652,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 4
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "24",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 652,
+        "previousPoints": 640,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 12
+    },
+    {
+        "date": "2003-10-22T00:00:00",
+        "rank": "26",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 640,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 13
+    },
+    {
+        "date": "2003-08-27T00:00:00",
+        "rank": "34",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 618,
+        "previousPoints": 614,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 4
+    },
+    {
+        "date": "2003-09-24T00:00:00",
+        "rank": "31",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 627,
+        "previousPoints": 618,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 9
+    },
+    {
+        "date": "2003-07-30T00:00:00",
+        "rank": "36",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 614,
+        "previousPoints": 619,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -5
+    },
+    {
+        "date": "2003-06-25T00:00:00",
+        "rank": "33",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 619,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -8
+    },
+    {
+        "date": "2003-05-21T00:00:00",
+        "rank": "29",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 627,
+        "previousPoints": 635,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -8
+    },
+    {
+        "date": "2003-04-23T00:00:00",
+        "rank": "28",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 635,
+        "previousPoints": 623,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 12
+    },
+    {
+        "date": "2003-02-19T00:00:00",
+        "rank": "34",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 626,
+        "previousPoints": 628,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -2
+    },
+    {
+        "date": "2002-12-18T00:00:00",
+        "rank": "34",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 628,
+        "previousPoints": 632,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -4
+    },
+    {
+        "date": "2003-01-15T00:00:00",
+        "rank": "33",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 628,
+        "previousPoints": 628,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2003-03-26T00:00:00",
+        "rank": "33",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 623,
+        "previousPoints": 626,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -3
+    },
+    {
+        "date": "2002-11-20T00:00:00",
+        "rank": "33",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 632,
+        "previousPoints": 631,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 1
+    },
+    {
+        "date": "2002-10-23T00:00:00",
+        "rank": "36",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 631,
+        "previousPoints": 626,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 5
+    },
+    {
+        "date": "2002-07-03T00:00:00",
+        "rank": "39",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 621,
+        "previousPoints": 615,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 6
+    },
+    {
+        "date": "2002-08-14T00:00:00",
+        "rank": "37",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 618,
+        "previousPoints": 621,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -3
+    },
+    {
+        "date": "2002-09-18T00:00:00",
+        "rank": "35",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 626,
+        "previousPoints": 618,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 8
+    },
+    {
+        "date": "2002-05-15T00:00:00",
+        "rank": "38",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 615,
+        "previousPoints": 620,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -5
+    },
+    {
+        "date": "2002-03-20T00:00:00",
+        "rank": "33",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 630,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 3
+    },
+    {
+        "date": "2002-04-17T00:00:00",
+        "rank": "38",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 620,
+        "previousPoints": 630,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -10
+    },
+    {
+        "date": "2002-01-16T00:00:00",
+        "rank": "31",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 629,
+        "previousPoints": 629,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2001-12-19T00:00:00",
+        "rank": "33",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 629,
+        "previousPoints": 628,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "36",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 627,
+        "previousPoints": 629,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -2
+    },
+    {
+        "date": "2001-08-22T00:00:00",
+        "rank": "26",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 638,
+        "previousPoints": 638,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2001-11-21T00:00:00",
+        "rank": "33",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 628,
+        "previousPoints": 632,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -4
+    },
+    {
+        "date": "2001-10-17T00:00:00",
+        "rank": "28",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 632,
+        "previousPoints": 634,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -2
+    },
+    {
+        "date": "2001-09-19T00:00:00",
+        "rank": "27",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 634,
+        "previousPoints": 638,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -4
+    },
+    {
+        "date": "2001-07-18T00:00:00",
+        "rank": "24",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 638,
+        "previousPoints": 638,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2001-05-16T00:00:00",
+        "rank": "23",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 627,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "23",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 638,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 11
+    },
+    {
+        "date": "2001-04-11T00:00:00",
+        "rank": "23",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 627,
+        "previousPoints": 595,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 32
+    },
+    {
+        "date": "2001-03-14T00:00:00",
+        "rank": "32",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 595,
+        "previousPoints": 584,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 11
+    },
+    {
+        "date": "2001-02-14T00:00:00",
+        "rank": "38",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 584,
+        "previousPoints": 583,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 1
+    },
+    {
+        "date": "2000-12-20T00:00:00",
+        "rank": "43",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 573,
+        "previousPoints": 575,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -2
+    },
+    {
+        "date": "2001-01-17T00:00:00",
+        "rank": "39",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 583,
+        "previousPoints": 573,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 10
+    },
+    {
+        "date": "2000-10-11T00:00:00",
+        "rank": "36",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 577,
+        "previousPoints": 568,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 9
+    },
+    {
+        "date": "2000-11-15T00:00:00",
+        "rank": "44",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 575,
+        "previousPoints": 577,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -2
+    },
+    {
+        "date": "2000-09-06T00:00:00",
+        "rank": "36",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 568,
+        "previousPoints": 548,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 20
+    },
+    {
+        "date": "2000-08-09T00:00:00",
+        "rank": "44",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 548,
+        "previousPoints": 559,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -11
+    },
+    {
+        "date": "2000-07-05T00:00:00",
+        "rank": "41",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 559,
+        "previousPoints": 567,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -8
+    },
+    {
+        "date": "2000-06-07T00:00:00",
+        "rank": "37",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 567,
+        "previousPoints": 574,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -7
+    },
+    {
+        "date": "2000-04-12T00:00:00",
+        "rank": "34",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 579,
+        "previousPoints": 583,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -4
+    },
+    {
+        "date": "2000-05-10T00:00:00",
+        "rank": "35",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 574,
+        "previousPoints": 579,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -5
+    },
+    {
+        "date": "2000-02-16T00:00:00",
+        "rank": "32",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 586,
+        "previousPoints": 589,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -3
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "32",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 583,
+        "previousPoints": 586,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -3
+    },
+    {
+        "date": "1999-11-17T00:00:00",
+        "rank": "32",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 589,
+        "previousPoints": 591,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -2
+    },
+    {
+        "date": "1999-12-22T00:00:00",
+        "rank": "32",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 589,
+        "previousPoints": 589,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "2000-01-19T00:00:00",
+        "rank": "32",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 589,
+        "previousPoints": 589,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "1999-10-13T00:00:00",
+        "rank": "31",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 591,
+        "previousPoints": 595,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -4
+    },
+    {
+        "date": "1999-08-18T00:00:00",
+        "rank": "27",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 606,
+        "previousPoints": 607,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -1
+    },
+    {
+        "date": "1999-09-15T00:00:00",
+        "rank": "29",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 595,
+        "previousPoints": 606,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -11
+    },
+    {
+        "date": "1999-07-21T00:00:00",
+        "rank": "26",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 607,
+        "previousPoints": 607,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "1999-06-16T00:00:00",
+        "rank": "23",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 607,
+        "previousPoints": 590,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 17
+    },
+    {
+        "date": "1999-05-19T00:00:00",
+        "rank": "29",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 590,
+        "previousPoints": 583,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 7
+    },
+    {
+        "date": "1999-04-21T00:00:00",
+        "rank": "32",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 583,
+        "previousPoints": 590,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -7
+    },
+    {
+        "date": "1999-03-24T00:00:00",
+        "rank": "27",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 590,
+        "previousPoints": 586,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 4
+    },
+    {
+        "date": "1999-01-27T00:00:00",
+        "rank": "29",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 584,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 532
+    },
+    {
+        "date": "1999-02-24T00:00:00",
+        "rank": "28",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 586,
+        "previousPoints": 584,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 2
+    },
+    {
+        "date": "1998-12-23T00:00:00",
+        "rank": "31",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "1998-11-18T00:00:00",
+        "rank": "29",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 52,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 2
+    },
+    {
+        "date": "1998-10-21T00:00:00",
+        "rank": "34",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 50,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "1998-09-16T00:00:00",
+        "rank": "34",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 50,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 4
+    },
+    {
+        "date": "1998-07-15T00:00:00",
+        "rank": "48",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 45,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 1
+    },
+    {
+        "date": "1998-08-19T00:00:00",
+        "rank": "40",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 46,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 1
+    },
+    {
+        "date": "1998-04-22T00:00:00",
+        "rank": "55",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 44,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 1
+    },
+    {
+        "date": "1998-05-20T00:00:00",
+        "rank": "54",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 44,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "1998-03-18T00:00:00",
+        "rank": "61",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 43,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -1
+    },
+    {
+        "date": "1998-02-18T00:00:00",
+        "rank": "60",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 44,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -2
+    },
+    {
+        "date": "1997-12-23T00:00:00",
+        "rank": "48",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 46,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "47",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 46,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -1
+    },
+    {
+        "date": "1997-08-20T00:00:00",
+        "rank": "53",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 44,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -1
+    },
+    {
+        "date": "1997-10-17T00:00:00",
+        "rank": "45",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 47,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 1
+    },
+    {
+        "date": "1997-07-16T00:00:00",
+        "rank": "51",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 45,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 2
+    },
+    {
+        "date": "1997-06-18T00:00:00",
+        "rank": "57",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 43,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 1
+    },
+    {
+        "date": "1997-04-09T00:00:00",
+        "rank": "52",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 43,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 2
+    },
+    {
+        "date": "1997-09-17T00:00:00",
+        "rank": "50",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 46,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 2
+    },
+    {
+        "date": "1997-05-14T00:00:00",
+        "rank": "57",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 42,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -1
+    },
+    {
+        "date": "1997-02-27T00:00:00",
+        "rank": "56",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 41,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "1996-12-18T00:00:00",
+        "rank": "53",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 41,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "1996-10-23T00:00:00",
+        "rank": "55",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 39,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 2
+    },
+    {
+        "date": "1996-11-20T00:00:00",
+        "rank": "52",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 41,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 2
+    },
+    {
+        "date": "1996-08-28T00:00:00",
+        "rank": "55",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 37,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -1
+    },
+    {
+        "date": "1996-09-25T00:00:00",
+        "rank": "56",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 37,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "1996-07-03T00:00:00",
+        "rank": "50",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 38,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -3
+    },
+    {
+        "date": "1996-04-24T00:00:00",
+        "rank": "40",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 43,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -1
+    },
+    {
+        "date": "1996-02-21T00:00:00",
+        "rank": "37",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 44,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "1996-05-22T00:00:00",
+        "rank": "42",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 41,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -2
+    },
+    {
+        "date": "1995-11-21T00:00:00",
+        "rank": "33",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 45,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -1
+    },
+    {
+        "date": "1995-10-17T00:00:00",
+        "rank": "27",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 46,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 6
+    },
+    {
+        "date": "1996-01-24T00:00:00",
+        "rank": "35",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 44,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "29",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 45,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 3
+    },
+    {
+        "date": "1995-08-22T00:00:00",
+        "rank": "28",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 46,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 1
+    },
+    {
+        "date": "1995-12-19T00:00:00",
+        "rank": "33",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 44,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -1
+    },
+    {
+        "date": "1995-09-19T00:00:00",
+        "rank": "33",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 40,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -6
+    },
+    {
+        "date": "1995-07-25T00:00:00",
+        "rank": "32",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 45,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "1994-12-20T00:00:00",
+        "rank": "29",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 44,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 2
+    },
+    {
+        "date": "1994-11-22T00:00:00",
+        "rank": "33",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 42,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 2
+    },
+    {
+        "date": "1995-04-19T00:00:00",
+        "rank": "34",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 42,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "1995-05-16T00:00:00",
+        "rank": "36",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 42,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "1995-02-20T00:00:00",
+        "rank": "32",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 42,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -2
+    },
+    {
+        "date": "1994-10-25T00:00:00",
+        "rank": "36",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 40,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "1994-07-21T00:00:00",
+        "rank": "32",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 41,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "1994-09-13T00:00:00",
+        "rank": "33",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 40,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -1
+    },
+    {
+        "date": "1994-05-17T00:00:00",
+        "rank": "27",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 44,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "1994-03-15T00:00:00",
+        "rank": "24",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 45,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "1994-06-14T00:00:00",
+        "rank": "32",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 41,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -3
+    },
+    {
+        "date": "1994-04-19T00:00:00",
+        "rank": "28",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 44,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -1
+    },
+    {
+        "date": "1993-12-23T00:00:00",
+        "rank": "28",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 45,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "1994-02-15T00:00:00",
+        "rank": "24",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 45,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 0
+    },
+    {
+        "date": "1993-11-19T00:00:00",
+        "rank": "26",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 45,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -1
+    },
+    {
+        "date": "1993-08-08T00:00:00",
+        "rank": "20",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 48,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": 2
+    },
+    {
+        "date": "1993-09-23T00:00:00",
+        "rank": "22",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 47,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -1
+    },
+    {
+        "date": "1993-10-22T00:00:00",
+        "rank": "23",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 46,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol",
+        "delta": -1
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "20",
+        "country": "Poland",
+        "ct": "POL",
+        "points": 46,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/pol"
+    }
+]

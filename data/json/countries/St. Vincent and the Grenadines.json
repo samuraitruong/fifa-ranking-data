@@ -1,0 +1,1621 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "167",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 986,
+        "previousPoints": 986,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "178",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 954,
+        "previousPoints": 946,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 8
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "174",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 969,
+        "previousPoints": 954,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 15
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "176",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 954,
+        "previousPoints": 954,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "168",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 986,
+        "previousPoints": 969,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 17
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "177",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 954,
+        "previousPoints": 954,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "168",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 86,
+        "previousPoints": 82,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 4
+    },
+    {
+        "date": "2007-04-18T00:00:00",
+        "rank": "102",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 313,
+        "previousPoints": 308,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 5
+    },
+    {
+        "date": "2007-05-16T00:00:00",
+        "rank": "100",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 318,
+        "previousPoints": 313,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 5
+    },
+    {
+        "date": "2007-03-14T00:00:00",
+        "rank": "100",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 308,
+        "previousPoints": 308,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "2007-02-14T00:00:00",
+        "rank": "100",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 308,
+        "previousPoints": 285,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 23
+    },
+    {
+        "date": "2007-01-17T00:00:00",
+        "rank": "104",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 285,
+        "previousPoints": 387,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -102
+    },
+    {
+        "date": "2006-12-18T00:00:00",
+        "rank": "85",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 387,
+        "previousPoints": 374,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 13
+    },
+    {
+        "date": "2006-10-18T00:00:00",
+        "rank": "85",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 388,
+        "previousPoints": 161,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 227
+    },
+    {
+        "date": "2006-11-22T00:00:00",
+        "rank": "87",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 374,
+        "previousPoints": 388,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -14
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "129",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 161,
+        "previousPoints": 155,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 6
+    },
+    {
+        "date": "2006-08-16T00:00:00",
+        "rank": "131",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 155,
+        "previousPoints": 155,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "2006-07-12T00:00:00",
+        "rank": "129",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 155,
+        "previousPoints": 325,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -170
+    },
+    {
+        "date": "2006-03-15T00:00:00",
+        "rank": "133",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 332,
+        "previousPoints": 334,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -2
+    },
+    {
+        "date": "2006-05-17T00:00:00",
+        "rank": "133",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 325,
+        "previousPoints": 328,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -3
+    },
+    {
+        "date": "2006-04-19T00:00:00",
+        "rank": "133",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 328,
+        "previousPoints": 332,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -4
+    },
+    {
+        "date": "2006-02-15T00:00:00",
+        "rank": "131",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 334,
+        "previousPoints": 335,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "126",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 358,
+        "previousPoints": 355,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 3
+    },
+    {
+        "date": "2005-12-16T00:00:00",
+        "rank": "130",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 336,
+        "previousPoints": 358,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -22
+    },
+    {
+        "date": "2006-01-18T00:00:00",
+        "rank": "131",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 335,
+        "previousPoints": 336,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "2005-10-17T00:00:00",
+        "rank": "127",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 355,
+        "previousPoints": 357,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -2
+    },
+    {
+        "date": "2005-09-12T00:00:00",
+        "rank": "128",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 357,
+        "previousPoints": 358,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "2005-08-17T00:00:00",
+        "rank": "128",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 358,
+        "previousPoints": 359,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "2005-07-20T00:00:00",
+        "rank": "128",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 359,
+        "previousPoints": 360,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "2005-06-15T00:00:00",
+        "rank": "132",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 360,
+        "previousPoints": 359,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 1
+    },
+    {
+        "date": "2005-05-18T00:00:00",
+        "rank": "133",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 359,
+        "previousPoints": 359,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "2005-04-20T00:00:00",
+        "rank": "134",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 359,
+        "previousPoints": 359,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "2004-12-20T00:00:00",
+        "rank": "137",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 337,
+        "previousPoints": 315,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 22
+    },
+    {
+        "date": "2005-03-23T00:00:00",
+        "rank": "135",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 359,
+        "previousPoints": 360,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "2005-01-19T00:00:00",
+        "rank": "138",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 346,
+        "previousPoints": 337,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 9
+    },
+    {
+        "date": "2005-02-16T00:00:00",
+        "rank": "135",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 360,
+        "previousPoints": 346,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 14
+    },
+    {
+        "date": "2004-11-10T00:00:00",
+        "rank": "146",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 315,
+        "previousPoints": 295,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 20
+    },
+    {
+        "date": "2004-09-01T00:00:00",
+        "rank": "150",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 274,
+        "previousPoints": 272,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 2
+    },
+    {
+        "date": "2004-10-06T00:00:00",
+        "rank": "146",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 295,
+        "previousPoints": 274,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 21
+    },
+    {
+        "date": "2004-07-07T00:00:00",
+        "rank": "153",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 273,
+        "previousPoints": 229,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 44
+    },
+    {
+        "date": "2004-08-04T00:00:00",
+        "rank": "151",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 272,
+        "previousPoints": 273,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "2004-05-12T00:00:00",
+        "rank": "166",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 217,
+        "previousPoints": 220,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -3
+    },
+    {
+        "date": "2004-06-09T00:00:00",
+        "rank": "163",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 229,
+        "previousPoints": 217,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 12
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "164",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 212,
+        "previousPoints": 198,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 14
+    },
+    {
+        "date": "2004-04-14T00:00:00",
+        "rank": "164",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 220,
+        "previousPoints": 212,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 8
+    },
+    {
+        "date": "2004-02-18T00:00:00",
+        "rank": "170",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 198,
+        "previousPoints": 199,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "2004-01-14T00:00:00",
+        "rank": "169",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 199,
+        "previousPoints": 199,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "2003-12-15T00:00:00",
+        "rank": "169",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 199,
+        "previousPoints": 212,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -13
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "163",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 212,
+        "previousPoints": 219,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -7
+    },
+    {
+        "date": "2003-10-22T00:00:00",
+        "rank": "159",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 219,
+        "previousPoints": 227,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -8
+    },
+    {
+        "date": "2003-08-27T00:00:00",
+        "rank": "155",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 234,
+        "previousPoints": 241,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -7
+    },
+    {
+        "date": "2003-09-24T00:00:00",
+        "rank": "155",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 227,
+        "previousPoints": 234,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -7
+    },
+    {
+        "date": "2003-07-30T00:00:00",
+        "rank": "154",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 241,
+        "previousPoints": 248,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -7
+    },
+    {
+        "date": "2003-06-25T00:00:00",
+        "rank": "153",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 248,
+        "previousPoints": 254,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -6
+    },
+    {
+        "date": "2003-05-21T00:00:00",
+        "rank": "152",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 254,
+        "previousPoints": 258,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -4
+    },
+    {
+        "date": "2003-04-23T00:00:00",
+        "rank": "151",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 258,
+        "previousPoints": 261,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -3
+    },
+    {
+        "date": "2003-02-19T00:00:00",
+        "rank": "148",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 268,
+        "previousPoints": 270,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -2
+    },
+    {
+        "date": "2002-12-18T00:00:00",
+        "rank": "144",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 270,
+        "previousPoints": 282,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -12
+    },
+    {
+        "date": "2003-01-15T00:00:00",
+        "rank": "146",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 270,
+        "previousPoints": 270,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "2003-03-26T00:00:00",
+        "rank": "150",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 261,
+        "previousPoints": 268,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -7
+    },
+    {
+        "date": "2002-11-20T00:00:00",
+        "rank": "142",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 282,
+        "previousPoints": 290,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -8
+    },
+    {
+        "date": "2002-10-23T00:00:00",
+        "rank": "139",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 290,
+        "previousPoints": 300,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -10
+    },
+    {
+        "date": "2002-07-03T00:00:00",
+        "rank": "131",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 318,
+        "previousPoints": 327,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -9
+    },
+    {
+        "date": "2002-08-14T00:00:00",
+        "rank": "136",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 309,
+        "previousPoints": 318,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -9
+    },
+    {
+        "date": "2002-09-18T00:00:00",
+        "rank": "138",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 300,
+        "previousPoints": 309,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -9
+    },
+    {
+        "date": "2002-05-15T00:00:00",
+        "rank": "131",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 327,
+        "previousPoints": 331,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -4
+    },
+    {
+        "date": "2002-03-20T00:00:00",
+        "rank": "128",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 334,
+        "previousPoints": 337,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -3
+    },
+    {
+        "date": "2002-04-17T00:00:00",
+        "rank": "130",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 331,
+        "previousPoints": 334,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -3
+    },
+    {
+        "date": "2002-01-16T00:00:00",
+        "rank": "126",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 337,
+        "previousPoints": 337,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "2001-12-19T00:00:00",
+        "rank": "125",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 337,
+        "previousPoints": 337,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "125",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 337,
+        "previousPoints": 337,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "2001-08-22T00:00:00",
+        "rank": "128",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 330,
+        "previousPoints": 323,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 7
+    },
+    {
+        "date": "2001-11-21T00:00:00",
+        "rank": "126",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 337,
+        "previousPoints": 337,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "2001-10-17T00:00:00",
+        "rank": "126",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 337,
+        "previousPoints": 333,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 4
+    },
+    {
+        "date": "2001-09-19T00:00:00",
+        "rank": "128",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 333,
+        "previousPoints": 330,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 3
+    },
+    {
+        "date": "2001-07-18T00:00:00",
+        "rank": "130",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 323,
+        "previousPoints": 324,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "2001-05-16T00:00:00",
+        "rank": "126",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 331,
+        "previousPoints": 311,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 20
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "130",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 324,
+        "previousPoints": 331,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -7
+    },
+    {
+        "date": "2001-04-11T00:00:00",
+        "rank": "126",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 311,
+        "previousPoints": 300,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 11
+    },
+    {
+        "date": "2001-03-14T00:00:00",
+        "rank": "130",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 300,
+        "previousPoints": 302,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -2
+    },
+    {
+        "date": "2001-02-14T00:00:00",
+        "rank": "128",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 302,
+        "previousPoints": 303,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "2000-12-20T00:00:00",
+        "rank": "127",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 303,
+        "previousPoints": 303,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "2001-01-17T00:00:00",
+        "rank": "127",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 303,
+        "previousPoints": 303,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "2000-10-11T00:00:00",
+        "rank": "125",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 301,
+        "previousPoints": 303,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -2
+    },
+    {
+        "date": "2000-11-15T00:00:00",
+        "rank": "125",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 303,
+        "previousPoints": 301,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 2
+    },
+    {
+        "date": "2000-09-06T00:00:00",
+        "rank": "124",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 303,
+        "previousPoints": 307,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -4
+    },
+    {
+        "date": "2000-08-09T00:00:00",
+        "rank": "123",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 307,
+        "previousPoints": 303,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 4
+    },
+    {
+        "date": "2000-07-05T00:00:00",
+        "rank": "120",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 303,
+        "previousPoints": 302,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 1
+    },
+    {
+        "date": "2000-06-07T00:00:00",
+        "rank": "121",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 302,
+        "previousPoints": 272,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 30
+    },
+    {
+        "date": "2000-04-12T00:00:00",
+        "rank": "136",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 244,
+        "previousPoints": 220,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 24
+    },
+    {
+        "date": "2000-05-10T00:00:00",
+        "rank": "130",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 272,
+        "previousPoints": 244,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 28
+    },
+    {
+        "date": "2000-02-16T00:00:00",
+        "rank": "142",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 198,
+        "previousPoints": 198,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "138",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 220,
+        "previousPoints": 198,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 22
+    },
+    {
+        "date": "1999-11-17T00:00:00",
+        "rank": "140",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 204,
+        "previousPoints": 208,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -4
+    },
+    {
+        "date": "1999-12-22T00:00:00",
+        "rank": "141",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 199,
+        "previousPoints": 204,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -5
+    },
+    {
+        "date": "2000-01-19T00:00:00",
+        "rank": "142",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 198,
+        "previousPoints": 199,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "1999-10-13T00:00:00",
+        "rank": "138",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 208,
+        "previousPoints": 211,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -3
+    },
+    {
+        "date": "1999-08-18T00:00:00",
+        "rank": "137",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 214,
+        "previousPoints": 217,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -3
+    },
+    {
+        "date": "1999-09-15T00:00:00",
+        "rank": "137",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 211,
+        "previousPoints": 214,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -3
+    },
+    {
+        "date": "1999-07-21T00:00:00",
+        "rank": "136",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 217,
+        "previousPoints": 220,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -3
+    },
+    {
+        "date": "1999-06-16T00:00:00",
+        "rank": "135",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 220,
+        "previousPoints": 223,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -3
+    },
+    {
+        "date": "1999-05-19T00:00:00",
+        "rank": "133",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 223,
+        "previousPoints": 213,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 10
+    },
+    {
+        "date": "1999-04-21T00:00:00",
+        "rank": "137",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 213,
+        "previousPoints": 215,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -2
+    },
+    {
+        "date": "1999-03-24T00:00:00",
+        "rank": "134",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 215,
+        "previousPoints": 216,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "1999-01-27T00:00:00",
+        "rank": "132",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 217,
+        "previousPoints": 16,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 201
+    },
+    {
+        "date": "1999-02-24T00:00:00",
+        "rank": "133",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 216,
+        "previousPoints": 217,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "1998-12-23T00:00:00",
+        "rank": "138",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 16,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "1998-11-18T00:00:00",
+        "rank": "135",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 17,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1998-10-21T00:00:00",
+        "rank": "134",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 17,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "1998-09-16T00:00:00",
+        "rank": "129",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 18,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1998-07-15T00:00:00",
+        "rank": "125",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 19,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "1998-08-19T00:00:00",
+        "rank": "126",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 18,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "1998-04-22T00:00:00",
+        "rank": "124",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 21,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 1
+    },
+    {
+        "date": "1998-05-20T00:00:00",
+        "rank": "126",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 20,
+        "previousPoints": 21,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "1998-03-18T00:00:00",
+        "rank": "125",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 20,
+        "previousPoints": 21,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "1998-02-18T00:00:00",
+        "rank": "125",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 21,
+        "previousPoints": 22,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "1997-12-23T00:00:00",
+        "rank": "122",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 22,
+        "previousPoints": 22,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "121",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 22,
+        "previousPoints": 22,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1997-08-20T00:00:00",
+        "rank": "119",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 23,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1997-10-17T00:00:00",
+        "rank": "122",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 22,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "1997-07-16T00:00:00",
+        "rank": "117",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 23,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "1997-06-18T00:00:00",
+        "rank": "114",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 24,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1997-04-09T00:00:00",
+        "rank": "99",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 28,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1997-09-17T00:00:00",
+        "rank": "118",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 23,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1997-05-14T00:00:00",
+        "rank": "112",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 24,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -4
+    },
+    {
+        "date": "1997-02-27T00:00:00",
+        "rank": "93",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 28,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1996-12-18T00:00:00",
+        "rank": "93",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 28,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1996-10-23T00:00:00",
+        "rank": "90",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 28,
+        "previousPoints": 29,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "1996-11-20T00:00:00",
+        "rank": "91",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 28,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1996-08-28T00:00:00",
+        "rank": "80",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 29,
+        "previousPoints": 29,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1996-09-25T00:00:00",
+        "rank": "87",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 29,
+        "previousPoints": 29,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1996-07-03T00:00:00",
+        "rank": "82",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 29,
+        "previousPoints": 27,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 2
+    },
+    {
+        "date": "1996-04-24T00:00:00",
+        "rank": "95",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 20,
+        "previousPoints": 21,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "1996-02-21T00:00:00",
+        "rank": "93",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 21,
+        "previousPoints": 21,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1996-05-22T00:00:00",
+        "rank": "83",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 27,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 7
+    },
+    {
+        "date": "1995-11-21T00:00:00",
+        "rank": "91",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 22,
+        "previousPoints": 22,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1995-10-17T00:00:00",
+        "rank": "90",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 22,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 16
+    },
+    {
+        "date": "1996-01-24T00:00:00",
+        "rank": "92",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 21,
+        "previousPoints": 22,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "129",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 10,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1995-08-22T00:00:00",
+        "rank": "91",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 23,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 10
+    },
+    {
+        "date": "1995-12-19T00:00:00",
+        "rank": "95",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 22,
+        "previousPoints": 22,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1995-09-19T00:00:00",
+        "rank": "137",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 6,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -17
+    },
+    {
+        "date": "1995-07-25T00:00:00",
+        "rank": "120",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 13,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 3
+    },
+    {
+        "date": "1994-12-20T00:00:00",
+        "rank": "144",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1994-11-22T00:00:00",
+        "rank": "143",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1995-04-19T00:00:00",
+        "rank": "128",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 10,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "1995-05-16T00:00:00",
+        "rank": "128",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 10,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1995-02-20T00:00:00",
+        "rank": "126",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 11,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 5
+    },
+    {
+        "date": "1994-10-25T00:00:00",
+        "rank": "142",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1994-07-21T00:00:00",
+        "rank": "133",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1994-09-13T00:00:00",
+        "rank": "137",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 6,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "1994-05-17T00:00:00",
+        "rank": "134",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1994-03-15T00:00:00",
+        "rank": "133",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1994-06-14T00:00:00",
+        "rank": "135",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1994-04-19T00:00:00",
+        "rank": "132",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1993-12-23T00:00:00",
+        "rank": "129",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1994-02-15T00:00:00",
+        "rank": "128",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 7,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "1993-11-19T00:00:00",
+        "rank": "125",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1993-08-08T00:00:00",
+        "rank": "121",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 8,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": -1
+    },
+    {
+        "date": "1993-09-23T00:00:00",
+        "rank": "123",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1993-10-22T00:00:00",
+        "rank": "125",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin",
+        "delta": 0
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "105",
+        "country": "St. Vincent and the Grenadines",
+        "ct": "VIN",
+        "points": 9,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/vin"
+    }
+]

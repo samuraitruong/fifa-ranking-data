@@ -1,0 +1,7 @@
+,date,rank,country,ct,points,previousPoints,flag,delta
+0,2019-11-28T00:00:00,68,North Macedonia,MKD,1347,1344,https://api.fifa.com/api/v1/picture/flags-sq-4/mkd,3
+1,2019-09-19T00:00:00,69,North Macedonia,MKD,1339,1333,https://api.fifa.com/api/v1/picture/flags-sq-4/mkd,6
+2,2019-07-25T00:00:00,71,North Macedonia,MKD,1333,1333,https://api.fifa.com/api/v1/picture/flags-sq-4/mkd,0
+3,2019-10-24T00:00:00,68,North Macedonia,MKD,1344,1339,https://api.fifa.com/api/v1/picture/flags-sq-4/mkd,5
+4,2019-06-14T00:00:00,73,North Macedonia,MKD,1333,1350,https://api.fifa.com/api/v1/picture/flags-sq-4/mkd,-17
+5,2010-03-03T00:00:00,64,North Macedonia,MKD,506,495,https://api.fifa.com/api/v1/picture/flags-sq-4/mkd,11

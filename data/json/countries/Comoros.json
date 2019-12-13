@@ -1,0 +1,1510 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "133",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 1088,
+        "previousPoints": 1067,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 21
+    },
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "149",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 1060,
+        "previousPoints": 1052,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 8
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "147",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 1071,
+        "previousPoints": 1076,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -5
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "143",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 1076,
+        "previousPoints": 1076,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "147",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 1060,
+        "previousPoints": 1071,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -11
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "146",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 1071,
+        "previousPoints": 1068,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 3
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "142",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 1067,
+        "previousPoints": 1060,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 7
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "132",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 230,
+        "previousPoints": 235,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -5
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "148",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 1062,
+        "previousPoints": 1060,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 2
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "149",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 1052,
+        "previousPoints": 1052,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "142",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 1076,
+        "previousPoints": 1076,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "148",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 1159,
+        "previousPoints": 1159,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "148",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 1068,
+        "previousPoints": 1071,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -3
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "131",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 235,
+        "previousPoints": 235,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "149",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 172,
+        "previousPoints": 195,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -23
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "130",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 235,
+        "previousPoints": 237,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -2
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "142",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 195,
+        "previousPoints": 195,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "143",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 1076,
+        "previousPoints": 1062,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 14
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "130",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 235,
+        "previousPoints": 235,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "130",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 235,
+        "previousPoints": 235,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "141",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 195,
+        "previousPoints": 230,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -35
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "127",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 237,
+        "previousPoints": 204,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 33
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "141",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 204,
+        "previousPoints": 197,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 7
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "144",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 186,
+        "previousPoints": 190,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -4
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "140",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 203,
+        "previousPoints": 186,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 17
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "143",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 197,
+        "previousPoints": 203,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -6
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "142",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 202,
+        "previousPoints": 205,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -3
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "143",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 190,
+        "previousPoints": 190,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "143",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 190,
+        "previousPoints": 202,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -12
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "141",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 205,
+        "previousPoints": 205,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "141",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 205,
+        "previousPoints": 205,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "140",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 205,
+        "previousPoints": 206,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -1
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "143",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 223,
+        "previousPoints": 191,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 32
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "139",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 206,
+        "previousPoints": 223,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -17
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "152",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 191,
+        "previousPoints": 191,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "155",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 191,
+        "previousPoints": 191,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "159",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 166,
+        "previousPoints": 166,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "155",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 191,
+        "previousPoints": 158,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 33
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "173",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 119,
+        "previousPoints": 119,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "159",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 166,
+        "previousPoints": 119,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 47
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "174",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 119,
+        "previousPoints": 119,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "162",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 158,
+        "previousPoints": 166,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -8
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "174",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 119,
+        "previousPoints": 120,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -1
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "172",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 120,
+        "previousPoints": 89,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 31
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "177",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 89,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 41
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "193",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 48,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "190",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 48,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -2
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "186",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 50,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -1
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "185",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 65,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "187",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 51,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 7
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "177",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 64,
+        "previousPoints": 75,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -11
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "186",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 65,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 1
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "190",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 44,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -21
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "174",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 75,
+        "previousPoints": 75,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "173",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 75,
+        "previousPoints": 75,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "172",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 80,
+        "previousPoints": 80,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "173",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 75,
+        "previousPoints": 77,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -2
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "173",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 77,
+        "previousPoints": 80,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -3
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "174",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 80,
+        "previousPoints": 78,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 2
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "175",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 78,
+        "previousPoints": 84,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -6
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "172",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 84,
+        "previousPoints": 84,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "184",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "174",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 84,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 41
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "184",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 43,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 2
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "183",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 41,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 24
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "198",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 17,
+        "previousPoints": 22,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -5
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "198",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 17,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "198",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 17,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "193",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 22,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -10
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "190",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 32,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -1
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "193",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 33,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "191",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 41,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "192",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 41,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "192",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 41,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "192",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 33,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -8
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "191",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 38,
+        "previousPoints": 29,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 9
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "192",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 38,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "192",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 41,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 3
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "194",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 29,
+        "previousPoints": 29,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "196",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 36,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -3
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "190",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 39,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "190",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 39,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "194",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 29,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -7
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "rank": "185",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 54,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "193",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 39,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -15
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "rank": "187",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 60,
+        "previousPoints": 60,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "rank": "187",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 54,
+        "previousPoints": 60,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -6
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "rank": "187",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 60,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 5
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "rank": "188",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 55,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "rank": "188",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 55,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "rank": "187",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 55,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2011-11-23T00:00:00",
+        "rank": "186",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 55,
+        "previousPoints": 72,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -17
+    },
+    {
+        "date": "2011-12-21T00:00:00",
+        "rank": "187",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 55,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2011-10-19T00:00:00",
+        "rank": "183",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 72,
+        "previousPoints": 75,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -3
+    },
+    {
+        "date": "2011-09-21T00:00:00",
+        "rank": "178",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 75,
+        "previousPoints": 68,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 7
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "175",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 80,
+        "previousPoints": 80,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2011-06-29T00:00:00",
+        "rank": "164",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 80,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 61
+    },
+    {
+        "date": "2011-05-18T00:00:00",
+        "rank": "188",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 19,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2011-04-13T00:00:00",
+        "rank": "188",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 19,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2011-08-24T00:00:00",
+        "rank": "182",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 68,
+        "previousPoints": 80,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -12
+    },
+    {
+        "date": "2011-01-12T00:00:00",
+        "rank": "186",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 19,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -5
+    },
+    {
+        "date": "2011-02-02T00:00:00",
+        "rank": "186",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 19,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2011-03-09T00:00:00",
+        "rank": "187",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 19,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2010-12-15T00:00:00",
+        "rank": "186",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 24,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2010-10-20T00:00:00",
+        "rank": "181",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 37,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -6
+    },
+    {
+        "date": "2010-09-15T00:00:00",
+        "rank": "174",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2010-11-17T00:00:00",
+        "rank": "186",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 24,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -13
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "172",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2010-07-14T00:00:00",
+        "rank": "172",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2010-05-26T00:00:00",
+        "rank": "171",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2010-04-28T00:00:00",
+        "rank": "172",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2010-03-31T00:00:00",
+        "rank": "174",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2010-02-03T00:00:00",
+        "rank": "176",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 43,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -3
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "175",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2009-12-16T00:00:00",
+        "rank": "176",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 46,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2009-11-20T00:00:00",
+        "rank": "178",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 46,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 38
+    },
+    {
+        "date": "2009-10-16T00:00:00",
+        "rank": "199",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2009-09-02T00:00:00",
+        "rank": "200",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2009-07-01T00:00:00",
+        "rank": "200",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2009-08-05T00:00:00",
+        "rank": "200",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2009-06-03T00:00:00",
+        "rank": "199",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2009-05-06T00:00:00",
+        "rank": "199",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2009-04-08T00:00:00",
+        "rank": "199",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2009-03-11T00:00:00",
+        "rank": "199",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2008-12-17T00:00:00",
+        "rank": "198",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 8,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -5
+    },
+    {
+        "date": "2009-02-11T00:00:00",
+        "rank": "199",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2008-11-12T00:00:00",
+        "rank": "196",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2009-01-14T00:00:00",
+        "rank": "199",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2008-09-03T00:00:00",
+        "rank": "195",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2008-10-08T00:00:00",
+        "rank": "195",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "195",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2008-06-04T00:00:00",
+        "rank": "194",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2008-07-02T00:00:00",
+        "rank": "194",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2008-04-09T00:00:00",
+        "rank": "195",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2008-05-07T00:00:00",
+        "rank": "195",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2008-03-12T00:00:00",
+        "rank": "195",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2008-01-16T00:00:00",
+        "rank": "191",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 13,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": -13
+    },
+    {
+        "date": "2008-02-13T00:00:00",
+        "rank": "193",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2007-11-22T00:00:00",
+        "rank": "186",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2007-12-17T00:00:00",
+        "rank": "187",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2007-10-24T00:00:00",
+        "rank": "185",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2007-09-19T00:00:00",
+        "rank": "184",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2007-07-18T00:00:00",
+        "rank": "182",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2007-06-13T00:00:00",
+        "rank": "180",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2007-08-22T00:00:00",
+        "rank": "182",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2007-04-18T00:00:00",
+        "rank": "184",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2007-05-16T00:00:00",
+        "rank": "182",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2007-03-14T00:00:00",
+        "rank": "187",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2007-02-14T00:00:00",
+        "rank": "187",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com",
+        "delta": 0
+    },
+    {
+        "date": "2007-01-17T00:00:00",
+        "rank": "187",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 26,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com"
+    },
+    {
+        "date": "2006-12-18T00:00:00",
+        "rank": "207",
+        "country": "Comoros",
+        "ct": "COM",
+        "points": 0,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/com"
+    }
+]

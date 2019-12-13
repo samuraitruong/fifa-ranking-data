@@ -1,0 +1,3001 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "10",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1622,
+        "previousPoints": 1615,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 7
+    },
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "14",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1567,
+        "previousPoints": 1563,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 4
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "12",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1573,
+        "previousPoints": 1575,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -2
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "12",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1575,
+        "previousPoints": 1575,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "9",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1622,
+        "previousPoints": 1622,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "8",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1622,
+        "previousPoints": 1580,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 42
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "10",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1615,
+        "previousPoints": 1622,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -7
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "13",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1106,
+        "previousPoints": 1095,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 11
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "11",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1575,
+        "previousPoints": 1567,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 8
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "14",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1563,
+        "previousPoints": 1544,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 19
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "12",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1575,
+        "previousPoints": 1575,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "17",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1998,
+        "previousPoints": 2005,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -7
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "13",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1580,
+        "previousPoints": 1573,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 7
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "13",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1078,
+        "previousPoints": 1078,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "16",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 986,
+        "previousPoints": 989,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -3
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "13",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1078,
+        "previousPoints": 1095,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -17
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "16",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 989,
+        "previousPoints": 989,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "12",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1575,
+        "previousPoints": 1575,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "13",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1095,
+        "previousPoints": 1078,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 17
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "13",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1078,
+        "previousPoints": 1078,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "16",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 989,
+        "previousPoints": 1106,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -117
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "13",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1095,
+        "previousPoints": 1191,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -96
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "10",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1191,
+        "previousPoints": 1208,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -17
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "5",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1366,
+        "previousPoints": 1348,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 18
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "8",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1208,
+        "previousPoints": 1366,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -158
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "8",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1208,
+        "previousPoints": 1208,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "7",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1312,
+        "previousPoints": 1304,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 8
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "5",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1348,
+        "previousPoints": 1348,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "5",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1348,
+        "previousPoints": 1312,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 36
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "7",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1304,
+        "previousPoints": 1345,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -41
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "6",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1345,
+        "previousPoints": 1345,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "6",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1345,
+        "previousPoints": 1345,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "5",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1361,
+        "previousPoints": 1323,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 38
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "6",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1345,
+        "previousPoints": 1361,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -16
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "4",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1323,
+        "previousPoints": 1331,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -8
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "3",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1331,
+        "previousPoints": 1331,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "4",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1337,
+        "previousPoints": 1337,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "3",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1331,
+        "previousPoints": 1328,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 3
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "8",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1215,
+        "previousPoints": 1211,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 4
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "4",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1337,
+        "previousPoints": 1215,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 122
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "8",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1211,
+        "previousPoints": 1211,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "3",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1328,
+        "previousPoints": 1337,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -9
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "8",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1211,
+        "previousPoints": 1211,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "8",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1211,
+        "previousPoints": 1233,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -22
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "7",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1233,
+        "previousPoints": 1228,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 5
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "5",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1228,
+        "previousPoints": 1224,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 4
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "4",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1224,
+        "previousPoints": 1218,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 6
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "4",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1218,
+        "previousPoints": 1217,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 1
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "4",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1412,
+        "previousPoints": 1412,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "4",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1217,
+        "previousPoints": 1435,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -218
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "3",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1499,
+        "previousPoints": 1456,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 43
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "4",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1412,
+        "previousPoints": 1499,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -87
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "4",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1435,
+        "previousPoints": 1412,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 23
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "3",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1456,
+        "previousPoints": 1450,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 6
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "3",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1450,
+        "previousPoints": 1450,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "3",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1420,
+        "previousPoints": 1488,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -68
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "3",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1450,
+        "previousPoints": 1450,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "3",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1450,
+        "previousPoints": 1420,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 30
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "3",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1488,
+        "previousPoints": 1495,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -7
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "4",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1495,
+        "previousPoints": 1492,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 3
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "4",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1492,
+        "previousPoints": 1137,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 355
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "5",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1186,
+        "previousPoints": 1186,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "8",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1137,
+        "previousPoints": 1186,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -49
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "4",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1186,
+        "previousPoints": 1183,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 3
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "5",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1183,
+        "previousPoints": 1211,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -28
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "4",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1200,
+        "previousPoints": 1200,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "5",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1211,
+        "previousPoints": 1200,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 11
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "4",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1200,
+        "previousPoints": 1200,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "4",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1200,
+        "previousPoints": 1178,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 22
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "4",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1178,
+        "previousPoints": 1180,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -2
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "5",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1180,
+        "previousPoints": 1219,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -39
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "3",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1206,
+        "previousPoints": 1123,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 83
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "7",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1123,
+        "previousPoints": 1154,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -31
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "6",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1154,
+        "previousPoints": 1154,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "3",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1219,
+        "previousPoints": 1206,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 13
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "6",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1129,
+        "previousPoints": 1164,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -35
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "6",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1159,
+        "previousPoints": 1129,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 30
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "6",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1154,
+        "previousPoints": 1159,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -5
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "5",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1164,
+        "previousPoints": 1164,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "8",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1110,
+        "previousPoints": 1102,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 8
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "22",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 843,
+        "previousPoints": 835,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 8
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "9",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1102,
+        "previousPoints": 843,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 259
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "5",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 1164,
+        "previousPoints": 1110,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 54
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "rank": "22",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 814,
+        "previousPoints": 880,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -66
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "21",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 835,
+        "previousPoints": 814,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 21
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "rank": "23",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 812,
+        "previousPoints": 815,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -3
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "rank": "20",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 880,
+        "previousPoints": 812,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 68
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "rank": "23",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 815,
+        "previousPoints": 748,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 67
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "rank": "31",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 748,
+        "previousPoints": 746,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 2
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "rank": "32",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 746,
+        "previousPoints": 709,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 37
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "rank": "35",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 709,
+        "previousPoints": 709,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2011-11-23T00:00:00",
+        "rank": "36",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 709,
+        "previousPoints": 757,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -48
+    },
+    {
+        "date": "2011-12-21T00:00:00",
+        "rank": "36",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 709,
+        "previousPoints": 709,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2011-10-19T00:00:00",
+        "rank": "30",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 757,
+        "previousPoints": 738,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 19
+    },
+    {
+        "date": "2011-09-21T00:00:00",
+        "rank": "32",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 738,
+        "previousPoints": 730,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 8
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "35",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 706,
+        "previousPoints": 564,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 142
+    },
+    {
+        "date": "2011-06-29T00:00:00",
+        "rank": "54",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 564,
+        "previousPoints": 564,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2011-05-18T00:00:00",
+        "rank": "50",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 564,
+        "previousPoints": 568,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -4
+    },
+    {
+        "date": "2011-04-13T00:00:00",
+        "rank": "49",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 568,
+        "previousPoints": 551,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 17
+    },
+    {
+        "date": "2011-08-24T00:00:00",
+        "rank": "35",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 730,
+        "previousPoints": 707,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 23
+    },
+    {
+        "date": "2011-01-12T00:00:00",
+        "rank": "48",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 558,
+        "previousPoints": 558,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2011-02-02T00:00:00",
+        "rank": "50",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 558,
+        "previousPoints": 558,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2011-03-09T00:00:00",
+        "rank": "50",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 551,
+        "previousPoints": 558,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -7
+    },
+    {
+        "date": "2010-12-15T00:00:00",
+        "rank": "48",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 558,
+        "previousPoints": 575,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -17
+    },
+    {
+        "date": "2010-10-20T00:00:00",
+        "rank": "46",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 584,
+        "previousPoints": 684,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -100
+    },
+    {
+        "date": "2010-09-15T00:00:00",
+        "rank": "40",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 684,
+        "previousPoints": 734,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -50
+    },
+    {
+        "date": "2010-11-17T00:00:00",
+        "rank": "47",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 575,
+        "previousPoints": 584,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -9
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "36",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 734,
+        "previousPoints": 725,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 9
+    },
+    {
+        "date": "2010-07-14T00:00:00",
+        "rank": "39",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 725,
+        "previousPoints": 776,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -51
+    },
+    {
+        "date": "2010-05-26T00:00:00",
+        "rank": "35",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 776,
+        "previousPoints": 777,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -1
+    },
+    {
+        "date": "2010-04-28T00:00:00",
+        "rank": "34",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 777,
+        "previousPoints": 741,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 36
+    },
+    {
+        "date": "2010-03-31T00:00:00",
+        "rank": "39",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 741,
+        "previousPoints": 757,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -16
+    },
+    {
+        "date": "2010-02-03T00:00:00",
+        "rank": "39",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 736,
+        "previousPoints": 736,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "38",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 757,
+        "previousPoints": 736,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 21
+    },
+    {
+        "date": "2009-12-16T00:00:00",
+        "rank": "39",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 736,
+        "previousPoints": 736,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2009-11-20T00:00:00",
+        "rank": "40",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 736,
+        "previousPoints": 775,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -39
+    },
+    {
+        "date": "2009-10-16T00:00:00",
+        "rank": "30",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 775,
+        "previousPoints": 657,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 118
+    },
+    {
+        "date": "2009-09-02T00:00:00",
+        "rank": "48",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 657,
+        "previousPoints": 668,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -11
+    },
+    {
+        "date": "2009-07-01T00:00:00",
+        "rank": "46",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 675,
+        "previousPoints": 678,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -3
+    },
+    {
+        "date": "2009-08-05T00:00:00",
+        "rank": "45",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 668,
+        "previousPoints": 675,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -7
+    },
+    {
+        "date": "2009-06-03T00:00:00",
+        "rank": "45",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 678,
+        "previousPoints": 660,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 18
+    },
+    {
+        "date": "2009-05-06T00:00:00",
+        "rank": "44",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 660,
+        "previousPoints": 674,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -14
+    },
+    {
+        "date": "2009-04-08T00:00:00",
+        "rank": "43",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 674,
+        "previousPoints": 599,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 75
+    },
+    {
+        "date": "2009-03-11T00:00:00",
+        "rank": "47",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 599,
+        "previousPoints": 584,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 15
+    },
+    {
+        "date": "2008-12-17T00:00:00",
+        "rank": "49",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 597,
+        "previousPoints": 686,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -89
+    },
+    {
+        "date": "2009-02-11T00:00:00",
+        "rank": "51",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 584,
+        "previousPoints": 597,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -13
+    },
+    {
+        "date": "2008-11-12T00:00:00",
+        "rank": "40",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 686,
+        "previousPoints": 739,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -53
+    },
+    {
+        "date": "2009-01-14T00:00:00",
+        "rank": "49",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 597,
+        "previousPoints": 597,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2008-09-03T00:00:00",
+        "rank": "29",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 785,
+        "previousPoints": 816,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -31
+    },
+    {
+        "date": "2008-10-08T00:00:00",
+        "rank": "33",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 739,
+        "previousPoints": 785,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -46
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "23",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 816,
+        "previousPoints": 869,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -53
+    },
+    {
+        "date": "2008-06-04T00:00:00",
+        "rank": "19",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 904,
+        "previousPoints": 909,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -5
+    },
+    {
+        "date": "2008-07-02T00:00:00",
+        "rank": "23",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 869,
+        "previousPoints": 904,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -35
+    },
+    {
+        "date": "2008-04-09T00:00:00",
+        "rank": "19",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 911,
+        "previousPoints": 909,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 2
+    },
+    {
+        "date": "2008-05-07T00:00:00",
+        "rank": "19",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 909,
+        "previousPoints": 911,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -2
+    },
+    {
+        "date": "2008-03-12T00:00:00",
+        "rank": "20",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 909,
+        "previousPoints": 899,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 10
+    },
+    {
+        "date": "2008-01-16T00:00:00",
+        "rank": "17",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 905,
+        "previousPoints": 907,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -2
+    },
+    {
+        "date": "2008-02-13T00:00:00",
+        "rank": "21",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 899,
+        "previousPoints": 905,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -6
+    },
+    {
+        "date": "2007-11-22T00:00:00",
+        "rank": "17",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 907,
+        "previousPoints": 801,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 106
+    },
+    {
+        "date": "2007-12-17T00:00:00",
+        "rank": "17",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 907,
+        "previousPoints": 907,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2007-10-24T00:00:00",
+        "rank": "25",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 801,
+        "previousPoints": 862,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -61
+    },
+    {
+        "date": "2007-09-19T00:00:00",
+        "rank": "24",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 862,
+        "previousPoints": 843,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 19
+    },
+    {
+        "date": "2007-07-18T00:00:00",
+        "rank": "32",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 818,
+        "previousPoints": 832,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -14
+    },
+    {
+        "date": "2007-06-13T00:00:00",
+        "rank": "31",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 832,
+        "previousPoints": 838,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -6
+    },
+    {
+        "date": "2007-08-22T00:00:00",
+        "rank": "31",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 843,
+        "previousPoints": 818,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 25
+    },
+    {
+        "date": "2007-04-18T00:00:00",
+        "rank": "26",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 825,
+        "previousPoints": 744,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 81
+    },
+    {
+        "date": "2007-05-16T00:00:00",
+        "rank": "26",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 838,
+        "previousPoints": 825,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 13
+    },
+    {
+        "date": "2007-03-14T00:00:00",
+        "rank": "31",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 744,
+        "previousPoints": 726,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 18
+    },
+    {
+        "date": "2007-02-14T00:00:00",
+        "rank": "31",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 726,
+        "previousPoints": 755,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -29
+    },
+    {
+        "date": "2007-01-17T00:00:00",
+        "rank": "34",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 755,
+        "previousPoints": 758,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -3
+    },
+    {
+        "date": "2006-12-18T00:00:00",
+        "rank": "34",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 758,
+        "previousPoints": 758,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2006-10-18T00:00:00",
+        "rank": "35",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 750,
+        "previousPoints": 867,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -117
+    },
+    {
+        "date": "2006-11-22T00:00:00",
+        "rank": "34",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 758,
+        "previousPoints": 750,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 8
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "20",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 867,
+        "previousPoints": 814,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 53
+    },
+    {
+        "date": "2006-08-16T00:00:00",
+        "rank": "29",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 814,
+        "previousPoints": 902,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -88
+    },
+    {
+        "date": "2006-07-12T00:00:00",
+        "rank": "21",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 902,
+        "previousPoints": 681,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 221
+    },
+    {
+        "date": "2006-03-15T00:00:00",
+        "rank": "30",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 686,
+        "previousPoints": 689,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -3
+    },
+    {
+        "date": "2006-05-17T00:00:00",
+        "rank": "27",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 681,
+        "previousPoints": 684,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -3
+    },
+    {
+        "date": "2006-04-19T00:00:00",
+        "rank": "27",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 684,
+        "previousPoints": 686,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -2
+    },
+    {
+        "date": "2006-02-15T00:00:00",
+        "rank": "27",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 689,
+        "previousPoints": 692,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -3
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "25",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 692,
+        "previousPoints": 691,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 1
+    },
+    {
+        "date": "2005-12-16T00:00:00",
+        "rank": "24",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 692,
+        "previousPoints": 692,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2006-01-18T00:00:00",
+        "rank": "24",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 692,
+        "previousPoints": 692,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2005-10-17T00:00:00",
+        "rank": "23",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 691,
+        "previousPoints": 677,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 14
+    },
+    {
+        "date": "2005-09-12T00:00:00",
+        "rank": "26",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 677,
+        "previousPoints": 678,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -1
+    },
+    {
+        "date": "2005-08-17T00:00:00",
+        "rank": "24",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 678,
+        "previousPoints": 683,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -5
+    },
+    {
+        "date": "2005-07-20T00:00:00",
+        "rank": "25",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 683,
+        "previousPoints": 673,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 10
+    },
+    {
+        "date": "2005-06-15T00:00:00",
+        "rank": "25",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 673,
+        "previousPoints": 657,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 16
+    },
+    {
+        "date": "2005-05-18T00:00:00",
+        "rank": "28",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 657,
+        "previousPoints": 661,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -4
+    },
+    {
+        "date": "2005-04-20T00:00:00",
+        "rank": "27",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 661,
+        "previousPoints": 665,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -4
+    },
+    {
+        "date": "2004-12-20T00:00:00",
+        "rank": "26",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 669,
+        "previousPoints": 662,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 7
+    },
+    {
+        "date": "2005-03-23T00:00:00",
+        "rank": "26",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 665,
+        "previousPoints": 668,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -3
+    },
+    {
+        "date": "2005-01-19T00:00:00",
+        "rank": "26",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 670,
+        "previousPoints": 669,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 1
+    },
+    {
+        "date": "2005-02-16T00:00:00",
+        "rank": "26",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 668,
+        "previousPoints": 670,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -2
+    },
+    {
+        "date": "2004-11-10T00:00:00",
+        "rank": "28",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 662,
+        "previousPoints": 660,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 2
+    },
+    {
+        "date": "2004-09-01T00:00:00",
+        "rank": "28",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 654,
+        "previousPoints": 652,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 2
+    },
+    {
+        "date": "2004-10-06T00:00:00",
+        "rank": "28",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 660,
+        "previousPoints": 654,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 6
+    },
+    {
+        "date": "2004-07-07T00:00:00",
+        "rank": "36",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 622,
+        "previousPoints": 615,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 7
+    },
+    {
+        "date": "2004-08-04T00:00:00",
+        "rank": "28",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 652,
+        "previousPoints": 622,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 30
+    },
+    {
+        "date": "2004-05-12T00:00:00",
+        "rank": "36",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 619,
+        "previousPoints": 617,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 2
+    },
+    {
+        "date": "2004-06-09T00:00:00",
+        "rank": "37",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 615,
+        "previousPoints": 619,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -4
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "41",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 606,
+        "previousPoints": 609,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -3
+    },
+    {
+        "date": "2004-04-14T00:00:00",
+        "rank": "37",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 617,
+        "previousPoints": 606,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 11
+    },
+    {
+        "date": "2004-02-18T00:00:00",
+        "rank": "41",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 609,
+        "previousPoints": 612,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -3
+    },
+    {
+        "date": "2004-01-14T00:00:00",
+        "rank": "39",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 612,
+        "previousPoints": 612,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2003-12-15T00:00:00",
+        "rank": "39",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 612,
+        "previousPoints": 613,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "41",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 613,
+        "previousPoints": 622,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -9
+    },
+    {
+        "date": "2003-10-22T00:00:00",
+        "rank": "36",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 622,
+        "previousPoints": 629,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -7
+    },
+    {
+        "date": "2003-08-27T00:00:00",
+        "rank": "24",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 640,
+        "previousPoints": 647,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -7
+    },
+    {
+        "date": "2003-09-24T00:00:00",
+        "rank": "28",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 629,
+        "previousPoints": 640,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -11
+    },
+    {
+        "date": "2003-07-30T00:00:00",
+        "rank": "22",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 647,
+        "previousPoints": 651,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -4
+    },
+    {
+        "date": "2003-06-25T00:00:00",
+        "rank": "22",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 651,
+        "previousPoints": 601,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 50
+    },
+    {
+        "date": "2003-05-21T00:00:00",
+        "rank": "39",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 601,
+        "previousPoints": 612,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -11
+    },
+    {
+        "date": "2003-04-23T00:00:00",
+        "rank": "35",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 612,
+        "previousPoints": 611,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 1
+    },
+    {
+        "date": "2003-02-19T00:00:00",
+        "rank": "37",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 616,
+        "previousPoints": 617,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -1
+    },
+    {
+        "date": "2002-12-18T00:00:00",
+        "rank": "37",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 617,
+        "previousPoints": 639,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -22
+    },
+    {
+        "date": "2003-01-15T00:00:00",
+        "rank": "37",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 617,
+        "previousPoints": 617,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2003-03-26T00:00:00",
+        "rank": "37",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 611,
+        "previousPoints": 616,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -5
+    },
+    {
+        "date": "2002-11-20T00:00:00",
+        "rank": "30",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 639,
+        "previousPoints": 661,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -22
+    },
+    {
+        "date": "2002-10-23T00:00:00",
+        "rank": "22",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 661,
+        "previousPoints": 675,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -14
+    },
+    {
+        "date": "2002-07-03T00:00:00",
+        "rank": "9",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 725,
+        "previousPoints": 728,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -3
+    },
+    {
+        "date": "2002-08-14T00:00:00",
+        "rank": "15",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 688,
+        "previousPoints": 725,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -37
+    },
+    {
+        "date": "2002-09-18T00:00:00",
+        "rank": "18",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 675,
+        "previousPoints": 688,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -13
+    },
+    {
+        "date": "2002-05-15T00:00:00",
+        "rank": "4",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 728,
+        "previousPoints": 731,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -3
+    },
+    {
+        "date": "2002-03-20T00:00:00",
+        "rank": "5",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 735,
+        "previousPoints": 737,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -2
+    },
+    {
+        "date": "2002-04-17T00:00:00",
+        "rank": "4",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 731,
+        "previousPoints": 735,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -4
+    },
+    {
+        "date": "2002-01-16T00:00:00",
+        "rank": "5",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 739,
+        "previousPoints": 739,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2001-12-19T00:00:00",
+        "rank": "5",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 739,
+        "previousPoints": 736,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 3
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "5",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 737,
+        "previousPoints": 739,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -2
+    },
+    {
+        "date": "2001-08-22T00:00:00",
+        "rank": "6",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 723,
+        "previousPoints": 682,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 41
+    },
+    {
+        "date": "2001-11-21T00:00:00",
+        "rank": "5",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 736,
+        "previousPoints": 723,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 13
+    },
+    {
+        "date": "2001-10-17T00:00:00",
+        "rank": "8",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 723,
+        "previousPoints": 719,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 4
+    },
+    {
+        "date": "2001-09-19T00:00:00",
+        "rank": "7",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 719,
+        "previousPoints": 723,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -4
+    },
+    {
+        "date": "2001-07-18T00:00:00",
+        "rank": "14",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 682,
+        "previousPoints": 660,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 22
+    },
+    {
+        "date": "2001-05-16T00:00:00",
+        "rank": "16",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 665,
+        "previousPoints": 667,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -2
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "18",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 660,
+        "previousPoints": 665,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -5
+    },
+    {
+        "date": "2001-04-11T00:00:00",
+        "rank": "15",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 667,
+        "previousPoints": 667,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2001-03-14T00:00:00",
+        "rank": "15",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 667,
+        "previousPoints": 673,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -6
+    },
+    {
+        "date": "2001-02-14T00:00:00",
+        "rank": "15",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 673,
+        "previousPoints": 671,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 2
+    },
+    {
+        "date": "2000-12-20T00:00:00",
+        "rank": "15",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 672,
+        "previousPoints": 674,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -2
+    },
+    {
+        "date": "2001-01-17T00:00:00",
+        "rank": "15",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 671,
+        "previousPoints": 672,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -1
+    },
+    {
+        "date": "2000-10-11T00:00:00",
+        "rank": "16",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 668,
+        "previousPoints": 668,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "2000-11-15T00:00:00",
+        "rank": "15",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 674,
+        "previousPoints": 668,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 6
+    },
+    {
+        "date": "2000-09-06T00:00:00",
+        "rank": "17",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 668,
+        "previousPoints": 648,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 20
+    },
+    {
+        "date": "2000-08-09T00:00:00",
+        "rank": "17",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 648,
+        "previousPoints": 650,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -2
+    },
+    {
+        "date": "2000-07-05T00:00:00",
+        "rank": "17",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 650,
+        "previousPoints": 644,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 6
+    },
+    {
+        "date": "2000-06-07T00:00:00",
+        "rank": "18",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 644,
+        "previousPoints": 645,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -1
+    },
+    {
+        "date": "2000-04-12T00:00:00",
+        "rank": "17",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 646,
+        "previousPoints": 644,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 2
+    },
+    {
+        "date": "2000-05-10T00:00:00",
+        "rank": "18",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 645,
+        "previousPoints": 646,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -1
+    },
+    {
+        "date": "2000-02-16T00:00:00",
+        "rank": "24",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 624,
+        "previousPoints": 614,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 10
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "17",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 644,
+        "previousPoints": 624,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 20
+    },
+    {
+        "date": "1999-11-17T00:00:00",
+        "rank": "25",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 611,
+        "previousPoints": 616,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -5
+    },
+    {
+        "date": "1999-12-22T00:00:00",
+        "rank": "25",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 614,
+        "previousPoints": 611,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 3
+    },
+    {
+        "date": "2000-01-19T00:00:00",
+        "rank": "24",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 614,
+        "previousPoints": 614,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1999-10-13T00:00:00",
+        "rank": "26",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 616,
+        "previousPoints": 619,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -3
+    },
+    {
+        "date": "1999-08-18T00:00:00",
+        "rank": "18",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 627,
+        "previousPoints": 629,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -2
+    },
+    {
+        "date": "1999-09-15T00:00:00",
+        "rank": "23",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 619,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -8
+    },
+    {
+        "date": "1999-07-21T00:00:00",
+        "rank": "18",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 629,
+        "previousPoints": 583,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 46
+    },
+    {
+        "date": "1999-06-16T00:00:00",
+        "rank": "32",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 583,
+        "previousPoints": 586,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -3
+    },
+    {
+        "date": "1999-05-19T00:00:00",
+        "rank": "31",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 586,
+        "previousPoints": 583,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 3
+    },
+    {
+        "date": "1999-04-21T00:00:00",
+        "rank": "30",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 583,
+        "previousPoints": 588,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -5
+    },
+    {
+        "date": "1999-03-24T00:00:00",
+        "rank": "28",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 588,
+        "previousPoints": 593,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -5
+    },
+    {
+        "date": "1999-01-27T00:00:00",
+        "rank": "27",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 593,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 541
+    },
+    {
+        "date": "1999-02-24T00:00:00",
+        "rank": "27",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 593,
+        "previousPoints": 593,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1998-12-23T00:00:00",
+        "rank": "34",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1998-11-18T00:00:00",
+        "rank": "32",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 52,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -1
+    },
+    {
+        "date": "1998-10-21T00:00:00",
+        "rank": "27",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 53,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -1
+    },
+    {
+        "date": "1998-09-16T00:00:00",
+        "rank": "24",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 54,
+        "previousPoints": 57,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -3
+    },
+    {
+        "date": "1998-07-15T00:00:00",
+        "rank": "17",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 58,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1998-08-19T00:00:00",
+        "rank": "19",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 57,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -1
+    },
+    {
+        "date": "1998-04-22T00:00:00",
+        "rank": "13",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 58,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1998-05-20T00:00:00",
+        "rank": "10",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 58,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1998-03-18T00:00:00",
+        "rank": "17",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 58,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1998-02-18T00:00:00",
+        "rank": "15",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 58,
+        "previousPoints": 59,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -1
+    },
+    {
+        "date": "1997-12-23T00:00:00",
+        "rank": "10",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 59,
+        "previousPoints": 60,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "9",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 60,
+        "previousPoints": 60,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1997-08-20T00:00:00",
+        "rank": "10",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 59,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 1
+    },
+    {
+        "date": "1997-10-17T00:00:00",
+        "rank": "11",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 60,
+        "previousPoints": 60,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1997-07-16T00:00:00",
+        "rank": "12",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 58,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1997-06-18T00:00:00",
+        "rank": "13",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 58,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1997-04-09T00:00:00",
+        "rank": "8",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 60,
+        "previousPoints": 61,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -1
+    },
+    {
+        "date": "1997-09-17T00:00:00",
+        "rank": "9",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 60,
+        "previousPoints": 59,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 1
+    },
+    {
+        "date": "1997-05-14T00:00:00",
+        "rank": "11",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 58,
+        "previousPoints": 60,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -2
+    },
+    {
+        "date": "1997-02-27T00:00:00",
+        "rank": "5",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 61,
+        "previousPoints": 61,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1996-12-18T00:00:00",
+        "rank": "4",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 61,
+        "previousPoints": 60,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 1
+    },
+    {
+        "date": "1996-10-23T00:00:00",
+        "rank": "8",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 59,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 1
+    },
+    {
+        "date": "1996-11-20T00:00:00",
+        "rank": "7",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 60,
+        "previousPoints": 59,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 1
+    },
+    {
+        "date": "1996-08-28T00:00:00",
+        "rank": "11",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 55,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -1
+    },
+    {
+        "date": "1996-09-25T00:00:00",
+        "rank": "11",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 58,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 3
+    },
+    {
+        "date": "1996-07-03T00:00:00",
+        "rank": "12",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 56,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1996-04-24T00:00:00",
+        "rank": "9",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 55,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 3
+    },
+    {
+        "date": "1996-02-21T00:00:00",
+        "rank": "19",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 52,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -1
+    },
+    {
+        "date": "1996-05-22T00:00:00",
+        "rank": "9",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 56,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 1
+    },
+    {
+        "date": "1995-11-21T00:00:00",
+        "rank": "17",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 53,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -1
+    },
+    {
+        "date": "1995-10-17T00:00:00",
+        "rank": "15",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 54,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 1
+    },
+    {
+        "date": "1996-01-24T00:00:00",
+        "rank": "17",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 53,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "23",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 47,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -3
+    },
+    {
+        "date": "1995-08-22T00:00:00",
+        "rank": "13",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 54,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1995-12-19T00:00:00",
+        "rank": "15",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 53,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1995-09-19T00:00:00",
+        "rank": "15",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 53,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -1
+    },
+    {
+        "date": "1995-07-25T00:00:00",
+        "rank": "12",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 54,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 7
+    },
+    {
+        "date": "1994-12-20T00:00:00",
+        "rank": "17",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 53,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1994-11-22T00:00:00",
+        "rank": "15",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 53,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1995-04-19T00:00:00",
+        "rank": "16",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 52,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -1
+    },
+    {
+        "date": "1995-05-16T00:00:00",
+        "rank": "19",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 50,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -2
+    },
+    {
+        "date": "1995-02-20T00:00:00",
+        "rank": "16",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 53,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1994-10-25T00:00:00",
+        "rank": "15",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 53,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1994-07-21T00:00:00",
+        "rank": "17",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 53,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 2
+    },
+    {
+        "date": "1994-09-13T00:00:00",
+        "rank": "15",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 53,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1994-05-17T00:00:00",
+        "rank": "18",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 50,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 1
+    },
+    {
+        "date": "1994-03-15T00:00:00",
+        "rank": "20",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 49,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1994-06-14T00:00:00",
+        "rank": "17",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 51,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 1
+    },
+    {
+        "date": "1994-04-19T00:00:00",
+        "rank": "20",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 49,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1993-12-23T00:00:00",
+        "rank": "21",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 48,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -1
+    },
+    {
+        "date": "1994-02-15T00:00:00",
+        "rank": "20",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 49,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 1
+    },
+    {
+        "date": "1993-11-19T00:00:00",
+        "rank": "21",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 49,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 0
+    },
+    {
+        "date": "1993-08-08T00:00:00",
+        "rank": "19",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 48,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 12
+    },
+    {
+        "date": "1993-09-23T00:00:00",
+        "rank": "19",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 50,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": 2
+    },
+    {
+        "date": "1993-10-22T00:00:00",
+        "rank": "19",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 49,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col",
+        "delta": -1
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "35",
+        "country": "Colombia",
+        "ct": "COL",
+        "points": 36,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/col"
+    }
+]

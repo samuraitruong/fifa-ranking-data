@@ -1,0 +1,1002 @@
+[
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "81",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 1303,
+        "previousPoints": 1300,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 3
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "82",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 1296,
+        "previousPoints": 1306,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": -10
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "80",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 1306,
+        "previousPoints": 1306,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "76",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 1320,
+        "previousPoints": 1309,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 11
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "79",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 1309,
+        "previousPoints": 1302,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 7
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "76",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 1323,
+        "previousPoints": 1320,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 3
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "82",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 407,
+        "previousPoints": 407,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "79",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 1306,
+        "previousPoints": 1303,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 3
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "81",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 1300,
+        "previousPoints": 1300,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "81",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 1306,
+        "previousPoints": 1306,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "79",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 1302,
+        "previousPoints": 1296,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 6
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "83",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 407,
+        "previousPoints": 407,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "81",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 408,
+        "previousPoints": 439,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": -31
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "84",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 407,
+        "previousPoints": 402,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 5
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "71",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 439,
+        "previousPoints": 439,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "80",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 1306,
+        "previousPoints": 1306,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "83",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 407,
+        "previousPoints": 407,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "84",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 407,
+        "previousPoints": 407,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "89",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 402,
+        "previousPoints": 405,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": -3
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "86",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 405,
+        "previousPoints": 384,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 21
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "70",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 492,
+        "previousPoints": 492,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "68",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 531,
+        "previousPoints": 492,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 39
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "86",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 384,
+        "previousPoints": 531,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": -147
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "74",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 467,
+        "previousPoints": 467,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "70",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 492,
+        "previousPoints": 492,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "70",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 492,
+        "previousPoints": 467,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 25
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "73",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 467,
+        "previousPoints": 467,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "75",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 467,
+        "previousPoints": 467,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "75",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 467,
+        "previousPoints": 467,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "77",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 452,
+        "previousPoints": 299,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 153
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "75",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 467,
+        "previousPoints": 452,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 15
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "122",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 299,
+        "previousPoints": 261,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 38
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "131",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 261,
+        "previousPoints": 261,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "152",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 191,
+        "previousPoints": 191,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "134",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 261,
+        "previousPoints": 191,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 70
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "151",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 192,
+        "previousPoints": 192,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "152",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 191,
+        "previousPoints": 192,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": -1
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "150",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 192,
+        "previousPoints": 192,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "154",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 191,
+        "previousPoints": 191,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "150",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 192,
+        "previousPoints": 192,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "151",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 192,
+        "previousPoints": 182,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 10
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "150",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 182,
+        "previousPoints": 181,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 1
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "152",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 181,
+        "previousPoints": 178,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 3
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "148",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 178,
+        "previousPoints": 173,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 5
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "148",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 173,
+        "previousPoints": 174,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": -1
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "148",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 159,
+        "previousPoints": 159,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "149",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 174,
+        "previousPoints": 159,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 15
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "159",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 125,
+        "previousPoints": 125,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "148",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 159,
+        "previousPoints": 125,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 34
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "144",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 159,
+        "previousPoints": 159,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "160",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 125,
+        "previousPoints": 125,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "158",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 125,
+        "previousPoints": 125,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "147",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 171,
+        "previousPoints": 164,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 7
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "158",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 125,
+        "previousPoints": 127,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": -2
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "156",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 127,
+        "previousPoints": 171,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": -44
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "148",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 164,
+        "previousPoints": 63,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 101
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "182",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 63,
+        "previousPoints": 63,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "183",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 63,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": -2
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "177",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 65,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "182",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 65,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "178",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 65,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "178",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 65,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "178",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 65,
+        "previousPoints": 67,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": -2
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "178",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 65,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "178",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 65,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "175",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 67,
+        "previousPoints": 88,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": -21
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "170",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 88,
+        "previousPoints": 72,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 16
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "174",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 72,
+        "previousPoints": 61,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 11
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "178",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 65,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "178",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 65,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "182",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 65,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "181",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 61,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": -4
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "179",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 65,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "182",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 65,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "183",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 65,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "177",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 65,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "161",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 134,
+        "previousPoints": 166,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": -32
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "161",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 129,
+        "previousPoints": 114,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 15
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "151",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 166,
+        "previousPoints": 129,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 37
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "177",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 65,
+        "previousPoints": 134,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": -69
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "rank": "158",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 138,
+        "previousPoints": 137,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 1
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "165",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 114,
+        "previousPoints": 138,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": -24
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "rank": "159",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 138,
+        "previousPoints": 138,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "rank": "160",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 137,
+        "previousPoints": 138,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": -1
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "rank": "159",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 138,
+        "previousPoints": 142,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": -4
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "rank": "154",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 142,
+        "previousPoints": 142,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "rank": "153",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 142,
+        "previousPoints": 146,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": -4
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "rank": "152",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 146,
+        "previousPoints": 146,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2011-11-23T00:00:00",
+        "rank": "149",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 154,
+        "previousPoints": 99,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 55
+    },
+    {
+        "date": "2011-12-21T00:00:00",
+        "rank": "151",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 146,
+        "previousPoints": 154,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": -8
+    },
+    {
+        "date": "2011-10-19T00:00:00",
+        "rank": "171",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 99,
+        "previousPoints": 75,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 24
+    },
+    {
+        "date": "2011-09-21T00:00:00",
+        "rank": "178",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 75,
+        "previousPoints": 103,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": -28
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "157",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 128,
+        "previousPoints": 128,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2011-06-29T00:00:00",
+        "rank": "150",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 128,
+        "previousPoints": 121,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 7
+    },
+    {
+        "date": "2011-05-18T00:00:00",
+        "rank": "152",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 121,
+        "previousPoints": 121,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2011-04-13T00:00:00",
+        "rank": "152",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 121,
+        "previousPoints": 115,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 6
+    },
+    {
+        "date": "2011-08-24T00:00:00",
+        "rank": "166",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 103,
+        "previousPoints": 128,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": -25
+    },
+    {
+        "date": "2011-01-12T00:00:00",
+        "rank": "150",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 107,
+        "previousPoints": 109,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": -2
+    },
+    {
+        "date": "2011-02-02T00:00:00",
+        "rank": "150",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 107,
+        "previousPoints": 107,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2011-03-09T00:00:00",
+        "rank": "146",
+        "country": "Curacao",
+        "ct": "CUW",
+        "points": 115,
+        "previousPoints": 107,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 8
+    }
+]

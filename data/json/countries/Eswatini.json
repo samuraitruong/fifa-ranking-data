@@ -1,0 +1,1621 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "153",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 1042,
+        "previousPoints": 1055,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -13
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "143",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 1074,
+        "previousPoints": 1078,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -4
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "150",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 1055,
+        "previousPoints": 1074,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -19
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "139",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 1074,
+        "previousPoints": 1074,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "147",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 1055,
+        "previousPoints": 1055,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "141",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 1074,
+        "previousPoints": 1074,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "134",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 161,
+        "previousPoints": 152,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 9
+    },
+    {
+        "date": "2007-04-18T00:00:00",
+        "rank": "150",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 110,
+        "previousPoints": 115,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -5
+    },
+    {
+        "date": "2007-05-16T00:00:00",
+        "rank": "151",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 110,
+        "previousPoints": 110,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2007-03-14T00:00:00",
+        "rank": "149",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 115,
+        "previousPoints": 108,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 7
+    },
+    {
+        "date": "2007-02-14T00:00:00",
+        "rank": "151",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 108,
+        "previousPoints": 108,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2007-01-17T00:00:00",
+        "rank": "151",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 108,
+        "previousPoints": 108,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2006-12-18T00:00:00",
+        "rank": "148",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 108,
+        "previousPoints": 113,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -5
+    },
+    {
+        "date": "2006-10-18T00:00:00",
+        "rank": "152",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 110,
+        "previousPoints": 106,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 4
+    },
+    {
+        "date": "2006-11-22T00:00:00",
+        "rank": "147",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 113,
+        "previousPoints": 110,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 3
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "150",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 106,
+        "previousPoints": 92,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 14
+    },
+    {
+        "date": "2006-08-16T00:00:00",
+        "rank": "152",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 92,
+        "previousPoints": 91,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 1
+    },
+    {
+        "date": "2006-07-12T00:00:00",
+        "rank": "153",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 91,
+        "previousPoints": 314,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -223
+    },
+    {
+        "date": "2006-03-15T00:00:00",
+        "rank": "137",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 318,
+        "previousPoints": 321,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -3
+    },
+    {
+        "date": "2006-05-17T00:00:00",
+        "rank": "138",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 314,
+        "previousPoints": 314,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2006-04-19T00:00:00",
+        "rank": "139",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 314,
+        "previousPoints": 318,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -4
+    },
+    {
+        "date": "2006-02-15T00:00:00",
+        "rank": "134",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 321,
+        "previousPoints": 322,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "131",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 332,
+        "previousPoints": 340,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -8
+    },
+    {
+        "date": "2005-12-16T00:00:00",
+        "rank": "134",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 322,
+        "previousPoints": 332,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -10
+    },
+    {
+        "date": "2006-01-18T00:00:00",
+        "rank": "134",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 322,
+        "previousPoints": 322,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2005-10-17T00:00:00",
+        "rank": "133",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 340,
+        "previousPoints": 348,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -8
+    },
+    {
+        "date": "2005-09-12T00:00:00",
+        "rank": "132",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 348,
+        "previousPoints": 354,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -6
+    },
+    {
+        "date": "2005-08-17T00:00:00",
+        "rank": "129",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 354,
+        "previousPoints": 359,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -5
+    },
+    {
+        "date": "2005-07-20T00:00:00",
+        "rank": "128",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 359,
+        "previousPoints": 373,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -14
+    },
+    {
+        "date": "2005-06-15T00:00:00",
+        "rank": "126",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 373,
+        "previousPoints": 365,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 8
+    },
+    {
+        "date": "2005-05-18T00:00:00",
+        "rank": "131",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 365,
+        "previousPoints": 370,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -5
+    },
+    {
+        "date": "2005-04-20T00:00:00",
+        "rank": "130",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 370,
+        "previousPoints": 374,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -4
+    },
+    {
+        "date": "2004-12-20T00:00:00",
+        "rank": "126",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 379,
+        "previousPoints": 384,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -5
+    },
+    {
+        "date": "2005-03-23T00:00:00",
+        "rank": "129",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 374,
+        "previousPoints": 377,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -3
+    },
+    {
+        "date": "2005-01-19T00:00:00",
+        "rank": "128",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 378,
+        "previousPoints": 379,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -1
+    },
+    {
+        "date": "2005-02-16T00:00:00",
+        "rank": "128",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 377,
+        "previousPoints": 378,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -1
+    },
+    {
+        "date": "2004-11-10T00:00:00",
+        "rank": "124",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 384,
+        "previousPoints": 388,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -4
+    },
+    {
+        "date": "2004-09-01T00:00:00",
+        "rank": "122",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 391,
+        "previousPoints": 394,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -3
+    },
+    {
+        "date": "2004-10-06T00:00:00",
+        "rank": "122",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 388,
+        "previousPoints": 391,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -3
+    },
+    {
+        "date": "2004-07-07T00:00:00",
+        "rank": "125",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 384,
+        "previousPoints": 389,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -5
+    },
+    {
+        "date": "2004-08-04T00:00:00",
+        "rank": "121",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 394,
+        "previousPoints": 384,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 10
+    },
+    {
+        "date": "2004-05-12T00:00:00",
+        "rank": "120",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 392,
+        "previousPoints": 397,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -5
+    },
+    {
+        "date": "2004-06-09T00:00:00",
+        "rank": "124",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 389,
+        "previousPoints": 392,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "117",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 401,
+        "previousPoints": 402,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -1
+    },
+    {
+        "date": "2004-04-14T00:00:00",
+        "rank": "119",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 397,
+        "previousPoints": 401,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -4
+    },
+    {
+        "date": "2004-02-18T00:00:00",
+        "rank": "118",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 402,
+        "previousPoints": 404,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -2
+    },
+    {
+        "date": "2004-01-14T00:00:00",
+        "rank": "116",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 404,
+        "previousPoints": 404,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2003-12-15T00:00:00",
+        "rank": "114",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 404,
+        "previousPoints": 404,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "115",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 404,
+        "previousPoints": 408,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -4
+    },
+    {
+        "date": "2003-10-22T00:00:00",
+        "rank": "112",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 408,
+        "previousPoints": 411,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -3
+    },
+    {
+        "date": "2003-08-27T00:00:00",
+        "rank": "102",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 418,
+        "previousPoints": 416,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 2
+    },
+    {
+        "date": "2003-09-24T00:00:00",
+        "rank": "106",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 411,
+        "previousPoints": 418,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -7
+    },
+    {
+        "date": "2003-07-30T00:00:00",
+        "rank": "103",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 416,
+        "previousPoints": 400,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 16
+    },
+    {
+        "date": "2003-06-25T00:00:00",
+        "rank": "114",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 400,
+        "previousPoints": 387,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 13
+    },
+    {
+        "date": "2003-05-21T00:00:00",
+        "rank": "119",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 387,
+        "previousPoints": 398,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -11
+    },
+    {
+        "date": "2003-04-23T00:00:00",
+        "rank": "113",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 398,
+        "previousPoints": 387,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 11
+    },
+    {
+        "date": "2003-02-19T00:00:00",
+        "rank": "119",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 380,
+        "previousPoints": 381,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -1
+    },
+    {
+        "date": "2002-12-18T00:00:00",
+        "rank": "116",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 381,
+        "previousPoints": 381,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2003-01-15T00:00:00",
+        "rank": "119",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 381,
+        "previousPoints": 381,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2003-03-26T00:00:00",
+        "rank": "117",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 387,
+        "previousPoints": 380,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 7
+    },
+    {
+        "date": "2002-11-20T00:00:00",
+        "rank": "116",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 381,
+        "previousPoints": 381,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2002-10-23T00:00:00",
+        "rank": "116",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 381,
+        "previousPoints": 359,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 22
+    },
+    {
+        "date": "2002-07-03T00:00:00",
+        "rank": "123",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 347,
+        "previousPoints": 349,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -2
+    },
+    {
+        "date": "2002-08-14T00:00:00",
+        "rank": "124",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 352,
+        "previousPoints": 347,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 5
+    },
+    {
+        "date": "2002-09-18T00:00:00",
+        "rank": "123",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 359,
+        "previousPoints": 352,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 7
+    },
+    {
+        "date": "2002-05-15T00:00:00",
+        "rank": "124",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 349,
+        "previousPoints": 321,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 28
+    },
+    {
+        "date": "2002-03-20T00:00:00",
+        "rank": "134",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 320,
+        "previousPoints": 322,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -2
+    },
+    {
+        "date": "2002-04-17T00:00:00",
+        "rank": "134",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 321,
+        "previousPoints": 320,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 1
+    },
+    {
+        "date": "2002-01-16T00:00:00",
+        "rank": "133",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 323,
+        "previousPoints": 323,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2001-12-19T00:00:00",
+        "rank": "132",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 323,
+        "previousPoints": 323,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "133",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 322,
+        "previousPoints": 323,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -1
+    },
+    {
+        "date": "2001-08-22T00:00:00",
+        "rank": "131",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 323,
+        "previousPoints": 323,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2001-11-21T00:00:00",
+        "rank": "132",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 323,
+        "previousPoints": 323,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2001-10-17T00:00:00",
+        "rank": "131",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 323,
+        "previousPoints": 323,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2001-09-19T00:00:00",
+        "rank": "131",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 323,
+        "previousPoints": 323,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2001-07-18T00:00:00",
+        "rank": "131",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 323,
+        "previousPoints": 317,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 6
+    },
+    {
+        "date": "2001-05-16T00:00:00",
+        "rank": "129",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 316,
+        "previousPoints": 303,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 13
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "132",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 317,
+        "previousPoints": 316,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 1
+    },
+    {
+        "date": "2001-04-11T00:00:00",
+        "rank": "129",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 303,
+        "previousPoints": 304,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -1
+    },
+    {
+        "date": "2001-03-14T00:00:00",
+        "rank": "128",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 304,
+        "previousPoints": 302,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 2
+    },
+    {
+        "date": "2001-02-14T00:00:00",
+        "rank": "127",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 302,
+        "previousPoints": 295,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 7
+    },
+    {
+        "date": "2000-12-20T00:00:00",
+        "rank": "137",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 269,
+        "previousPoints": 269,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2001-01-17T00:00:00",
+        "rank": "129",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 295,
+        "previousPoints": 269,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 26
+    },
+    {
+        "date": "2000-10-11T00:00:00",
+        "rank": "134",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 267,
+        "previousPoints": 267,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2000-11-15T00:00:00",
+        "rank": "135",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 269,
+        "previousPoints": 267,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 2
+    },
+    {
+        "date": "2000-09-06T00:00:00",
+        "rank": "133",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 267,
+        "previousPoints": 269,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -2
+    },
+    {
+        "date": "2000-08-09T00:00:00",
+        "rank": "133",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 269,
+        "previousPoints": 251,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 18
+    },
+    {
+        "date": "2000-07-05T00:00:00",
+        "rank": "139",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 251,
+        "previousPoints": 245,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 6
+    },
+    {
+        "date": "2000-06-07T00:00:00",
+        "rank": "136",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 245,
+        "previousPoints": 248,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -3
+    },
+    {
+        "date": "2000-04-12T00:00:00",
+        "rank": "134",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 248,
+        "previousPoints": 250,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -2
+    },
+    {
+        "date": "2000-05-10T00:00:00",
+        "rank": "136",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 248,
+        "previousPoints": 248,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2000-02-16T00:00:00",
+        "rank": "130",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 252,
+        "previousPoints": 253,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "131",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 250,
+        "previousPoints": 252,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -2
+    },
+    {
+        "date": "1999-11-17T00:00:00",
+        "rank": "130",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 253,
+        "previousPoints": 253,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1999-12-22T00:00:00",
+        "rank": "127",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 253,
+        "previousPoints": 253,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2000-01-19T00:00:00",
+        "rank": "129",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 253,
+        "previousPoints": 253,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1999-10-13T00:00:00",
+        "rank": "129",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 253,
+        "previousPoints": 253,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1999-08-18T00:00:00",
+        "rank": "135",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 221,
+        "previousPoints": 208,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 13
+    },
+    {
+        "date": "1999-09-15T00:00:00",
+        "rank": "130",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 253,
+        "previousPoints": 221,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 32
+    },
+    {
+        "date": "1999-07-21T00:00:00",
+        "rank": "139",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 208,
+        "previousPoints": 207,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 1
+    },
+    {
+        "date": "1999-06-16T00:00:00",
+        "rank": "139",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 207,
+        "previousPoints": 175,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 32
+    },
+    {
+        "date": "1999-05-19T00:00:00",
+        "rank": "151",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 175,
+        "previousPoints": 155,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 20
+    },
+    {
+        "date": "1999-04-21T00:00:00",
+        "rank": "151",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 155,
+        "previousPoints": 152,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 3
+    },
+    {
+        "date": "1999-03-24T00:00:00",
+        "rank": "153",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 152,
+        "previousPoints": 153,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -1
+    },
+    {
+        "date": "1999-01-27T00:00:00",
+        "rank": "152",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 154,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 141
+    },
+    {
+        "date": "1999-02-24T00:00:00",
+        "rank": "153",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 153,
+        "previousPoints": 154,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -1
+    },
+    {
+        "date": "1998-12-23T00:00:00",
+        "rank": "149",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 13,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -2
+    },
+    {
+        "date": "1998-11-18T00:00:00",
+        "rank": "142",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 15,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1998-10-21T00:00:00",
+        "rank": "142",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 15,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1998-09-16T00:00:00",
+        "rank": "141",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 15,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 2
+    },
+    {
+        "date": "1998-07-15T00:00:00",
+        "rank": "145",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1998-08-19T00:00:00",
+        "rank": "147",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1998-04-22T00:00:00",
+        "rank": "145",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1998-05-20T00:00:00",
+        "rank": "147",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1998-03-18T00:00:00",
+        "rank": "144",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 13,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -2
+    },
+    {
+        "date": "1998-02-18T00:00:00",
+        "rank": "143",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 15,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 8
+    },
+    {
+        "date": "1997-12-23T00:00:00",
+        "rank": "165",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 7,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "171",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 5,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1997-08-20T00:00:00",
+        "rank": "169",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1997-10-17T00:00:00",
+        "rank": "174",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 5,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -1
+    },
+    {
+        "date": "1997-07-16T00:00:00",
+        "rank": "170",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1997-06-18T00:00:00",
+        "rank": "166",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 6,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -1
+    },
+    {
+        "date": "1997-04-09T00:00:00",
+        "rank": "166",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1997-09-17T00:00:00",
+        "rank": "169",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1997-05-14T00:00:00",
+        "rank": "160",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 7,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 1
+    },
+    {
+        "date": "1997-02-27T00:00:00",
+        "rank": "160",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1996-12-18T00:00:00",
+        "rank": "160",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 6,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -1
+    },
+    {
+        "date": "1996-10-23T00:00:00",
+        "rank": "157",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1996-11-20T00:00:00",
+        "rank": "158",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1996-08-28T00:00:00",
+        "rank": "155",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 7,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -1
+    },
+    {
+        "date": "1996-09-25T00:00:00",
+        "rank": "156",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1996-07-03T00:00:00",
+        "rank": "153",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 8,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 1
+    },
+    {
+        "date": "1996-04-24T00:00:00",
+        "rank": "153",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 7,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -1
+    },
+    {
+        "date": "1996-02-21T00:00:00",
+        "rank": "149",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1996-05-22T00:00:00",
+        "rank": "154",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1995-11-21T00:00:00",
+        "rank": "143",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 8,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -1
+    },
+    {
+        "date": "1995-10-17T00:00:00",
+        "rank": "142",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 9,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -2
+    },
+    {
+        "date": "1996-01-24T00:00:00",
+        "rank": "149",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "131",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 10,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1995-08-22T00:00:00",
+        "rank": "140",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1995-12-19T00:00:00",
+        "rank": "148",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1995-09-19T00:00:00",
+        "rank": "117",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 11,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 2
+    },
+    {
+        "date": "1995-07-25T00:00:00",
+        "rank": "137",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 9,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -1
+    },
+    {
+        "date": "1994-12-20T00:00:00",
+        "rank": "125",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1994-11-22T00:00:00",
+        "rank": "124",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1995-04-19T00:00:00",
+        "rank": "129",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 10,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -1
+    },
+    {
+        "date": "1995-05-16T00:00:00",
+        "rank": "129",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 10,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1995-02-20T00:00:00",
+        "rank": "128",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1994-10-25T00:00:00",
+        "rank": "123",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1994-07-21T00:00:00",
+        "rank": "113",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 11,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -2
+    },
+    {
+        "date": "1994-09-13T00:00:00",
+        "rank": "117",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1994-05-17T00:00:00",
+        "rank": "100",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1994-03-15T00:00:00",
+        "rank": "102",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1994-06-14T00:00:00",
+        "rank": "100",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1994-04-19T00:00:00",
+        "rank": "100",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1993-12-23T00:00:00",
+        "rank": "99",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "1994-02-15T00:00:00",
+        "rank": "100",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 13,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -1
+    },
+    {
+        "date": "1993-11-19T00:00:00",
+        "rank": "97",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 14,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -3
+    },
+    {
+        "date": "1993-08-08T00:00:00",
+        "rank": "102",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 12,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 2
+    },
+    {
+        "date": "1993-09-23T00:00:00",
+        "rank": "93",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 16,
+        "previousPoints": 12,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 4
+    },
+    {
+        "date": "1993-10-22T00:00:00",
+        "rank": "92",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 17,
+        "previousPoints": 16,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 1
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "104",
+        "country": "Eswatini",
+        "ct": "SWZ",
+        "points": 10,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz"
+    }
+]

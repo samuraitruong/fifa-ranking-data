@@ -6,12 +6,12 @@ from datetime import datetime
 import pandas as pd
 
 def get_ranking_schedule(url):
-    response = requests.get(url);
+    response = requests.get(url)
     html = response.text
-    query = pq(html);
-    links = ["https://www.fifa.com" + query(x).attr("href") for x in query(".fi-ranking-schedule__nav__item a")];
+    query = pq(html)
+    links = ["https://www.fifa.com" + query(x).attr("href") for x in query(".fi-ranking-schedule__nav__item a")]
     print(links)
-    return links;
+    return links
 def convert_number(str):
     if str == '':
          return None
@@ -21,10 +21,10 @@ def convert_number(str):
         return None
 
 def fetch_page(url):
-    response = requests.get(url);
+    response = requests.get(url)
     html = response.text
-    query = pq(html);
-    rows = query("#rank-table tbody tr");
+    query = pq(html)
+    rows = query("#rank-table tbody tr")
     datestr = query(".fi-selected-item").text().strip()
     date = datetime.strptime(datestr, "%d %B %Y")
     items = []
@@ -42,11 +42,11 @@ def fetch_page(url):
             item["delta"] = item["points"] - item["previousPoints"]
         items.append(item)
     # print(html)
-    return items;
+    return items
 def write_json(data, filename):
     with open(filename, "w+") as f:
-        f.seek(0);
-        f.truncate();
+        f.seek(0)
+        f.truncate()
         json.dump(data, f, indent=4)
     
 def output(data):
@@ -56,26 +56,40 @@ def output(data):
     df.to_csv(f'data/csv/group-by-published/{filename}.csv')
     
 def main():
-    #fetch_page("https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank/id103/");
-    #return;
-    urls = get_ranking_schedule("https://www.fifa.com/fifa-world-ranking/ranking-table/men/");
+    #fetch_page("https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank/id103/")
+    #return
+    urls = get_ranking_schedule("https://www.fifa.com/fifa-world-ranking/ranking-table/men/")
     # fetch_page("https://www.fifa.com/fifa-world-ranking/ranking-table/men/")
     # We can use a with statement to ensure threads are cleaned up promptly
     fullData =[]
-    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+    dict = {}
+    with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
         # Start the load operations and mark each future with its URL
         jobs = {executor.submit(fetch_page, url): url for url in urls}
         for future in concurrent.futures.as_completed(jobs):
             url = jobs[future]
             try:
-                data = future.result();
+                data = future.result()
                 fullData = fullData + data
-                output(data);
+                output(data)
+                for d in data:
+                    v = dict.get(d["country"], [])
+                    v.append(d)
+                    dict[d["country"]] = v
+
             except Exception as exc:
                 print('%r Error loading page : %s' % (url, exc))
             else:
-                print( "Finished:  %s : %d" % (url, len(data)));
+                print( "Finished:  %s : %d" % (url, len(data)))
     write_json(fullData, "data/json/all.json")
+    write_json(dict, "data/json/all_dictionary.json")
+    for key in dict:
+        try:
+            write_json(dict.get(key), "data/json/countries/" + key +".json")
+            pd.DataFrame(dict.get(key)).to_csv("data/csv/countries/" + key +".csv")
+        except Exception as e:
+            print(e)
+
     df = pd.DataFrame(fullData)
     df.to_csv(f'data/csv/all.csv')
 def download_flags(ct: str):
@@ -84,7 +98,7 @@ def download_flags(ct: str):
     r = requests.get(url, allow_redirects=True)
     print("Download file : " + url)
     with open(f'images/png/{ct.lower()}.png', 'wb')as file:
-        file.write(r.content);
+        file.write(r.content)
 
     code = ct[:2]
     url = f"https://media.api-football.com/flags/{code.lower()}.svg"
@@ -92,18 +106,18 @@ def download_flags(ct: str):
     r = requests.get(url, allow_redirects=True)
     print("Download file : " + url)
     with open(f'images/svg/{ct.lower()}.svg', 'wb')as file:
-        file.write(r.content);
+        file.write(r.content)
 
     return "OK"
 
 def generate_metadata():
 
-    pages = fetch_page("https://www.fifa.com/fifa-world-ranking/ranking-table/men");
+    pages = fetch_page("https://www.fifa.com/fifa-world-ranking/ranking-table/men")
     counntries = [{ "name": item["country"],
                     "shortName": item["ct"]
-                }  for item in pages];
+                }  for item in pages]
 
-    counntries = sorted(counntries, key = lambda x: x["name"]);
+    counntries = sorted(counntries, key = lambda x: x["name"])
     write_json(counntries , "data/json/countries.json")
     pd.DataFrame(counntries).to_csv(f'data/csv/countries.csv')
 
@@ -112,10 +126,10 @@ def generate_metadata():
         jobs = {executor.submit(download_flags, c["shortName"]) : c for c in counntries}
         for future in concurrent.futures.as_completed(jobs):
             try:
-                data = future.result();
+                data = future.result()
             except Exception as exc:
                 print('Error %' %(exc) )
 
-    return;
-# main()
-generate_metadata();
+    return
+main()
+# generate_metadata()

@@ -1,0 +1,3001 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "88",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 1277,
+        "previousPoints": 1299,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -22
+    },
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "75",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 1316,
+        "previousPoints": 1315,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "79",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 1302,
+        "previousPoints": 1292,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 10
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "83",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 1292,
+        "previousPoints": 1292,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "81",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 1299,
+        "previousPoints": 1299,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "81",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 1299,
+        "previousPoints": 1298,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "81",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 1299,
+        "previousPoints": 1299,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "77",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 438,
+        "previousPoints": 438,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "77",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 1308,
+        "previousPoints": 1316,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -8
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "76",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 1315,
+        "previousPoints": 1316,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "82",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 1292,
+        "previousPoints": 1292,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "77",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 1592,
+        "previousPoints": 1594,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -2
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "81",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 1298,
+        "previousPoints": 1302,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -4
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "74",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 468,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 19
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "76",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 420,
+        "previousPoints": 412,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 8
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "75",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 449,
+        "previousPoints": 450,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "78",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 412,
+        "previousPoints": 413,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "82",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 1292,
+        "previousPoints": 1308,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -16
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "76",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 438,
+        "previousPoints": 466,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -28
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "72",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 466,
+        "previousPoints": 468,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -2
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "78",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 413,
+        "previousPoints": 438,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -25
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "77",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 450,
+        "previousPoints": 448,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 2
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "78",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 448,
+        "previousPoints": 345,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 103
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "99",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 335,
+        "previousPoints": 334,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "92",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 369,
+        "previousPoints": 335,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 34
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "96",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 345,
+        "previousPoints": 369,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -24
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "90",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 370,
+        "previousPoints": 368,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 2
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "98",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 334,
+        "previousPoints": 335,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "97",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 335,
+        "previousPoints": 370,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -35
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "91",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 368,
+        "previousPoints": 395,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -27
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "88",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 395,
+        "previousPoints": 401,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -6
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "88",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 401,
+        "previousPoints": 374,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 27
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "94",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 374,
+        "previousPoints": 377,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -3
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "91",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 374,
+        "previousPoints": 374,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "92",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 377,
+        "previousPoints": 376,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "91",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 376,
+        "previousPoints": 385,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -9
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "78",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 457,
+        "previousPoints": 460,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -3
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "88",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 385,
+        "previousPoints": 436,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -51
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "78",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 457,
+        "previousPoints": 482,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -25
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "78",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 460,
+        "previousPoints": 457,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 3
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "76",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 482,
+        "previousPoints": 516,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -34
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "79",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 436,
+        "previousPoints": 457,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -21
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "67",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 516,
+        "previousPoints": 481,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 35
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "73",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 481,
+        "previousPoints": 477,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 4
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "71",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 477,
+        "previousPoints": 487,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -10
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "71",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 487,
+        "previousPoints": 464,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 23
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "74",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 464,
+        "previousPoints": 465,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "73",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 465,
+        "previousPoints": 482,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -17
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "60",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 552,
+        "previousPoints": 556,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -4
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "71",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 482,
+        "previousPoints": 517,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -35
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "60",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 560,
+        "previousPoints": 556,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 4
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "59",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 556,
+        "previousPoints": 560,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -4
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "68",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 517,
+        "previousPoints": 552,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -35
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "60",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 556,
+        "previousPoints": 594,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -38
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "50",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 594,
+        "previousPoints": 625,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -31
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "78",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 418,
+        "previousPoints": 365,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 53
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "46",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 625,
+        "previousPoints": 516,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 109
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "62",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 516,
+        "previousPoints": 418,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 98
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "88",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 365,
+        "previousPoints": 375,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -10
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "84",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 375,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -21
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "77",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 396,
+        "previousPoints": 441,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -45
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "79",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 448,
+        "previousPoints": 456,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -8
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "76",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 441,
+        "previousPoints": 448,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -7
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "74",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 456,
+        "previousPoints": 458,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -2
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "74",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 458,
+        "previousPoints": 450,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 8
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "69",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 523,
+        "previousPoints": 505,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 18
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "75",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 450,
+        "previousPoints": 519,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -69
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "69",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 519,
+        "previousPoints": 523,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -4
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "72",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 505,
+        "previousPoints": 513,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -8
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "67",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 513,
+        "previousPoints": 515,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -2
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "71",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 515,
+        "previousPoints": 550,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -35
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "60",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 554,
+        "previousPoints": 602,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -48
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "49",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 602,
+        "previousPoints": 628,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -26
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "46",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 628,
+        "previousPoints": 632,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -4
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "60",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 550,
+        "previousPoints": 554,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -4
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "47",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 591,
+        "previousPoints": 646,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -55
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "36",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 643,
+        "previousPoints": 591,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 52
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "45",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 632,
+        "previousPoints": 643,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -11
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "39",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 646,
+        "previousPoints": 697,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -51
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "39",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 633,
+        "previousPoints": 631,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 2
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "42",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 624,
+        "previousPoints": 623,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "41",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 631,
+        "previousPoints": 624,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 7
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "34",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 697,
+        "previousPoints": 633,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 64
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "rank": "41",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 648,
+        "previousPoints": 601,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 47
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "44",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 623,
+        "previousPoints": 648,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -25
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "rank": "40",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 640,
+        "previousPoints": 640,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "rank": "43",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 601,
+        "previousPoints": 640,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -39
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "rank": "40",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 640,
+        "previousPoints": 630,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 10
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "rank": "41",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 630,
+        "previousPoints": 630,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "rank": "43",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 630,
+        "previousPoints": 459,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 171
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "rank": "71",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 459,
+        "previousPoints": 439,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 20
+    },
+    {
+        "date": "2011-11-23T00:00:00",
+        "rank": "79",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 436,
+        "previousPoints": 432,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 4
+    },
+    {
+        "date": "2011-12-21T00:00:00",
+        "rank": "79",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 439,
+        "previousPoints": 436,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 3
+    },
+    {
+        "date": "2011-10-19T00:00:00",
+        "rank": "80",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 432,
+        "previousPoints": 409,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 23
+    },
+    {
+        "date": "2011-09-21T00:00:00",
+        "rank": "83",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 409,
+        "previousPoints": 427,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -18
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "74",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 436,
+        "previousPoints": 434,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 2
+    },
+    {
+        "date": "2011-06-29T00:00:00",
+        "rank": "72",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 434,
+        "previousPoints": 383,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 51
+    },
+    {
+        "date": "2011-05-18T00:00:00",
+        "rank": "90",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 383,
+        "previousPoints": 383,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "2011-04-13T00:00:00",
+        "rank": "89",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 383,
+        "previousPoints": 332,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 51
+    },
+    {
+        "date": "2011-08-24T00:00:00",
+        "rank": "76",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 427,
+        "previousPoints": 435,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -8
+    },
+    {
+        "date": "2011-01-12T00:00:00",
+        "rank": "81",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 418,
+        "previousPoints": 441,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -23
+    },
+    {
+        "date": "2011-02-02T00:00:00",
+        "rank": "102",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 330,
+        "previousPoints": 418,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -88
+    },
+    {
+        "date": "2011-03-09T00:00:00",
+        "rank": "97",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 332,
+        "previousPoints": 330,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 2
+    },
+    {
+        "date": "2010-12-15T00:00:00",
+        "rank": "76",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 441,
+        "previousPoints": 457,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -16
+    },
+    {
+        "date": "2010-10-20T00:00:00",
+        "rank": "76",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 429,
+        "previousPoints": 432,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -3
+    },
+    {
+        "date": "2010-09-15T00:00:00",
+        "rank": "74",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 432,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -17
+    },
+    {
+        "date": "2010-11-17T00:00:00",
+        "rank": "69",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 458,
+        "previousPoints": 429,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 29
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "72",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 449,
+        "previousPoints": 446,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 3
+    },
+    {
+        "date": "2010-07-14T00:00:00",
+        "rank": "73",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 446,
+        "previousPoints": 456,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -10
+    },
+    {
+        "date": "2010-05-26T00:00:00",
+        "rank": "71",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 456,
+        "previousPoints": 452,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 4
+    },
+    {
+        "date": "2010-04-28T00:00:00",
+        "rank": "71",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 452,
+        "previousPoints": 452,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "2010-03-31T00:00:00",
+        "rank": "71",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 452,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 3
+    },
+    {
+        "date": "2010-02-03T00:00:00",
+        "rank": "73",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 449,
+        "previousPoints": 380,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 69
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "73",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 449,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "2009-12-16T00:00:00",
+        "rank": "84",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 380,
+        "previousPoints": 358,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 22
+    },
+    {
+        "date": "2009-11-20T00:00:00",
+        "rank": "90",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 358,
+        "previousPoints": 340,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 18
+    },
+    {
+        "date": "2009-10-16T00:00:00",
+        "rank": "96",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 340,
+        "previousPoints": 409,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -69
+    },
+    {
+        "date": "2009-09-02T00:00:00",
+        "rank": "81",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 409,
+        "previousPoints": 425,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -16
+    },
+    {
+        "date": "2009-07-01T00:00:00",
+        "rank": "77",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 420,
+        "previousPoints": 404,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 16
+    },
+    {
+        "date": "2009-08-05T00:00:00",
+        "rank": "77",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 425,
+        "previousPoints": 420,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 5
+    },
+    {
+        "date": "2009-06-03T00:00:00",
+        "rank": "90",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 404,
+        "previousPoints": 393,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 11
+    },
+    {
+        "date": "2009-05-06T00:00:00",
+        "rank": "90",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 393,
+        "previousPoints": 393,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "2009-04-08T00:00:00",
+        "rank": "90",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 393,
+        "previousPoints": 383,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 10
+    },
+    {
+        "date": "2009-03-11T00:00:00",
+        "rank": "92",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 383,
+        "previousPoints": 381,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 2
+    },
+    {
+        "date": "2008-12-17T00:00:00",
+        "rank": "72",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 463,
+        "previousPoints": 463,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "2009-02-11T00:00:00",
+        "rank": "92",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 381,
+        "previousPoints": 430,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -49
+    },
+    {
+        "date": "2008-11-12T00:00:00",
+        "rank": "71",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 463,
+        "previousPoints": 468,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -5
+    },
+    {
+        "date": "2009-01-14T00:00:00",
+        "rank": "76",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 430,
+        "previousPoints": 463,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -33
+    },
+    {
+        "date": "2008-09-03T00:00:00",
+        "rank": "69",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 456,
+        "previousPoints": 462,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -6
+    },
+    {
+        "date": "2008-10-08T00:00:00",
+        "rank": "70",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 468,
+        "previousPoints": 456,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 12
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "67",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 462,
+        "previousPoints": 452,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 10
+    },
+    {
+        "date": "2008-06-04T00:00:00",
+        "rank": "70",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 462,
+        "previousPoints": 497,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -35
+    },
+    {
+        "date": "2008-07-02T00:00:00",
+        "rank": "73",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 452,
+        "previousPoints": 462,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -10
+    },
+    {
+        "date": "2008-04-09T00:00:00",
+        "rank": "68",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 495,
+        "previousPoints": 495,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "2008-05-07T00:00:00",
+        "rank": "67",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 497,
+        "previousPoints": 495,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 2
+    },
+    {
+        "date": "2008-03-12T00:00:00",
+        "rank": "67",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 495,
+        "previousPoints": 494,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "2008-01-16T00:00:00",
+        "rank": "67",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 474,
+        "previousPoints": 498,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -24
+    },
+    {
+        "date": "2008-02-13T00:00:00",
+        "rank": "65",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 494,
+        "previousPoints": 474,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 20
+    },
+    {
+        "date": "2007-11-22T00:00:00",
+        "rank": "68",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 484,
+        "previousPoints": 508,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -24
+    },
+    {
+        "date": "2007-12-17T00:00:00",
+        "rank": "65",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 498,
+        "previousPoints": 484,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 14
+    },
+    {
+        "date": "2007-10-24T00:00:00",
+        "rank": "60",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 508,
+        "previousPoints": 504,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 4
+    },
+    {
+        "date": "2007-09-19T00:00:00",
+        "rank": "61",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 504,
+        "previousPoints": 480,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 24
+    },
+    {
+        "date": "2007-07-18T00:00:00",
+        "rank": "61",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 488,
+        "previousPoints": 506,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -18
+    },
+    {
+        "date": "2007-06-13T00:00:00",
+        "rank": "60",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 506,
+        "previousPoints": 462,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 44
+    },
+    {
+        "date": "2007-08-22T00:00:00",
+        "rank": "62",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 480,
+        "previousPoints": 488,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -8
+    },
+    {
+        "date": "2007-04-18T00:00:00",
+        "rank": "69",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 456,
+        "previousPoints": 460,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -4
+    },
+    {
+        "date": "2007-05-16T00:00:00",
+        "rank": "68",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 462,
+        "previousPoints": 456,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 6
+    },
+    {
+        "date": "2007-03-14T00:00:00",
+        "rank": "67",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 460,
+        "previousPoints": 459,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "2007-02-14T00:00:00",
+        "rank": "65",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 459,
+        "previousPoints": 485,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -26
+    },
+    {
+        "date": "2007-01-17T00:00:00",
+        "rank": "63",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 485,
+        "previousPoints": 483,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 2
+    },
+    {
+        "date": "2006-12-18T00:00:00",
+        "rank": "62",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 483,
+        "previousPoints": 503,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -20
+    },
+    {
+        "date": "2006-10-18T00:00:00",
+        "rank": "60",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 488,
+        "previousPoints": 512,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -24
+    },
+    {
+        "date": "2006-11-22T00:00:00",
+        "rank": "60",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 503,
+        "previousPoints": 488,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 15
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "55",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 512,
+        "previousPoints": 499,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 13
+    },
+    {
+        "date": "2006-08-16T00:00:00",
+        "rank": "59",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 499,
+        "previousPoints": 498,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "2006-07-12T00:00:00",
+        "rank": "62",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 498,
+        "previousPoints": 581,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -83
+    },
+    {
+        "date": "2006-03-15T00:00:00",
+        "rank": "57",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 591,
+        "previousPoints": 591,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "2006-05-17T00:00:00",
+        "rank": "57",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 581,
+        "previousPoints": 583,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -2
+    },
+    {
+        "date": "2006-04-19T00:00:00",
+        "rank": "56",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 583,
+        "previousPoints": 591,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -8
+    },
+    {
+        "date": "2006-02-15T00:00:00",
+        "rank": "57",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 591,
+        "previousPoints": 584,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 7
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "57",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 579,
+        "previousPoints": 576,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 3
+    },
+    {
+        "date": "2005-12-16T00:00:00",
+        "rank": "58",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 579,
+        "previousPoints": 579,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "2006-01-18T00:00:00",
+        "rank": "58",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 584,
+        "previousPoints": 579,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 5
+    },
+    {
+        "date": "2005-10-17T00:00:00",
+        "rank": "58",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 576,
+        "previousPoints": 563,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 13
+    },
+    {
+        "date": "2005-09-12T00:00:00",
+        "rank": "64",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 563,
+        "previousPoints": 569,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -6
+    },
+    {
+        "date": "2005-08-17T00:00:00",
+        "rank": "56",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 569,
+        "previousPoints": 566,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 3
+    },
+    {
+        "date": "2005-07-20T00:00:00",
+        "rank": "62",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 566,
+        "previousPoints": 550,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 16
+    },
+    {
+        "date": "2005-06-15T00:00:00",
+        "rank": "73",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 550,
+        "previousPoints": 554,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -4
+    },
+    {
+        "date": "2005-05-18T00:00:00",
+        "rank": "68",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 554,
+        "previousPoints": 555,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "2005-04-20T00:00:00",
+        "rank": "70",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 555,
+        "previousPoints": 547,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 8
+    },
+    {
+        "date": "2004-12-20T00:00:00",
+        "rank": "70",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 552,
+        "previousPoints": 553,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "2005-03-23T00:00:00",
+        "rank": "72",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 547,
+        "previousPoints": 550,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -3
+    },
+    {
+        "date": "2005-01-19T00:00:00",
+        "rank": "71",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 552,
+        "previousPoints": 552,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "2005-02-16T00:00:00",
+        "rank": "71",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 550,
+        "previousPoints": 552,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -2
+    },
+    {
+        "date": "2004-11-10T00:00:00",
+        "rank": "65",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 553,
+        "previousPoints": 541,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 12
+    },
+    {
+        "date": "2004-09-01T00:00:00",
+        "rank": "72",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 529,
+        "previousPoints": 528,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "2004-10-06T00:00:00",
+        "rank": "67",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 541,
+        "previousPoints": 529,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 12
+    },
+    {
+        "date": "2004-07-07T00:00:00",
+        "rank": "74",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 521,
+        "previousPoints": 515,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 6
+    },
+    {
+        "date": "2004-08-04T00:00:00",
+        "rank": "69",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 528,
+        "previousPoints": 521,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 7
+    },
+    {
+        "date": "2004-05-12T00:00:00",
+        "rank": "80",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 507,
+        "previousPoints": 513,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -6
+    },
+    {
+        "date": "2004-06-09T00:00:00",
+        "rank": "77",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 515,
+        "previousPoints": 507,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 8
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "73",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 520,
+        "previousPoints": 522,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -2
+    },
+    {
+        "date": "2004-04-14T00:00:00",
+        "rank": "77",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 513,
+        "previousPoints": 520,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -7
+    },
+    {
+        "date": "2004-02-18T00:00:00",
+        "rank": "71",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 522,
+        "previousPoints": 524,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -2
+    },
+    {
+        "date": "2004-01-14T00:00:00",
+        "rank": "69",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 524,
+        "previousPoints": 524,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "2003-12-15T00:00:00",
+        "rank": "68",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 524,
+        "previousPoints": 523,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "68",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 523,
+        "previousPoints": 527,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -4
+    },
+    {
+        "date": "2003-10-22T00:00:00",
+        "rank": "65",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 527,
+        "previousPoints": 513,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 14
+    },
+    {
+        "date": "2003-08-27T00:00:00",
+        "rank": "64",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 523,
+        "previousPoints": 522,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "2003-09-24T00:00:00",
+        "rank": "72",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 513,
+        "previousPoints": 523,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -10
+    },
+    {
+        "date": "2003-07-30T00:00:00",
+        "rank": "67",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 522,
+        "previousPoints": 526,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -4
+    },
+    {
+        "date": "2003-06-25T00:00:00",
+        "rank": "67",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 526,
+        "previousPoints": 512,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 14
+    },
+    {
+        "date": "2003-05-21T00:00:00",
+        "rank": "69",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 512,
+        "previousPoints": 515,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -3
+    },
+    {
+        "date": "2003-04-23T00:00:00",
+        "rank": "69",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 515,
+        "previousPoints": 496,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 19
+    },
+    {
+        "date": "2003-02-19T00:00:00",
+        "rank": "68",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 501,
+        "previousPoints": 503,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -2
+    },
+    {
+        "date": "2002-12-18T00:00:00",
+        "rank": "67",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 506,
+        "previousPoints": 512,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -6
+    },
+    {
+        "date": "2003-01-15T00:00:00",
+        "rank": "68",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 503,
+        "previousPoints": 506,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -3
+    },
+    {
+        "date": "2003-03-26T00:00:00",
+        "rank": "72",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 496,
+        "previousPoints": 501,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -5
+    },
+    {
+        "date": "2002-11-20T00:00:00",
+        "rank": "63",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 512,
+        "previousPoints": 516,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -4
+    },
+    {
+        "date": "2002-10-23T00:00:00",
+        "rank": "62",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 516,
+        "previousPoints": 515,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "2002-07-03T00:00:00",
+        "rank": "66",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 513,
+        "previousPoints": 530,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -17
+    },
+    {
+        "date": "2002-08-14T00:00:00",
+        "rank": "66",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 510,
+        "previousPoints": 513,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -3
+    },
+    {
+        "date": "2002-09-18T00:00:00",
+        "rank": "65",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 515,
+        "previousPoints": 510,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 5
+    },
+    {
+        "date": "2002-05-15T00:00:00",
+        "rank": "65",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 530,
+        "previousPoints": 532,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -2
+    },
+    {
+        "date": "2002-03-20T00:00:00",
+        "rank": "67",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 535,
+        "previousPoints": 542,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -7
+    },
+    {
+        "date": "2002-04-17T00:00:00",
+        "rank": "66",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 532,
+        "previousPoints": 535,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -3
+    },
+    {
+        "date": "2002-01-16T00:00:00",
+        "rank": "63",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 543,
+        "previousPoints": 540,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 3
+    },
+    {
+        "date": "2001-12-19T00:00:00",
+        "rank": "64",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 540,
+        "previousPoints": 541,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "64",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 542,
+        "previousPoints": 543,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "2001-08-22T00:00:00",
+        "rank": "58",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 551,
+        "previousPoints": 545,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 6
+    },
+    {
+        "date": "2001-11-21T00:00:00",
+        "rank": "63",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 541,
+        "previousPoints": 545,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -4
+    },
+    {
+        "date": "2001-10-17T00:00:00",
+        "rank": "61",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 545,
+        "previousPoints": 551,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -6
+    },
+    {
+        "date": "2001-09-19T00:00:00",
+        "rank": "58",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 551,
+        "previousPoints": 551,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "2001-07-18T00:00:00",
+        "rank": "60",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 545,
+        "previousPoints": 547,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -2
+    },
+    {
+        "date": "2001-05-16T00:00:00",
+        "rank": "56",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 543,
+        "previousPoints": 548,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -5
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "58",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 547,
+        "previousPoints": 543,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 4
+    },
+    {
+        "date": "2001-04-11T00:00:00",
+        "rank": "54",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 548,
+        "previousPoints": 552,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -4
+    },
+    {
+        "date": "2001-03-14T00:00:00",
+        "rank": "51",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 552,
+        "previousPoints": 553,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "2001-02-14T00:00:00",
+        "rank": "50",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 553,
+        "previousPoints": 555,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -2
+    },
+    {
+        "date": "2000-12-20T00:00:00",
+        "rank": "49",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 555,
+        "previousPoints": 558,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -3
+    },
+    {
+        "date": "2001-01-17T00:00:00",
+        "rank": "49",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 555,
+        "previousPoints": 555,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "2000-10-11T00:00:00",
+        "rank": "45",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 554,
+        "previousPoints": 557,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -3
+    },
+    {
+        "date": "2000-11-15T00:00:00",
+        "rank": "47",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 558,
+        "previousPoints": 554,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 4
+    },
+    {
+        "date": "2000-09-06T00:00:00",
+        "rank": "45",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 557,
+        "previousPoints": 561,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -4
+    },
+    {
+        "date": "2000-08-09T00:00:00",
+        "rank": "40",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 561,
+        "previousPoints": 558,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 3
+    },
+    {
+        "date": "2000-07-05T00:00:00",
+        "rank": "43",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 558,
+        "previousPoints": 562,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -4
+    },
+    {
+        "date": "2000-06-07T00:00:00",
+        "rank": "39",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 562,
+        "previousPoints": 565,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -3
+    },
+    {
+        "date": "2000-04-12T00:00:00",
+        "rank": "38",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 565,
+        "previousPoints": 566,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "2000-05-10T00:00:00",
+        "rank": "37",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 565,
+        "previousPoints": 565,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "2000-02-16T00:00:00",
+        "rank": "38",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 569,
+        "previousPoints": 571,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "38",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 566,
+        "previousPoints": 569,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -3
+    },
+    {
+        "date": "1999-11-17T00:00:00",
+        "rank": "35",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 576,
+        "previousPoints": 581,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -5
+    },
+    {
+        "date": "1999-12-22T00:00:00",
+        "rank": "36",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 571,
+        "previousPoints": 576,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -5
+    },
+    {
+        "date": "2000-01-19T00:00:00",
+        "rank": "36",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 571,
+        "previousPoints": 571,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "1999-10-13T00:00:00",
+        "rank": "34",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 581,
+        "previousPoints": 582,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "1999-08-18T00:00:00",
+        "rank": "31",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 590,
+        "previousPoints": 589,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "1999-09-15T00:00:00",
+        "rank": "33",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 582,
+        "previousPoints": 590,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -8
+    },
+    {
+        "date": "1999-07-21T00:00:00",
+        "rank": "32",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 589,
+        "previousPoints": 573,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 16
+    },
+    {
+        "date": "1999-06-16T00:00:00",
+        "rank": "34",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 573,
+        "previousPoints": 564,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 9
+    },
+    {
+        "date": "1999-05-19T00:00:00",
+        "rank": "36",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 564,
+        "previousPoints": 565,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "1999-04-21T00:00:00",
+        "rank": "37",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 565,
+        "previousPoints": 560,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 5
+    },
+    {
+        "date": "1999-03-24T00:00:00",
+        "rank": "39",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 560,
+        "previousPoints": 561,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "1999-01-27T00:00:00",
+        "rank": "37",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 563,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 510
+    },
+    {
+        "date": "1999-02-24T00:00:00",
+        "rank": "38",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 561,
+        "previousPoints": 563,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -2
+    },
+    {
+        "date": "1998-12-23T00:00:00",
+        "rank": "29",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 53,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "1998-11-18T00:00:00",
+        "rank": "26",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 54,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "1998-10-21T00:00:00",
+        "rank": "23",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 55,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "1998-09-16T00:00:00",
+        "rank": "23",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 54,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "1998-07-15T00:00:00",
+        "rank": "24",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 55,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "1998-08-19T00:00:00",
+        "rank": "23",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 55,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "1998-04-22T00:00:00",
+        "rank": "19",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 56,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "1998-05-20T00:00:00",
+        "rank": "23",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 55,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "1998-03-18T00:00:00",
+        "rank": "19",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 56,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "1998-02-18T00:00:00",
+        "rank": "18",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 56,
+        "previousPoints": 57,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "1997-12-23T00:00:00",
+        "rank": "21",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 57,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "20",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 56,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "1997-08-20T00:00:00",
+        "rank": "19",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 55,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "1997-10-17T00:00:00",
+        "rank": "19",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 56,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "1997-07-16T00:00:00",
+        "rank": "19",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 55,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "1997-06-18T00:00:00",
+        "rank": "18",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 54,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "1997-04-09T00:00:00",
+        "rank": "22",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "1997-09-17T00:00:00",
+        "rank": "19",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 56,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "1997-05-14T00:00:00",
+        "rank": "23",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 53,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "1997-02-27T00:00:00",
+        "rank": "20",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 52,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -2
+    },
+    {
+        "date": "1996-12-18T00:00:00",
+        "rank": "20",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 54,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "1996-10-23T00:00:00",
+        "rank": "16",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 54,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "1996-11-20T00:00:00",
+        "rank": "18",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 53,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "1996-08-28T00:00:00",
+        "rank": "15",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 53,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "1996-09-25T00:00:00",
+        "rank": "16",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 53,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "1996-07-03T00:00:00",
+        "rank": "16",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 53,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "1996-04-24T00:00:00",
+        "rank": "15",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 53,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "1996-02-21T00:00:00",
+        "rank": "15",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 53,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 4
+    },
+    {
+        "date": "1996-05-22T00:00:00",
+        "rank": "15",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 53,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "1995-11-21T00:00:00",
+        "rank": "34",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 45,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "1995-10-17T00:00:00",
+        "rank": "31",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 46,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -3
+    },
+    {
+        "date": "1996-01-24T00:00:00",
+        "rank": "23",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 49,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "32",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 44,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "1995-08-22T00:00:00",
+        "rank": "26",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 48,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "1995-12-19T00:00:00",
+        "rank": "25",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 48,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 3
+    },
+    {
+        "date": "1995-09-19T00:00:00",
+        "rank": "21",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 49,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "1995-07-25T00:00:00",
+        "rank": "24",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 48,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 4
+    },
+    {
+        "date": "1994-12-20T00:00:00",
+        "rank": "21",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 49,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "1994-11-22T00:00:00",
+        "rank": "20",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 50,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "1995-04-19T00:00:00",
+        "rank": "28",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 44,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -4
+    },
+    {
+        "date": "1995-05-16T00:00:00",
+        "rank": "29",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 44,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "1995-02-20T00:00:00",
+        "rank": "21",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 48,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "1994-10-25T00:00:00",
+        "rank": "20",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 50,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "1994-07-21T00:00:00",
+        "rank": "21",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 48,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "1994-09-13T00:00:00",
+        "rank": "21",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 49,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "1994-05-17T00:00:00",
+        "rank": "19",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 49,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "1994-03-15T00:00:00",
+        "rank": "22",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 45,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 2
+    },
+    {
+        "date": "1994-06-14T00:00:00",
+        "rank": "20",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 49,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 0
+    },
+    {
+        "date": "1994-04-19T00:00:00",
+        "rank": "19",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 50,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 5
+    },
+    {
+        "date": "1993-12-23T00:00:00",
+        "rank": "27",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 45,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "1994-02-15T00:00:00",
+        "rank": "30",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 43,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -2
+    },
+    {
+        "date": "1993-11-19T00:00:00",
+        "rank": "29",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 44,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "1993-08-08T00:00:00",
+        "rank": "25",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 45,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 7
+    },
+    {
+        "date": "1993-09-23T00:00:00",
+        "rank": "27",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 44,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": -1
+    },
+    {
+        "date": "1993-10-22T00:00:00",
+        "rank": "25",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 45,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam",
+        "delta": 1
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "32",
+        "country": "Zambia",
+        "ct": "ZAM",
+        "points": 38,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zam"
+    }
+]

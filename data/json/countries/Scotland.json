@@ -1,0 +1,3001 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "50",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 1422,
+        "previousPoints": 1406,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 16
+    },
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "39",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 1448,
+        "previousPoints": 1444,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 4
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "44",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 1430,
+        "previousPoints": 1446,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -16
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "38",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 1446,
+        "previousPoints": 1446,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "52",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 1415,
+        "previousPoints": 1433,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -18
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "48",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 1433,
+        "previousPoints": 1433,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "53",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 1406,
+        "previousPoints": 1415,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -9
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "32",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 797,
+        "previousPoints": 798,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -1
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "40",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 1435,
+        "previousPoints": 1448,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -13
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "40",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 1444,
+        "previousPoints": 1444,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "40",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 1446,
+        "previousPoints": 1446,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "39",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 1834,
+        "previousPoints": 1834,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "45",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 1433,
+        "previousPoints": 1430,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 3
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "32",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 798,
+        "previousPoints": 798,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "42",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 660,
+        "previousPoints": 735,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -75
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "32",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 798,
+        "previousPoints": 821,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -23
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "34",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 735,
+        "previousPoints": 735,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "38",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 1446,
+        "previousPoints": 1435,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 11
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "31",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 798,
+        "previousPoints": 798,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "32",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 798,
+        "previousPoints": 798,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "34",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 735,
+        "previousPoints": 797,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -62
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "29",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 821,
+        "previousPoints": 702,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 119
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "43",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 702,
+        "previousPoints": 612,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 90
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "61",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 603,
+        "previousPoints": 589,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 14
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "58",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 612,
+        "previousPoints": 603,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 9
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "58",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 612,
+        "previousPoints": 612,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "67",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 524,
+        "previousPoints": 527,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -3
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "59",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 589,
+        "previousPoints": 589,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "59",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 589,
+        "previousPoints": 524,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 65
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "67",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 527,
+        "previousPoints": 524,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 3
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "67",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 524,
+        "previousPoints": 524,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "67",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 524,
+        "previousPoints": 524,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "57",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 569,
+        "previousPoints": 652,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -83
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "67",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 524,
+        "previousPoints": 569,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -45
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "44",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 652,
+        "previousPoints": 584,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 68
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "51",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 584,
+        "previousPoints": 584,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "40",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 687,
+        "previousPoints": 687,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "50",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 584,
+        "previousPoints": 659,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -75
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "45",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 617,
+        "previousPoints": 609,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 8
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "40",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 687,
+        "previousPoints": 617,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 70
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "46",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 609,
+        "previousPoints": 609,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "43",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 659,
+        "previousPoints": 687,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -28
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "52",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 609,
+        "previousPoints": 609,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "52",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 609,
+        "previousPoints": 649,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -40
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "44",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 649,
+        "previousPoints": 702,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -53
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "40",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 702,
+        "previousPoints": 789,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -87
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "31",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 789,
+        "previousPoints": 774,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 15
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "32",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 774,
+        "previousPoints": 774,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "30",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 796,
+        "previousPoints": 796,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "29",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 774,
+        "previousPoints": 818,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -44
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "39",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 727,
+        "previousPoints": 738,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -11
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "29",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 796,
+        "previousPoints": 727,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 69
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "28",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 818,
+        "previousPoints": 796,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 22
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "38",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 738,
+        "previousPoints": 729,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 9
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "36",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 729,
+        "previousPoints": 729,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "37",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 674,
+        "previousPoints": 714,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -40
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "36",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 729,
+        "previousPoints": 729,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "36",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 729,
+        "previousPoints": 674,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 55
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "29",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 714,
+        "previousPoints": 738,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -24
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "28",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 738,
+        "previousPoints": 734,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 4
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "27",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 734,
+        "previousPoints": 786,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -52
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "22",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 825,
+        "previousPoints": 825,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "27",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 786,
+        "previousPoints": 825,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -39
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "22",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 825,
+        "previousPoints": 721,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 104
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "37",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 721,
+        "previousPoints": 742,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -21
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "34",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 717,
+        "previousPoints": 717,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "34",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 742,
+        "previousPoints": 717,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 25
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "37",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 717,
+        "previousPoints": 717,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "33",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 717,
+        "previousPoints": 715,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 2
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "35",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 715,
+        "previousPoints": 551,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 164
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "63",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 551,
+        "previousPoints": 610,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -59
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "50",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 610,
+        "previousPoints": 481,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 129
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "74",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 481,
+        "previousPoints": 459,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 22
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "78",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 459,
+        "previousPoints": 459,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "50",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 610,
+        "previousPoints": 610,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "64",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 511,
+        "previousPoints": 490,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 21
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "66",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 501,
+        "previousPoints": 511,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -10
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "77",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 459,
+        "previousPoints": 501,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -42
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "69",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 490,
+        "previousPoints": 490,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "70",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 488,
+        "previousPoints": 556,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -68
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "47",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 610,
+        "previousPoints": 611,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -1
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "56",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 556,
+        "previousPoints": 610,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -54
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "72",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 490,
+        "previousPoints": 488,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 2
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "rank": "49",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 611,
+        "previousPoints": 611,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "46",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 611,
+        "previousPoints": 611,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "rank": "48",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 596,
+        "previousPoints": 596,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "rank": "41",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 611,
+        "previousPoints": 596,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 15
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "rank": "48",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 596,
+        "previousPoints": 574,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 22
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "rank": "51",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 574,
+        "previousPoints": 602,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -28
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "rank": "48",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 602,
+        "previousPoints": 599,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 3
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "rank": "48",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 599,
+        "previousPoints": 599,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2011-11-23T00:00:00",
+        "rank": "49",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 599,
+        "previousPoints": 581,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 18
+    },
+    {
+        "date": "2011-12-21T00:00:00",
+        "rank": "47",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 599,
+        "previousPoints": 599,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2011-10-19T00:00:00",
+        "rank": "51",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 581,
+        "previousPoints": 572,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 9
+    },
+    {
+        "date": "2011-09-21T00:00:00",
+        "rank": "52",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 572,
+        "previousPoints": 554,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 18
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "61",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 513,
+        "previousPoints": 513,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2011-06-29T00:00:00",
+        "rank": "61",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 513,
+        "previousPoints": 517,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -4
+    },
+    {
+        "date": "2011-05-18T00:00:00",
+        "rank": "66",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 517,
+        "previousPoints": 517,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2011-04-13T00:00:00",
+        "rank": "66",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 517,
+        "previousPoints": 551,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -34
+    },
+    {
+        "date": "2011-08-24T00:00:00",
+        "rank": "55",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 554,
+        "previousPoints": 513,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 41
+    },
+    {
+        "date": "2011-01-12T00:00:00",
+        "rank": "52",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 542,
+        "previousPoints": 542,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2011-02-02T00:00:00",
+        "rank": "53",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 542,
+        "previousPoints": 542,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2011-03-09T00:00:00",
+        "rank": "50",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 551,
+        "previousPoints": 542,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 9
+    },
+    {
+        "date": "2010-12-15T00:00:00",
+        "rank": "52",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 542,
+        "previousPoints": 537,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 5
+    },
+    {
+        "date": "2010-10-20T00:00:00",
+        "rank": "57",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 525,
+        "previousPoints": 617,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -92
+    },
+    {
+        "date": "2010-09-15T00:00:00",
+        "rank": "47",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 617,
+        "previousPoints": 699,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -82
+    },
+    {
+        "date": "2010-11-17T00:00:00",
+        "rank": "54",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 537,
+        "previousPoints": 525,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 12
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "41",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 699,
+        "previousPoints": 699,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2010-07-14T00:00:00",
+        "rank": "41",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 699,
+        "previousPoints": 699,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2010-05-26T00:00:00",
+        "rank": "43",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 699,
+        "previousPoints": 684,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 15
+    },
+    {
+        "date": "2010-04-28T00:00:00",
+        "rank": "44",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 684,
+        "previousPoints": 732,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -48
+    },
+    {
+        "date": "2010-03-31T00:00:00",
+        "rank": "41",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 732,
+        "previousPoints": 681,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 51
+    },
+    {
+        "date": "2010-02-03T00:00:00",
+        "rank": "46",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 665,
+        "previousPoints": 665,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "45",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 681,
+        "previousPoints": 665,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 16
+    },
+    {
+        "date": "2009-12-16T00:00:00",
+        "rank": "46",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 665,
+        "previousPoints": 665,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2009-11-20T00:00:00",
+        "rank": "46",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 665,
+        "previousPoints": 687,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -22
+    },
+    {
+        "date": "2009-10-16T00:00:00",
+        "rank": "46",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 687,
+        "previousPoints": 804,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -117
+    },
+    {
+        "date": "2009-09-02T00:00:00",
+        "rank": "30",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 804,
+        "previousPoints": 837,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -33
+    },
+    {
+        "date": "2009-07-01T00:00:00",
+        "rank": "24",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 837,
+        "previousPoints": 840,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -3
+    },
+    {
+        "date": "2009-08-05T00:00:00",
+        "rank": "24",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 837,
+        "previousPoints": 837,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2009-06-03T00:00:00",
+        "rank": "22",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 840,
+        "previousPoints": 815,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 25
+    },
+    {
+        "date": "2009-05-06T00:00:00",
+        "rank": "24",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 815,
+        "previousPoints": 815,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2009-04-08T00:00:00",
+        "rank": "24",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 815,
+        "previousPoints": 755,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 60
+    },
+    {
+        "date": "2009-03-11T00:00:00",
+        "rank": "28",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 755,
+        "previousPoints": 739,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 16
+    },
+    {
+        "date": "2008-12-17T00:00:00",
+        "rank": "33",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 739,
+        "previousPoints": 761,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -22
+    },
+    {
+        "date": "2009-02-11T00:00:00",
+        "rank": "32",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 739,
+        "previousPoints": 739,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2008-11-12T00:00:00",
+        "rank": "33",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 761,
+        "previousPoints": 820,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -59
+    },
+    {
+        "date": "2009-01-14T00:00:00",
+        "rank": "33",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 739,
+        "previousPoints": 739,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2008-09-03T00:00:00",
+        "rank": "16",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 976,
+        "previousPoints": 988,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -12
+    },
+    {
+        "date": "2008-10-08T00:00:00",
+        "rank": "26",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 820,
+        "previousPoints": 976,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -156
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "16",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 988,
+        "previousPoints": 988,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2008-06-04T00:00:00",
+        "rank": "17",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 978,
+        "previousPoints": 1007,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -29
+    },
+    {
+        "date": "2008-07-02T00:00:00",
+        "rank": "16",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 988,
+        "previousPoints": 978,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 10
+    },
+    {
+        "date": "2008-04-09T00:00:00",
+        "rank": "15",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 1004,
+        "previousPoints": 1020,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -16
+    },
+    {
+        "date": "2008-05-07T00:00:00",
+        "rank": "15",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 1007,
+        "previousPoints": 1004,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 3
+    },
+    {
+        "date": "2008-03-12T00:00:00",
+        "rank": "14",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 1020,
+        "previousPoints": 990,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 30
+    },
+    {
+        "date": "2008-01-16T00:00:00",
+        "rank": "14",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 990,
+        "previousPoints": 990,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2008-02-13T00:00:00",
+        "rank": "14",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 990,
+        "previousPoints": 990,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2007-11-22T00:00:00",
+        "rank": "14",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 990,
+        "previousPoints": 1049,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -59
+    },
+    {
+        "date": "2007-12-17T00:00:00",
+        "rank": "14",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 990,
+        "previousPoints": 990,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2007-10-24T00:00:00",
+        "rank": "13",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 1049,
+        "previousPoints": 1025,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 24
+    },
+    {
+        "date": "2007-09-19T00:00:00",
+        "rank": "14",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 1025,
+        "previousPoints": 913,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 112
+    },
+    {
+        "date": "2007-07-18T00:00:00",
+        "rank": "22",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 895,
+        "previousPoints": 895,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2007-06-13T00:00:00",
+        "rank": "23",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 895,
+        "previousPoints": 953,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -58
+    },
+    {
+        "date": "2007-08-22T00:00:00",
+        "rank": "23",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 913,
+        "previousPoints": 895,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 18
+    },
+    {
+        "date": "2007-04-18T00:00:00",
+        "rank": "19",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 885,
+        "previousPoints": 911,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -26
+    },
+    {
+        "date": "2007-05-16T00:00:00",
+        "rank": "14",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 953,
+        "previousPoints": 885,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 68
+    },
+    {
+        "date": "2007-03-14T00:00:00",
+        "rank": "16",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 911,
+        "previousPoints": 854,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 57
+    },
+    {
+        "date": "2007-02-14T00:00:00",
+        "rank": "20",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 854,
+        "previousPoints": 847,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 7
+    },
+    {
+        "date": "2007-01-17T00:00:00",
+        "rank": "26",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 847,
+        "previousPoints": 847,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2006-12-18T00:00:00",
+        "rank": "25",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 847,
+        "previousPoints": 847,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2006-10-18T00:00:00",
+        "rank": "25",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 810,
+        "previousPoints": 746,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 64
+    },
+    {
+        "date": "2006-11-22T00:00:00",
+        "rank": "24",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 847,
+        "previousPoints": 810,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 37
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "34",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 746,
+        "previousPoints": 677,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 69
+    },
+    {
+        "date": "2006-08-16T00:00:00",
+        "rank": "40",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 677,
+        "previousPoints": 677,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2006-07-12T00:00:00",
+        "rank": "41",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 677,
+        "previousPoints": 576,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 101
+    },
+    {
+        "date": "2006-03-15T00:00:00",
+        "rank": "62",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 567,
+        "previousPoints": 571,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -4
+    },
+    {
+        "date": "2006-05-17T00:00:00",
+        "rank": "59",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 576,
+        "previousPoints": 564,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 12
+    },
+    {
+        "date": "2006-04-19T00:00:00",
+        "rank": "62",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 564,
+        "previousPoints": 567,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -3
+    },
+    {
+        "date": "2006-02-15T00:00:00",
+        "rank": "61",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 571,
+        "previousPoints": 572,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "61",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 572,
+        "previousPoints": 570,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 2
+    },
+    {
+        "date": "2005-12-16T00:00:00",
+        "rank": "60",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 572,
+        "previousPoints": 572,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2006-01-18T00:00:00",
+        "rank": "60",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 572,
+        "previousPoints": 572,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2005-10-17T00:00:00",
+        "rank": "62",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 570,
+        "previousPoints": 542,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 28
+    },
+    {
+        "date": "2005-09-12T00:00:00",
+        "rank": "74",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 542,
+        "previousPoints": 504,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 38
+    },
+    {
+        "date": "2005-08-17T00:00:00",
+        "rank": "86",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 504,
+        "previousPoints": 507,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -3
+    },
+    {
+        "date": "2005-07-20T00:00:00",
+        "rank": "85",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 507,
+        "previousPoints": 511,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -4
+    },
+    {
+        "date": "2005-06-15T00:00:00",
+        "rank": "83",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 511,
+        "previousPoints": 506,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 5
+    },
+    {
+        "date": "2005-05-18T00:00:00",
+        "rank": "85",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 506,
+        "previousPoints": 509,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -3
+    },
+    {
+        "date": "2005-04-20T00:00:00",
+        "rank": "86",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 509,
+        "previousPoints": 509,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2004-12-20T00:00:00",
+        "rank": "86",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 515,
+        "previousPoints": 532,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -17
+    },
+    {
+        "date": "2005-03-23T00:00:00",
+        "rank": "88",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 509,
+        "previousPoints": 513,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -4
+    },
+    {
+        "date": "2005-01-19T00:00:00",
+        "rank": "86",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 515,
+        "previousPoints": 515,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2005-02-16T00:00:00",
+        "rank": "87",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 513,
+        "previousPoints": 515,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -2
+    },
+    {
+        "date": "2004-11-10T00:00:00",
+        "rank": "77",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 532,
+        "previousPoints": 540,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -8
+    },
+    {
+        "date": "2004-09-01T00:00:00",
+        "rank": "67",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 535,
+        "previousPoints": 542,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -7
+    },
+    {
+        "date": "2004-10-06T00:00:00",
+        "rank": "68",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 540,
+        "previousPoints": 535,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 5
+    },
+    {
+        "date": "2004-07-07T00:00:00",
+        "rank": "59",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 545,
+        "previousPoints": 547,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -2
+    },
+    {
+        "date": "2004-08-04T00:00:00",
+        "rank": "62",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 542,
+        "previousPoints": 545,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -3
+    },
+    {
+        "date": "2004-05-12T00:00:00",
+        "rank": "63",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 534,
+        "previousPoints": 540,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -6
+    },
+    {
+        "date": "2004-06-09T00:00:00",
+        "rank": "55",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 547,
+        "previousPoints": 534,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 13
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "56",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 548,
+        "previousPoints": 553,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -5
+    },
+    {
+        "date": "2004-04-14T00:00:00",
+        "rank": "61",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 540,
+        "previousPoints": 548,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -8
+    },
+    {
+        "date": "2004-02-18T00:00:00",
+        "rank": "53",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 553,
+        "previousPoints": 552,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 1
+    },
+    {
+        "date": "2004-01-14T00:00:00",
+        "rank": "51",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 552,
+        "previousPoints": 552,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2003-12-15T00:00:00",
+        "rank": "54",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 552,
+        "previousPoints": 556,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -4
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "50",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 556,
+        "previousPoints": 536,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 20
+    },
+    {
+        "date": "2003-10-22T00:00:00",
+        "rank": "58",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 536,
+        "previousPoints": 545,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -9
+    },
+    {
+        "date": "2003-08-27T00:00:00",
+        "rank": "59",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 537,
+        "previousPoints": 533,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 4
+    },
+    {
+        "date": "2003-09-24T00:00:00",
+        "rank": "53",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 545,
+        "previousPoints": 537,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 8
+    },
+    {
+        "date": "2003-07-30T00:00:00",
+        "rank": "60",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 533,
+        "previousPoints": 538,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -5
+    },
+    {
+        "date": "2003-06-25T00:00:00",
+        "rank": "59",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 538,
+        "previousPoints": 524,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 14
+    },
+    {
+        "date": "2003-05-21T00:00:00",
+        "rank": "64",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 524,
+        "previousPoints": 530,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -6
+    },
+    {
+        "date": "2003-04-23T00:00:00",
+        "rank": "59",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 530,
+        "previousPoints": 520,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 10
+    },
+    {
+        "date": "2003-02-19T00:00:00",
+        "rank": "61",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 525,
+        "previousPoints": 528,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -3
+    },
+    {
+        "date": "2002-12-18T00:00:00",
+        "rank": "59",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 528,
+        "previousPoints": 538,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -10
+    },
+    {
+        "date": "2003-01-15T00:00:00",
+        "rank": "60",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 528,
+        "previousPoints": 528,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2003-03-26T00:00:00",
+        "rank": "64",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 520,
+        "previousPoints": 525,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -5
+    },
+    {
+        "date": "2002-11-20T00:00:00",
+        "rank": "57",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 538,
+        "previousPoints": 544,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -6
+    },
+    {
+        "date": "2002-10-23T00:00:00",
+        "rank": "55",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 544,
+        "previousPoints": 518,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 26
+    },
+    {
+        "date": "2002-07-03T00:00:00",
+        "rank": "56",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 541,
+        "previousPoints": 557,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -16
+    },
+    {
+        "date": "2002-08-14T00:00:00",
+        "rank": "61",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 525,
+        "previousPoints": 541,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -16
+    },
+    {
+        "date": "2002-09-18T00:00:00",
+        "rank": "63",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 518,
+        "previousPoints": 525,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -7
+    },
+    {
+        "date": "2002-05-15T00:00:00",
+        "rank": "55",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 557,
+        "previousPoints": 564,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -7
+    },
+    {
+        "date": "2002-03-20T00:00:00",
+        "rank": "51",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 570,
+        "previousPoints": 575,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -5
+    },
+    {
+        "date": "2002-04-17T00:00:00",
+        "rank": "53",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 564,
+        "previousPoints": 570,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -6
+    },
+    {
+        "date": "2002-01-16T00:00:00",
+        "rank": "50",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 577,
+        "previousPoints": 577,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2001-12-19T00:00:00",
+        "rank": "50",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 577,
+        "previousPoints": 584,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -7
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "51",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 575,
+        "previousPoints": 577,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -2
+    },
+    {
+        "date": "2001-08-22T00:00:00",
+        "rank": "39",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 602,
+        "previousPoints": 606,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -4
+    },
+    {
+        "date": "2001-11-21T00:00:00",
+        "rank": "49",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 584,
+        "previousPoints": 589,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -5
+    },
+    {
+        "date": "2001-10-17T00:00:00",
+        "rank": "47",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 589,
+        "previousPoints": 586,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 3
+    },
+    {
+        "date": "2001-09-19T00:00:00",
+        "rank": "49",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 586,
+        "previousPoints": 602,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -16
+    },
+    {
+        "date": "2001-07-18T00:00:00",
+        "rank": "37",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 606,
+        "previousPoints": 611,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -5
+    },
+    {
+        "date": "2001-05-16T00:00:00",
+        "rank": "24",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 624,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -3
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "32",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 611,
+        "previousPoints": 624,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -13
+    },
+    {
+        "date": "2001-04-11T00:00:00",
+        "rank": "24",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 627,
+        "previousPoints": 606,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 21
+    },
+    {
+        "date": "2001-03-14T00:00:00",
+        "rank": "28",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 606,
+        "previousPoints": 610,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -4
+    },
+    {
+        "date": "2001-02-14T00:00:00",
+        "rank": "25",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 610,
+        "previousPoints": 612,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -2
+    },
+    {
+        "date": "2000-12-20T00:00:00",
+        "rank": "25",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 613,
+        "previousPoints": 637,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -24
+    },
+    {
+        "date": "2001-01-17T00:00:00",
+        "rank": "25",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 612,
+        "previousPoints": 613,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -1
+    },
+    {
+        "date": "2000-10-11T00:00:00",
+        "rank": "25",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 619,
+        "previousPoints": 631,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -12
+    },
+    {
+        "date": "2000-11-15T00:00:00",
+        "rank": "20",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 637,
+        "previousPoints": 619,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 18
+    },
+    {
+        "date": "2000-09-06T00:00:00",
+        "rank": "22",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 631,
+        "previousPoints": 625,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 6
+    },
+    {
+        "date": "2000-08-09T00:00:00",
+        "rank": "23",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 625,
+        "previousPoints": 629,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -4
+    },
+    {
+        "date": "2000-07-05T00:00:00",
+        "rank": "21",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 629,
+        "previousPoints": 629,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "2000-06-07T00:00:00",
+        "rank": "22",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 629,
+        "previousPoints": 622,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 7
+    },
+    {
+        "date": "2000-04-12T00:00:00",
+        "rank": "21",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 631,
+        "previousPoints": 634,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -3
+    },
+    {
+        "date": "2000-05-10T00:00:00",
+        "rank": "24",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 622,
+        "previousPoints": 631,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -9
+    },
+    {
+        "date": "2000-02-16T00:00:00",
+        "rank": "20",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 636,
+        "previousPoints": 638,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "22",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 634,
+        "previousPoints": 636,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -2
+    },
+    {
+        "date": "1999-11-17T00:00:00",
+        "rank": "23",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 617,
+        "previousPoints": 630,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -13
+    },
+    {
+        "date": "1999-12-22T00:00:00",
+        "rank": "20",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 639,
+        "previousPoints": 617,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 22
+    },
+    {
+        "date": "2000-01-19T00:00:00",
+        "rank": "20",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 638,
+        "previousPoints": 639,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -1
+    },
+    {
+        "date": "1999-10-13T00:00:00",
+        "rank": "20",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 630,
+        "previousPoints": 606,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 24
+    },
+    {
+        "date": "1999-08-18T00:00:00",
+        "rank": "32",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 588,
+        "previousPoints": 592,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -4
+    },
+    {
+        "date": "1999-09-15T00:00:00",
+        "rank": "28",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 606,
+        "previousPoints": 588,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 18
+    },
+    {
+        "date": "1999-07-21T00:00:00",
+        "rank": "31",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 592,
+        "previousPoints": 601,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -9
+    },
+    {
+        "date": "1999-06-16T00:00:00",
+        "rank": "27",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 601,
+        "previousPoints": 603,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -2
+    },
+    {
+        "date": "1999-05-19T00:00:00",
+        "rank": "21",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 603,
+        "previousPoints": 592,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 11
+    },
+    {
+        "date": "1999-04-21T00:00:00",
+        "rank": "28",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 592,
+        "previousPoints": 595,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -3
+    },
+    {
+        "date": "1999-03-24T00:00:00",
+        "rank": "26",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 595,
+        "previousPoints": 599,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -4
+    },
+    {
+        "date": "1999-01-27T00:00:00",
+        "rank": "26",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 602,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 552
+    },
+    {
+        "date": "1999-02-24T00:00:00",
+        "rank": "26",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 599,
+        "previousPoints": 602,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -3
+    },
+    {
+        "date": "1998-12-23T00:00:00",
+        "rank": "38",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 50,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "1998-11-18T00:00:00",
+        "rank": "36",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 50,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 1
+    },
+    {
+        "date": "1998-10-21T00:00:00",
+        "rank": "37",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 49,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 1
+    },
+    {
+        "date": "1998-09-16T00:00:00",
+        "rank": "39",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 48,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -1
+    },
+    {
+        "date": "1998-07-15T00:00:00",
+        "rank": "36",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 49,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 1
+    },
+    {
+        "date": "1998-08-19T00:00:00",
+        "rank": "36",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 49,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "1998-04-22T00:00:00",
+        "rank": "44",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 47,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -5
+    },
+    {
+        "date": "1998-05-20T00:00:00",
+        "rank": "41",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 48,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 1
+    },
+    {
+        "date": "1998-03-18T00:00:00",
+        "rank": "37",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "1998-02-18T00:00:00",
+        "rank": "37",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "1997-12-23T00:00:00",
+        "rank": "37",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "36",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 52,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -2
+    },
+    {
+        "date": "1997-08-20T00:00:00",
+        "rank": "26",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 53,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "1997-10-17T00:00:00",
+        "rank": "25",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 54,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "1997-07-16T00:00:00",
+        "rank": "24",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 53,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -1
+    },
+    {
+        "date": "1997-06-18T00:00:00",
+        "rank": "22",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 54,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 3
+    },
+    {
+        "date": "1997-04-09T00:00:00",
+        "rank": "24",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 51,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 3
+    },
+    {
+        "date": "1997-09-17T00:00:00",
+        "rank": "27",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 54,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 1
+    },
+    {
+        "date": "1997-05-14T00:00:00",
+        "rank": "29",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 51,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "1997-02-27T00:00:00",
+        "rank": "27",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 48,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -1
+    },
+    {
+        "date": "1996-12-18T00:00:00",
+        "rank": "29",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 49,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "1996-10-23T00:00:00",
+        "rank": "29",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 47,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 3
+    },
+    {
+        "date": "1996-11-20T00:00:00",
+        "rank": "29",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 49,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 2
+    },
+    {
+        "date": "1996-08-28T00:00:00",
+        "rank": "36",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 44,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -2
+    },
+    {
+        "date": "1996-09-25T00:00:00",
+        "rank": "39",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 44,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "1996-07-03T00:00:00",
+        "rank": "30",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 46,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "1996-04-24T00:00:00",
+        "rank": "27",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 48,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 1
+    },
+    {
+        "date": "1996-02-21T00:00:00",
+        "rank": "29",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 47,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "1996-05-22T00:00:00",
+        "rank": "31",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 46,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -2
+    },
+    {
+        "date": "1995-11-21T00:00:00",
+        "rank": "25",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 47,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "1995-10-17T00:00:00",
+        "rank": "26",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 47,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 5
+    },
+    {
+        "date": "1996-01-24T00:00:00",
+        "rank": "26",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 47,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -1
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "21",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 48,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 5
+    },
+    {
+        "date": "1995-08-22T00:00:00",
+        "rank": "23",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 48,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 1
+    },
+    {
+        "date": "1995-12-19T00:00:00",
+        "rank": "26",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 48,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 1
+    },
+    {
+        "date": "1995-09-19T00:00:00",
+        "rank": "31",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 42,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -6
+    },
+    {
+        "date": "1995-07-25T00:00:00",
+        "rank": "25",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 47,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -1
+    },
+    {
+        "date": "1994-12-20T00:00:00",
+        "rank": "32",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "1994-11-22T00:00:00",
+        "rank": "30",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 43,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -1
+    },
+    {
+        "date": "1995-04-19T00:00:00",
+        "rank": "30",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 43,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 1
+    },
+    {
+        "date": "1995-05-16T00:00:00",
+        "rank": "31",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "1995-02-20T00:00:00",
+        "rank": "30",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 42,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -1
+    },
+    {
+        "date": "1994-10-25T00:00:00",
+        "rank": "28",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 44,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 2
+    },
+    {
+        "date": "1994-07-21T00:00:00",
+        "rank": "33",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 40,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "1994-09-13T00:00:00",
+        "rank": "31",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 42,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 2
+    },
+    {
+        "date": "1994-05-17T00:00:00",
+        "rank": "26",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 44,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 2
+    },
+    {
+        "date": "1994-03-15T00:00:00",
+        "rank": "30",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 42,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -3
+    },
+    {
+        "date": "1994-06-14T00:00:00",
+        "rank": "33",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 40,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -4
+    },
+    {
+        "date": "1994-04-19T00:00:00",
+        "rank": "31",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 42,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "1993-12-23T00:00:00",
+        "rank": "24",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 45,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "1994-02-15T00:00:00",
+        "rank": "25",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 45,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 0
+    },
+    {
+        "date": "1993-11-19T00:00:00",
+        "rank": "25",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 45,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 2
+    },
+    {
+        "date": "1993-08-08T00:00:00",
+        "rank": "30",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 42,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -1
+    },
+    {
+        "date": "1993-09-23T00:00:00",
+        "rank": "28",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 44,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": 2
+    },
+    {
+        "date": "1993-10-22T00:00:00",
+        "rank": "29",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 43,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco",
+        "delta": -1
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "23",
+        "country": "Scotland",
+        "ct": "SCO",
+        "points": 43,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/sco"
+    }
+]

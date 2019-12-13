@@ -1,0 +1,3001 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "27",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 1506,
+        "previousPoints": 1495,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 11
+    },
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "23",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 1503,
+        "previousPoints": 1498,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 5
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "28",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 1491,
+        "previousPoints": 1493,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -2
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "26",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 1493,
+        "previousPoints": 1493,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "29",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 1493,
+        "previousPoints": 1496,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -3
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "29",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 1496,
+        "previousPoints": 1501,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -5
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "29",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 1495,
+        "previousPoints": 1493,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 2
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "23",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 920,
+        "previousPoints": 914,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 6
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "22",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 1515,
+        "previousPoints": 1503,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 12
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "24",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 1498,
+        "previousPoints": 1524,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -26
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "28",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 1493,
+        "previousPoints": 1493,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "38",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 1835,
+        "previousPoints": 1865,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -30
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "25",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 1501,
+        "previousPoints": 1491,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 10
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "27",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 838,
+        "previousPoints": 838,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "21",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 910,
+        "previousPoints": 1012,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -102
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "27",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 838,
+        "previousPoints": 834,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 4
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "14",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 1012,
+        "previousPoints": 1012,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "26",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 1493,
+        "previousPoints": 1515,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -22
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "23",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 914,
+        "previousPoints": 915,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -1
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "23",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 915,
+        "previousPoints": 838,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 77
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "14",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 1012,
+        "previousPoints": 920,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 92
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "28",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 834,
+        "previousPoints": 810,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 24
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "31",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 810,
+        "previousPoints": 776,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 34
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "41",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 705,
+        "previousPoints": 701,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 4
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "34",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 764,
+        "previousPoints": 705,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 59
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "34",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 776,
+        "previousPoints": 764,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 12
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "37",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 774,
+        "previousPoints": 769,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 5
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "42",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 701,
+        "previousPoints": 701,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "42",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 701,
+        "previousPoints": 774,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -73
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "36",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 769,
+        "previousPoints": 713,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 56
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "36",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 713,
+        "previousPoints": 738,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -25
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "35",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 738,
+        "previousPoints": 738,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "38",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 721,
+        "previousPoints": 662,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 59
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "34",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 738,
+        "previousPoints": 721,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 17
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "42",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 662,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 35
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "45",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 627,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "47",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 620,
+        "previousPoints": 620,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "45",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 627,
+        "previousPoints": 629,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -2
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "47",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 609,
+        "previousPoints": 603,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 6
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "47",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 620,
+        "previousPoints": 609,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 11
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "48",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 603,
+        "previousPoints": 711,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -108
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "47",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 629,
+        "previousPoints": 620,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 9
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "40",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 711,
+        "previousPoints": 711,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "40",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 711,
+        "previousPoints": 668,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 43
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "41",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 668,
+        "previousPoints": 722,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -54
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "36",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 722,
+        "previousPoints": 774,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -52
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "33",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 774,
+        "previousPoints": 768,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 6
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "34",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 768,
+        "previousPoints": 758,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 10
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "31",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 793,
+        "previousPoints": 793,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "32",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 758,
+        "previousPoints": 808,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -50
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "25",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 881,
+        "previousPoints": 860,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 21
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "30",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 793,
+        "previousPoints": 881,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -88
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "29",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 808,
+        "previousPoints": 793,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 15
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "26",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 860,
+        "previousPoints": 873,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -13
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "22",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 873,
+        "previousPoints": 867,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 6
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "31",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 780,
+        "previousPoints": 701,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 79
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "22",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 867,
+        "previousPoints": 867,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "22",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 867,
+        "previousPoints": 780,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 87
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "31",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 701,
+        "previousPoints": 617,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 84
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "42",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 617,
+        "previousPoints": 621,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -4
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "42",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 621,
+        "previousPoints": 612,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 9
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "49",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 597,
+        "previousPoints": 597,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "48",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 612,
+        "previousPoints": 597,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 15
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "49",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 597,
+        "previousPoints": 641,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -44
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "44",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 641,
+        "previousPoints": 656,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -15
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "48",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 632,
+        "previousPoints": 632,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "45",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 656,
+        "previousPoints": 689,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -33
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "44",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 689,
+        "previousPoints": 632,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 57
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "49",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 632,
+        "previousPoints": 632,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "47",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 632,
+        "previousPoints": 643,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -11
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "46",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 643,
+        "previousPoints": 596,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 47
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "47",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 627,
+        "previousPoints": 652,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -25
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "42",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 652,
+        "previousPoints": 647,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 5
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "41",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 647,
+        "previousPoints": 647,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "53",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 596,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -31
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "42",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 612,
+        "previousPoints": 570,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 42
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "44",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 619,
+        "previousPoints": 612,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 7
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "41",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 647,
+        "previousPoints": 619,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 28
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "53",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 570,
+        "previousPoints": 606,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -36
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "46",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 609,
+        "previousPoints": 620,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -11
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "41",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 625,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -2
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "45",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 620,
+        "previousPoints": 625,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -5
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "45",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 606,
+        "previousPoints": 609,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -3
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "rank": "43",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 627,
+        "previousPoints": 591,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 36
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "41",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 627,
+        "previousPoints": 627,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "rank": "56",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 563,
+        "previousPoints": 563,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "rank": "46",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 591,
+        "previousPoints": 563,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 28
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "rank": "57",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 563,
+        "previousPoints": 564,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -1
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "rank": "56",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 564,
+        "previousPoints": 573,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -9
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "rank": "56",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 573,
+        "previousPoints": 541,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 32
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "rank": "59",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 541,
+        "previousPoints": 537,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 4
+    },
+    {
+        "date": "2011-11-23T00:00:00",
+        "rank": "59",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 537,
+        "previousPoints": 541,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -4
+    },
+    {
+        "date": "2011-12-21T00:00:00",
+        "rank": "59",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 537,
+        "previousPoints": 537,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2011-10-19T00:00:00",
+        "rank": "60",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 541,
+        "previousPoints": 526,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 15
+    },
+    {
+        "date": "2011-09-21T00:00:00",
+        "rank": "61",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 526,
+        "previousPoints": 546,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -20
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "55",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 556,
+        "previousPoints": 529,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 27
+    },
+    {
+        "date": "2011-06-29T00:00:00",
+        "rank": "57",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 527,
+        "previousPoints": 527,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2011-05-18T00:00:00",
+        "rank": "61",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 527,
+        "previousPoints": 527,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2011-04-13T00:00:00",
+        "rank": "59",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 529,
+        "previousPoints": 571,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -42
+    },
+    {
+        "date": "2011-08-24T00:00:00",
+        "rank": "57",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 546,
+        "previousPoints": 556,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -10
+    },
+    {
+        "date": "2011-01-12T00:00:00",
+        "rank": "44",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 592,
+        "previousPoints": 576,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 16
+    },
+    {
+        "date": "2011-02-02T00:00:00",
+        "rank": "47",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 562,
+        "previousPoints": 594,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -32
+    },
+    {
+        "date": "2011-03-09T00:00:00",
+        "rank": "44",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 571,
+        "previousPoints": 562,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 9
+    },
+    {
+        "date": "2010-12-15T00:00:00",
+        "rank": "45",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 578,
+        "previousPoints": 600,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -22
+    },
+    {
+        "date": "2010-10-20T00:00:00",
+        "rank": "45",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 586,
+        "previousPoints": 551,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 35
+    },
+    {
+        "date": "2010-09-15T00:00:00",
+        "rank": "56",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 551,
+        "previousPoints": 519,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 32
+    },
+    {
+        "date": "2010-11-17T00:00:00",
+        "rank": "44",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 600,
+        "previousPoints": 588,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 12
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "64",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 519,
+        "previousPoints": 519,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2010-07-14T00:00:00",
+        "rank": "65",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 519,
+        "previousPoints": 574,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -55
+    },
+    {
+        "date": "2010-05-26T00:00:00",
+        "rank": "55",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 574,
+        "previousPoints": 574,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2010-04-28T00:00:00",
+        "rank": "55",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 574,
+        "previousPoints": 574,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2010-03-31T00:00:00",
+        "rank": "56",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 574,
+        "previousPoints": 587,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -13
+    },
+    {
+        "date": "2010-02-03T00:00:00",
+        "rank": "55",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 573,
+        "previousPoints": 614,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -41
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "55",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 587,
+        "previousPoints": 573,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 14
+    },
+    {
+        "date": "2009-12-16T00:00:00",
+        "rank": "53",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 614,
+        "previousPoints": 613,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 1
+    },
+    {
+        "date": "2009-11-20T00:00:00",
+        "rank": "53",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 613,
+        "previousPoints": 629,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -16
+    },
+    {
+        "date": "2009-10-16T00:00:00",
+        "rank": "54",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 629,
+        "previousPoints": 614,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 15
+    },
+    {
+        "date": "2009-09-02T00:00:00",
+        "rank": "50",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 614,
+        "previousPoints": 614,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2009-07-01T00:00:00",
+        "rank": "49",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 614,
+        "previousPoints": 597,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 17
+    },
+    {
+        "date": "2009-08-05T00:00:00",
+        "rank": "49",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 614,
+        "previousPoints": 614,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2009-06-03T00:00:00",
+        "rank": "51",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 597,
+        "previousPoints": 585,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 12
+    },
+    {
+        "date": "2009-05-06T00:00:00",
+        "rank": "52",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 585,
+        "previousPoints": 585,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2009-04-08T00:00:00",
+        "rank": "52",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 585,
+        "previousPoints": 560,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 25
+    },
+    {
+        "date": "2009-03-11T00:00:00",
+        "rank": "54",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 560,
+        "previousPoints": 568,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -8
+    },
+    {
+        "date": "2008-12-17T00:00:00",
+        "rank": "46",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 605,
+        "previousPoints": 613,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -8
+    },
+    {
+        "date": "2009-02-11T00:00:00",
+        "rank": "53",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 568,
+        "previousPoints": 615,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -47
+    },
+    {
+        "date": "2008-11-12T00:00:00",
+        "rank": "47",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 613,
+        "previousPoints": 624,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -11
+    },
+    {
+        "date": "2009-01-14T00:00:00",
+        "rank": "45",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 615,
+        "previousPoints": 605,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 10
+    },
+    {
+        "date": "2008-09-03T00:00:00",
+        "rank": "44",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 643,
+        "previousPoints": 629,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 14
+    },
+    {
+        "date": "2008-10-08T00:00:00",
+        "rank": "47",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 624,
+        "previousPoints": 643,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -19
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "47",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 629,
+        "previousPoints": 629,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2008-06-04T00:00:00",
+        "rank": "50",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 594,
+        "previousPoints": 587,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 7
+    },
+    {
+        "date": "2008-07-02T00:00:00",
+        "rank": "47",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 629,
+        "previousPoints": 594,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 35
+    },
+    {
+        "date": "2008-04-09T00:00:00",
+        "rank": "53",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 591,
+        "previousPoints": 566,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 25
+    },
+    {
+        "date": "2008-05-07T00:00:00",
+        "rank": "53",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 587,
+        "previousPoints": 591,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -4
+    },
+    {
+        "date": "2008-03-12T00:00:00",
+        "rank": "56",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 566,
+        "previousPoints": 589,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -23
+    },
+    {
+        "date": "2008-01-16T00:00:00",
+        "rank": "46",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 624,
+        "previousPoints": 639,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -15
+    },
+    {
+        "date": "2008-02-13T00:00:00",
+        "rank": "53",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 589,
+        "previousPoints": 624,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -35
+    },
+    {
+        "date": "2007-11-22T00:00:00",
+        "rank": "47",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 639,
+        "previousPoints": 668,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -29
+    },
+    {
+        "date": "2007-12-17T00:00:00",
+        "rank": "47",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 639,
+        "previousPoints": 639,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2007-10-24T00:00:00",
+        "rank": "43",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 668,
+        "previousPoints": 692,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -24
+    },
+    {
+        "date": "2007-09-19T00:00:00",
+        "rank": "37",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 692,
+        "previousPoints": 739,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -47
+    },
+    {
+        "date": "2007-07-18T00:00:00",
+        "rank": "40",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 699,
+        "previousPoints": 664,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 35
+    },
+    {
+        "date": "2007-06-13T00:00:00",
+        "rank": "45",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 664,
+        "previousPoints": 648,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 16
+    },
+    {
+        "date": "2007-08-22T00:00:00",
+        "rank": "36",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 739,
+        "previousPoints": 699,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 40
+    },
+    {
+        "date": "2007-04-18T00:00:00",
+        "rank": "44",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 655,
+        "previousPoints": 617,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 38
+    },
+    {
+        "date": "2007-05-16T00:00:00",
+        "rank": "46",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 648,
+        "previousPoints": 655,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -7
+    },
+    {
+        "date": "2007-03-14T00:00:00",
+        "rank": "46",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 617,
+        "previousPoints": 612,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 5
+    },
+    {
+        "date": "2007-02-14T00:00:00",
+        "rank": "45",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 612,
+        "previousPoints": 784,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -172
+    },
+    {
+        "date": "2007-01-17T00:00:00",
+        "rank": "32",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 784,
+        "previousPoints": 790,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -6
+    },
+    {
+        "date": "2006-12-18T00:00:00",
+        "rank": "32",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 790,
+        "previousPoints": 790,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2006-10-18T00:00:00",
+        "rank": "28",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 802,
+        "previousPoints": 780,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 22
+    },
+    {
+        "date": "2006-11-22T00:00:00",
+        "rank": "32",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 790,
+        "previousPoints": 802,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -12
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "31",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 780,
+        "previousPoints": 805,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -25
+    },
+    {
+        "date": "2006-08-16T00:00:00",
+        "rank": "30",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 805,
+        "previousPoints": 805,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2006-07-12T00:00:00",
+        "rank": "31",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 805,
+        "previousPoints": 693,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 112
+    },
+    {
+        "date": "2006-03-15T00:00:00",
+        "rank": "24",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 698,
+        "previousPoints": 701,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -3
+    },
+    {
+        "date": "2006-05-17T00:00:00",
+        "rank": "21",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 693,
+        "previousPoints": 694,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -1
+    },
+    {
+        "date": "2006-04-19T00:00:00",
+        "rank": "21",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 694,
+        "previousPoints": 698,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -4
+    },
+    {
+        "date": "2006-02-15T00:00:00",
+        "rank": "23",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 701,
+        "previousPoints": 685,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 16
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "28",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 683,
+        "previousPoints": 689,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -6
+    },
+    {
+        "date": "2005-12-16T00:00:00",
+        "rank": "28",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 685,
+        "previousPoints": 683,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 2
+    },
+    {
+        "date": "2006-01-18T00:00:00",
+        "rank": "28",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 685,
+        "previousPoints": 685,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2005-10-17T00:00:00",
+        "rank": "27",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 689,
+        "previousPoints": 687,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 2
+    },
+    {
+        "date": "2005-09-12T00:00:00",
+        "rank": "23",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 687,
+        "previousPoints": 649,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 38
+    },
+    {
+        "date": "2005-08-17T00:00:00",
+        "rank": "31",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 649,
+        "previousPoints": 649,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2005-07-20T00:00:00",
+        "rank": "32",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 649,
+        "previousPoints": 632,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 17
+    },
+    {
+        "date": "2005-06-15T00:00:00",
+        "rank": "38",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 632,
+        "previousPoints": 616,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 16
+    },
+    {
+        "date": "2005-05-18T00:00:00",
+        "rank": "40",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 616,
+        "previousPoints": 622,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -6
+    },
+    {
+        "date": "2005-04-20T00:00:00",
+        "rank": "39",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 622,
+        "previousPoints": 625,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -3
+    },
+    {
+        "date": "2004-12-20T00:00:00",
+        "rank": "35",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 633,
+        "previousPoints": 631,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 2
+    },
+    {
+        "date": "2005-03-23T00:00:00",
+        "rank": "38",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 625,
+        "previousPoints": 630,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -5
+    },
+    {
+        "date": "2005-01-19T00:00:00",
+        "rank": "35",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 633,
+        "previousPoints": 633,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2005-02-16T00:00:00",
+        "rank": "36",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 630,
+        "previousPoints": 633,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -3
+    },
+    {
+        "date": "2004-11-10T00:00:00",
+        "rank": "36",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 631,
+        "previousPoints": 630,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 1
+    },
+    {
+        "date": "2004-09-01T00:00:00",
+        "rank": "36",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 631,
+        "previousPoints": 633,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -2
+    },
+    {
+        "date": "2004-10-06T00:00:00",
+        "rank": "36",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 630,
+        "previousPoints": 631,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -1
+    },
+    {
+        "date": "2004-07-07T00:00:00",
+        "rank": "35",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 634,
+        "previousPoints": 639,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -5
+    },
+    {
+        "date": "2004-08-04T00:00:00",
+        "rank": "36",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 633,
+        "previousPoints": 634,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -1
+    },
+    {
+        "date": "2004-05-12T00:00:00",
+        "rank": "33",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 639,
+        "previousPoints": 640,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -1
+    },
+    {
+        "date": "2004-06-09T00:00:00",
+        "rank": "33",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 639,
+        "previousPoints": 639,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "32",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 645,
+        "previousPoints": 646,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -1
+    },
+    {
+        "date": "2004-04-14T00:00:00",
+        "rank": "34",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 640,
+        "previousPoints": 645,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -5
+    },
+    {
+        "date": "2004-02-18T00:00:00",
+        "rank": "31",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 646,
+        "previousPoints": 580,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 66
+    },
+    {
+        "date": "2004-01-14T00:00:00",
+        "rank": "45",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 580,
+        "previousPoints": 580,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2003-12-15T00:00:00",
+        "rank": "45",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 580,
+        "previousPoints": 572,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 8
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "46",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 572,
+        "previousPoints": 576,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -4
+    },
+    {
+        "date": "2003-10-22T00:00:00",
+        "rank": "45",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 576,
+        "previousPoints": 588,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -12
+    },
+    {
+        "date": "2003-08-27T00:00:00",
+        "rank": "44",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 582,
+        "previousPoints": 590,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -8
+    },
+    {
+        "date": "2003-09-24T00:00:00",
+        "rank": "42",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 588,
+        "previousPoints": 582,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 6
+    },
+    {
+        "date": "2003-07-30T00:00:00",
+        "rank": "44",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 590,
+        "previousPoints": 596,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -6
+    },
+    {
+        "date": "2003-06-25T00:00:00",
+        "rank": "42",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 596,
+        "previousPoints": 596,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2003-05-21T00:00:00",
+        "rank": "40",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 596,
+        "previousPoints": 593,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 3
+    },
+    {
+        "date": "2003-04-23T00:00:00",
+        "rank": "41",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 593,
+        "previousPoints": 579,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 14
+    },
+    {
+        "date": "2003-02-19T00:00:00",
+        "rank": "42",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 586,
+        "previousPoints": 586,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2002-12-18T00:00:00",
+        "rank": "41",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 586,
+        "previousPoints": 597,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -11
+    },
+    {
+        "date": "2003-01-15T00:00:00",
+        "rank": "41",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 586,
+        "previousPoints": 586,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2003-03-26T00:00:00",
+        "rank": "44",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 579,
+        "previousPoints": 586,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -7
+    },
+    {
+        "date": "2002-11-20T00:00:00",
+        "rank": "39",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 597,
+        "previousPoints": 605,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -8
+    },
+    {
+        "date": "2002-10-23T00:00:00",
+        "rank": "39",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 605,
+        "previousPoints": 609,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -4
+    },
+    {
+        "date": "2002-07-03T00:00:00",
+        "rank": "36",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 626,
+        "previousPoints": 635,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -9
+    },
+    {
+        "date": "2002-08-14T00:00:00",
+        "rank": "39",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 615,
+        "previousPoints": 626,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -11
+    },
+    {
+        "date": "2002-09-18T00:00:00",
+        "rank": "39",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 609,
+        "previousPoints": 615,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -6
+    },
+    {
+        "date": "2002-05-15T00:00:00",
+        "rank": "31",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 635,
+        "previousPoints": 640,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -5
+    },
+    {
+        "date": "2002-03-20T00:00:00",
+        "rank": "29",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 643,
+        "previousPoints": 647,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -4
+    },
+    {
+        "date": "2002-04-17T00:00:00",
+        "rank": "30",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 640,
+        "previousPoints": 643,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -3
+    },
+    {
+        "date": "2002-01-16T00:00:00",
+        "rank": "28",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 649,
+        "previousPoints": 648,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 1
+    },
+    {
+        "date": "2001-12-19T00:00:00",
+        "rank": "28",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 648,
+        "previousPoints": 647,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "29",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 647,
+        "previousPoints": 649,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -2
+    },
+    {
+        "date": "2001-08-22T00:00:00",
+        "rank": "22",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 646,
+        "previousPoints": 647,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -1
+    },
+    {
+        "date": "2001-11-21T00:00:00",
+        "rank": "28",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 647,
+        "previousPoints": 643,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 4
+    },
+    {
+        "date": "2001-10-17T00:00:00",
+        "rank": "25",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 643,
+        "previousPoints": 645,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -2
+    },
+    {
+        "date": "2001-09-19T00:00:00",
+        "rank": "25",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 645,
+        "previousPoints": 646,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -1
+    },
+    {
+        "date": "2001-07-18T00:00:00",
+        "rank": "22",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 647,
+        "previousPoints": 617,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 30
+    },
+    {
+        "date": "2001-05-16T00:00:00",
+        "rank": "31",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 611,
+        "previousPoints": 607,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 4
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "29",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 617,
+        "previousPoints": 611,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 6
+    },
+    {
+        "date": "2001-04-11T00:00:00",
+        "rank": "32",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 607,
+        "previousPoints": 612,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -5
+    },
+    {
+        "date": "2001-03-14T00:00:00",
+        "rank": "27",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 612,
+        "previousPoints": 609,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 3
+    },
+    {
+        "date": "2001-02-14T00:00:00",
+        "rank": "26",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 609,
+        "previousPoints": 611,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -2
+    },
+    {
+        "date": "2000-12-20T00:00:00",
+        "rank": "26",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 611,
+        "previousPoints": 613,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -2
+    },
+    {
+        "date": "2001-01-17T00:00:00",
+        "rank": "26",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 611,
+        "previousPoints": 611,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "2000-10-11T00:00:00",
+        "rank": "27",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 610,
+        "previousPoints": 605,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 5
+    },
+    {
+        "date": "2000-11-15T00:00:00",
+        "rank": "25",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 613,
+        "previousPoints": 610,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 3
+    },
+    {
+        "date": "2000-09-06T00:00:00",
+        "rank": "27",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 605,
+        "previousPoints": 606,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -1
+    },
+    {
+        "date": "2000-08-09T00:00:00",
+        "rank": "26",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 606,
+        "previousPoints": 605,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 1
+    },
+    {
+        "date": "2000-07-05T00:00:00",
+        "rank": "27",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 605,
+        "previousPoints": 603,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 2
+    },
+    {
+        "date": "2000-06-07T00:00:00",
+        "rank": "27",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 603,
+        "previousPoints": 606,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -3
+    },
+    {
+        "date": "2000-04-12T00:00:00",
+        "rank": "27",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 605,
+        "previousPoints": 606,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -1
+    },
+    {
+        "date": "2000-05-10T00:00:00",
+        "rank": "27",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 606,
+        "previousPoints": 605,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 1
+    },
+    {
+        "date": "2000-02-16T00:00:00",
+        "rank": "27",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 611,
+        "previousPoints": 604,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 7
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "27",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 606,
+        "previousPoints": 611,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -5
+    },
+    {
+        "date": "1999-11-17T00:00:00",
+        "rank": "29",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 597,
+        "previousPoints": 584,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 13
+    },
+    {
+        "date": "1999-12-22T00:00:00",
+        "rank": "31",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 596,
+        "previousPoints": 597,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -1
+    },
+    {
+        "date": "2000-01-19T00:00:00",
+        "rank": "28",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 604,
+        "previousPoints": 596,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 8
+    },
+    {
+        "date": "1999-10-13T00:00:00",
+        "rank": "33",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 584,
+        "previousPoints": 593,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -9
+    },
+    {
+        "date": "1999-08-18T00:00:00",
+        "rank": "29",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 594,
+        "previousPoints": 596,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -2
+    },
+    {
+        "date": "1999-09-15T00:00:00",
+        "rank": "30",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 593,
+        "previousPoints": 594,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -1
+    },
+    {
+        "date": "1999-07-21T00:00:00",
+        "rank": "28",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 596,
+        "previousPoints": 605,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -9
+    },
+    {
+        "date": "1999-06-16T00:00:00",
+        "rank": "26",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 605,
+        "previousPoints": 591,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 14
+    },
+    {
+        "date": "1999-05-19T00:00:00",
+        "rank": "28",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 591,
+        "previousPoints": 591,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "1999-04-21T00:00:00",
+        "rank": "29",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 591,
+        "previousPoints": 585,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 6
+    },
+    {
+        "date": "1999-03-24T00:00:00",
+        "rank": "29",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 585,
+        "previousPoints": 586,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -1
+    },
+    {
+        "date": "1999-01-27T00:00:00",
+        "rank": "28",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 592,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 537
+    },
+    {
+        "date": "1999-02-24T00:00:00",
+        "rank": "29",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 586,
+        "previousPoints": 592,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -6
+    },
+    {
+        "date": "1998-12-23T00:00:00",
+        "rank": "21",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 55,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "1998-11-18T00:00:00",
+        "rank": "20",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 55,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 1
+    },
+    {
+        "date": "1998-10-21T00:00:00",
+        "rank": "26",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 54,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 1
+    },
+    {
+        "date": "1998-09-16T00:00:00",
+        "rank": "26",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 53,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -1
+    },
+    {
+        "date": "1998-07-15T00:00:00",
+        "rank": "25",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 55,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "1998-08-19T00:00:00",
+        "rank": "26",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 54,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -1
+    },
+    {
+        "date": "1998-04-22T00:00:00",
+        "rank": "26",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 56,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "1998-05-20T00:00:00",
+        "rank": "21",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 55,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -1
+    },
+    {
+        "date": "1998-03-18T00:00:00",
+        "rank": "22",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 56,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "1998-02-18T00:00:00",
+        "rank": "19",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 56,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "1997-12-23T00:00:00",
+        "rank": "23",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 56,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "23",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 56,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 1
+    },
+    {
+        "date": "1997-08-20T00:00:00",
+        "rank": "21",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 54,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 2
+    },
+    {
+        "date": "1997-10-17T00:00:00",
+        "rank": "24",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 55,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -1
+    },
+    {
+        "date": "1997-07-16T00:00:00",
+        "rank": "28",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 52,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 1
+    },
+    {
+        "date": "1997-06-18T00:00:00",
+        "rank": "28",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 51,
+        "previousPoints": 53,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -2
+    },
+    {
+        "date": "1997-04-09T00:00:00",
+        "rank": "29",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 50,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "1997-09-17T00:00:00",
+        "rank": "20",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 56,
+        "previousPoints": 54,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 2
+    },
+    {
+        "date": "1997-05-14T00:00:00",
+        "rank": "24",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 53,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 3
+    },
+    {
+        "date": "1997-02-27T00:00:00",
+        "rank": "26",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 50,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -2
+    },
+    {
+        "date": "1996-12-18T00:00:00",
+        "rank": "23",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 52,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "1996-10-23T00:00:00",
+        "rank": "24",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 51,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "1996-11-20T00:00:00",
+        "rank": "23",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 52,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 1
+    },
+    {
+        "date": "1996-08-28T00:00:00",
+        "rank": "22",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 51,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "1996-09-25T00:00:00",
+        "rank": "24",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 51,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "1996-07-03T00:00:00",
+        "rank": "21",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 51,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 1
+    },
+    {
+        "date": "1996-04-24T00:00:00",
+        "rank": "22",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 50,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "1996-02-21T00:00:00",
+        "rank": "25",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 50,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 4
+    },
+    {
+        "date": "1996-05-22T00:00:00",
+        "rank": "22",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 50,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "1995-11-21T00:00:00",
+        "rank": "22",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 48,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 1
+    },
+    {
+        "date": "1995-10-17T00:00:00",
+        "rank": "25",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 47,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 4
+    },
+    {
+        "date": "1996-01-24T00:00:00",
+        "rank": "31",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 46,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -2
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "24",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 47,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 1
+    },
+    {
+        "date": "1995-08-22T00:00:00",
+        "rank": "25",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 48,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -1
+    },
+    {
+        "date": "1995-12-19T00:00:00",
+        "rank": "22",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 48,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "1995-09-19T00:00:00",
+        "rank": "27",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 43,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -5
+    },
+    {
+        "date": "1995-07-25T00:00:00",
+        "rank": "21",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 49,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 2
+    },
+    {
+        "date": "1994-12-20T00:00:00",
+        "rank": "30",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 44,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "1994-11-22T00:00:00",
+        "rank": "29",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 44,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 1
+    },
+    {
+        "date": "1995-04-19T00:00:00",
+        "rank": "24",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 46,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -1
+    },
+    {
+        "date": "1995-05-16T00:00:00",
+        "rank": "25",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 46,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "1995-02-20T00:00:00",
+        "rank": "24",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 47,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 3
+    },
+    {
+        "date": "1994-10-25T00:00:00",
+        "rank": "30",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "1994-07-21T00:00:00",
+        "rank": "31",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 42,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "1994-09-13T00:00:00",
+        "rank": "27",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 43,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 1
+    },
+    {
+        "date": "1994-05-17T00:00:00",
+        "rank": "31",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 42,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -1
+    },
+    {
+        "date": "1994-03-15T00:00:00",
+        "rank": "32",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 41,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "1994-06-14T00:00:00",
+        "rank": "30",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 42,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "1994-04-19T00:00:00",
+        "rank": "30",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 43,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 2
+    },
+    {
+        "date": "1993-12-23T00:00:00",
+        "rank": "32",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 43,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 3
+    },
+    {
+        "date": "1994-02-15T00:00:00",
+        "rank": "33",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 41,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -2
+    },
+    {
+        "date": "1993-11-19T00:00:00",
+        "rank": "36",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 40,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 0
+    },
+    {
+        "date": "1993-08-08T00:00:00",
+        "rank": "31",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 40,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 5
+    },
+    {
+        "date": "1993-09-23T00:00:00",
+        "rank": "34",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 41,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": 1
+    },
+    {
+        "date": "1993-10-22T00:00:00",
+        "rank": "35",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 40,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun",
+        "delta": -1
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "38",
+        "country": "Tunisia",
+        "ct": "TUN",
+        "points": 35,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tun"
+    }
+]

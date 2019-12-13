@@ -1,0 +1,3001 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "162",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 1011,
+        "previousPoints": 1001,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 10
+    },
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "162",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 1003,
+        "previousPoints": 1005,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -2
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "161",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 996,
+        "previousPoints": 998,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -2
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "162",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 998,
+        "previousPoints": 1005,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -7
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "170",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 981,
+        "previousPoints": 996,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -15
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "163",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 996,
+        "previousPoints": 996,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "160",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 1001,
+        "previousPoints": 981,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 20
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "152",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 151,
+        "previousPoints": 148,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 3
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "162",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 1000,
+        "previousPoints": 1003,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -3
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "160",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 1005,
+        "previousPoints": 1008,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -3
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "162",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 998,
+        "previousPoints": 998,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "162",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 1059,
+        "previousPoints": 1059,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "164",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 996,
+        "previousPoints": 996,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "155",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 144,
+        "previousPoints": 144,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "160",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 127,
+        "previousPoints": 129,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -2
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "154",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 144,
+        "previousPoints": 128,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 16
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "158",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 129,
+        "previousPoints": 118,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 11
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "159",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 1005,
+        "previousPoints": 1000,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 5
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "153",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 148,
+        "previousPoints": 144,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 4
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "155",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 144,
+        "previousPoints": 144,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "160",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 118,
+        "previousPoints": 151,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -33
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "160",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 128,
+        "previousPoints": 115,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 13
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "170",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 115,
+        "previousPoints": 118,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -3
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "169",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 116,
+        "previousPoints": 110,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 6
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "181",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 84,
+        "previousPoints": 116,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -32
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "168",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 118,
+        "previousPoints": 84,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 34
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "154",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 174,
+        "previousPoints": 170,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 4
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "173",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 110,
+        "previousPoints": 110,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "172",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 110,
+        "previousPoints": 174,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -64
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "156",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 170,
+        "previousPoints": 163,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 7
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "155",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 163,
+        "previousPoints": 163,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "155",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 163,
+        "previousPoints": 163,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "157",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 163,
+        "previousPoints": 171,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -8
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "155",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 163,
+        "previousPoints": 163,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "157",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 171,
+        "previousPoints": 182,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -11
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "156",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 182,
+        "previousPoints": 182,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "144",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 231,
+        "previousPoints": 231,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "156",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 182,
+        "previousPoints": 245,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -63
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "143",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 227,
+        "previousPoints": 227,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "143",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 231,
+        "previousPoints": 227,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 4
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "143",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 227,
+        "previousPoints": 214,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 13
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "140",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 245,
+        "previousPoints": 231,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 14
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "145",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 214,
+        "previousPoints": 214,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "145",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 214,
+        "previousPoints": 206,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 8
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "142",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 206,
+        "previousPoints": 175,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 31
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "154",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 175,
+        "previousPoints": 186,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -11
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "144",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 186,
+        "previousPoints": 198,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -12
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "138",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 198,
+        "previousPoints": 198,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "130",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 215,
+        "previousPoints": 215,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "141",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 198,
+        "previousPoints": 196,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 2
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "131",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 218,
+        "previousPoints": 191,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 27
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "130",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 215,
+        "previousPoints": 218,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -3
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "132",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 196,
+        "previousPoints": 215,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -19
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "142",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 191,
+        "previousPoints": 183,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 8
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "143",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 183,
+        "previousPoints": 183,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "146",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 172,
+        "previousPoints": 112,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 60
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "144",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 183,
+        "previousPoints": 183,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "143",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 183,
+        "previousPoints": 172,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 11
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "161",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 112,
+        "previousPoints": 92,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 20
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "169",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 92,
+        "previousPoints": 92,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "169",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 92,
+        "previousPoints": 92,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "161",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 101,
+        "previousPoints": 101,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "170",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 92,
+        "previousPoints": 101,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -9
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "162",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 101,
+        "previousPoints": 101,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "161",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 101,
+        "previousPoints": 101,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "166",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 101,
+        "previousPoints": 101,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "168",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 101,
+        "previousPoints": 101,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "166",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 101,
+        "previousPoints": 101,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "168",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 101,
+        "previousPoints": 82,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 19
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "173",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 82,
+        "previousPoints": 157,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -75
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "151",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 157,
+        "previousPoints": 175,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -18
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "147",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 175,
+        "previousPoints": 175,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "149",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 175,
+        "previousPoints": 188,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -13
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "146",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 188,
+        "previousPoints": 188,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "146",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 175,
+        "previousPoints": 175,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "144",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 188,
+        "previousPoints": 197,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -9
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "142",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 188,
+        "previousPoints": 188,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "145",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 188,
+        "previousPoints": 188,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "143",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 197,
+        "previousPoints": 197,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "153",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 158,
+        "previousPoints": 158,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "175",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 81,
+        "previousPoints": 100,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -19
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "152",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 158,
+        "previousPoints": 81,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 77
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "143",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 197,
+        "previousPoints": 158,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 39
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "rank": "170",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 100,
+        "previousPoints": 87,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 13
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "171",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 100,
+        "previousPoints": 100,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "rank": "171",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 106,
+        "previousPoints": 106,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "rank": "178",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 87,
+        "previousPoints": 106,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -19
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "rank": "171",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 106,
+        "previousPoints": 107,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -1
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "rank": "170",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 107,
+        "previousPoints": 107,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "rank": "169",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 107,
+        "previousPoints": 119,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -12
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "rank": "165",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 119,
+        "previousPoints": 119,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2011-11-23T00:00:00",
+        "rank": "161",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 125,
+        "previousPoints": 164,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -39
+    },
+    {
+        "date": "2011-12-21T00:00:00",
+        "rank": "165",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 119,
+        "previousPoints": 125,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -6
+    },
+    {
+        "date": "2011-10-19T00:00:00",
+        "rank": "148",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 164,
+        "previousPoints": 148,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 16
+    },
+    {
+        "date": "2011-09-21T00:00:00",
+        "rank": "150",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 148,
+        "previousPoints": 156,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -8
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "145",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 156,
+        "previousPoints": 156,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2011-06-29T00:00:00",
+        "rank": "141",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 156,
+        "previousPoints": 180,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -24
+    },
+    {
+        "date": "2011-05-18T00:00:00",
+        "rank": "132",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 180,
+        "previousPoints": 182,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -2
+    },
+    {
+        "date": "2011-04-13T00:00:00",
+        "rank": "132",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 182,
+        "previousPoints": 167,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 15
+    },
+    {
+        "date": "2011-08-24T00:00:00",
+        "rank": "147",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 156,
+        "previousPoints": 156,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2011-01-12T00:00:00",
+        "rank": "130",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 187,
+        "previousPoints": 187,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2011-02-02T00:00:00",
+        "rank": "132",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 183,
+        "previousPoints": 187,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -4
+    },
+    {
+        "date": "2011-03-09T00:00:00",
+        "rank": "137",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 167,
+        "previousPoints": 183,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -16
+    },
+    {
+        "date": "2010-12-15T00:00:00",
+        "rank": "131",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 187,
+        "previousPoints": 235,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -48
+    },
+    {
+        "date": "2010-10-20T00:00:00",
+        "rank": "107",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 287,
+        "previousPoints": 180,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 107
+    },
+    {
+        "date": "2010-09-15T00:00:00",
+        "rank": "121",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 180,
+        "previousPoints": 174,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 6
+    },
+    {
+        "date": "2010-11-17T00:00:00",
+        "rank": "120",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 235,
+        "previousPoints": 287,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -52
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "127",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 174,
+        "previousPoints": 174,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2010-07-14T00:00:00",
+        "rank": "128",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 174,
+        "previousPoints": 155,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 19
+    },
+    {
+        "date": "2010-05-26T00:00:00",
+        "rank": "135",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 155,
+        "previousPoints": 157,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -2
+    },
+    {
+        "date": "2010-04-28T00:00:00",
+        "rank": "135",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 157,
+        "previousPoints": 157,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2010-03-31T00:00:00",
+        "rank": "137",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 157,
+        "previousPoints": 136,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 21
+    },
+    {
+        "date": "2010-02-03T00:00:00",
+        "rank": "128",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 171,
+        "previousPoints": 181,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -10
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "141",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 136,
+        "previousPoints": 171,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -35
+    },
+    {
+        "date": "2009-12-16T00:00:00",
+        "rank": "129",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 181,
+        "previousPoints": 238,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -57
+    },
+    {
+        "date": "2009-11-20T00:00:00",
+        "rank": "115",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 238,
+        "previousPoints": 355,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -117
+    },
+    {
+        "date": "2009-10-16T00:00:00",
+        "rank": "92",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 355,
+        "previousPoints": 325,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 30
+    },
+    {
+        "date": "2009-09-02T00:00:00",
+        "rank": "103",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 325,
+        "previousPoints": 320,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 5
+    },
+    {
+        "date": "2009-07-01T00:00:00",
+        "rank": "107",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 320,
+        "previousPoints": 277,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 43
+    },
+    {
+        "date": "2009-08-05T00:00:00",
+        "rank": "106",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 320,
+        "previousPoints": 320,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2009-06-03T00:00:00",
+        "rank": "120",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 277,
+        "previousPoints": 278,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -1
+    },
+    {
+        "date": "2009-05-06T00:00:00",
+        "rank": "120",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 278,
+        "previousPoints": 278,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2009-04-08T00:00:00",
+        "rank": "123",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 278,
+        "previousPoints": 245,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 33
+    },
+    {
+        "date": "2009-03-11T00:00:00",
+        "rank": "129",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 245,
+        "previousPoints": 242,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 3
+    },
+    {
+        "date": "2008-12-17T00:00:00",
+        "rank": "122",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 258,
+        "previousPoints": 361,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -103
+    },
+    {
+        "date": "2009-02-11T00:00:00",
+        "rank": "128",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 242,
+        "previousPoints": 248,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -6
+    },
+    {
+        "date": "2008-11-12T00:00:00",
+        "rank": "100",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 361,
+        "previousPoints": 300,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 61
+    },
+    {
+        "date": "2009-01-14T00:00:00",
+        "rank": "125",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 248,
+        "previousPoints": 258,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -10
+    },
+    {
+        "date": "2008-09-03T00:00:00",
+        "rank": "134",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 202,
+        "previousPoints": 193,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 9
+    },
+    {
+        "date": "2008-10-08T00:00:00",
+        "rank": "114",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 300,
+        "previousPoints": 202,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 98
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "134",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 193,
+        "previousPoints": 193,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2008-06-04T00:00:00",
+        "rank": "121",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 239,
+        "previousPoints": 264,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -25
+    },
+    {
+        "date": "2008-07-02T00:00:00",
+        "rank": "137",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 193,
+        "previousPoints": 239,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -46
+    },
+    {
+        "date": "2008-04-09T00:00:00",
+        "rank": "116",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 264,
+        "previousPoints": 187,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 77
+    },
+    {
+        "date": "2008-05-07T00:00:00",
+        "rank": "117",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 264,
+        "previousPoints": 264,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2008-03-12T00:00:00",
+        "rank": "137",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 187,
+        "previousPoints": 194,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -7
+    },
+    {
+        "date": "2008-01-16T00:00:00",
+        "rank": "142",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 159,
+        "previousPoints": 221,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -62
+    },
+    {
+        "date": "2008-02-13T00:00:00",
+        "rank": "133",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 194,
+        "previousPoints": 159,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 35
+    },
+    {
+        "date": "2007-11-22T00:00:00",
+        "rank": "123",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 258,
+        "previousPoints": 359,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -101
+    },
+    {
+        "date": "2007-12-17T00:00:00",
+        "rank": "128",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 221,
+        "previousPoints": 258,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -37
+    },
+    {
+        "date": "2007-10-24T00:00:00",
+        "rank": "93",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 359,
+        "previousPoints": 308,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 51
+    },
+    {
+        "date": "2007-09-19T00:00:00",
+        "rank": "109",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 308,
+        "previousPoints": 245,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 63
+    },
+    {
+        "date": "2007-07-18T00:00:00",
+        "rank": "118",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 245,
+        "previousPoints": 244,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 1
+    },
+    {
+        "date": "2007-06-13T00:00:00",
+        "rank": "116",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 244,
+        "previousPoints": 245,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -1
+    },
+    {
+        "date": "2007-08-22T00:00:00",
+        "rank": "119",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 245,
+        "previousPoints": 245,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2007-04-18T00:00:00",
+        "rank": "113",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 245,
+        "previousPoints": 252,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -7
+    },
+    {
+        "date": "2007-05-16T00:00:00",
+        "rank": "113",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 245,
+        "previousPoints": 245,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2007-03-14T00:00:00",
+        "rank": "109",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 252,
+        "previousPoints": 259,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -7
+    },
+    {
+        "date": "2007-02-14T00:00:00",
+        "rank": "108",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 259,
+        "previousPoints": 309,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -50
+    },
+    {
+        "date": "2007-01-17T00:00:00",
+        "rank": "99",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 309,
+        "previousPoints": 314,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -5
+    },
+    {
+        "date": "2006-12-18T00:00:00",
+        "rank": "98",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 314,
+        "previousPoints": 237,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 77
+    },
+    {
+        "date": "2006-10-18T00:00:00",
+        "rank": "100",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 288,
+        "previousPoints": 102,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 186
+    },
+    {
+        "date": "2006-11-22T00:00:00",
+        "rank": "109",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 237,
+        "previousPoints": 288,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -51
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "152",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 102,
+        "previousPoints": 102,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2006-08-16T00:00:00",
+        "rank": "150",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 102,
+        "previousPoints": 94,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 8
+    },
+    {
+        "date": "2006-07-12T00:00:00",
+        "rank": "152",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 94,
+        "previousPoints": 372,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -278
+    },
+    {
+        "date": "2006-03-15T00:00:00",
+        "rank": "117",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 382,
+        "previousPoints": 385,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -3
+    },
+    {
+        "date": "2006-05-17T00:00:00",
+        "rank": "119",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 372,
+        "previousPoints": 377,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -5
+    },
+    {
+        "date": "2006-04-19T00:00:00",
+        "rank": "118",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 377,
+        "previousPoints": 382,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -5
+    },
+    {
+        "date": "2006-02-15T00:00:00",
+        "rank": "115",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 385,
+        "previousPoints": 386,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "119",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 387,
+        "previousPoints": 388,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -1
+    },
+    {
+        "date": "2005-12-16T00:00:00",
+        "rank": "115",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 386,
+        "previousPoints": 387,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -1
+    },
+    {
+        "date": "2006-01-18T00:00:00",
+        "rank": "115",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 386,
+        "previousPoints": 386,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2005-10-17T00:00:00",
+        "rank": "119",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 388,
+        "previousPoints": 389,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -1
+    },
+    {
+        "date": "2005-09-12T00:00:00",
+        "rank": "121",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 389,
+        "previousPoints": 390,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -1
+    },
+    {
+        "date": "2005-08-17T00:00:00",
+        "rank": "120",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 390,
+        "previousPoints": 390,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2005-07-20T00:00:00",
+        "rank": "120",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 390,
+        "previousPoints": 391,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -1
+    },
+    {
+        "date": "2005-06-15T00:00:00",
+        "rank": "122",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 391,
+        "previousPoints": 392,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -1
+    },
+    {
+        "date": "2005-05-18T00:00:00",
+        "rank": "122",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 392,
+        "previousPoints": 392,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2005-04-20T00:00:00",
+        "rank": "122",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 392,
+        "previousPoints": 392,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2004-12-20T00:00:00",
+        "rank": "121",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 393,
+        "previousPoints": 403,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -10
+    },
+    {
+        "date": "2005-03-23T00:00:00",
+        "rank": "121",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 392,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -4
+    },
+    {
+        "date": "2005-01-19T00:00:00",
+        "rank": "121",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 392,
+        "previousPoints": 393,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -1
+    },
+    {
+        "date": "2005-02-16T00:00:00",
+        "rank": "121",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 396,
+        "previousPoints": 392,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 4
+    },
+    {
+        "date": "2004-11-10T00:00:00",
+        "rank": "119",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 403,
+        "previousPoints": 405,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -2
+    },
+    {
+        "date": "2004-09-01T00:00:00",
+        "rank": "117",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 407,
+        "previousPoints": 409,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -2
+    },
+    {
+        "date": "2004-10-06T00:00:00",
+        "rank": "118",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 405,
+        "previousPoints": 407,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -2
+    },
+    {
+        "date": "2004-07-07T00:00:00",
+        "rank": "116",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 411,
+        "previousPoints": 416,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -5
+    },
+    {
+        "date": "2004-08-04T00:00:00",
+        "rank": "115",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 409,
+        "previousPoints": 411,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -2
+    },
+    {
+        "date": "2004-05-12T00:00:00",
+        "rank": "111",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 415,
+        "previousPoints": 417,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -2
+    },
+    {
+        "date": "2004-06-09T00:00:00",
+        "rank": "113",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 416,
+        "previousPoints": 415,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "113",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 409,
+        "previousPoints": 411,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -2
+    },
+    {
+        "date": "2004-04-14T00:00:00",
+        "rank": "111",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 417,
+        "previousPoints": 409,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 8
+    },
+    {
+        "date": "2004-02-18T00:00:00",
+        "rank": "111",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 411,
+        "previousPoints": 410,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 1
+    },
+    {
+        "date": "2004-01-14T00:00:00",
+        "rank": "111",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 410,
+        "previousPoints": 377,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 33
+    },
+    {
+        "date": "2003-12-15T00:00:00",
+        "rank": "124",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 377,
+        "previousPoints": 386,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -9
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "120",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 386,
+        "previousPoints": 418,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -32
+    },
+    {
+        "date": "2003-10-22T00:00:00",
+        "rank": "107",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 418,
+        "previousPoints": 433,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -15
+    },
+    {
+        "date": "2003-08-27T00:00:00",
+        "rank": "95",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 435,
+        "previousPoints": 437,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -2
+    },
+    {
+        "date": "2003-09-24T00:00:00",
+        "rank": "95",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 433,
+        "previousPoints": 435,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -2
+    },
+    {
+        "date": "2003-07-30T00:00:00",
+        "rank": "95",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 437,
+        "previousPoints": 442,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -5
+    },
+    {
+        "date": "2003-06-25T00:00:00",
+        "rank": "94",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 442,
+        "previousPoints": 444,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -2
+    },
+    {
+        "date": "2003-05-21T00:00:00",
+        "rank": "94",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 444,
+        "previousPoints": 445,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -1
+    },
+    {
+        "date": "2003-04-23T00:00:00",
+        "rank": "95",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 445,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -4
+    },
+    {
+        "date": "2003-02-19T00:00:00",
+        "rank": "93",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 449,
+        "previousPoints": 423,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 26
+    },
+    {
+        "date": "2002-12-18T00:00:00",
+        "rank": "99",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 419,
+        "previousPoints": 419,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2003-01-15T00:00:00",
+        "rank": "101",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 423,
+        "previousPoints": 419,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 4
+    },
+    {
+        "date": "2003-03-26T00:00:00",
+        "rank": "94",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 449,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2002-11-20T00:00:00",
+        "rank": "101",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 419,
+        "previousPoints": 384,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 35
+    },
+    {
+        "date": "2002-10-23T00:00:00",
+        "rank": "112",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 384,
+        "previousPoints": 380,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 4
+    },
+    {
+        "date": "2002-07-03T00:00:00",
+        "rank": "109",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 396,
+        "previousPoints": 407,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -11
+    },
+    {
+        "date": "2002-08-14T00:00:00",
+        "rank": "110",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 390,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -6
+    },
+    {
+        "date": "2002-09-18T00:00:00",
+        "rank": "116",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 380,
+        "previousPoints": 390,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -10
+    },
+    {
+        "date": "2002-05-15T00:00:00",
+        "rank": "109",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 407,
+        "previousPoints": 412,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -5
+    },
+    {
+        "date": "2002-03-20T00:00:00",
+        "rank": "108",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 418,
+        "previousPoints": 419,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -1
+    },
+    {
+        "date": "2002-04-17T00:00:00",
+        "rank": "108",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 412,
+        "previousPoints": 418,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -6
+    },
+    {
+        "date": "2002-01-16T00:00:00",
+        "rank": "107",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 421,
+        "previousPoints": 421,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2001-12-19T00:00:00",
+        "rank": "107",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 421,
+        "previousPoints": 421,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "108",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 419,
+        "previousPoints": 421,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -2
+    },
+    {
+        "date": "2001-08-22T00:00:00",
+        "rank": "106",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 413,
+        "previousPoints": 412,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 1
+    },
+    {
+        "date": "2001-11-21T00:00:00",
+        "rank": "108",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 421,
+        "previousPoints": 416,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 5
+    },
+    {
+        "date": "2001-10-17T00:00:00",
+        "rank": "108",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 416,
+        "previousPoints": 415,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 1
+    },
+    {
+        "date": "2001-09-19T00:00:00",
+        "rank": "108",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 415,
+        "previousPoints": 413,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 2
+    },
+    {
+        "date": "2001-07-18T00:00:00",
+        "rank": "107",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 412,
+        "previousPoints": 411,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 1
+    },
+    {
+        "date": "2001-05-16T00:00:00",
+        "rank": "103",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 417,
+        "previousPoints": 402,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 15
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "108",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 411,
+        "previousPoints": 417,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -6
+    },
+    {
+        "date": "2001-04-11T00:00:00",
+        "rank": "107",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 402,
+        "previousPoints": 404,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -2
+    },
+    {
+        "date": "2001-03-14T00:00:00",
+        "rank": "107",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 404,
+        "previousPoints": 406,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -2
+    },
+    {
+        "date": "2001-02-14T00:00:00",
+        "rank": "106",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 406,
+        "previousPoints": 407,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -1
+    },
+    {
+        "date": "2000-12-20T00:00:00",
+        "rank": "104",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 407,
+        "previousPoints": 410,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -3
+    },
+    {
+        "date": "2001-01-17T00:00:00",
+        "rank": "105",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 407,
+        "previousPoints": 407,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2000-10-11T00:00:00",
+        "rank": "99",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 410,
+        "previousPoints": 414,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -4
+    },
+    {
+        "date": "2000-11-15T00:00:00",
+        "rank": "102",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 410,
+        "previousPoints": 410,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2000-09-06T00:00:00",
+        "rank": "99",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 414,
+        "previousPoints": 422,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -8
+    },
+    {
+        "date": "2000-08-09T00:00:00",
+        "rank": "94",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 422,
+        "previousPoints": 424,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -2
+    },
+    {
+        "date": "2000-07-05T00:00:00",
+        "rank": "93",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 424,
+        "previousPoints": 424,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "2000-06-07T00:00:00",
+        "rank": "93",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 424,
+        "previousPoints": 388,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 36
+    },
+    {
+        "date": "2000-04-12T00:00:00",
+        "rank": "110",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 360,
+        "previousPoints": 321,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 39
+    },
+    {
+        "date": "2000-05-10T00:00:00",
+        "rank": "102",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 388,
+        "previousPoints": 360,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 28
+    },
+    {
+        "date": "2000-02-16T00:00:00",
+        "rank": "114",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 321,
+        "previousPoints": 322,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "116",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 321,
+        "previousPoints": 321,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1999-11-17T00:00:00",
+        "rank": "114",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 321,
+        "previousPoints": 321,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1999-12-22T00:00:00",
+        "rank": "113",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 322,
+        "previousPoints": 321,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 1
+    },
+    {
+        "date": "2000-01-19T00:00:00",
+        "rank": "113",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 322,
+        "previousPoints": 322,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1999-10-13T00:00:00",
+        "rank": "113",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 321,
+        "previousPoints": 320,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 1
+    },
+    {
+        "date": "1999-08-18T00:00:00",
+        "rank": "113",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 320,
+        "previousPoints": 319,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 1
+    },
+    {
+        "date": "1999-09-15T00:00:00",
+        "rank": "113",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 320,
+        "previousPoints": 320,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1999-07-21T00:00:00",
+        "rank": "113",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 319,
+        "previousPoints": 319,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1999-06-16T00:00:00",
+        "rank": "113",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 319,
+        "previousPoints": 319,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1999-05-19T00:00:00",
+        "rank": "113",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 319,
+        "previousPoints": 277,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 42
+    },
+    {
+        "date": "1999-04-21T00:00:00",
+        "rank": "118",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 277,
+        "previousPoints": 290,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -13
+    },
+    {
+        "date": "1999-03-24T00:00:00",
+        "rank": "117",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 290,
+        "previousPoints": 277,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 13
+    },
+    {
+        "date": "1999-01-27T00:00:00",
+        "rank": "120",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 278,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 253
+    },
+    {
+        "date": "1999-02-24T00:00:00",
+        "rank": "120",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 277,
+        "previousPoints": 278,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -1
+    },
+    {
+        "date": "1998-12-23T00:00:00",
+        "rank": "121",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 25,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1998-11-18T00:00:00",
+        "rank": "116",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 25,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1998-10-21T00:00:00",
+        "rank": "114",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 25,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1998-09-16T00:00:00",
+        "rank": "114",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 25,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1998-07-15T00:00:00",
+        "rank": "113",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 25,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -1
+    },
+    {
+        "date": "1998-08-19T00:00:00",
+        "rank": "113",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 25,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1998-04-22T00:00:00",
+        "rank": "108",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 26,
+        "previousPoints": 29,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -3
+    },
+    {
+        "date": "1998-05-20T00:00:00",
+        "rank": "108",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1998-03-18T00:00:00",
+        "rank": "102",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 29,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 3
+    },
+    {
+        "date": "1998-02-18T00:00:00",
+        "rank": "110",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1997-12-23T00:00:00",
+        "rank": "113",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "114",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1997-08-20T00:00:00",
+        "rank": "106",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 26,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 1
+    },
+    {
+        "date": "1997-10-17T00:00:00",
+        "rank": "111",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1997-07-16T00:00:00",
+        "rank": "111",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 25,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1997-06-18T00:00:00",
+        "rank": "112",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 25,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -3
+    },
+    {
+        "date": "1997-04-09T00:00:00",
+        "rank": "114",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 23,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1997-09-17T00:00:00",
+        "rank": "108",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1997-05-14T00:00:00",
+        "rank": "103",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 28,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 5
+    },
+    {
+        "date": "1997-02-27T00:00:00",
+        "rank": "111",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 23,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1996-12-18T00:00:00",
+        "rank": "110",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 23,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1996-10-23T00:00:00",
+        "rank": "107",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 23,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1996-11-20T00:00:00",
+        "rank": "108",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 23,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1996-08-28T00:00:00",
+        "rank": "101",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 23,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1996-09-25T00:00:00",
+        "rank": "104",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 23,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1996-07-03T00:00:00",
+        "rank": "98",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 23,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 6
+    },
+    {
+        "date": "1996-04-24T00:00:00",
+        "rank": "121",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 14,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -4
+    },
+    {
+        "date": "1996-02-21T00:00:00",
+        "rank": "109",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 18,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -1
+    },
+    {
+        "date": "1996-05-22T00:00:00",
+        "rank": "112",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 17,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 3
+    },
+    {
+        "date": "1995-11-21T00:00:00",
+        "rank": "102",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 19,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1995-10-17T00:00:00",
+        "rank": "103",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 19,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 5
+    },
+    {
+        "date": "1996-01-24T00:00:00",
+        "rank": "104",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 19,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "126",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1995-08-22T00:00:00",
+        "rank": "105",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 19,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1995-12-19T00:00:00",
+        "rank": "103",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 19,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1995-09-19T00:00:00",
+        "rank": "98",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 14,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -5
+    },
+    {
+        "date": "1995-07-25T00:00:00",
+        "rank": "101",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 19,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 8
+    },
+    {
+        "date": "1994-12-20T00:00:00",
+        "rank": "107",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1994-11-22T00:00:00",
+        "rank": "107",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1995-04-19T00:00:00",
+        "rank": "126",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 11,
+        "previousPoints": 12,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -1
+    },
+    {
+        "date": "1995-05-16T00:00:00",
+        "rank": "126",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1995-02-20T00:00:00",
+        "rank": "117",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 12,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": -2
+    },
+    {
+        "date": "1994-10-25T00:00:00",
+        "rank": "103",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1994-07-21T00:00:00",
+        "rank": "97",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1994-09-13T00:00:00",
+        "rank": "98",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1994-05-17T00:00:00",
+        "rank": "99",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1994-03-15T00:00:00",
+        "rank": "101",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 14,
+        "previousPoints": 12,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 2
+    },
+    {
+        "date": "1994-06-14T00:00:00",
+        "rank": "98",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1994-04-19T00:00:00",
+        "rank": "99",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1993-12-23T00:00:00",
+        "rank": "114",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1994-02-15T00:00:00",
+        "rank": "107",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 12,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 1
+    },
+    {
+        "date": "1993-11-19T00:00:00",
+        "rank": "113",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1993-08-08T00:00:00",
+        "rank": "105",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 11,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 4
+    },
+    {
+        "date": "1993-09-23T00:00:00",
+        "rank": "108",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1993-10-22T00:00:00",
+        "rank": "112",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb",
+        "delta": 0
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "114",
+        "country": "Barbados",
+        "ct": "BRB",
+        "points": 7,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/brb"
+    }
+]

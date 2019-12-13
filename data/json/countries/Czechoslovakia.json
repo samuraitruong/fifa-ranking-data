@@ -1,0 +1,61 @@
+[
+    {
+        "date": "1993-12-23T00:00:00",
+        "rank": "19",
+        "country": "Czechoslovakia",
+        "ct": "TCH",
+        "points": 49,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tch",
+        "delta": -1
+    },
+    {
+        "date": "1993-11-19T00:00:00",
+        "rank": "19",
+        "country": "Czechoslovakia",
+        "ct": "TCH",
+        "points": 50,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tch",
+        "delta": 3
+    },
+    {
+        "date": "1993-08-08T00:00:00",
+        "rank": "15",
+        "country": "Czechoslovakia",
+        "ct": "TCH",
+        "points": 50,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tch",
+        "delta": 3
+    },
+    {
+        "date": "1993-09-23T00:00:00",
+        "rank": "17",
+        "country": "Czechoslovakia",
+        "ct": "TCH",
+        "points": 50,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tch",
+        "delta": 0
+    },
+    {
+        "date": "1993-10-22T00:00:00",
+        "rank": "21",
+        "country": "Czechoslovakia",
+        "ct": "TCH",
+        "points": 47,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tch",
+        "delta": -3
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "18",
+        "country": "Czechoslovakia",
+        "ct": "TCH",
+        "points": 47,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/tch"
+    }
+]

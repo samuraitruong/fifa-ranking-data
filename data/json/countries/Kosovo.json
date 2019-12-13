@@ -1,0 +1,371 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "115",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 1174,
+        "previousPoints": 1184,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": -10
+    },
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "138",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 1092,
+        "previousPoints": 1080,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 12
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "127",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 1124,
+        "previousPoints": 1113,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 11
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "131",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 1113,
+        "previousPoints": 1113,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 0
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "119",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 1164,
+        "previousPoints": 1149,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 15
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "120",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 1149,
+        "previousPoints": 1149,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 0
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "114",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 1184,
+        "previousPoints": 1164,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 20
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "176",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 97,
+        "previousPoints": 97,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "137",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 1099,
+        "previousPoints": 1092,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 7
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "141",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 1080,
+        "previousPoints": 1080,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 0
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "130",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 1113,
+        "previousPoints": 1113,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "142",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 1207,
+        "previousPoints": 1207,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 0
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "121",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 1149,
+        "previousPoints": 1124,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 25
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "177",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 97,
+        "previousPoints": 97,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 0
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "141",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 197,
+        "previousPoints": 164,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 33
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "174",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 97,
+        "previousPoints": 67,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 30
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "152",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 164,
+        "previousPoints": 164,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 0
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "131",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 1113,
+        "previousPoints": 1099,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 14
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "177",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 97,
+        "previousPoints": 97,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 0
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "178",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 97,
+        "previousPoints": 97,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 0
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "152",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 164,
+        "previousPoints": 97,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 67
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "183",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 67,
+        "previousPoints": 67,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 0
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "184",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 67,
+        "previousPoints": 90,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": -23
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "173",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 112,
+        "previousPoints": 112,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 0
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "177",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 90,
+        "previousPoints": 112,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": -22
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "180",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 90,
+        "previousPoints": 90,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 0
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "164",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 135,
+        "previousPoints": 135,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 0
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "172",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 112,
+        "previousPoints": 112,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 0
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "170",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 112,
+        "previousPoints": 135,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": -23
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "165",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 135,
+        "previousPoints": 135,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 0
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "166",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 135,
+        "previousPoints": 135,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 0
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "165",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 135,
+        "previousPoints": 135,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 0
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "164",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 135,
+        "previousPoints": 135,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 0
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "165",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 135,
+        "previousPoints": 135,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 0
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "168",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 135,
+        "previousPoints": 66,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 69
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "190",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 66,
+        "previousPoints": 66,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx",
+        "delta": 0
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "190",
+        "country": "Kosovo",
+        "ct": "KVX",
+        "points": 66,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/kvx"
+    }
+]

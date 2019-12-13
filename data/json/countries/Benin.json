@@ -1,0 +1,3001 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "84",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 1295,
+        "previousPoints": 1293,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 2
+    },
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "88",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 1273,
+        "previousPoints": 1276,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -3
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "91",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 1267,
+        "previousPoints": 1257,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 10
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "94",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 1257,
+        "previousPoints": 1257,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "83",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 1293,
+        "previousPoints": 1295,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -2
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "82",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 1295,
+        "previousPoints": 1273,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 22
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "82",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 1293,
+        "previousPoints": 1293,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "81",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 427,
+        "previousPoints": 427,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "87",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 1277,
+        "previousPoints": 1273,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 4
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "88",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 1276,
+        "previousPoints": 1276,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "94",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 1257,
+        "previousPoints": 1257,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "88",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 1520,
+        "previousPoints": 1520,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "88",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 1273,
+        "previousPoints": 1267,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 6
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "82",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 427,
+        "previousPoints": 427,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "88",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 379,
+        "previousPoints": 397,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -18
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "82",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 427,
+        "previousPoints": 438,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -11
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "84",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 397,
+        "previousPoints": 379,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 18
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "94",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 1257,
+        "previousPoints": 1277,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -20
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "81",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 427,
+        "previousPoints": 427,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "81",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 427,
+        "previousPoints": 427,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "90",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 379,
+        "previousPoints": 427,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -48
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "79",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 438,
+        "previousPoints": 400,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 38
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "88",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 400,
+        "previousPoints": 369,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 31
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "81",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 427,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 31
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "93",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 366,
+        "previousPoints": 427,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -61
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "91",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 369,
+        "previousPoints": 366,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 3
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "66",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 531,
+        "previousPoints": 531,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "83",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 396,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "83",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 396,
+        "previousPoints": 531,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -135
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "66",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 531,
+        "previousPoints": 531,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "66",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 531,
+        "previousPoints": 531,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "66",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 531,
+        "previousPoints": 526,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 5
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "66",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 525,
+        "previousPoints": 483,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 42
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "66",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 526,
+        "previousPoints": 525,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 1
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "71",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 483,
+        "previousPoints": 489,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -6
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "72",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 489,
+        "previousPoints": 525,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -36
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "73",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 489,
+        "previousPoints": 489,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "68",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 525,
+        "previousPoints": 473,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 52
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "77",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 464,
+        "previousPoints": 458,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 6
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "73",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 489,
+        "previousPoints": 464,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 25
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "77",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 458,
+        "previousPoints": 458,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "75",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 473,
+        "previousPoints": 489,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -16
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "78",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 458,
+        "previousPoints": 461,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -3
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "78",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 461,
+        "previousPoints": 333,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 128
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "103",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 333,
+        "previousPoints": 341,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -8
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "100",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 341,
+        "previousPoints": 269,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 72
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "115",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 269,
+        "previousPoints": 269,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "114",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 269,
+        "previousPoints": 345,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -76
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "94",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 357,
+        "previousPoints": 357,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "96",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 345,
+        "previousPoints": 289,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 56
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "92",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 372,
+        "previousPoints": 359,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 13
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "94",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 357,
+        "previousPoints": 372,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -15
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "110",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 289,
+        "previousPoints": 357,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -68
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "95",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 359,
+        "previousPoints": 359,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "89",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 359,
+        "previousPoints": 361,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -2
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "86",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 375,
+        "previousPoints": 420,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -45
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "89",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 361,
+        "previousPoints": 361,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "91",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 361,
+        "previousPoints": 375,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -14
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "78",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 420,
+        "previousPoints": 405,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 15
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "77",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 405,
+        "previousPoints": 354,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 51
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "91",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 354,
+        "previousPoints": 386,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -32
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "97",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 332,
+        "previousPoints": 332,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "87",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 386,
+        "previousPoints": 332,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 54
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "97",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 332,
+        "previousPoints": 357,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -25
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "94",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 357,
+        "previousPoints": 335,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 22
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "99",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 342,
+        "previousPoints": 342,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "97",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 335,
+        "previousPoints": 335,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "99",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 335,
+        "previousPoints": 342,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -7
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "100",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 342,
+        "previousPoints": 378,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -36
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "94",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 378,
+        "previousPoints": 398,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -20
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "90",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 398,
+        "previousPoints": 302,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 96
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "115",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 302,
+        "previousPoints": 308,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -6
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "115",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 308,
+        "previousPoints": 381,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -73
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "99",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 381,
+        "previousPoints": 381,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "113",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 302,
+        "previousPoints": 302,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "93",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 384,
+        "previousPoints": 384,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "86",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 424,
+        "previousPoints": 384,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 40
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "99",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 381,
+        "previousPoints": 424,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -43
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "93",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 384,
+        "previousPoints": 457,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -73
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "77",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 457,
+        "previousPoints": 453,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 4
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "71",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 468,
+        "previousPoints": 446,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 22
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "74",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 453,
+        "previousPoints": 468,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -15
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "75",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 457,
+        "previousPoints": 457,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "rank": "78",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 446,
+        "previousPoints": 489,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -43
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "77",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 446,
+        "previousPoints": 446,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "rank": "124",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 269,
+        "previousPoints": 269,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "rank": "72",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 489,
+        "previousPoints": 269,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 220
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "rank": "125",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 269,
+        "previousPoints": 264,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 5
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "rank": "127",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 264,
+        "previousPoints": 237,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 27
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "rank": "136",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 237,
+        "previousPoints": 228,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 9
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "rank": "136",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 228,
+        "previousPoints": 257,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -29
+    },
+    {
+        "date": "2011-11-23T00:00:00",
+        "rank": "124",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 257,
+        "previousPoints": 260,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -3
+    },
+    {
+        "date": "2011-12-21T00:00:00",
+        "rank": "124",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 257,
+        "previousPoints": 257,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2011-10-19T00:00:00",
+        "rank": "119",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 260,
+        "previousPoints": 370,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -110
+    },
+    {
+        "date": "2011-09-21T00:00:00",
+        "rank": "92",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 370,
+        "previousPoints": 394,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -24
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "86",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 380,
+        "previousPoints": 380,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2011-06-29T00:00:00",
+        "rank": "87",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 380,
+        "previousPoints": 418,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -38
+    },
+    {
+        "date": "2011-05-18T00:00:00",
+        "rank": "80",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 418,
+        "previousPoints": 418,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2011-04-13T00:00:00",
+        "rank": "80",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 418,
+        "previousPoints": 413,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 5
+    },
+    {
+        "date": "2011-08-24T00:00:00",
+        "rank": "83",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 394,
+        "previousPoints": 380,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 14
+    },
+    {
+        "date": "2011-01-12T00:00:00",
+        "rank": "72",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 449,
+        "previousPoints": 462,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -13
+    },
+    {
+        "date": "2011-02-02T00:00:00",
+        "rank": "83",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 403,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -46
+    },
+    {
+        "date": "2011-03-09T00:00:00",
+        "rank": "80",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 413,
+        "previousPoints": 403,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 10
+    },
+    {
+        "date": "2010-12-15T00:00:00",
+        "rank": "71",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 462,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 13
+    },
+    {
+        "date": "2010-10-20T00:00:00",
+        "rank": "68",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 482,
+        "previousPoints": 489,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -7
+    },
+    {
+        "date": "2010-09-15T00:00:00",
+        "rank": "69",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 489,
+        "previousPoints": 535,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -46
+    },
+    {
+        "date": "2010-11-17T00:00:00",
+        "rank": "72",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 449,
+        "previousPoints": 482,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -33
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "61",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 535,
+        "previousPoints": 535,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2010-07-14T00:00:00",
+        "rank": "61",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 535,
+        "previousPoints": 531,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 4
+    },
+    {
+        "date": "2010-05-26T00:00:00",
+        "rank": "60",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 531,
+        "previousPoints": 531,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2010-04-28T00:00:00",
+        "rank": "59",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 531,
+        "previousPoints": 531,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2010-03-31T00:00:00",
+        "rank": "61",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 531,
+        "previousPoints": 503,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 28
+    },
+    {
+        "date": "2010-02-03T00:00:00",
+        "rank": "67",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 483,
+        "previousPoints": 532,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -49
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "65",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 503,
+        "previousPoints": 483,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 20
+    },
+    {
+        "date": "2009-12-16T00:00:00",
+        "rank": "59",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 532,
+        "previousPoints": 534,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -2
+    },
+    {
+        "date": "2009-11-20T00:00:00",
+        "rank": "59",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 534,
+        "previousPoints": 475,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 59
+    },
+    {
+        "date": "2009-10-16T00:00:00",
+        "rank": "67",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 475,
+        "previousPoints": 413,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 62
+    },
+    {
+        "date": "2009-09-02T00:00:00",
+        "rank": "78",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 413,
+        "previousPoints": 400,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 13
+    },
+    {
+        "date": "2009-07-01T00:00:00",
+        "rank": "80",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 400,
+        "previousPoints": 402,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -2
+    },
+    {
+        "date": "2009-08-05T00:00:00",
+        "rank": "83",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 400,
+        "previousPoints": 400,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2009-06-03T00:00:00",
+        "rank": "91",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 402,
+        "previousPoints": 386,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 16
+    },
+    {
+        "date": "2009-05-06T00:00:00",
+        "rank": "94",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 386,
+        "previousPoints": 386,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2009-04-08T00:00:00",
+        "rank": "93",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 386,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -10
+    },
+    {
+        "date": "2009-03-11T00:00:00",
+        "rank": "86",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 396,
+        "previousPoints": 423,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -27
+    },
+    {
+        "date": "2008-12-17T00:00:00",
+        "rank": "101",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 362,
+        "previousPoints": 385,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -23
+    },
+    {
+        "date": "2009-02-11T00:00:00",
+        "rank": "81",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 423,
+        "previousPoints": 362,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 61
+    },
+    {
+        "date": "2008-11-12T00:00:00",
+        "rank": "95",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 385,
+        "previousPoints": 429,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -44
+    },
+    {
+        "date": "2009-01-14T00:00:00",
+        "rank": "99",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 362,
+        "previousPoints": 362,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2008-09-03T00:00:00",
+        "rank": "104",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 349,
+        "previousPoints": 350,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "2008-10-08T00:00:00",
+        "rank": "81",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 429,
+        "previousPoints": 349,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 80
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "102",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 350,
+        "previousPoints": 361,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -11
+    },
+    {
+        "date": "2008-06-04T00:00:00",
+        "rank": "101",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 304,
+        "previousPoints": 321,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -17
+    },
+    {
+        "date": "2008-07-02T00:00:00",
+        "rank": "99",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 361,
+        "previousPoints": 304,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 57
+    },
+    {
+        "date": "2008-04-09T00:00:00",
+        "rank": "103",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 321,
+        "previousPoints": 302,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 19
+    },
+    {
+        "date": "2008-05-07T00:00:00",
+        "rank": "103",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 321,
+        "previousPoints": 321,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2008-03-12T00:00:00",
+        "rank": "110",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 302,
+        "previousPoints": 292,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 10
+    },
+    {
+        "date": "2008-01-16T00:00:00",
+        "rank": "94",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 349,
+        "previousPoints": 348,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 1
+    },
+    {
+        "date": "2008-02-13T00:00:00",
+        "rank": "112",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 292,
+        "previousPoints": 349,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -57
+    },
+    {
+        "date": "2007-11-22T00:00:00",
+        "rank": "97",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 348,
+        "previousPoints": 388,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -40
+    },
+    {
+        "date": "2007-12-17T00:00:00",
+        "rank": "97",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 348,
+        "previousPoints": 348,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2007-10-24T00:00:00",
+        "rank": "84",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 388,
+        "previousPoints": 410,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -22
+    },
+    {
+        "date": "2007-09-19T00:00:00",
+        "rank": "82",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 410,
+        "previousPoints": 400,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 10
+    },
+    {
+        "date": "2007-07-18T00:00:00",
+        "rank": "85",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 384,
+        "previousPoints": 314,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 70
+    },
+    {
+        "date": "2007-06-13T00:00:00",
+        "rank": "103",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 314,
+        "previousPoints": 289,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 25
+    },
+    {
+        "date": "2007-08-22T00:00:00",
+        "rank": "79",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 400,
+        "previousPoints": 384,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 16
+    },
+    {
+        "date": "2007-04-18T00:00:00",
+        "rank": "107",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 289,
+        "previousPoints": 215,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 74
+    },
+    {
+        "date": "2007-05-16T00:00:00",
+        "rank": "107",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 289,
+        "previousPoints": 289,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2007-03-14T00:00:00",
+        "rank": "118",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 215,
+        "previousPoints": 228,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -13
+    },
+    {
+        "date": "2007-02-14T00:00:00",
+        "rank": "116",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 228,
+        "previousPoints": 227,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 1
+    },
+    {
+        "date": "2007-01-17T00:00:00",
+        "rank": "115",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 227,
+        "previousPoints": 232,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -5
+    },
+    {
+        "date": "2006-12-18T00:00:00",
+        "rank": "114",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 232,
+        "previousPoints": 232,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2006-10-18T00:00:00",
+        "rank": "109",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 236,
+        "previousPoints": 271,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -35
+    },
+    {
+        "date": "2006-11-22T00:00:00",
+        "rank": "111",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 232,
+        "previousPoints": 236,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -4
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "101",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 271,
+        "previousPoints": 244,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 27
+    },
+    {
+        "date": "2006-08-16T00:00:00",
+        "rank": "105",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 244,
+        "previousPoints": 244,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2006-07-12T00:00:00",
+        "rank": "106",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 244,
+        "previousPoints": 387,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -143
+    },
+    {
+        "date": "2006-03-15T00:00:00",
+        "rank": "113",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 394,
+        "previousPoints": 395,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "2006-05-17T00:00:00",
+        "rank": "114",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 387,
+        "previousPoints": 389,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -2
+    },
+    {
+        "date": "2006-04-19T00:00:00",
+        "rank": "114",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 389,
+        "previousPoints": 394,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -5
+    },
+    {
+        "date": "2006-02-15T00:00:00",
+        "rank": "113",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 395,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "115",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 396,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2005-12-16T00:00:00",
+        "rank": "113",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 396,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2006-01-18T00:00:00",
+        "rank": "113",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 396,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2005-10-17T00:00:00",
+        "rank": "118",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 396,
+        "previousPoints": 365,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 31
+    },
+    {
+        "date": "2005-09-12T00:00:00",
+        "rank": "126",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 365,
+        "previousPoints": 362,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 3
+    },
+    {
+        "date": "2005-08-17T00:00:00",
+        "rank": "125",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 362,
+        "previousPoints": 368,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -6
+    },
+    {
+        "date": "2005-07-20T00:00:00",
+        "rank": "125",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 368,
+        "previousPoints": 375,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -7
+    },
+    {
+        "date": "2005-06-15T00:00:00",
+        "rank": "125",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 375,
+        "previousPoints": 387,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -12
+    },
+    {
+        "date": "2005-05-18T00:00:00",
+        "rank": "123",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 387,
+        "previousPoints": 389,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -2
+    },
+    {
+        "date": "2005-04-20T00:00:00",
+        "rank": "123",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 389,
+        "previousPoints": 390,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "2004-12-20T00:00:00",
+        "rank": "122",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 390,
+        "previousPoints": 393,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -3
+    },
+    {
+        "date": "2005-03-23T00:00:00",
+        "rank": "122",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 390,
+        "previousPoints": 392,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -2
+    },
+    {
+        "date": "2005-01-19T00:00:00",
+        "rank": "122",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 391,
+        "previousPoints": 390,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 1
+    },
+    {
+        "date": "2005-02-16T00:00:00",
+        "rank": "122",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 392,
+        "previousPoints": 391,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 1
+    },
+    {
+        "date": "2004-11-10T00:00:00",
+        "rank": "121",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 393,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -3
+    },
+    {
+        "date": "2004-09-01T00:00:00",
+        "rank": "120",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 395,
+        "previousPoints": 394,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 1
+    },
+    {
+        "date": "2004-10-06T00:00:00",
+        "rank": "120",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 396,
+        "previousPoints": 395,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 1
+    },
+    {
+        "date": "2004-07-07T00:00:00",
+        "rank": "120",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 398,
+        "previousPoints": 391,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 7
+    },
+    {
+        "date": "2004-08-04T00:00:00",
+        "rank": "121",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 394,
+        "previousPoints": 398,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -4
+    },
+    {
+        "date": "2004-05-12T00:00:00",
+        "rank": "125",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 377,
+        "previousPoints": 379,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -2
+    },
+    {
+        "date": "2004-06-09T00:00:00",
+        "rank": "122",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 391,
+        "previousPoints": 377,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 14
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "123",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 381,
+        "previousPoints": 383,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -2
+    },
+    {
+        "date": "2004-04-14T00:00:00",
+        "rank": "125",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 379,
+        "previousPoints": 381,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -2
+    },
+    {
+        "date": "2004-02-18T00:00:00",
+        "rank": "123",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 383,
+        "previousPoints": 384,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "2004-01-14T00:00:00",
+        "rank": "123",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 384,
+        "previousPoints": 384,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2003-12-15T00:00:00",
+        "rank": "121",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 384,
+        "previousPoints": 379,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 5
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "123",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 379,
+        "previousPoints": 372,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 7
+    },
+    {
+        "date": "2003-10-22T00:00:00",
+        "rank": "124",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 372,
+        "previousPoints": 369,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 3
+    },
+    {
+        "date": "2003-08-27T00:00:00",
+        "rank": "123",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 374,
+        "previousPoints": 372,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 2
+    },
+    {
+        "date": "2003-09-24T00:00:00",
+        "rank": "126",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 369,
+        "previousPoints": 374,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -5
+    },
+    {
+        "date": "2003-07-30T00:00:00",
+        "rank": "123",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 372,
+        "previousPoints": 353,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 19
+    },
+    {
+        "date": "2003-06-25T00:00:00",
+        "rank": "127",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 353,
+        "previousPoints": 314,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 39
+    },
+    {
+        "date": "2003-05-21T00:00:00",
+        "rank": "136",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 314,
+        "previousPoints": 320,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -6
+    },
+    {
+        "date": "2003-04-23T00:00:00",
+        "rank": "135",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 320,
+        "previousPoints": 320,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2003-02-19T00:00:00",
+        "rank": "149",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 263,
+        "previousPoints": 263,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2002-12-18T00:00:00",
+        "rank": "146",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 259,
+        "previousPoints": 268,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -9
+    },
+    {
+        "date": "2003-01-15T00:00:00",
+        "rank": "147",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 263,
+        "previousPoints": 259,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 4
+    },
+    {
+        "date": "2003-03-26T00:00:00",
+        "rank": "133",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 320,
+        "previousPoints": 263,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 57
+    },
+    {
+        "date": "2002-11-20T00:00:00",
+        "rank": "145",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 268,
+        "previousPoints": 288,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -20
+    },
+    {
+        "date": "2002-10-23T00:00:00",
+        "rank": "140",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 288,
+        "previousPoints": 266,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 22
+    },
+    {
+        "date": "2002-07-03T00:00:00",
+        "rank": "149",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 237,
+        "previousPoints": 239,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -2
+    },
+    {
+        "date": "2002-08-14T00:00:00",
+        "rank": "150",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 235,
+        "previousPoints": 237,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -2
+    },
+    {
+        "date": "2002-09-18T00:00:00",
+        "rank": "145",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 266,
+        "previousPoints": 235,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 31
+    },
+    {
+        "date": "2002-05-15T00:00:00",
+        "rank": "151",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 239,
+        "previousPoints": 242,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -3
+    },
+    {
+        "date": "2002-03-20T00:00:00",
+        "rank": "150",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 244,
+        "previousPoints": 246,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -2
+    },
+    {
+        "date": "2002-04-17T00:00:00",
+        "rank": "150",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 242,
+        "previousPoints": 244,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -2
+    },
+    {
+        "date": "2002-01-16T00:00:00",
+        "rank": "150",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 247,
+        "previousPoints": 232,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 15
+    },
+    {
+        "date": "2001-12-19T00:00:00",
+        "rank": "152",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 232,
+        "previousPoints": 233,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "150",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 246,
+        "previousPoints": 247,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "2001-08-22T00:00:00",
+        "rank": "155",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 220,
+        "previousPoints": 225,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -5
+    },
+    {
+        "date": "2001-11-21T00:00:00",
+        "rank": "154",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 233,
+        "previousPoints": 211,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 22
+    },
+    {
+        "date": "2001-10-17T00:00:00",
+        "rank": "158",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 211,
+        "previousPoints": 216,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -5
+    },
+    {
+        "date": "2001-09-19T00:00:00",
+        "rank": "156",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 216,
+        "previousPoints": 220,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -4
+    },
+    {
+        "date": "2001-07-18T00:00:00",
+        "rank": "155",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 225,
+        "previousPoints": 229,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -4
+    },
+    {
+        "date": "2001-05-16T00:00:00",
+        "rank": "154",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 232,
+        "previousPoints": 242,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -10
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "155",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 229,
+        "previousPoints": 232,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -3
+    },
+    {
+        "date": "2001-04-11T00:00:00",
+        "rank": "150",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 242,
+        "previousPoints": 243,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "2001-03-14T00:00:00",
+        "rank": "147",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 243,
+        "previousPoints": 239,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 4
+    },
+    {
+        "date": "2001-02-14T00:00:00",
+        "rank": "149",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 239,
+        "previousPoints": 239,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "2000-12-20T00:00:00",
+        "rank": "148",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 240,
+        "previousPoints": 241,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "2001-01-17T00:00:00",
+        "rank": "148",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 239,
+        "previousPoints": 240,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "2000-10-11T00:00:00",
+        "rank": "145",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 243,
+        "previousPoints": 245,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -2
+    },
+    {
+        "date": "2000-11-15T00:00:00",
+        "rank": "148",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 241,
+        "previousPoints": 243,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -2
+    },
+    {
+        "date": "2000-09-06T00:00:00",
+        "rank": "144",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 245,
+        "previousPoints": 246,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "2000-08-09T00:00:00",
+        "rank": "144",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 246,
+        "previousPoints": 213,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 33
+    },
+    {
+        "date": "2000-07-05T00:00:00",
+        "rank": "150",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 213,
+        "previousPoints": 212,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 1
+    },
+    {
+        "date": "2000-06-07T00:00:00",
+        "rank": "147",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 212,
+        "previousPoints": 215,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -3
+    },
+    {
+        "date": "2000-04-12T00:00:00",
+        "rank": "143",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 200,
+        "previousPoints": 202,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -2
+    },
+    {
+        "date": "2000-05-10T00:00:00",
+        "rank": "145",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 215,
+        "previousPoints": 200,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 15
+    },
+    {
+        "date": "2000-02-16T00:00:00",
+        "rank": "141",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 203,
+        "previousPoints": 204,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "142",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 202,
+        "previousPoints": 203,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "1999-11-17T00:00:00",
+        "rank": "139",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 212,
+        "previousPoints": 219,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -7
+    },
+    {
+        "date": "1999-12-22T00:00:00",
+        "rank": "140",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 204,
+        "previousPoints": 212,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -8
+    },
+    {
+        "date": "2000-01-19T00:00:00",
+        "rank": "141",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 204,
+        "previousPoints": 204,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1999-10-13T00:00:00",
+        "rank": "135",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 219,
+        "previousPoints": 223,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -4
+    },
+    {
+        "date": "1999-08-18T00:00:00",
+        "rank": "134",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 228,
+        "previousPoints": 241,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -13
+    },
+    {
+        "date": "1999-09-15T00:00:00",
+        "rank": "135",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 223,
+        "previousPoints": 228,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -5
+    },
+    {
+        "date": "1999-07-21T00:00:00",
+        "rank": "130",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 241,
+        "previousPoints": 242,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "1999-06-16T00:00:00",
+        "rank": "130",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 242,
+        "previousPoints": 244,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -2
+    },
+    {
+        "date": "1999-05-19T00:00:00",
+        "rank": "130",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 244,
+        "previousPoints": 245,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "1999-04-21T00:00:00",
+        "rank": "130",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 245,
+        "previousPoints": 245,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1999-03-24T00:00:00",
+        "rank": "129",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 245,
+        "previousPoints": 246,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "1999-01-27T00:00:00",
+        "rank": "129",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 247,
+        "previousPoints": 22,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 225
+    },
+    {
+        "date": "1999-02-24T00:00:00",
+        "rank": "129",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 246,
+        "previousPoints": 247,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "1998-12-23T00:00:00",
+        "rank": "127",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 22,
+        "previousPoints": 21,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 1
+    },
+    {
+        "date": "1998-11-18T00:00:00",
+        "rank": "125",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 21,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 2
+    },
+    {
+        "date": "1998-10-21T00:00:00",
+        "rank": "129",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 19,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1998-09-16T00:00:00",
+        "rank": "125",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 19,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 1
+    },
+    {
+        "date": "1998-07-15T00:00:00",
+        "rank": "135",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 16,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "1998-08-19T00:00:00",
+        "rank": "127",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 18,
+        "previousPoints": 16,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 2
+    },
+    {
+        "date": "1998-04-22T00:00:00",
+        "rank": "134",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 17,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1998-05-20T00:00:00",
+        "rank": "132",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 17,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1998-03-18T00:00:00",
+        "rank": "136",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 17,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "1998-02-18T00:00:00",
+        "rank": "134",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 18,
+        "previousPoints": 16,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 2
+    },
+    {
+        "date": "1997-12-23T00:00:00",
+        "rank": "137",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 16,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "134",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 18,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1997-08-20T00:00:00",
+        "rank": "136",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 17,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "1997-10-17T00:00:00",
+        "rank": "135",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 18,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 1
+    },
+    {
+        "date": "1997-07-16T00:00:00",
+        "rank": "130",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 18,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1997-06-18T00:00:00",
+        "rank": "130",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 18,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1997-04-09T00:00:00",
+        "rank": "128",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 18,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 1
+    },
+    {
+        "date": "1997-09-17T00:00:00",
+        "rank": "136",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 17,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1997-05-14T00:00:00",
+        "rank": "128",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 18,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1997-02-27T00:00:00",
+        "rank": "129",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 17,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 6
+    },
+    {
+        "date": "1996-12-18T00:00:00",
+        "rank": "143",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1996-10-23T00:00:00",
+        "rank": "143",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 11,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 2
+    },
+    {
+        "date": "1996-11-20T00:00:00",
+        "rank": "143",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1996-08-28T00:00:00",
+        "rank": "154",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 7,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 3
+    },
+    {
+        "date": "1996-09-25T00:00:00",
+        "rank": "151",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 9,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 2
+    },
+    {
+        "date": "1996-07-03T00:00:00",
+        "rank": "165",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1996-04-24T00:00:00",
+        "rank": "162",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1996-02-21T00:00:00",
+        "rank": "162",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1996-05-22T00:00:00",
+        "rank": "163",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1995-11-21T00:00:00",
+        "rank": "155",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 5,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1995-10-17T00:00:00",
+        "rank": "155",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 5,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "1996-01-24T00:00:00",
+        "rank": "161",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "150",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 5,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1995-08-22T00:00:00",
+        "rank": "154",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 5,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1995-12-19T00:00:00",
+        "rank": "161",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 4,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "1995-09-19T00:00:00",
+        "rank": "138",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 6,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 1
+    },
+    {
+        "date": "1995-07-25T00:00:00",
+        "rank": "153",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 5,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1994-12-20T00:00:00",
+        "rank": "143",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1994-11-22T00:00:00",
+        "rank": "144",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1995-04-19T00:00:00",
+        "rank": "149",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 5,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "1995-05-16T00:00:00",
+        "rank": "149",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 5,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1995-02-20T00:00:00",
+        "rank": "147",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1994-10-25T00:00:00",
+        "rank": "143",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1994-07-21T00:00:00",
+        "rank": "137",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1994-09-13T00:00:00",
+        "rank": "138",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1994-05-17T00:00:00",
+        "rank": "137",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1994-03-15T00:00:00",
+        "rank": "136",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 6,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": -1
+    },
+    {
+        "date": "1994-06-14T00:00:00",
+        "rank": "138",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1994-04-19T00:00:00",
+        "rank": "135",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1993-12-23T00:00:00",
+        "rank": "130",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1994-02-15T00:00:00",
+        "rank": "130",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1993-11-19T00:00:00",
+        "rank": "126",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1993-08-08T00:00:00",
+        "rank": "124",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 7,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 3
+    },
+    {
+        "date": "1993-09-23T00:00:00",
+        "rank": "124",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1993-10-22T00:00:00",
+        "rank": "126",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben",
+        "delta": 0
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "127",
+        "country": "Benin",
+        "ct": "BEN",
+        "points": 4,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ben"
+    }
+]

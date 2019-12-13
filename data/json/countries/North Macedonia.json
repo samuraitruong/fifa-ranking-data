@@ -1,0 +1,62 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "68",
+        "country": "North Macedonia",
+        "ct": "MKD",
+        "points": 1347,
+        "previousPoints": 1344,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mkd",
+        "delta": 3
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "69",
+        "country": "North Macedonia",
+        "ct": "MKD",
+        "points": 1339,
+        "previousPoints": 1333,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mkd",
+        "delta": 6
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "71",
+        "country": "North Macedonia",
+        "ct": "MKD",
+        "points": 1333,
+        "previousPoints": 1333,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mkd",
+        "delta": 0
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "68",
+        "country": "North Macedonia",
+        "ct": "MKD",
+        "points": 1344,
+        "previousPoints": 1339,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mkd",
+        "delta": 5
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "73",
+        "country": "North Macedonia",
+        "ct": "MKD",
+        "points": 1333,
+        "previousPoints": 1350,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mkd",
+        "delta": -17
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "64",
+        "country": "North Macedonia",
+        "ct": "MKD",
+        "points": 506,
+        "previousPoints": 495,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mkd",
+        "delta": 11
+    }
+]

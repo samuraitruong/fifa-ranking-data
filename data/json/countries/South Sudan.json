@@ -1,0 +1,841 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "169",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 983,
+        "previousPoints": 997,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": -14
+    },
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "158",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 1019,
+        "previousPoints": 1024,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": -5
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "167",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 989,
+        "previousPoints": 994,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": -5
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "164",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 994,
+        "previousPoints": 994,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "173",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 977,
+        "previousPoints": 989,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": -12
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "169",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 989,
+        "previousPoints": 989,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "162",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 997,
+        "previousPoints": 977,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 20
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "154",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 148,
+        "previousPoints": 148,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "159",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 1005,
+        "previousPoints": 1019,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": -14
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "156",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 1024,
+        "previousPoints": 1024,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "164",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 994,
+        "previousPoints": 994,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "161",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 1067,
+        "previousPoints": 1067,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "168",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 989,
+        "previousPoints": 989,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "153",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 148,
+        "previousPoints": 172,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": -24
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "156",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 132,
+        "previousPoints": 130,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 2
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "152",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 172,
+        "previousPoints": 172,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "157",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 130,
+        "previousPoints": 139,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": -9
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "164",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 994,
+        "previousPoints": 1005,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": -11
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "153",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 148,
+        "previousPoints": 148,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "153",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 148,
+        "previousPoints": 148,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "155",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 139,
+        "previousPoints": 148,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": -9
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "153",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 172,
+        "previousPoints": 177,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": -5
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "150",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 177,
+        "previousPoints": 185,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": -8
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "147",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 183,
+        "previousPoints": 186,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": -3
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "143",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 196,
+        "previousPoints": 183,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 13
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "148",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 185,
+        "previousPoints": 196,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": -11
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "167",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 123,
+        "previousPoints": 123,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "146",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 186,
+        "previousPoints": 155,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 31
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "154",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 155,
+        "previousPoints": 123,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 32
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "169",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 123,
+        "previousPoints": 123,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "168",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 123,
+        "previousPoints": 123,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "168",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 123,
+        "previousPoints": 123,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "167",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 123,
+        "previousPoints": 138,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": -15
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "169",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 123,
+        "previousPoints": 123,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "167",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 138,
+        "previousPoints": 197,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": -59
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "153",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 197,
+        "previousPoints": 197,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "155",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 182,
+        "previousPoints": 182,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "153",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 197,
+        "previousPoints": 174,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 23
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "140",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 246,
+        "previousPoints": 246,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "155",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 182,
+        "previousPoints": 246,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": -64
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "140",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 246,
+        "previousPoints": 246,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "157",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 174,
+        "previousPoints": 182,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": -8
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "139",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 246,
+        "previousPoints": 246,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "138",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 246,
+        "previousPoints": 246,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "134",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 246,
+        "previousPoints": 198,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 48
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "144",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 198,
+        "previousPoints": 22,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 176
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "198",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 22,
+        "previousPoints": 22,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "195",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 22,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": -2
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "193",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "195",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 24,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "188",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "193",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "197",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 24,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": -19
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "189",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "189",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "186",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "189",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "189",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "185",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "185",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "186",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 43,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": -4
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "201",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 10,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "185",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 47,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 37
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "201",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 10,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "201",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 10,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "201",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 10,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "202",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 10,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "201",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 10,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "201",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 10,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "204",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 10,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "205",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 10,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "198",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 20,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "200",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 20,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "200",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 20,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "203",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 10,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": -10
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "200",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 20,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "200",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 20,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "200",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 20,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "198",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 20,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "200",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 20,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "197",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 20,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "198",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 20,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "199",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 20,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd",
+        "delta": 0
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "199",
+        "country": "South Sudan",
+        "ct": "SSD",
+        "points": 20,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/ssd"
+    }
+]

@@ -1,0 +1,2929 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "91",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 1267,
+        "previousPoints": 1274,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -7
+    },
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "93",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 1254,
+        "previousPoints": 1242,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 12
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "94",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 1256,
+        "previousPoints": 1269,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -13
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "89",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 1269,
+        "previousPoints": 1269,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "91",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 1264,
+        "previousPoints": 1255,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 9
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "94",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 1255,
+        "previousPoints": 1255,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "90",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 1274,
+        "previousPoints": 1264,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 10
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "101",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 332,
+        "previousPoints": 335,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -3
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "92",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 1265,
+        "previousPoints": 1254,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 11
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "96",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 1242,
+        "previousPoints": 1244,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -2
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "91",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 1269,
+        "previousPoints": 1269,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "96",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 1476,
+        "previousPoints": 1479,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -3
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "94",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 1255,
+        "previousPoints": 1256,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -1
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "104",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 322,
+        "previousPoints": 322,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "96",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 352,
+        "previousPoints": 362,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -10
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "104",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 322,
+        "previousPoints": 306,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 16
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "95",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 362,
+        "previousPoints": 362,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "89",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 1269,
+        "previousPoints": 1265,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 4
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "100",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 335,
+        "previousPoints": 322,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 13
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "104",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 322,
+        "previousPoints": 322,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "96",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 362,
+        "previousPoints": 332,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 30
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "107",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 306,
+        "previousPoints": 328,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -22
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "103",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 328,
+        "previousPoints": 290,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 38
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "122",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 271,
+        "previousPoints": 274,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -3
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "112",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 290,
+        "previousPoints": 271,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 19
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "112",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 290,
+        "previousPoints": 290,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "126",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 261,
+        "previousPoints": 263,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -2
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "122",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 274,
+        "previousPoints": 274,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "122",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 274,
+        "previousPoints": 261,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 13
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "125",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 263,
+        "previousPoints": 281,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -18
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "121",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 281,
+        "previousPoints": 281,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "118",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 281,
+        "previousPoints": 281,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "122",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 276,
+        "previousPoints": 240,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 36
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "119",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 281,
+        "previousPoints": 276,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 5
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "137",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 240,
+        "previousPoints": 318,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -78
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "118",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 318,
+        "previousPoints": 318,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "123",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 289,
+        "previousPoints": 289,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "118",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 318,
+        "previousPoints": 260,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 58
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "122",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 283,
+        "previousPoints": 286,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -3
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "123",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 289,
+        "previousPoints": 283,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 6
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "120",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 286,
+        "previousPoints": 286,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "137",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 260,
+        "previousPoints": 289,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -29
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "120",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 286,
+        "previousPoints": 286,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "122",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 286,
+        "previousPoints": 301,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -15
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "111",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 301,
+        "previousPoints": 308,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -7
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "110",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 308,
+        "previousPoints": 180,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 128
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "147",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 180,
+        "previousPoints": 165,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 15
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "154",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 165,
+        "previousPoints": 165,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "139",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 197,
+        "previousPoints": 197,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "153",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 165,
+        "previousPoints": 173,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -8
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "126",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 225,
+        "previousPoints": 234,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -9
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "138",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 197,
+        "previousPoints": 225,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -28
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "139",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 173,
+        "previousPoints": 197,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -24
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "126",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 234,
+        "previousPoints": 239,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -5
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "126",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 239,
+        "previousPoints": 239,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "117",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 271,
+        "previousPoints": 290,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -19
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "125",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 239,
+        "previousPoints": 239,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "126",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 239,
+        "previousPoints": 271,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -32
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "110",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 290,
+        "previousPoints": 341,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -51
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "95",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 341,
+        "previousPoints": 338,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 3
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "96",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 338,
+        "previousPoints": 349,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -11
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "103",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 303,
+        "previousPoints": 303,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "96",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 349,
+        "previousPoints": 303,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 46
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "103",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 303,
+        "previousPoints": 333,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -30
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "99",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 333,
+        "previousPoints": 325,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 8
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "101",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 330,
+        "previousPoints": 330,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "103",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 325,
+        "previousPoints": 330,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -5
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "102",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 330,
+        "previousPoints": 330,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "101",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 330,
+        "previousPoints": 350,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -20
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "100",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 350,
+        "previousPoints": 364,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -14
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "97",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 364,
+        "previousPoints": 369,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -5
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "98",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 369,
+        "previousPoints": 391,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -22
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "96",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 391,
+        "previousPoints": 394,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -3
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "96",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 394,
+        "previousPoints": 417,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -23
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "97",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 369,
+        "previousPoints": 369,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "69",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 491,
+        "previousPoints": 481,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 10
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "69",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 494,
+        "previousPoints": 491,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 3
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "91",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 417,
+        "previousPoints": 494,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -77
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "72",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 481,
+        "previousPoints": 481,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "65",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 499,
+        "previousPoints": 501,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -2
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "86",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 405,
+        "previousPoints": 357,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 48
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "65",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 501,
+        "previousPoints": 405,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 96
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "73",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 481,
+        "previousPoints": 499,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -18
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "rank": "97",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 357,
+        "previousPoints": 359,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -2
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "97",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 357,
+        "previousPoints": 357,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "rank": "95",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 360,
+        "previousPoints": 360,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "rank": "95",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 359,
+        "previousPoints": 360,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -1
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "rank": "95",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 360,
+        "previousPoints": 462,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -102
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "rank": "74",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 462,
+        "previousPoints": 436,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 26
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "rank": "81",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 436,
+        "previousPoints": 451,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -15
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "rank": "76",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 451,
+        "previousPoints": 451,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2011-11-23T00:00:00",
+        "rank": "74",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 451,
+        "previousPoints": 475,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -24
+    },
+    {
+        "date": "2011-12-21T00:00:00",
+        "rank": "73",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 451,
+        "previousPoints": 451,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2011-10-19T00:00:00",
+        "rank": "67",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 475,
+        "previousPoints": 499,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -24
+    },
+    {
+        "date": "2011-09-21T00:00:00",
+        "rank": "64",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 499,
+        "previousPoints": 522,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -23
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "57",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 530,
+        "previousPoints": 530,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2011-06-29T00:00:00",
+        "rank": "56",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 530,
+        "previousPoints": 536,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -6
+    },
+    {
+        "date": "2011-05-18T00:00:00",
+        "rank": "57",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 536,
+        "previousPoints": 536,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2011-04-13T00:00:00",
+        "rank": "56",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 536,
+        "previousPoints": 469,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 67
+    },
+    {
+        "date": "2011-08-24T00:00:00",
+        "rank": "63",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 522,
+        "previousPoints": 530,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -8
+    },
+    {
+        "date": "2011-01-12T00:00:00",
+        "rank": "72",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 449,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2011-02-02T00:00:00",
+        "rank": "71",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 449,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2011-03-09T00:00:00",
+        "rank": "72",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 469,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 20
+    },
+    {
+        "date": "2010-12-15T00:00:00",
+        "rank": "73",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 449,
+        "previousPoints": 422,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 27
+    },
+    {
+        "date": "2010-10-20T00:00:00",
+        "rank": "75",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 431,
+        "previousPoints": 357,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 74
+    },
+    {
+        "date": "2010-09-15T00:00:00",
+        "rank": "89",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 357,
+        "previousPoints": 237,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 120
+    },
+    {
+        "date": "2010-11-17T00:00:00",
+        "rank": "78",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 422,
+        "previousPoints": 431,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -9
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "110",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 237,
+        "previousPoints": 237,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2010-07-14T00:00:00",
+        "rank": "111",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 237,
+        "previousPoints": 217,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 20
+    },
+    {
+        "date": "2010-05-26T00:00:00",
+        "rank": "120",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 217,
+        "previousPoints": 217,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2010-04-28T00:00:00",
+        "rank": "119",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 217,
+        "previousPoints": 232,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -15
+    },
+    {
+        "date": "2010-03-31T00:00:00",
+        "rank": "118",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 232,
+        "previousPoints": 200,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 32
+    },
+    {
+        "date": "2010-02-03T00:00:00",
+        "rank": "122",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 202,
+        "previousPoints": 202,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "124",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 200,
+        "previousPoints": 202,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -2
+    },
+    {
+        "date": "2009-12-16T00:00:00",
+        "rank": "124",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 202,
+        "previousPoints": 203,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -1
+    },
+    {
+        "date": "2009-11-20T00:00:00",
+        "rank": "125",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 203,
+        "previousPoints": 234,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -31
+    },
+    {
+        "date": "2009-10-16T00:00:00",
+        "rank": "117",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 234,
+        "previousPoints": 296,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -62
+    },
+    {
+        "date": "2009-09-02T00:00:00",
+        "rank": "112",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 296,
+        "previousPoints": 326,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -30
+    },
+    {
+        "date": "2009-07-01T00:00:00",
+        "rank": "104",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 326,
+        "previousPoints": 339,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -13
+    },
+    {
+        "date": "2009-08-05T00:00:00",
+        "rank": "103",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 326,
+        "previousPoints": 326,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2009-06-03T00:00:00",
+        "rank": "105",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 339,
+        "previousPoints": 322,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 17
+    },
+    {
+        "date": "2009-05-06T00:00:00",
+        "rank": "110",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 322,
+        "previousPoints": 322,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2009-04-08T00:00:00",
+        "rank": "109",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 322,
+        "previousPoints": 314,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 8
+    },
+    {
+        "date": "2009-03-11T00:00:00",
+        "rank": "111",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 314,
+        "previousPoints": 327,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -13
+    },
+    {
+        "date": "2008-12-17T00:00:00",
+        "rank": "108",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 328,
+        "previousPoints": 363,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -35
+    },
+    {
+        "date": "2009-02-11T00:00:00",
+        "rank": "108",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 327,
+        "previousPoints": 328,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -1
+    },
+    {
+        "date": "2008-11-12T00:00:00",
+        "rank": "99",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 363,
+        "previousPoints": 368,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -5
+    },
+    {
+        "date": "2009-01-14T00:00:00",
+        "rank": "108",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 328,
+        "previousPoints": 328,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2008-09-03T00:00:00",
+        "rank": "77",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 421,
+        "previousPoints": 393,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 28
+    },
+    {
+        "date": "2008-10-08T00:00:00",
+        "rank": "97",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 368,
+        "previousPoints": 421,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -53
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "86",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 393,
+        "previousPoints": 393,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2008-06-04T00:00:00",
+        "rank": "80",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 383,
+        "previousPoints": 389,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -6
+    },
+    {
+        "date": "2008-07-02T00:00:00",
+        "rank": "89",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 393,
+        "previousPoints": 383,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 10
+    },
+    {
+        "date": "2008-04-09T00:00:00",
+        "rank": "81",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 389,
+        "previousPoints": 407,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -18
+    },
+    {
+        "date": "2008-05-07T00:00:00",
+        "rank": "81",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 389,
+        "previousPoints": 389,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2008-03-12T00:00:00",
+        "rank": "76",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 407,
+        "previousPoints": 384,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 23
+    },
+    {
+        "date": "2008-01-16T00:00:00",
+        "rank": "76",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 414,
+        "previousPoints": 414,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2008-02-13T00:00:00",
+        "rank": "80",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 384,
+        "previousPoints": 414,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -30
+    },
+    {
+        "date": "2007-11-22T00:00:00",
+        "rank": "77",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 414,
+        "previousPoints": 447,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -33
+    },
+    {
+        "date": "2007-12-17T00:00:00",
+        "rank": "77",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 414,
+        "previousPoints": 414,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2007-10-24T00:00:00",
+        "rank": "71",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 447,
+        "previousPoints": 327,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 120
+    },
+    {
+        "date": "2007-09-19T00:00:00",
+        "rank": "104",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 327,
+        "previousPoints": 325,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 2
+    },
+    {
+        "date": "2007-07-18T00:00:00",
+        "rank": "95",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 337,
+        "previousPoints": 337,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2007-06-13T00:00:00",
+        "rank": "97",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 337,
+        "previousPoints": 343,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -6
+    },
+    {
+        "date": "2007-08-22T00:00:00",
+        "rank": "103",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 325,
+        "previousPoints": 337,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -12
+    },
+    {
+        "date": "2007-04-18T00:00:00",
+        "rank": "85",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 374,
+        "previousPoints": 374,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2007-05-16T00:00:00",
+        "rank": "92",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 343,
+        "previousPoints": 374,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -31
+    },
+    {
+        "date": "2007-03-14T00:00:00",
+        "rank": "85",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 374,
+        "previousPoints": 363,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 11
+    },
+    {
+        "date": "2007-02-14T00:00:00",
+        "rank": "86",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 363,
+        "previousPoints": 327,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 36
+    },
+    {
+        "date": "2007-01-17T00:00:00",
+        "rank": "95",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 327,
+        "previousPoints": 327,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2006-12-18T00:00:00",
+        "rank": "94",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 327,
+        "previousPoints": 327,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2006-10-18T00:00:00",
+        "rank": "98",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 302,
+        "previousPoints": 326,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -24
+    },
+    {
+        "date": "2006-11-22T00:00:00",
+        "rank": "95",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 327,
+        "previousPoints": 302,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 25
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "93",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 326,
+        "previousPoints": 359,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -33
+    },
+    {
+        "date": "2006-08-16T00:00:00",
+        "rank": "84",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 359,
+        "previousPoints": 359,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2006-07-12T00:00:00",
+        "rank": "87",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 359,
+        "previousPoints": 459,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -100
+    },
+    {
+        "date": "2006-03-15T00:00:00",
+        "rank": "104",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 459,
+        "previousPoints": 457,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 2
+    },
+    {
+        "date": "2006-05-17T00:00:00",
+        "rank": "101",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 459,
+        "previousPoints": 461,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -2
+    },
+    {
+        "date": "2006-04-19T00:00:00",
+        "rank": "101",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 461,
+        "previousPoints": 459,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 2
+    },
+    {
+        "date": "2006-02-15T00:00:00",
+        "rank": "105",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 457,
+        "previousPoints": 458,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "100",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 462,
+        "previousPoints": 462,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2005-12-16T00:00:00",
+        "rank": "104",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 459,
+        "previousPoints": 462,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -3
+    },
+    {
+        "date": "2006-01-18T00:00:00",
+        "rank": "105",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 458,
+        "previousPoints": 459,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -1
+    },
+    {
+        "date": "2005-10-17T00:00:00",
+        "rank": "100",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 462,
+        "previousPoints": 461,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 1
+    },
+    {
+        "date": "2005-09-12T00:00:00",
+        "rank": "104",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 461,
+        "previousPoints": 460,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 1
+    },
+    {
+        "date": "2005-08-17T00:00:00",
+        "rank": "103",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 460,
+        "previousPoints": 463,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -3
+    },
+    {
+        "date": "2005-07-20T00:00:00",
+        "rank": "103",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 463,
+        "previousPoints": 467,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -4
+    },
+    {
+        "date": "2005-06-15T00:00:00",
+        "rank": "102",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 467,
+        "previousPoints": 467,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2005-05-18T00:00:00",
+        "rank": "100",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 467,
+        "previousPoints": 470,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -3
+    },
+    {
+        "date": "2005-04-20T00:00:00",
+        "rank": "102",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 470,
+        "previousPoints": 474,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -4
+    },
+    {
+        "date": "2004-12-20T00:00:00",
+        "rank": "104",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 455,
+        "previousPoints": 442,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 13
+    },
+    {
+        "date": "2005-03-23T00:00:00",
+        "rank": "100",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 474,
+        "previousPoints": 464,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 10
+    },
+    {
+        "date": "2005-01-19T00:00:00",
+        "rank": "106",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 455,
+        "previousPoints": 455,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2005-02-16T00:00:00",
+        "rank": "102",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 464,
+        "previousPoints": 455,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 9
+    },
+    {
+        "date": "2004-11-10T00:00:00",
+        "rank": "107",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 442,
+        "previousPoints": 448,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -6
+    },
+    {
+        "date": "2004-09-01T00:00:00",
+        "rank": "112",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 418,
+        "previousPoints": 428,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -10
+    },
+    {
+        "date": "2004-10-06T00:00:00",
+        "rank": "105",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 448,
+        "previousPoints": 418,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 30
+    },
+    {
+        "date": "2004-07-07T00:00:00",
+        "rank": "105",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 437,
+        "previousPoints": 445,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -8
+    },
+    {
+        "date": "2004-08-04T00:00:00",
+        "rank": "109",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 428,
+        "previousPoints": 437,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -9
+    },
+    {
+        "date": "2004-05-12T00:00:00",
+        "rank": "99",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 453,
+        "previousPoints": 459,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -6
+    },
+    {
+        "date": "2004-06-09T00:00:00",
+        "rank": "102",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 445,
+        "previousPoints": 453,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -8
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "98",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 463,
+        "previousPoints": 467,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -4
+    },
+    {
+        "date": "2004-04-14T00:00:00",
+        "rank": "98",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 459,
+        "previousPoints": 463,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -4
+    },
+    {
+        "date": "2004-02-18T00:00:00",
+        "rank": "94",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 467,
+        "previousPoints": 469,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -2
+    },
+    {
+        "date": "2004-01-14T00:00:00",
+        "rank": "93",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 469,
+        "previousPoints": 469,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2003-12-15T00:00:00",
+        "rank": "93",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 469,
+        "previousPoints": 475,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -6
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "92",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 475,
+        "previousPoints": 479,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -4
+    },
+    {
+        "date": "2003-10-22T00:00:00",
+        "rank": "87",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 479,
+        "previousPoints": 485,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -6
+    },
+    {
+        "date": "2003-08-27T00:00:00",
+        "rank": "91",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 455,
+        "previousPoints": 462,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -7
+    },
+    {
+        "date": "2003-09-24T00:00:00",
+        "rank": "81",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 485,
+        "previousPoints": 455,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 30
+    },
+    {
+        "date": "2003-07-30T00:00:00",
+        "rank": "88",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 462,
+        "previousPoints": 468,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -6
+    },
+    {
+        "date": "2003-06-25T00:00:00",
+        "rank": "86",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 468,
+        "previousPoints": 469,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -1
+    },
+    {
+        "date": "2003-05-21T00:00:00",
+        "rank": "84",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 469,
+        "previousPoints": 448,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 21
+    },
+    {
+        "date": "2003-04-23T00:00:00",
+        "rank": "93",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 448,
+        "previousPoints": 450,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -2
+    },
+    {
+        "date": "2003-02-19T00:00:00",
+        "rank": "92",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 455,
+        "previousPoints": 456,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -1
+    },
+    {
+        "date": "2002-12-18T00:00:00",
+        "rank": "90",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 456,
+        "previousPoints": 474,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -18
+    },
+    {
+        "date": "2003-01-15T00:00:00",
+        "rank": "92",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 456,
+        "previousPoints": 456,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2003-03-26T00:00:00",
+        "rank": "93",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 450,
+        "previousPoints": 455,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -5
+    },
+    {
+        "date": "2002-11-20T00:00:00",
+        "rank": "81",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 474,
+        "previousPoints": 485,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -11
+    },
+    {
+        "date": "2002-10-23T00:00:00",
+        "rank": "77",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 485,
+        "previousPoints": 499,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -14
+    },
+    {
+        "date": "2002-07-03T00:00:00",
+        "rank": "55",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 541,
+        "previousPoints": 545,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -4
+    },
+    {
+        "date": "2002-08-14T00:00:00",
+        "rank": "53",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 536,
+        "previousPoints": 541,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -5
+    },
+    {
+        "date": "2002-09-18T00:00:00",
+        "rank": "71",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 499,
+        "previousPoints": 536,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -37
+    },
+    {
+        "date": "2002-05-15T00:00:00",
+        "rank": "59",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 545,
+        "previousPoints": 561,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -16
+    },
+    {
+        "date": "2002-03-20T00:00:00",
+        "rank": "60",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 549,
+        "previousPoints": 550,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -1
+    },
+    {
+        "date": "2002-04-17T00:00:00",
+        "rank": "55",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 561,
+        "previousPoints": 549,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 12
+    },
+    {
+        "date": "2002-01-16T00:00:00",
+        "rank": "58",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 552,
+        "previousPoints": 552,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2001-12-19T00:00:00",
+        "rank": "58",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 552,
+        "previousPoints": 552,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "60",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 550,
+        "previousPoints": 552,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -2
+    },
+    {
+        "date": "2001-08-22T00:00:00",
+        "rank": "72",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 510,
+        "previousPoints": 495,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 15
+    },
+    {
+        "date": "2001-11-21T00:00:00",
+        "rank": "59",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 552,
+        "previousPoints": 552,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2001-10-17T00:00:00",
+        "rank": "59",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 552,
+        "previousPoints": 548,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 4
+    },
+    {
+        "date": "2001-09-19T00:00:00",
+        "rank": "59",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 548,
+        "previousPoints": 510,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 38
+    },
+    {
+        "date": "2001-07-18T00:00:00",
+        "rank": "79",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 495,
+        "previousPoints": 498,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -3
+    },
+    {
+        "date": "2001-05-16T00:00:00",
+        "rank": "73",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 499,
+        "previousPoints": 499,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "79",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 498,
+        "previousPoints": 499,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -1
+    },
+    {
+        "date": "2001-04-11T00:00:00",
+        "rank": "68",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 499,
+        "previousPoints": 503,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -4
+    },
+    {
+        "date": "2001-03-14T00:00:00",
+        "rank": "67",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 503,
+        "previousPoints": 506,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -3
+    },
+    {
+        "date": "2001-02-14T00:00:00",
+        "rank": "66",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 506,
+        "previousPoints": 508,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -2
+    },
+    {
+        "date": "2000-12-20T00:00:00",
+        "rank": "66",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 508,
+        "previousPoints": 510,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -2
+    },
+    {
+        "date": "2001-01-17T00:00:00",
+        "rank": "66",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 508,
+        "previousPoints": 508,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "2000-10-11T00:00:00",
+        "rank": "62",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 515,
+        "previousPoints": 492,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 23
+    },
+    {
+        "date": "2000-11-15T00:00:00",
+        "rank": "64",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 510,
+        "previousPoints": 515,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -5
+    },
+    {
+        "date": "2000-09-06T00:00:00",
+        "rank": "68",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 492,
+        "previousPoints": 495,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -3
+    },
+    {
+        "date": "2000-08-09T00:00:00",
+        "rank": "68",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 495,
+        "previousPoints": 498,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -3
+    },
+    {
+        "date": "2000-07-05T00:00:00",
+        "rank": "65",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 498,
+        "previousPoints": 503,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -5
+    },
+    {
+        "date": "2000-06-07T00:00:00",
+        "rank": "64",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 503,
+        "previousPoints": 502,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 1
+    },
+    {
+        "date": "2000-04-12T00:00:00",
+        "rank": "64",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 500,
+        "previousPoints": 499,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 1
+    },
+    {
+        "date": "2000-05-10T00:00:00",
+        "rank": "64",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 502,
+        "previousPoints": 500,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 2
+    },
+    {
+        "date": "2000-02-16T00:00:00",
+        "rank": "60",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 502,
+        "previousPoints": 475,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 27
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "65",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 499,
+        "previousPoints": 502,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -3
+    },
+    {
+        "date": "1999-11-17T00:00:00",
+        "rank": "65",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 483,
+        "previousPoints": 488,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -5
+    },
+    {
+        "date": "1999-12-22T00:00:00",
+        "rank": "66",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 475,
+        "previousPoints": 483,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -8
+    },
+    {
+        "date": "2000-01-19T00:00:00",
+        "rank": "66",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 475,
+        "previousPoints": 475,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "1999-10-13T00:00:00",
+        "rank": "62",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 488,
+        "previousPoints": 493,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -5
+    },
+    {
+        "date": "1999-08-18T00:00:00",
+        "rank": "65",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 487,
+        "previousPoints": 492,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -5
+    },
+    {
+        "date": "1999-09-15T00:00:00",
+        "rank": "62",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 493,
+        "previousPoints": 487,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 6
+    },
+    {
+        "date": "1999-07-21T00:00:00",
+        "rank": "63",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 492,
+        "previousPoints": 498,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -6
+    },
+    {
+        "date": "1999-06-16T00:00:00",
+        "rank": "59",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 498,
+        "previousPoints": 501,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -3
+    },
+    {
+        "date": "1999-05-19T00:00:00",
+        "rank": "56",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 501,
+        "previousPoints": 505,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -4
+    },
+    {
+        "date": "1999-04-21T00:00:00",
+        "rank": "56",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 505,
+        "previousPoints": 508,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -3
+    },
+    {
+        "date": "1999-03-24T00:00:00",
+        "rank": "54",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 508,
+        "previousPoints": 510,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -2
+    },
+    {
+        "date": "1999-01-27T00:00:00",
+        "rank": "54",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 512,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 468
+    },
+    {
+        "date": "1999-02-24T00:00:00",
+        "rank": "54",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 510,
+        "previousPoints": 512,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -2
+    },
+    {
+        "date": "1998-12-23T00:00:00",
+        "rank": "52",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 44,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 1
+    },
+    {
+        "date": "1998-11-18T00:00:00",
+        "rank": "55",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 43,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "1998-10-21T00:00:00",
+        "rank": "59",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 43,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -3
+    },
+    {
+        "date": "1998-09-16T00:00:00",
+        "rank": "42",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 46,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 1
+    },
+    {
+        "date": "1998-07-15T00:00:00",
+        "rank": "44",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 46,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 1
+    },
+    {
+        "date": "1998-08-19T00:00:00",
+        "rank": "46",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 45,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -1
+    },
+    {
+        "date": "1998-04-22T00:00:00",
+        "rank": "57",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 44,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -1
+    },
+    {
+        "date": "1998-05-20T00:00:00",
+        "rank": "52",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 45,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 1
+    },
+    {
+        "date": "1998-03-18T00:00:00",
+        "rank": "56",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 45,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "1998-02-18T00:00:00",
+        "rank": "55",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 45,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 6
+    },
+    {
+        "date": "1997-12-23T00:00:00",
+        "rank": "69",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 39,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "72",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 39,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 1
+    },
+    {
+        "date": "1997-08-20T00:00:00",
+        "rank": "99",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 31,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "1997-10-17T00:00:00",
+        "rank": "74",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 38,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 6
+    },
+    {
+        "date": "1997-07-16T00:00:00",
+        "rank": "99",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 31,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "1997-06-18T00:00:00",
+        "rank": "97",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 31,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 3
+    },
+    {
+        "date": "1997-04-09T00:00:00",
+        "rank": "100",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 28,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "1997-09-17T00:00:00",
+        "rank": "94",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 32,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 1
+    },
+    {
+        "date": "1997-05-14T00:00:00",
+        "rank": "102",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 28,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "1997-02-27T00:00:00",
+        "rank": "96",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 28,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "1996-12-18T00:00:00",
+        "rank": "95",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 28,
+        "previousPoints": 27,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 1
+    },
+    {
+        "date": "1996-10-23T00:00:00",
+        "rank": "94",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 27,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -1
+    },
+    {
+        "date": "1996-11-20T00:00:00",
+        "rank": "95",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 27,
+        "previousPoints": 27,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "1996-08-28T00:00:00",
+        "rank": "90",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 28,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "1996-09-25T00:00:00",
+        "rank": "92",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 28,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "1996-07-03T00:00:00",
+        "rank": "85",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 28,
+        "previousPoints": 29,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -1
+    },
+    {
+        "date": "1996-04-24T00:00:00",
+        "rank": "71",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 30,
+        "previousPoints": 27,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 3
+    },
+    {
+        "date": "1996-02-21T00:00:00",
+        "rank": "79",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 27,
+        "previousPoints": 27,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "1996-05-22T00:00:00",
+        "rank": "75",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 29,
+        "previousPoints": 30,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -1
+    },
+    {
+        "date": "1995-11-21T00:00:00",
+        "rank": "77",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 28,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "1995-10-17T00:00:00",
+        "rank": "77",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 28,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 15
+    },
+    {
+        "date": "1996-01-24T00:00:00",
+        "rank": "79",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 27,
+        "previousPoints": 27,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "83",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 24,
+        "previousPoints": 21,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 3
+    },
+    {
+        "date": "1995-08-22T00:00:00",
+        "rank": "86",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 24,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "1995-12-19T00:00:00",
+        "rank": "79",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 27,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -1
+    },
+    {
+        "date": "1995-09-19T00:00:00",
+        "rank": "100",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 13,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": -11
+    },
+    {
+        "date": "1995-07-25T00:00:00",
+        "rank": "85",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 24,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "1994-12-20T00:00:00",
+        "rank": "92",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 18,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 1
+    },
+    {
+        "date": "1994-11-22T00:00:00",
+        "rank": "93",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 17,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 4
+    },
+    {
+        "date": "1995-04-19T00:00:00",
+        "rank": "100",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 18,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "1995-05-16T00:00:00",
+        "rank": "93",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 21,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 3
+    },
+    {
+        "date": "1995-02-20T00:00:00",
+        "rank": "98",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 18,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "1994-10-25T00:00:00",
+        "rank": "106",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "1994-07-21T00:00:00",
+        "rank": "124",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "1994-09-13T00:00:00",
+        "rank": "100",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 13,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 5
+    },
+    {
+        "date": "1994-05-17T00:00:00",
+        "rank": "129",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 8,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo"
+    },
+    {
+        "date": "1994-03-15T00:00:00",
+        "rank": "156",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 0,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo"
+    },
+    {
+        "date": "1994-06-14T00:00:00",
+        "rank": "126",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo",
+        "delta": 0
+    },
+    {
+        "date": "1994-04-19T00:00:00",
+        "rank": "156",
+        "country": "Georgia",
+        "ct": "GEO",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/geo"
+    }
+]

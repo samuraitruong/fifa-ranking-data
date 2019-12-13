@@ -1,0 +1,12 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "78",
+        "country": "Cabo Verde",
+        "ct": "CPV",
+        "points": 1318,
+        "previousPoints": 1319,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cpv",
+        "delta": -1
+    }
+]

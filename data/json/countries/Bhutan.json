@@ -1,0 +1,2217 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "189",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 911,
+        "previousPoints": 911,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "188",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 917,
+        "previousPoints": 932,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -15
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "186",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 917,
+        "previousPoints": 917,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "186",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 917,
+        "previousPoints": 917,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "185",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 916,
+        "previousPoints": 916,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "186",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 916,
+        "previousPoints": 916,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "189",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 911,
+        "previousPoints": 916,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -5
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "188",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 63,
+        "previousPoints": 57,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 6
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "188",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 917,
+        "previousPoints": 917,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "183",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 932,
+        "previousPoints": 932,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "186",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 917,
+        "previousPoints": 917,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "190",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 891,
+        "previousPoints": 891,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "186",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 916,
+        "previousPoints": 917,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -1
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "187",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 55,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "183",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 68,
+        "previousPoints": 68,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "185",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 55,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 5
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "184",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 68,
+        "previousPoints": 68,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "186",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 917,
+        "previousPoints": 917,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "188",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 57,
+        "previousPoints": 57,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "188",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 57,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 2
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "184",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 68,
+        "previousPoints": 63,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 5
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "190",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 50,
+        "previousPoints": 102,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -52
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "174",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 102,
+        "previousPoints": 123,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -21
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "166",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 123,
+        "previousPoints": 123,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "164",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 123,
+        "previousPoints": 123,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "165",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 123,
+        "previousPoints": 123,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "177",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 110,
+        "previousPoints": 110,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "164",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 123,
+        "previousPoints": 123,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "164",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 123,
+        "previousPoints": 110,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 13
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "177",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 110,
+        "previousPoints": 110,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "176",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 110,
+        "previousPoints": 103,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 7
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "177",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 103,
+        "previousPoints": 103,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "179",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 93,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 28
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "176",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 103,
+        "previousPoints": 93,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 10
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "189",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 65,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 1
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "192",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 64,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "186",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 64,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "192",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 64,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "193",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 49,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "186",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 64,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 15
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "193",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 49,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "188",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 64,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "192",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 49,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -15
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "188",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 64,
+        "previousPoints": 80,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -16
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "180",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 80,
+        "previousPoints": 106,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -26
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "173",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 106,
+        "previousPoints": 128,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -22
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "164",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 128,
+        "previousPoints": 128,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "164",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 128,
+        "previousPoints": 128,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "163",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 128,
+        "previousPoints": 128,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "166",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 128,
+        "previousPoints": 128,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "209",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "163",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 128,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "159",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 128,
+        "previousPoints": 128,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "209",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "209",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "208",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "209",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "209",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "208",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "208",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "208",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "207",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "207",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "207",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "207",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "207",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "207",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "207",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "207",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "207",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "207",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "207",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "207",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "207",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "207",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "207",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "207",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "207",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "207",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "207",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "206",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "207",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "207",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "rank": "205",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "206",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 0,
+        "previousPoints": 0,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "rank": "201",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 4,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -2
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "rank": "203",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "rank": "201",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "rank": "201",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "rank": "201",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "rank": "202",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2011-11-23T00:00:00",
+        "rank": "198",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2011-12-21T00:00:00",
+        "rank": "202",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2011-10-19T00:00:00",
+        "rank": "199",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2011-09-21T00:00:00",
+        "rank": "200",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "201",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2011-06-29T00:00:00",
+        "rank": "201",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 6,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -3
+    },
+    {
+        "date": "2011-05-18T00:00:00",
+        "rank": "196",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2011-04-13T00:00:00",
+        "rank": "196",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2011-08-24T00:00:00",
+        "rank": "201",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2011-01-12T00:00:00",
+        "rank": "197",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2011-02-02T00:00:00",
+        "rank": "197",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2011-03-09T00:00:00",
+        "rank": "197",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2010-12-15T00:00:00",
+        "rank": "197",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2010-10-20T00:00:00",
+        "rank": "198",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2010-09-15T00:00:00",
+        "rank": "198",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2010-11-17T00:00:00",
+        "rank": "197",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "197",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 9,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2010-07-14T00:00:00",
+        "rank": "198",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 9,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -6
+    },
+    {
+        "date": "2010-05-26T00:00:00",
+        "rank": "196",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 15,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 4
+    },
+    {
+        "date": "2010-04-28T00:00:00",
+        "rank": "197",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 11,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -6
+    },
+    {
+        "date": "2010-03-31T00:00:00",
+        "rank": "196",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 17,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2010-02-03T00:00:00",
+        "rank": "197",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 17,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "197",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 17,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2009-12-16T00:00:00",
+        "rank": "196",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 17,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2009-11-20T00:00:00",
+        "rank": "196",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 17,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2009-10-16T00:00:00",
+        "rank": "195",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 17,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2009-09-02T00:00:00",
+        "rank": "195",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 17,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2009-07-01T00:00:00",
+        "rank": "196",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 17,
+        "previousPoints": 30,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -13
+    },
+    {
+        "date": "2009-08-05T00:00:00",
+        "rank": "195",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 17,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2009-06-03T00:00:00",
+        "rank": "192",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 30,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 7
+    },
+    {
+        "date": "2009-05-06T00:00:00",
+        "rank": "194",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 23,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -9
+    },
+    {
+        "date": "2009-04-08T00:00:00",
+        "rank": "189",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 32,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -1
+    },
+    {
+        "date": "2009-03-11T00:00:00",
+        "rank": "189",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 33,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2008-12-17T00:00:00",
+        "rank": "187",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 33,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 1
+    },
+    {
+        "date": "2009-02-11T00:00:00",
+        "rank": "189",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 33,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2008-11-12T00:00:00",
+        "rank": "187",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 32,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2009-01-14T00:00:00",
+        "rank": "189",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 33,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2008-09-03T00:00:00",
+        "rank": "187",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 32,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2008-10-08T00:00:00",
+        "rank": "187",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 32,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "190",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 32,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2008-06-04T00:00:00",
+        "rank": "196",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 11,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 9
+    },
+    {
+        "date": "2008-07-02T00:00:00",
+        "rank": "190",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 32,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 21
+    },
+    {
+        "date": "2008-04-09T00:00:00",
+        "rank": "200",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 2,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -2
+    },
+    {
+        "date": "2008-05-07T00:00:00",
+        "rank": "199",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 2,
+        "previousPoints": 2,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2008-03-12T00:00:00",
+        "rank": "199",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2008-01-16T00:00:00",
+        "rank": "198",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2008-02-13T00:00:00",
+        "rank": "199",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2007-11-22T00:00:00",
+        "rank": "198",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2007-12-17T00:00:00",
+        "rank": "198",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2007-10-24T00:00:00",
+        "rank": "197",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2007-09-19T00:00:00",
+        "rank": "197",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2007-07-18T00:00:00",
+        "rank": "196",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2007-06-13T00:00:00",
+        "rank": "196",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2007-08-22T00:00:00",
+        "rank": "196",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 4,
+        "previousPoints": 4,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2007-04-18T00:00:00",
+        "rank": "193",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 14,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -5
+    },
+    {
+        "date": "2007-05-16T00:00:00",
+        "rank": "196",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 4,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -10
+    },
+    {
+        "date": "2007-03-14T00:00:00",
+        "rank": "192",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 19,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2007-02-14T00:00:00",
+        "rank": "192",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 19,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2007-01-17T00:00:00",
+        "rank": "191",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 19,
+        "previousPoints": 16,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 3
+    },
+    {
+        "date": "2006-12-18T00:00:00",
+        "rank": "192",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 16,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 1
+    },
+    {
+        "date": "2006-10-18T00:00:00",
+        "rank": "192",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 15,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -9
+    },
+    {
+        "date": "2006-11-22T00:00:00",
+        "rank": "194",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 15,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "189",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 24,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2006-08-16T00:00:00",
+        "rank": "187",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 24,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2006-07-12T00:00:00",
+        "rank": "187",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 24,
+        "previousPoints": 88,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -64
+    },
+    {
+        "date": "2006-03-15T00:00:00",
+        "rank": "190",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 83,
+        "previousPoints": 83,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2006-05-17T00:00:00",
+        "rank": "190",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 88,
+        "previousPoints": 89,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -1
+    },
+    {
+        "date": "2006-04-19T00:00:00",
+        "rank": "190",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 89,
+        "previousPoints": 83,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 6
+    },
+    {
+        "date": "2006-02-15T00:00:00",
+        "rank": "190",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 83,
+        "previousPoints": 84,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "189",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 85,
+        "previousPoints": 87,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -2
+    },
+    {
+        "date": "2005-12-16T00:00:00",
+        "rank": "190",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 84,
+        "previousPoints": 85,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -1
+    },
+    {
+        "date": "2006-01-18T00:00:00",
+        "rank": "190",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 84,
+        "previousPoints": 84,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2005-10-17T00:00:00",
+        "rank": "189",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 87,
+        "previousPoints": 89,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -2
+    },
+    {
+        "date": "2005-09-12T00:00:00",
+        "rank": "189",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 89,
+        "previousPoints": 90,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -1
+    },
+    {
+        "date": "2005-08-17T00:00:00",
+        "rank": "189",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 90,
+        "previousPoints": 92,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -2
+    },
+    {
+        "date": "2005-07-20T00:00:00",
+        "rank": "188",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 92,
+        "previousPoints": 94,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -2
+    },
+    {
+        "date": "2005-06-15T00:00:00",
+        "rank": "188",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 94,
+        "previousPoints": 95,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -1
+    },
+    {
+        "date": "2005-05-18T00:00:00",
+        "rank": "188",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 95,
+        "previousPoints": 96,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -1
+    },
+    {
+        "date": "2005-04-20T00:00:00",
+        "rank": "188",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 96,
+        "previousPoints": 96,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2004-12-20T00:00:00",
+        "rank": "187",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 97,
+        "previousPoints": 101,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -4
+    },
+    {
+        "date": "2005-03-23T00:00:00",
+        "rank": "188",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 96,
+        "previousPoints": 97,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -1
+    },
+    {
+        "date": "2005-01-19T00:00:00",
+        "rank": "188",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 97,
+        "previousPoints": 97,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2005-02-16T00:00:00",
+        "rank": "188",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 97,
+        "previousPoints": 97,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2004-11-10T00:00:00",
+        "rank": "187",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 101,
+        "previousPoints": 104,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -3
+    },
+    {
+        "date": "2004-09-01T00:00:00",
+        "rank": "189",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 105,
+        "previousPoints": 106,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -1
+    },
+    {
+        "date": "2004-10-06T00:00:00",
+        "rank": "188",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 104,
+        "previousPoints": 105,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -1
+    },
+    {
+        "date": "2004-07-07T00:00:00",
+        "rank": "189",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 108,
+        "previousPoints": 109,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -1
+    },
+    {
+        "date": "2004-08-04T00:00:00",
+        "rank": "189",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 106,
+        "previousPoints": 108,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -2
+    },
+    {
+        "date": "2004-05-12T00:00:00",
+        "rank": "188",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 110,
+        "previousPoints": 113,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -3
+    },
+    {
+        "date": "2004-06-09T00:00:00",
+        "rank": "189",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 109,
+        "previousPoints": 110,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -1
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "188",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 113,
+        "previousPoints": 113,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2004-04-14T00:00:00",
+        "rank": "188",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 113,
+        "previousPoints": 113,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2004-02-18T00:00:00",
+        "rank": "188",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 113,
+        "previousPoints": 113,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2004-01-14T00:00:00",
+        "rank": "187",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 113,
+        "previousPoints": 112,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 1
+    },
+    {
+        "date": "2003-12-15T00:00:00",
+        "rank": "187",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 112,
+        "previousPoints": 112,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "189",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 112,
+        "previousPoints": 109,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 3
+    },
+    {
+        "date": "2003-10-22T00:00:00",
+        "rank": "188",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 109,
+        "previousPoints": 89,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 20
+    },
+    {
+        "date": "2003-08-27T00:00:00",
+        "rank": "191",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 89,
+        "previousPoints": 89,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2003-09-24T00:00:00",
+        "rank": "191",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 89,
+        "previousPoints": 89,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2003-07-30T00:00:00",
+        "rank": "191",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 89,
+        "previousPoints": 83,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 6
+    },
+    {
+        "date": "2003-06-25T00:00:00",
+        "rank": "193",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 83,
+        "previousPoints": 82,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 1
+    },
+    {
+        "date": "2003-05-21T00:00:00",
+        "rank": "195",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 82,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 44
+    },
+    {
+        "date": "2003-04-23T00:00:00",
+        "rank": "200",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 38,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2003-02-19T00:00:00",
+        "rank": "199",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 38,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 2
+    },
+    {
+        "date": "2002-12-18T00:00:00",
+        "rank": "199",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 36,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 1
+    },
+    {
+        "date": "2003-01-15T00:00:00",
+        "rank": "199",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 36,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2003-03-26T00:00:00",
+        "rank": "200",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 38,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2002-11-20T00:00:00",
+        "rank": "199",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 35,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 1
+    },
+    {
+        "date": "2002-10-23T00:00:00",
+        "rank": "199",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 34,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2002-07-03T00:00:00",
+        "rank": "199",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 32,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 19
+    },
+    {
+        "date": "2002-08-14T00:00:00",
+        "rank": "199",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 33,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 1
+    },
+    {
+        "date": "2002-09-18T00:00:00",
+        "rank": "199",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 34,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 1
+    },
+    {
+        "date": "2002-05-15T00:00:00",
+        "rank": "202",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2002-03-20T00:00:00",
+        "rank": "202",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2002-04-17T00:00:00",
+        "rank": "202",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2002-01-16T00:00:00",
+        "rank": "202",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2001-12-19T00:00:00",
+        "rank": "202",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "202",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2001-08-22T00:00:00",
+        "rank": "202",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2001-11-21T00:00:00",
+        "rank": "202",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2001-10-17T00:00:00",
+        "rank": "202",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 13,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -1
+    },
+    {
+        "date": "2001-09-19T00:00:00",
+        "rank": "202",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2001-07-18T00:00:00",
+        "rank": "202",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2001-05-16T00:00:00",
+        "rank": "202",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "202",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2001-04-11T00:00:00",
+        "rank": "201",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 14,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": -1
+    },
+    {
+        "date": "2001-03-14T00:00:00",
+        "rank": "201",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 15,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2001-02-14T00:00:00",
+        "rank": "201",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 15,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2000-12-20T00:00:00",
+        "rank": "201",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 15,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2001-01-17T00:00:00",
+        "rank": "201",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 15,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2000-10-11T00:00:00",
+        "rank": "200",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 15,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2000-11-15T00:00:00",
+        "rank": "200",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 15,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2000-09-06T00:00:00",
+        "rank": "200",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 15,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu",
+        "delta": 0
+    },
+    {
+        "date": "2000-08-09T00:00:00",
+        "rank": "200",
+        "country": "Bhutan",
+        "ct": "BHU",
+        "points": 15,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/bhu"
+    }
+]

@@ -1,0 +1,1382 @@
+[
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "136",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 1101,
+        "previousPoints": 1105,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -4
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "141",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 1078,
+        "previousPoints": 1078,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "133",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 227,
+        "previousPoints": 228,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -1
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "139",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 1088,
+        "previousPoints": 1101,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -13
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "134",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 1105,
+        "previousPoints": 1108,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -3
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "140",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 1078,
+        "previousPoints": 1078,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "131",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 1273,
+        "previousPoints": 1276,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -3
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "133",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 225,
+        "previousPoints": 225,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "134",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 222,
+        "previousPoints": 240,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -18
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "133",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 225,
+        "previousPoints": 219,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 6
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "131",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 240,
+        "previousPoints": 240,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "141",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 1078,
+        "previousPoints": 1088,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -10
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "131",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 228,
+        "previousPoints": 228,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "132",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 228,
+        "previousPoints": 225,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 3
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "131",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 240,
+        "previousPoints": 227,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 13
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "140",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 219,
+        "previousPoints": 217,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 2
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "139",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 217,
+        "previousPoints": 217,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "90",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 361,
+        "previousPoints": 378,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -17
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "132",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 232,
+        "previousPoints": 361,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -129
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "139",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 217,
+        "previousPoints": 232,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -15
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "98",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 351,
+        "previousPoints": 349,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 2
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "88",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 378,
+        "previousPoints": 378,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "88",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 378,
+        "previousPoints": 351,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 27
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "98",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 349,
+        "previousPoints": 348,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 1
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "99",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 348,
+        "previousPoints": 343,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 5
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "100",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 343,
+        "previousPoints": 343,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "106",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 330,
+        "previousPoints": 334,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -4
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "100",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 343,
+        "previousPoints": 330,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 13
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "100",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 334,
+        "previousPoints": 344,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -10
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "103",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 344,
+        "previousPoints": 344,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "133",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 269,
+        "previousPoints": 269,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "103",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 344,
+        "previousPoints": 302,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 42
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "124",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 277,
+        "previousPoints": 277,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "134",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 269,
+        "previousPoints": 277,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -8
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "127",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 277,
+        "previousPoints": 265,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 12
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "117",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 302,
+        "previousPoints": 269,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 33
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "133",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 265,
+        "previousPoints": 265,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "131",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 265,
+        "previousPoints": 258,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 7
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "130",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 258,
+        "previousPoints": 224,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 34
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "135",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 224,
+        "previousPoints": 213,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 11
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "135",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 213,
+        "previousPoints": 218,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -5
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "132",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 218,
+        "previousPoints": 206,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 12
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "176",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 97,
+        "previousPoints": 97,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "138",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 206,
+        "previousPoints": 121,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 85
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "163",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 106,
+        "previousPoints": 103,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 3
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "175",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 97,
+        "previousPoints": 106,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -9
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "162",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 121,
+        "previousPoints": 97,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 24
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "165",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 103,
+        "previousPoints": 113,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -10
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "164",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 113,
+        "previousPoints": 113,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "164",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 103,
+        "previousPoints": 114,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -11
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "164",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 113,
+        "previousPoints": 113,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "162",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 113,
+        "previousPoints": 103,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 10
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "160",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 114,
+        "previousPoints": 125,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -11
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "158",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 125,
+        "previousPoints": 123,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 2
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "159",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 123,
+        "previousPoints": 85,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 38
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "178",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 64,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "173",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 85,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 21
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "179",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 64,
+        "previousPoints": 63,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 1
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "179",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 63,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 23
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "186",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 37,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "184",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 40,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 3
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "186",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 37,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "185",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 37,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -12
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "183",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 49,
+        "previousPoints": 48,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 1
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "186",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 48,
+        "previousPoints": 62,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -14
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "179",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 60,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -5
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "178",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 65,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "182",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 65,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "180",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 62,
+        "previousPoints": 60,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 2
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "180",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 63,
+        "previousPoints": 61,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 2
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "183",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 63,
+        "previousPoints": 63,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "183",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 65,
+        "previousPoints": 63,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 2
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "178",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 61,
+        "previousPoints": 61,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "185",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 56,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 17
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "190",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 39,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -25
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "190",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 39,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "178",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 61,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 5
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "rank": "182",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 63,
+        "previousPoints": 86,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -23
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "181",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 64,
+        "previousPoints": 63,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 1
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "rank": "179",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 86,
+        "previousPoints": 86,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "rank": "179",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 86,
+        "previousPoints": 86,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "rank": "179",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 86,
+        "previousPoints": 83,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 3
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "rank": "179",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 83,
+        "previousPoints": 83,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "rank": "179",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 83,
+        "previousPoints": 75,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 8
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "rank": "180",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 75,
+        "previousPoints": 75,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2011-11-23T00:00:00",
+        "rank": "179",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 75,
+        "previousPoints": 87,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -12
+    },
+    {
+        "date": "2011-12-21T00:00:00",
+        "rank": "180",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 75,
+        "previousPoints": 75,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2011-10-19T00:00:00",
+        "rank": "175",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 87,
+        "previousPoints": 96,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -9
+    },
+    {
+        "date": "2011-09-21T00:00:00",
+        "rank": "169",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 96,
+        "previousPoints": 90,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 6
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "169",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 93,
+        "previousPoints": 101,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -8
+    },
+    {
+        "date": "2011-06-29T00:00:00",
+        "rank": "157",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 101,
+        "previousPoints": 89,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 12
+    },
+    {
+        "date": "2011-05-18T00:00:00",
+        "rank": "159",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 89,
+        "previousPoints": 89,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2011-04-13T00:00:00",
+        "rank": "158",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 89,
+        "previousPoints": 86,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 3
+    },
+    {
+        "date": "2011-08-24T00:00:00",
+        "rank": "172",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 90,
+        "previousPoints": 93,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -3
+    },
+    {
+        "date": "2011-01-12T00:00:00",
+        "rank": "159",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 82,
+        "previousPoints": 82,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2011-02-02T00:00:00",
+        "rank": "158",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 82,
+        "previousPoints": 82,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2011-03-09T00:00:00",
+        "rank": "159",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 86,
+        "previousPoints": 82,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 4
+    },
+    {
+        "date": "2010-12-15T00:00:00",
+        "rank": "160",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 82,
+        "previousPoints": 81,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 1
+    },
+    {
+        "date": "2010-10-20T00:00:00",
+        "rank": "154",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 102,
+        "previousPoints": 122,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -20
+    },
+    {
+        "date": "2010-09-15T00:00:00",
+        "rank": "142",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 122,
+        "previousPoints": 136,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -14
+    },
+    {
+        "date": "2010-11-17T00:00:00",
+        "rank": "165",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 81,
+        "previousPoints": 102,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -21
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "136",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 136,
+        "previousPoints": 155,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -19
+    },
+    {
+        "date": "2010-07-14T00:00:00",
+        "rank": "134",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 155,
+        "previousPoints": 171,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -16
+    },
+    {
+        "date": "2010-05-26T00:00:00",
+        "rank": "131",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 171,
+        "previousPoints": 165,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 6
+    },
+    {
+        "date": "2010-04-28T00:00:00",
+        "rank": "131",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 165,
+        "previousPoints": 164,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 1
+    },
+    {
+        "date": "2010-03-31T00:00:00",
+        "rank": "132",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 164,
+        "previousPoints": 161,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 3
+    },
+    {
+        "date": "2010-02-03T00:00:00",
+        "rank": "138",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 152,
+        "previousPoints": 152,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2009-12-16T00:00:00",
+        "rank": "135",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 152,
+        "previousPoints": 152,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2009-11-20T00:00:00",
+        "rank": "138",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 152,
+        "previousPoints": 129,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 23
+    },
+    {
+        "date": "2009-10-16T00:00:00",
+        "rank": "148",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 129,
+        "previousPoints": 115,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 14
+    },
+    {
+        "date": "2009-09-02T00:00:00",
+        "rank": "156",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 115,
+        "previousPoints": 119,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -4
+    },
+    {
+        "date": "2009-07-01T00:00:00",
+        "rank": "142",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 161,
+        "previousPoints": 218,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -57
+    },
+    {
+        "date": "2009-08-05T00:00:00",
+        "rank": "153",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 119,
+        "previousPoints": 161,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -42
+    },
+    {
+        "date": "2009-06-03T00:00:00",
+        "rank": "137",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 218,
+        "previousPoints": 217,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 1
+    },
+    {
+        "date": "2009-05-06T00:00:00",
+        "rank": "135",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 217,
+        "previousPoints": 214,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 3
+    },
+    {
+        "date": "2009-04-08T00:00:00",
+        "rank": "136",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 214,
+        "previousPoints": 208,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 6
+    },
+    {
+        "date": "2009-03-11T00:00:00",
+        "rank": "139",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 208,
+        "previousPoints": 209,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -1
+    },
+    {
+        "date": "2008-12-17T00:00:00",
+        "rank": "138",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 190,
+        "previousPoints": 181,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 9
+    },
+    {
+        "date": "2009-02-11T00:00:00",
+        "rank": "138",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 209,
+        "previousPoints": 190,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 19
+    },
+    {
+        "date": "2008-11-12T00:00:00",
+        "rank": "140",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 181,
+        "previousPoints": 192,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -11
+    },
+    {
+        "date": "2009-01-14T00:00:00",
+        "rank": "137",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 190,
+        "previousPoints": 190,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2008-09-03T00:00:00",
+        "rank": "141",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 190,
+        "previousPoints": 199,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -9
+    },
+    {
+        "date": "2008-10-08T00:00:00",
+        "rank": "141",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 192,
+        "previousPoints": 190,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 2
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "133",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 199,
+        "previousPoints": 239,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -40
+    },
+    {
+        "date": "2008-06-04T00:00:00",
+        "rank": "161",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 109,
+        "previousPoints": 135,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -26
+    },
+    {
+        "date": "2008-07-02T00:00:00",
+        "rank": "123",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 239,
+        "previousPoints": 109,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 130
+    },
+    {
+        "date": "2008-04-09T00:00:00",
+        "rank": "156",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 130,
+        "previousPoints": 118,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 12
+    },
+    {
+        "date": "2008-05-07T00:00:00",
+        "rank": "154",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 135,
+        "previousPoints": 130,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 5
+    },
+    {
+        "date": "2008-03-12T00:00:00",
+        "rank": "153",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 118,
+        "previousPoints": 131,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -13
+    },
+    {
+        "date": "2008-01-16T00:00:00",
+        "rank": "148",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 131,
+        "previousPoints": 131,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2008-02-13T00:00:00",
+        "rank": "149",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 131,
+        "previousPoints": 131,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2007-11-22T00:00:00",
+        "rank": "151",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 131,
+        "previousPoints": 129,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 2
+    },
+    {
+        "date": "2007-12-17T00:00:00",
+        "rank": "148",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 131,
+        "previousPoints": 131,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    },
+    {
+        "date": "2007-10-24T00:00:00",
+        "rank": "151",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 129,
+        "previousPoints": 130,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -1
+    },
+    {
+        "date": "2007-09-19T00:00:00",
+        "rank": "149",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 130,
+        "previousPoints": 113,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 17
+    },
+    {
+        "date": "2007-07-18T00:00:00",
+        "rank": "147",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 113,
+        "previousPoints": 139,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": -26
+    },
+    {
+        "date": "2007-06-13T00:00:00",
+        "rank": "144",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 139,
+        "previousPoints": 110,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 29
+    },
+    {
+        "date": "2007-08-22T00:00:00",
+        "rank": "147",
+        "country": "Swaziland",
+        "ct": "SWZ",
+        "points": 113,
+        "previousPoints": 113,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/swz",
+        "delta": 0
+    }
+]

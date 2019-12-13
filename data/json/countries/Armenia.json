@@ -1,0 +1,2901 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "102",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 1213,
+        "previousPoints": 1226,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -13
+    },
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "100",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 1225,
+        "previousPoints": 1227,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -2
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "106",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 1206,
+        "previousPoints": 1222,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -16
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "101",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 1222,
+        "previousPoints": 1222,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "96",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 1242,
+        "previousPoints": 1230,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 12
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "98",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 1230,
+        "previousPoints": 1230,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "99",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 1226,
+        "previousPoints": 1242,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -16
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "91",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 385,
+        "previousPoints": 383,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 2
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "101",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 1222,
+        "previousPoints": 1225,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -3
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "100",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 1227,
+        "previousPoints": 1228,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -1
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "101",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 1222,
+        "previousPoints": 1222,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "98",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 1469,
+        "previousPoints": 1471,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -2
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "97",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 1230,
+        "previousPoints": 1206,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 24
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "90",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 383,
+        "previousPoints": 383,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "100",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 338,
+        "previousPoints": 347,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -9
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "90",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 383,
+        "previousPoints": 392,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -9
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "98",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 347,
+        "previousPoints": 347,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "101",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 1222,
+        "previousPoints": 1222,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "91",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 383,
+        "previousPoints": 383,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "90",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 383,
+        "previousPoints": 383,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "98",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 347,
+        "previousPoints": 385,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -38
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "90",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 392,
+        "previousPoints": 414,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -22
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "83",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 414,
+        "previousPoints": 480,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -66
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "68",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 527,
+        "previousPoints": 527,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "73",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 480,
+        "previousPoints": 527,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -47
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "72",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 480,
+        "previousPoints": 480,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "85",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 414,
+        "previousPoints": 422,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -8
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "67",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 527,
+        "previousPoints": 527,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "67",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 527,
+        "previousPoints": 414,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 113
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "82",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 422,
+        "previousPoints": 412,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 10
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "86",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 412,
+        "previousPoints": 412,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "86",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 412,
+        "previousPoints": 412,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "125",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 270,
+        "previousPoints": 317,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -47
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "87",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 412,
+        "previousPoints": 270,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 142
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "112",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 317,
+        "previousPoints": 348,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -31
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "102",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 348,
+        "previousPoints": 348,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "110",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 316,
+        "previousPoints": 316,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "102",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 348,
+        "previousPoints": 315,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 33
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "116",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 296,
+        "previousPoints": 285,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 11
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "110",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 316,
+        "previousPoints": 296,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 20
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "123",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 285,
+        "previousPoints": 285,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "110",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 315,
+        "previousPoints": 316,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -1
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "121",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 285,
+        "previousPoints": 285,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "123",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 285,
+        "previousPoints": 271,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 14
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "127",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 271,
+        "previousPoints": 377,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -106
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "91",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 377,
+        "previousPoints": 394,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -17
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "83",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 394,
+        "previousPoints": 373,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 21
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "88",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 373,
+        "previousPoints": 373,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "77",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 449,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "89",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 373,
+        "previousPoints": 383,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -10
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "79",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 437,
+        "previousPoints": 470,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -33
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "77",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 449,
+        "previousPoints": 437,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 12
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "84",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 383,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -66
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "74",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 470,
+        "previousPoints": 436,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 34
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "79",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 436,
+        "previousPoints": 436,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "75",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 432,
+        "previousPoints": 556,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -124
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "79",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 436,
+        "previousPoints": 436,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "77",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 436,
+        "previousPoints": 432,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 4
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "52",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 556,
+        "previousPoints": 648,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -92
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "36",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 648,
+        "previousPoints": 635,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 13
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "41",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 635,
+        "previousPoints": 682,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -47
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "33",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 750,
+        "previousPoints": 750,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "38",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 682,
+        "previousPoints": 750,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -68
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "33",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 750,
+        "previousPoints": 699,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 51
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "41",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 699,
+        "previousPoints": 771,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -72
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "35",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 716,
+        "previousPoints": 716,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "30",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 771,
+        "previousPoints": 716,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 55
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "38",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 716,
+        "previousPoints": 716,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "34",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 716,
+        "previousPoints": 687,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 29
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "38",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 687,
+        "previousPoints": 592,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 95
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "55",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 592,
+        "previousPoints": 534,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 58
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "66",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 534,
+        "previousPoints": 408,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 126
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "89",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 408,
+        "previousPoints": 421,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -13
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "90",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 421,
+        "previousPoints": 421,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "66",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 534,
+        "previousPoints": 534,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "80",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 462,
+        "previousPoints": 457,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 5
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "84",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 431,
+        "previousPoints": 462,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -31
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "90",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 421,
+        "previousPoints": 431,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -10
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "75",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 457,
+        "previousPoints": 457,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "82",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 444,
+        "previousPoints": 503,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -59
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "53",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 575,
+        "previousPoints": 559,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 16
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "64",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 503,
+        "previousPoints": 575,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -72
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "75",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 457,
+        "previousPoints": 444,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 13
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "rank": "55",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 559,
+        "previousPoints": 579,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -20
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "56",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 559,
+        "previousPoints": 559,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "rank": "47",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 598,
+        "previousPoints": 598,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "rank": "51",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 579,
+        "previousPoints": 598,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -19
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "rank": "47",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 598,
+        "previousPoints": 601,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -3
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "rank": "44",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 601,
+        "previousPoints": 639,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -38
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "rank": "41",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 639,
+        "previousPoints": 612,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 27
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "rank": "45",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 612,
+        "previousPoints": 612,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2011-11-23T00:00:00",
+        "rank": "46",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 612,
+        "previousPoints": 608,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 4
+    },
+    {
+        "date": "2011-12-21T00:00:00",
+        "rank": "46",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 612,
+        "previousPoints": 612,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2011-10-19T00:00:00",
+        "rank": "46",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 608,
+        "previousPoints": 610,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -2
+    },
+    {
+        "date": "2011-09-21T00:00:00",
+        "rank": "44",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 610,
+        "previousPoints": 456,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 154
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "70",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 462,
+        "previousPoints": 462,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2011-06-29T00:00:00",
+        "rank": "70",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 462,
+        "previousPoints": 524,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -62
+    },
+    {
+        "date": "2011-05-18T00:00:00",
+        "rank": "62",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 524,
+        "previousPoints": 524,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2011-04-13T00:00:00",
+        "rank": "62",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 524,
+        "previousPoints": 501,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 23
+    },
+    {
+        "date": "2011-08-24T00:00:00",
+        "rank": "71",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 456,
+        "previousPoints": 462,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -6
+    },
+    {
+        "date": "2011-01-12T00:00:00",
+        "rank": "60",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 515,
+        "previousPoints": 515,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2011-02-02T00:00:00",
+        "rank": "62",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 514,
+        "previousPoints": 515,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -1
+    },
+    {
+        "date": "2011-03-09T00:00:00",
+        "rank": "65",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 501,
+        "previousPoints": 514,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -13
+    },
+    {
+        "date": "2010-12-15T00:00:00",
+        "rank": "60",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 515,
+        "previousPoints": 517,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -2
+    },
+    {
+        "date": "2010-10-20T00:00:00",
+        "rank": "60",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 514,
+        "previousPoints": 273,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 241
+    },
+    {
+        "date": "2010-09-15T00:00:00",
+        "rank": "105",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 273,
+        "previousPoints": 318,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -45
+    },
+    {
+        "date": "2010-11-17T00:00:00",
+        "rank": "59",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 517,
+        "previousPoints": 514,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 3
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "96",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 318,
+        "previousPoints": 318,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2010-07-14T00:00:00",
+        "rank": "96",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 318,
+        "previousPoints": 311,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 7
+    },
+    {
+        "date": "2010-05-26T00:00:00",
+        "rank": "100",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 311,
+        "previousPoints": 311,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2010-04-28T00:00:00",
+        "rank": "99",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 311,
+        "previousPoints": 292,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 19
+    },
+    {
+        "date": "2010-03-31T00:00:00",
+        "rank": "106",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 292,
+        "previousPoints": 320,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -28
+    },
+    {
+        "date": "2010-02-03T00:00:00",
+        "rank": "102",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 321,
+        "previousPoints": 321,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "103",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 320,
+        "previousPoints": 321,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -1
+    },
+    {
+        "date": "2009-12-16T00:00:00",
+        "rank": "100",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 321,
+        "previousPoints": 323,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -2
+    },
+    {
+        "date": "2009-11-20T00:00:00",
+        "rank": "99",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 323,
+        "previousPoints": 325,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -2
+    },
+    {
+        "date": "2009-10-16T00:00:00",
+        "rank": "100",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 325,
+        "previousPoints": 231,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 94
+    },
+    {
+        "date": "2009-09-02T00:00:00",
+        "rank": "125",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 231,
+        "previousPoints": 243,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -12
+    },
+    {
+        "date": "2009-07-01T00:00:00",
+        "rank": "122",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 243,
+        "previousPoints": 239,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 4
+    },
+    {
+        "date": "2009-08-05T00:00:00",
+        "rank": "123",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 243,
+        "previousPoints": 243,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2009-06-03T00:00:00",
+        "rank": "131",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 239,
+        "previousPoints": 268,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -29
+    },
+    {
+        "date": "2009-05-06T00:00:00",
+        "rank": "125",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 268,
+        "previousPoints": 268,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2009-04-08T00:00:00",
+        "rank": "124",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 268,
+        "previousPoints": 285,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -17
+    },
+    {
+        "date": "2009-03-11T00:00:00",
+        "rank": "120",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 285,
+        "previousPoints": 278,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 7
+    },
+    {
+        "date": "2008-12-17T00:00:00",
+        "rank": "113",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 303,
+        "previousPoints": 304,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -1
+    },
+    {
+        "date": "2009-02-11T00:00:00",
+        "rank": "121",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 278,
+        "previousPoints": 313,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -35
+    },
+    {
+        "date": "2008-11-12T00:00:00",
+        "rank": "110",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 304,
+        "previousPoints": 353,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -49
+    },
+    {
+        "date": "2009-01-14T00:00:00",
+        "rank": "112",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 313,
+        "previousPoints": 303,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 10
+    },
+    {
+        "date": "2008-09-03T00:00:00",
+        "rank": "98",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 358,
+        "previousPoints": 372,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -14
+    },
+    {
+        "date": "2008-10-08T00:00:00",
+        "rank": "101",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 353,
+        "previousPoints": 358,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -5
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "94",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 372,
+        "previousPoints": 372,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2008-06-04T00:00:00",
+        "rank": "78",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 392,
+        "previousPoints": 392,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2008-07-02T00:00:00",
+        "rank": "96",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 372,
+        "previousPoints": 392,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -20
+    },
+    {
+        "date": "2008-04-09T00:00:00",
+        "rank": "78",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 397,
+        "previousPoints": 385,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 12
+    },
+    {
+        "date": "2008-05-07T00:00:00",
+        "rank": "80",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 392,
+        "previousPoints": 397,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -5
+    },
+    {
+        "date": "2008-03-12T00:00:00",
+        "rank": "83",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 385,
+        "previousPoints": 383,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 2
+    },
+    {
+        "date": "2008-01-16T00:00:00",
+        "rank": "85",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 386,
+        "previousPoints": 367,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 19
+    },
+    {
+        "date": "2008-02-13T00:00:00",
+        "rank": "81",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 383,
+        "previousPoints": 386,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -3
+    },
+    {
+        "date": "2007-11-22T00:00:00",
+        "rank": "90",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 367,
+        "previousPoints": 400,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -33
+    },
+    {
+        "date": "2007-12-17T00:00:00",
+        "rank": "93",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 367,
+        "previousPoints": 367,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2007-10-24T00:00:00",
+        "rank": "82",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 400,
+        "previousPoints": 393,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 7
+    },
+    {
+        "date": "2007-09-19T00:00:00",
+        "rank": "87",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 393,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -3
+    },
+    {
+        "date": "2007-07-18T00:00:00",
+        "rank": "79",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 399,
+        "previousPoints": 399,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2007-06-13T00:00:00",
+        "rank": "80",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 399,
+        "previousPoints": 180,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 219
+    },
+    {
+        "date": "2007-08-22T00:00:00",
+        "rank": "81",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 396,
+        "previousPoints": 399,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -3
+    },
+    {
+        "date": "2007-04-18T00:00:00",
+        "rank": "127",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 184,
+        "previousPoints": 210,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -26
+    },
+    {
+        "date": "2007-05-16T00:00:00",
+        "rank": "128",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 180,
+        "previousPoints": 184,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -4
+    },
+    {
+        "date": "2007-03-14T00:00:00",
+        "rank": "119",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 210,
+        "previousPoints": 209,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 1
+    },
+    {
+        "date": "2007-02-14T00:00:00",
+        "rank": "119",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 209,
+        "previousPoints": 196,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 13
+    },
+    {
+        "date": "2007-01-17T00:00:00",
+        "rank": "123",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 196,
+        "previousPoints": 196,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2006-12-18T00:00:00",
+        "rank": "123",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 196,
+        "previousPoints": 196,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2006-10-18T00:00:00",
+        "rank": "119",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 212,
+        "previousPoints": 221,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -9
+    },
+    {
+        "date": "2006-11-22T00:00:00",
+        "rank": "124",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 196,
+        "previousPoints": 212,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -16
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "112",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 221,
+        "previousPoints": 247,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -26
+    },
+    {
+        "date": "2006-08-16T00:00:00",
+        "rank": "104",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 247,
+        "previousPoints": 247,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2006-07-12T00:00:00",
+        "rank": "105",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 247,
+        "previousPoints": 416,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -169
+    },
+    {
+        "date": "2006-03-15T00:00:00",
+        "rank": "109",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 427,
+        "previousPoints": 430,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -3
+    },
+    {
+        "date": "2006-05-17T00:00:00",
+        "rank": "109",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 416,
+        "previousPoints": 421,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -5
+    },
+    {
+        "date": "2006-04-19T00:00:00",
+        "rank": "109",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 421,
+        "previousPoints": 427,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -6
+    },
+    {
+        "date": "2006-02-15T00:00:00",
+        "rank": "108",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 430,
+        "previousPoints": 431,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "110",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 430,
+        "previousPoints": 437,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -7
+    },
+    {
+        "date": "2005-12-16T00:00:00",
+        "rank": "108",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 431,
+        "previousPoints": 430,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 1
+    },
+    {
+        "date": "2006-01-18T00:00:00",
+        "rank": "108",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 431,
+        "previousPoints": 431,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2005-10-17T00:00:00",
+        "rank": "109",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 437,
+        "previousPoints": 408,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 29
+    },
+    {
+        "date": "2005-09-12T00:00:00",
+        "rank": "115",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 408,
+        "previousPoints": 390,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 18
+    },
+    {
+        "date": "2005-08-17T00:00:00",
+        "rank": "120",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 390,
+        "previousPoints": 391,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -1
+    },
+    {
+        "date": "2005-07-20T00:00:00",
+        "rank": "119",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 391,
+        "previousPoints": 394,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -3
+    },
+    {
+        "date": "2005-06-15T00:00:00",
+        "rank": "121",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 394,
+        "previousPoints": 395,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -1
+    },
+    {
+        "date": "2005-05-18T00:00:00",
+        "rank": "121",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 395,
+        "previousPoints": 406,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -11
+    },
+    {
+        "date": "2005-04-20T00:00:00",
+        "rank": "120",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 406,
+        "previousPoints": 397,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 9
+    },
+    {
+        "date": "2004-12-20T00:00:00",
+        "rank": "119",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 402,
+        "previousPoints": 389,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 13
+    },
+    {
+        "date": "2005-03-23T00:00:00",
+        "rank": "120",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 397,
+        "previousPoints": 401,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -4
+    },
+    {
+        "date": "2005-01-19T00:00:00",
+        "rank": "120",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 402,
+        "previousPoints": 402,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2005-02-16T00:00:00",
+        "rank": "120",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 401,
+        "previousPoints": 402,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -1
+    },
+    {
+        "date": "2004-11-10T00:00:00",
+        "rank": "123",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 389,
+        "previousPoints": 386,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 3
+    },
+    {
+        "date": "2004-09-01T00:00:00",
+        "rank": "119",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 401,
+        "previousPoints": 406,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -5
+    },
+    {
+        "date": "2004-10-06T00:00:00",
+        "rank": "123",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 386,
+        "previousPoints": 401,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -15
+    },
+    {
+        "date": "2004-07-07T00:00:00",
+        "rank": "118",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 407,
+        "previousPoints": 408,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -1
+    },
+    {
+        "date": "2004-08-04T00:00:00",
+        "rank": "116",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 406,
+        "previousPoints": 407,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -1
+    },
+    {
+        "date": "2004-05-12T00:00:00",
+        "rank": "112",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 411,
+        "previousPoints": 401,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 10
+    },
+    {
+        "date": "2004-06-09T00:00:00",
+        "rank": "116",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 408,
+        "previousPoints": 411,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "110",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 417,
+        "previousPoints": 405,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 12
+    },
+    {
+        "date": "2004-04-14T00:00:00",
+        "rank": "114",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 401,
+        "previousPoints": 417,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -16
+    },
+    {
+        "date": "2004-02-18T00:00:00",
+        "rank": "114",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 405,
+        "previousPoints": 407,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -2
+    },
+    {
+        "date": "2004-01-14T00:00:00",
+        "rank": "112",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 407,
+        "previousPoints": 407,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2003-12-15T00:00:00",
+        "rank": "113",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 407,
+        "previousPoints": 411,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -4
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "112",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 411,
+        "previousPoints": 413,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -2
+    },
+    {
+        "date": "2003-10-22T00:00:00",
+        "rank": "109",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 413,
+        "previousPoints": 415,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -2
+    },
+    {
+        "date": "2003-08-27T00:00:00",
+        "rank": "111",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 396,
+        "previousPoints": 400,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -4
+    },
+    {
+        "date": "2003-09-24T00:00:00",
+        "rank": "103",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 415,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 19
+    },
+    {
+        "date": "2003-07-30T00:00:00",
+        "rank": "113",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 400,
+        "previousPoints": 405,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -5
+    },
+    {
+        "date": "2003-06-25T00:00:00",
+        "rank": "112",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 405,
+        "previousPoints": 417,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -12
+    },
+    {
+        "date": "2003-05-21T00:00:00",
+        "rank": "105",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 417,
+        "previousPoints": 421,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -4
+    },
+    {
+        "date": "2003-04-23T00:00:00",
+        "rank": "105",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 421,
+        "previousPoints": 392,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 29
+    },
+    {
+        "date": "2003-02-19T00:00:00",
+        "rank": "111",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 397,
+        "previousPoints": 399,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -2
+    },
+    {
+        "date": "2002-12-18T00:00:00",
+        "rank": "107",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 399,
+        "previousPoints": 408,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -9
+    },
+    {
+        "date": "2003-01-15T00:00:00",
+        "rank": "110",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 399,
+        "previousPoints": 399,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2003-03-26T00:00:00",
+        "rank": "113",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 392,
+        "previousPoints": 397,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -5
+    },
+    {
+        "date": "2002-11-20T00:00:00",
+        "rank": "104",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 408,
+        "previousPoints": 414,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -6
+    },
+    {
+        "date": "2002-10-23T00:00:00",
+        "rank": "102",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 414,
+        "previousPoints": 419,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -5
+    },
+    {
+        "date": "2002-07-03T00:00:00",
+        "rank": "101",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 426,
+        "previousPoints": 433,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -7
+    },
+    {
+        "date": "2002-08-14T00:00:00",
+        "rank": "100",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 416,
+        "previousPoints": 426,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -10
+    },
+    {
+        "date": "2002-09-18T00:00:00",
+        "rank": "99",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 419,
+        "previousPoints": 416,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 3
+    },
+    {
+        "date": "2002-05-15T00:00:00",
+        "rank": "101",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 433,
+        "previousPoints": 439,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -6
+    },
+    {
+        "date": "2002-03-20T00:00:00",
+        "rank": "98",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 444,
+        "previousPoints": 447,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -3
+    },
+    {
+        "date": "2002-04-17T00:00:00",
+        "rank": "99",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 439,
+        "previousPoints": 444,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -5
+    },
+    {
+        "date": "2002-01-16T00:00:00",
+        "rank": "96",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 449,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2001-12-19T00:00:00",
+        "rank": "95",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 449,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "98",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 447,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -2
+    },
+    {
+        "date": "2001-08-22T00:00:00",
+        "rank": "96",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 449,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2001-11-21T00:00:00",
+        "rank": "97",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 449,
+        "previousPoints": 448,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 1
+    },
+    {
+        "date": "2001-10-17T00:00:00",
+        "rank": "98",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 448,
+        "previousPoints": 448,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2001-09-19T00:00:00",
+        "rank": "96",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 448,
+        "previousPoints": 449,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -1
+    },
+    {
+        "date": "2001-07-18T00:00:00",
+        "rank": "97",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 449,
+        "previousPoints": 450,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -1
+    },
+    {
+        "date": "2001-05-16T00:00:00",
+        "rank": "95",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 444,
+        "previousPoints": 447,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -3
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "96",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 450,
+        "previousPoints": 444,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 6
+    },
+    {
+        "date": "2001-04-11T00:00:00",
+        "rank": "93",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 447,
+        "previousPoints": 440,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 7
+    },
+    {
+        "date": "2001-03-14T00:00:00",
+        "rank": "93",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 440,
+        "previousPoints": 440,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2001-02-14T00:00:00",
+        "rank": "92",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 440,
+        "previousPoints": 441,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -1
+    },
+    {
+        "date": "2000-12-20T00:00:00",
+        "rank": "90",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 441,
+        "previousPoints": 440,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 1
+    },
+    {
+        "date": "2001-01-17T00:00:00",
+        "rank": "92",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 441,
+        "previousPoints": 441,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2000-10-11T00:00:00",
+        "rank": "87",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 446,
+        "previousPoints": 462,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -16
+    },
+    {
+        "date": "2000-11-15T00:00:00",
+        "rank": "91",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 440,
+        "previousPoints": 446,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -6
+    },
+    {
+        "date": "2000-09-06T00:00:00",
+        "rank": "79",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 462,
+        "previousPoints": 441,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 21
+    },
+    {
+        "date": "2000-08-09T00:00:00",
+        "rank": "88",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 441,
+        "previousPoints": 441,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2000-07-05T00:00:00",
+        "rank": "89",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 441,
+        "previousPoints": 434,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 7
+    },
+    {
+        "date": "2000-06-07T00:00:00",
+        "rank": "89",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 434,
+        "previousPoints": 433,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 1
+    },
+    {
+        "date": "2000-04-12T00:00:00",
+        "rank": "91",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 431,
+        "previousPoints": 431,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "2000-05-10T00:00:00",
+        "rank": "88",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 433,
+        "previousPoints": 431,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 2
+    },
+    {
+        "date": "2000-02-16T00:00:00",
+        "rank": "87",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 431,
+        "previousPoints": 425,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 6
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "89",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 431,
+        "previousPoints": 431,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1999-11-17T00:00:00",
+        "rank": "87",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 426,
+        "previousPoints": 423,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 3
+    },
+    {
+        "date": "1999-12-22T00:00:00",
+        "rank": "85",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 423,
+        "previousPoints": 426,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -3
+    },
+    {
+        "date": "2000-01-19T00:00:00",
+        "rank": "85",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 425,
+        "previousPoints": 423,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 2
+    },
+    {
+        "date": "1999-10-13T00:00:00",
+        "rank": "87",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 423,
+        "previousPoints": 405,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 18
+    },
+    {
+        "date": "1999-08-18T00:00:00",
+        "rank": "89",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 409,
+        "previousPoints": 410,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -1
+    },
+    {
+        "date": "1999-09-15T00:00:00",
+        "rank": "91",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 405,
+        "previousPoints": 409,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -4
+    },
+    {
+        "date": "1999-07-21T00:00:00",
+        "rank": "89",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 410,
+        "previousPoints": 411,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -1
+    },
+    {
+        "date": "1999-06-16T00:00:00",
+        "rank": "86",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 411,
+        "previousPoints": 403,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 8
+    },
+    {
+        "date": "1999-05-19T00:00:00",
+        "rank": "90",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 403,
+        "previousPoints": 404,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -1
+    },
+    {
+        "date": "1999-04-21T00:00:00",
+        "rank": "91",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 404,
+        "previousPoints": 399,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 5
+    },
+    {
+        "date": "1999-03-24T00:00:00",
+        "rank": "89",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 399,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 3
+    },
+    {
+        "date": "1999-01-27T00:00:00",
+        "rank": "89",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 397,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 366
+    },
+    {
+        "date": "1999-02-24T00:00:00",
+        "rank": "89",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 396,
+        "previousPoints": 397,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -1
+    },
+    {
+        "date": "1998-12-23T00:00:00",
+        "rank": "100",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 31,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 3
+    },
+    {
+        "date": "1998-11-18T00:00:00",
+        "rank": "108",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 28,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1998-10-21T00:00:00",
+        "rank": "106",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 28,
+        "previousPoints": 27,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 1
+    },
+    {
+        "date": "1998-09-16T00:00:00",
+        "rank": "109",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 27,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 2
+    },
+    {
+        "date": "1998-07-15T00:00:00",
+        "rank": "110",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 25,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1998-08-19T00:00:00",
+        "rank": "111",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 25,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1998-04-22T00:00:00",
+        "rank": "105",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 28,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1998-05-20T00:00:00",
+        "rank": "111",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 25,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -3
+    },
+    {
+        "date": "1998-03-18T00:00:00",
+        "rank": "107",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 28,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1998-02-18T00:00:00",
+        "rank": "105",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 28,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1997-12-23T00:00:00",
+        "rank": "105",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 28,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "108",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 28,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1997-08-20T00:00:00",
+        "rank": "108",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1997-10-17T00:00:00",
+        "rank": "105",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 28,
+        "previousPoints": 29,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -1
+    },
+    {
+        "date": "1997-07-16T00:00:00",
+        "rank": "108",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1997-06-18T00:00:00",
+        "rank": "107",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1997-04-09T00:00:00",
+        "rank": "110",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 24,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1997-09-17T00:00:00",
+        "rank": "104",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 29,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 3
+    },
+    {
+        "date": "1997-05-14T00:00:00",
+        "rank": "107",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 26,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 2
+    },
+    {
+        "date": "1997-02-27T00:00:00",
+        "rank": "108",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 24,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1996-12-18T00:00:00",
+        "rank": "106",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 24,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1996-10-23T00:00:00",
+        "rank": "112",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 22,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 2
+    },
+    {
+        "date": "1996-11-20T00:00:00",
+        "rank": "104",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 24,
+        "previousPoints": 22,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 2
+    },
+    {
+        "date": "1996-08-28T00:00:00",
+        "rank": "122",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 19,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1996-09-25T00:00:00",
+        "rank": "114",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 20,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 1
+    },
+    {
+        "date": "1996-07-03T00:00:00",
+        "rank": "119",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 19,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 4
+    },
+    {
+        "date": "1996-04-24T00:00:00",
+        "rank": "115",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 16,
+        "previousPoints": 16,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1996-02-21T00:00:00",
+        "rank": "117",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 16,
+        "previousPoints": 16,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1996-05-22T00:00:00",
+        "rank": "124",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 15,
+        "previousPoints": 16,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -1
+    },
+    {
+        "date": "1995-11-21T00:00:00",
+        "rank": "112",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 16,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 1
+    },
+    {
+        "date": "1995-10-17T00:00:00",
+        "rank": "114",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 15,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 10
+    },
+    {
+        "date": "1996-01-24T00:00:00",
+        "rank": "114",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 16,
+        "previousPoints": 16,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "128",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 10,
+        "previousPoints": 9,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 1
+    },
+    {
+        "date": "1995-08-22T00:00:00",
+        "rank": "127",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 12,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 1
+    },
+    {
+        "date": "1995-12-19T00:00:00",
+        "rank": "113",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 16,
+        "previousPoints": 16,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1995-09-19T00:00:00",
+        "rank": "142",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 5,
+        "previousPoints": 12,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": -7
+    },
+    {
+        "date": "1995-07-25T00:00:00",
+        "rank": "130",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 11,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 1
+    },
+    {
+        "date": "1994-12-20T00:00:00",
+        "rank": "141",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1994-11-22T00:00:00",
+        "rank": "141",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1995-04-19T00:00:00",
+        "rank": "144",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1995-05-16T00:00:00",
+        "rank": "133",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 9,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 3
+    },
+    {
+        "date": "1995-02-20T00:00:00",
+        "rank": "144",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1994-10-25T00:00:00",
+        "rank": "141",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 6,
+        "previousPoints": 5,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 1
+    },
+    {
+        "date": "1994-07-21T00:00:00",
+        "rank": "159",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 1,
+        "previousPoints": 1,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 0
+    },
+    {
+        "date": "1994-09-13T00:00:00",
+        "rank": "142",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 5,
+        "previousPoints": 1,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm",
+        "delta": 4
+    },
+    {
+        "date": "1994-06-14T00:00:00",
+        "rank": "159",
+        "country": "Armenia",
+        "ct": "ARM",
+        "points": 1,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/arm"
+    }
+]

@@ -1,0 +1,671 @@
+[
+    {
+        "date": "1999-11-17T00:00:00",
+        "rank": "59",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 496,
+        "previousPoints": 493,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 3
+    },
+    {
+        "date": "1999-10-13T00:00:00",
+        "rank": "60",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 493,
+        "previousPoints": 496,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": -3
+    },
+    {
+        "date": "1999-08-18T00:00:00",
+        "rank": "59",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 497,
+        "previousPoints": 499,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": -2
+    },
+    {
+        "date": "1999-09-15T00:00:00",
+        "rank": "61",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 496,
+        "previousPoints": 497,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": -1
+    },
+    {
+        "date": "1999-07-21T00:00:00",
+        "rank": "59",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 499,
+        "previousPoints": 502,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": -3
+    },
+    {
+        "date": "1999-06-16T00:00:00",
+        "rank": "57",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 502,
+        "previousPoints": 498,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 4
+    },
+    {
+        "date": "1999-05-19T00:00:00",
+        "rank": "58",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 498,
+        "previousPoints": 501,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": -3
+    },
+    {
+        "date": "1999-04-21T00:00:00",
+        "rank": "58",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 501,
+        "previousPoints": 502,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": -1
+    },
+    {
+        "date": "1999-03-24T00:00:00",
+        "rank": "57",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 502,
+        "previousPoints": 505,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": -3
+    },
+    {
+        "date": "1999-01-27T00:00:00",
+        "rank": "51",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 514,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 473
+    },
+    {
+        "date": "1999-02-24T00:00:00",
+        "rank": "55",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 505,
+        "previousPoints": 514,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": -9
+    },
+    {
+        "date": "1998-12-23T00:00:00",
+        "rank": "62",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 41,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1998-11-18T00:00:00",
+        "rank": "62",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 41,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1998-10-21T00:00:00",
+        "rank": "65",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 41,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 2
+    },
+    {
+        "date": "1998-09-16T00:00:00",
+        "rank": "69",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 39,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": -1
+    },
+    {
+        "date": "1998-07-15T00:00:00",
+        "rank": "60",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 42,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 1
+    },
+    {
+        "date": "1998-08-19T00:00:00",
+        "rank": "66",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 40,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": -2
+    },
+    {
+        "date": "1998-04-22T00:00:00",
+        "rank": "64",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 41,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1998-05-20T00:00:00",
+        "rank": "63",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 41,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1998-03-18T00:00:00",
+        "rank": "63",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 41,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 4
+    },
+    {
+        "date": "1998-02-18T00:00:00",
+        "rank": "82",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 37,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": -1
+    },
+    {
+        "date": "1997-12-23T00:00:00",
+        "rank": "76",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 38,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "77",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 38,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 1
+    },
+    {
+        "date": "1997-08-20T00:00:00",
+        "rank": "77",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 37,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 2
+    },
+    {
+        "date": "1997-10-17T00:00:00",
+        "rank": "78",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 37,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1997-07-16T00:00:00",
+        "rank": "79",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 35,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": -1
+    },
+    {
+        "date": "1997-06-18T00:00:00",
+        "rank": "76",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 36,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": -2
+    },
+    {
+        "date": "1997-04-09T00:00:00",
+        "rank": "67",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 38,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 1
+    },
+    {
+        "date": "1997-09-17T00:00:00",
+        "rank": "78",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 37,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1997-05-14T00:00:00",
+        "rank": "70",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 38,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1997-02-27T00:00:00",
+        "rank": "63",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 37,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 1
+    },
+    {
+        "date": "1996-12-18T00:00:00",
+        "rank": "66",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 36,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1996-10-23T00:00:00",
+        "rank": "64",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 36,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1996-11-20T00:00:00",
+        "rank": "65",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 36,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1996-08-28T00:00:00",
+        "rank": "59",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 36,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1996-09-25T00:00:00",
+        "rank": "60",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 36,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1996-07-03T00:00:00",
+        "rank": "58",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 36,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 4
+    },
+    {
+        "date": "1996-04-24T00:00:00",
+        "rank": "71",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 30,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": -3
+    },
+    {
+        "date": "1996-02-21T00:00:00",
+        "rank": "67",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 33,
+        "previousPoints": 30,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 3
+    },
+    {
+        "date": "1996-05-22T00:00:00",
+        "rank": "66",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 32,
+        "previousPoints": 30,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 2
+    },
+    {
+        "date": "1995-11-21T00:00:00",
+        "rank": "66",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 32,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1995-10-17T00:00:00",
+        "rank": "64",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 32,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 6
+    },
+    {
+        "date": "1996-01-24T00:00:00",
+        "rank": "71",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 30,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": -2
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "56",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 35,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 4
+    },
+    {
+        "date": "1995-08-22T00:00:00",
+        "rank": "58",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 34,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": -1
+    },
+    {
+        "date": "1995-12-19T00:00:00",
+        "rank": "68",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 32,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1995-09-19T00:00:00",
+        "rank": "60",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 26,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": -8
+    },
+    {
+        "date": "1995-07-25T00:00:00",
+        "rank": "59",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 35,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1994-12-20T00:00:00",
+        "rank": "68",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 27,
+        "previousPoints": 27,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1994-11-22T00:00:00",
+        "rank": "66",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 27,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 1
+    },
+    {
+        "date": "1995-04-19T00:00:00",
+        "rank": "70",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 28,
+        "previousPoints": 29,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": -1
+    },
+    {
+        "date": "1995-05-16T00:00:00",
+        "rank": "64",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 31,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 3
+    },
+    {
+        "date": "1995-02-20T00:00:00",
+        "rank": "66",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 29,
+        "previousPoints": 27,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 2
+    },
+    {
+        "date": "1994-10-25T00:00:00",
+        "rank": "66",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1994-07-21T00:00:00",
+        "rank": "60",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1994-09-13T00:00:00",
+        "rank": "60",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1994-05-17T00:00:00",
+        "rank": "64",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 26,
+        "previousPoints": 27,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": -1
+    },
+    {
+        "date": "1994-03-15T00:00:00",
+        "rank": "77",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 23,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": -2
+    },
+    {
+        "date": "1994-06-14T00:00:00",
+        "rank": "63",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1994-04-19T00:00:00",
+        "rank": "66",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 27,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 4
+    },
+    {
+        "date": "1993-12-23T00:00:00",
+        "rank": "71",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 25,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1994-02-15T00:00:00",
+        "rank": "71",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 25,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1993-11-19T00:00:00",
+        "rank": "70",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 25,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1993-08-08T00:00:00",
+        "rank": "71",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 25,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 0
+    },
+    {
+        "date": "1993-09-23T00:00:00",
+        "rank": "69",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 27,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": 2
+    },
+    {
+        "date": "1993-10-22T00:00:00",
+        "rank": "70",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 25,
+        "previousPoints": 27,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai",
+        "delta": -2
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "60",
+        "country": "Zaire",
+        "ct": "ZAI",
+        "points": 25,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/zai"
+    }
+]

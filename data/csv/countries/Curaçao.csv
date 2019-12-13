@@ -1,0 +1,4 @@
+,date,rank,country,ct,points,previousPoints,flag,delta
+0,2019-11-28T00:00:00,80,Curaçao,CUW,1313,1323,https://api.fifa.com/api/v1/picture/flags-sq-4/cuw,-10
+1,2018-07-01T00:00:00,100,Curaçao,CUW,1450,1450,https://api.fifa.com/api/v1/picture/flags-sq-4/cuw,0
+2,2018-04-12T00:00:00,71,Curaçao,CUW,439,407,https://api.fifa.com/api/v1/picture/flags-sq-4/cuw,32

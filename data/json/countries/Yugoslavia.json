@@ -1,0 +1,1021 @@
+[
+    {
+        "date": "2002-11-20T00:00:00",
+        "rank": "16",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 687,
+        "previousPoints": 690,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -3
+    },
+    {
+        "date": "2002-10-23T00:00:00",
+        "rank": "16",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 690,
+        "previousPoints": 672,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 18
+    },
+    {
+        "date": "2002-07-03T00:00:00",
+        "rank": "16",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 689,
+        "previousPoints": 702,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -13
+    },
+    {
+        "date": "2002-08-14T00:00:00",
+        "rank": "16",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 688,
+        "previousPoints": 689,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -1
+    },
+    {
+        "date": "2002-09-18T00:00:00",
+        "rank": "20",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 672,
+        "previousPoints": 688,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -16
+    },
+    {
+        "date": "2002-05-15T00:00:00",
+        "rank": "10",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 702,
+        "previousPoints": 702,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 0
+    },
+    {
+        "date": "2002-03-20T00:00:00",
+        "rank": "11",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 708,
+        "previousPoints": 707,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 1
+    },
+    {
+        "date": "2002-04-17T00:00:00",
+        "rank": "10",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 702,
+        "previousPoints": 708,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -6
+    },
+    {
+        "date": "2002-01-16T00:00:00",
+        "rank": "11",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 710,
+        "previousPoints": 710,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 0
+    },
+    {
+        "date": "2001-12-19T00:00:00",
+        "rank": "11",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 710,
+        "previousPoints": 709,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "11",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 707,
+        "previousPoints": 710,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -3
+    },
+    {
+        "date": "2001-08-22T00:00:00",
+        "rank": "13",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 691,
+        "previousPoints": 688,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 3
+    },
+    {
+        "date": "2001-11-21T00:00:00",
+        "rank": "12",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 709,
+        "previousPoints": 709,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 0
+    },
+    {
+        "date": "2001-10-17T00:00:00",
+        "rank": "12",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 709,
+        "previousPoints": 705,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 4
+    },
+    {
+        "date": "2001-09-19T00:00:00",
+        "rank": "13",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 705,
+        "previousPoints": 691,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 14
+    },
+    {
+        "date": "2001-07-18T00:00:00",
+        "rank": "12",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 688,
+        "previousPoints": 702,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -14
+    },
+    {
+        "date": "2001-05-16T00:00:00",
+        "rank": "11",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 689,
+        "previousPoints": 697,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -8
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "11",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 702,
+        "previousPoints": 689,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 13
+    },
+    {
+        "date": "2001-04-11T00:00:00",
+        "rank": "11",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 697,
+        "previousPoints": 701,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -4
+    },
+    {
+        "date": "2001-03-14T00:00:00",
+        "rank": "10",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 701,
+        "previousPoints": 705,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -4
+    },
+    {
+        "date": "2001-02-14T00:00:00",
+        "rank": "9",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 705,
+        "previousPoints": 707,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -2
+    },
+    {
+        "date": "2000-12-20T00:00:00",
+        "rank": "9",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 707,
+        "previousPoints": 712,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -5
+    },
+    {
+        "date": "2001-01-17T00:00:00",
+        "rank": "9",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 707,
+        "previousPoints": 707,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 0
+    },
+    {
+        "date": "2000-10-11T00:00:00",
+        "rank": "10",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 711,
+        "previousPoints": 714,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -3
+    },
+    {
+        "date": "2000-11-15T00:00:00",
+        "rank": "9",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 712,
+        "previousPoints": 711,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 1
+    },
+    {
+        "date": "2000-09-06T00:00:00",
+        "rank": "8",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 714,
+        "previousPoints": 704,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 10
+    },
+    {
+        "date": "2000-08-09T00:00:00",
+        "rank": "10",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 704,
+        "previousPoints": 705,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -1
+    },
+    {
+        "date": "2000-07-05T00:00:00",
+        "rank": "11",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 705,
+        "previousPoints": 695,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 10
+    },
+    {
+        "date": "2000-06-07T00:00:00",
+        "rank": "10",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 695,
+        "previousPoints": 693,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 2
+    },
+    {
+        "date": "2000-04-12T00:00:00",
+        "rank": "11",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 695,
+        "previousPoints": 689,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 6
+    },
+    {
+        "date": "2000-05-10T00:00:00",
+        "rank": "11",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 693,
+        "previousPoints": 695,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -2
+    },
+    {
+        "date": "2000-02-16T00:00:00",
+        "rank": "13",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 692,
+        "previousPoints": 694,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "13",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 689,
+        "previousPoints": 692,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -3
+    },
+    {
+        "date": "1999-11-17T00:00:00",
+        "rank": "13",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 691,
+        "previousPoints": 669,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 22
+    },
+    {
+        "date": "1999-12-22T00:00:00",
+        "rank": "13",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 694,
+        "previousPoints": 691,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 3
+    },
+    {
+        "date": "2000-01-19T00:00:00",
+        "rank": "13",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 694,
+        "previousPoints": 694,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 0
+    },
+    {
+        "date": "1999-10-13T00:00:00",
+        "rank": "15",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 669,
+        "previousPoints": 656,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 13
+    },
+    {
+        "date": "1999-08-18T00:00:00",
+        "rank": "22",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 620,
+        "previousPoints": 624,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -4
+    },
+    {
+        "date": "1999-09-15T00:00:00",
+        "rank": "17",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 656,
+        "previousPoints": 620,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 36
+    },
+    {
+        "date": "1999-07-21T00:00:00",
+        "rank": "21",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 624,
+        "previousPoints": 645,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -21
+    },
+    {
+        "date": "1999-06-16T00:00:00",
+        "rank": "16",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 645,
+        "previousPoints": 647,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -2
+    },
+    {
+        "date": "1999-05-19T00:00:00",
+        "rank": "16",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 647,
+        "previousPoints": 650,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -3
+    },
+    {
+        "date": "1999-04-21T00:00:00",
+        "rank": "16",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 650,
+        "previousPoints": 650,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 0
+    },
+    {
+        "date": "1999-03-24T00:00:00",
+        "rank": "16",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 650,
+        "previousPoints": 649,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 1
+    },
+    {
+        "date": "1999-01-27T00:00:00",
+        "rank": "16",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 643,
+        "previousPoints": 65,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 578
+    },
+    {
+        "date": "1999-02-24T00:00:00",
+        "rank": "16",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 649,
+        "previousPoints": 643,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 6
+    },
+    {
+        "date": "1998-12-23T00:00:00",
+        "rank": "6",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 65,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 1
+    },
+    {
+        "date": "1998-11-18T00:00:00",
+        "rank": "7",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 64,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 0
+    },
+    {
+        "date": "1998-10-21T00:00:00",
+        "rank": "8",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 64,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 0
+    },
+    {
+        "date": "1998-09-16T00:00:00",
+        "rank": "8",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 64,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 0
+    },
+    {
+        "date": "1998-07-15T00:00:00",
+        "rank": "7",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 64,
+        "previousPoints": 59,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 5
+    },
+    {
+        "date": "1998-08-19T00:00:00",
+        "rank": "7",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 64,
+        "previousPoints": 64,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 0
+    },
+    {
+        "date": "1998-04-22T00:00:00",
+        "rank": "8",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 58,
+        "previousPoints": 59,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -1
+    },
+    {
+        "date": "1998-05-20T00:00:00",
+        "rank": "8",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 59,
+        "previousPoints": 58,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 1
+    },
+    {
+        "date": "1998-03-18T00:00:00",
+        "rank": "12",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 59,
+        "previousPoints": 59,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 0
+    },
+    {
+        "date": "1998-02-18T00:00:00",
+        "rank": "8",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 59,
+        "previousPoints": 57,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 2
+    },
+    {
+        "date": "1997-12-23T00:00:00",
+        "rank": "20",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 57,
+        "previousPoints": 56,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 1
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "22",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 56,
+        "previousPoints": 52,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 4
+    },
+    {
+        "date": "1997-08-20T00:00:00",
+        "rank": "39",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 49,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 0
+    },
+    {
+        "date": "1997-10-17T00:00:00",
+        "rank": "36",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 52,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 1
+    },
+    {
+        "date": "1997-07-16T00:00:00",
+        "rank": "37",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 49,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 0
+    },
+    {
+        "date": "1997-06-18T00:00:00",
+        "rank": "35",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 49,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 4
+    },
+    {
+        "date": "1997-04-09T00:00:00",
+        "rank": "46",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 44,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 2
+    },
+    {
+        "date": "1997-09-17T00:00:00",
+        "rank": "37",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 51,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 2
+    },
+    {
+        "date": "1997-05-14T00:00:00",
+        "rank": "48",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 45,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 1
+    },
+    {
+        "date": "1997-02-27T00:00:00",
+        "rank": "54",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 42,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 2
+    },
+    {
+        "date": "1996-12-18T00:00:00",
+        "rank": "55",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 40,
+        "previousPoints": 38,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 2
+    },
+    {
+        "date": "1996-10-23T00:00:00",
+        "rank": "59",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 37,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 4
+    },
+    {
+        "date": "1996-11-20T00:00:00",
+        "rank": "58",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 38,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 1
+    },
+    {
+        "date": "1996-08-28T00:00:00",
+        "rank": "65",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 35,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 0
+    },
+    {
+        "date": "1996-09-25T00:00:00",
+        "rank": "70",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 33,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -2
+    },
+    {
+        "date": "1996-07-03T00:00:00",
+        "rank": "62",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 35,
+        "previousPoints": 29,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 6
+    },
+    {
+        "date": "1996-04-24T00:00:00",
+        "rank": "81",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 26,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 1
+    },
+    {
+        "date": "1996-02-21T00:00:00",
+        "rank": "83",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 25,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -1
+    },
+    {
+        "date": "1996-05-22T00:00:00",
+        "rank": "73",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 29,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 3
+    },
+    {
+        "date": "1995-11-21T00:00:00",
+        "rank": "80",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 25,
+        "previousPoints": 22,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 3
+    },
+    {
+        "date": "1995-10-17T00:00:00",
+        "rank": "93",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 22,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 4
+    },
+    {
+        "date": "1996-01-24T00:00:00",
+        "rank": "81",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "86",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 23,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 0
+    },
+    {
+        "date": "1995-08-22T00:00:00",
+        "rank": "92",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 22,
+        "previousPoints": 22,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 0
+    },
+    {
+        "date": "1995-12-19T00:00:00",
+        "rank": "81",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 26,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 1
+    },
+    {
+        "date": "1995-09-19T00:00:00",
+        "rank": "83",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 18,
+        "previousPoints": 22,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -4
+    },
+    {
+        "date": "1995-07-25T00:00:00",
+        "rank": "89",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 22,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -1
+    },
+    {
+        "date": "1994-12-20T00:00:00",
+        "rank": "101",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 15,
+        "previousPoints": 16,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -1
+    },
+    {
+        "date": "1994-11-22T00:00:00",
+        "rank": "96",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 16,
+        "previousPoints": 17,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -1
+    },
+    {
+        "date": "1995-04-19T00:00:00",
+        "rank": "83",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 23,
+        "previousPoints": 22,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 1
+    },
+    {
+        "date": "1995-05-16T00:00:00",
+        "rank": "85",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 23,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 0
+    },
+    {
+        "date": "1995-02-20T00:00:00",
+        "rank": "87",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 22,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": 7
+    },
+    {
+        "date": "1994-10-25T00:00:00",
+        "rank": "92",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 17,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -1
+    },
+    {
+        "date": "1994-07-21T00:00:00",
+        "rank": "78",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 20,
+        "previousPoints": 21,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -1
+    },
+    {
+        "date": "1994-09-13T00:00:00",
+        "rank": "83",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 18,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -2
+    },
+    {
+        "date": "1994-05-17T00:00:00",
+        "rank": "75",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 22,
+        "previousPoints": 23,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -1
+    },
+    {
+        "date": "1994-03-15T00:00:00",
+        "rank": "74",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 24,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -1
+    },
+    {
+        "date": "1994-06-14T00:00:00",
+        "rank": "78",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 21,
+        "previousPoints": 22,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -1
+    },
+    {
+        "date": "1994-04-19T00:00:00",
+        "rank": "74",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 23,
+        "previousPoints": 24,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -1
+    },
+    {
+        "date": "1993-12-23T00:00:00",
+        "rank": "68",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 26,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -2
+    },
+    {
+        "date": "1994-02-15T00:00:00",
+        "rank": "70",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 25,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -1
+    },
+    {
+        "date": "1993-11-19T00:00:00",
+        "rank": "67",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 28,
+        "previousPoints": 29,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -1
+    },
+    {
+        "date": "1993-08-08T00:00:00",
+        "rank": "56",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 31,
+        "previousPoints": 39,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -8
+    },
+    {
+        "date": "1993-09-23T00:00:00",
+        "rank": "62",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 30,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -1
+    },
+    {
+        "date": "1993-10-22T00:00:00",
+        "rank": "65",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 29,
+        "previousPoints": 30,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug",
+        "delta": -1
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "29",
+        "country": "Yugoslavia",
+        "ct": "YUG",
+        "points": 39,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/yug"
+    }
+]

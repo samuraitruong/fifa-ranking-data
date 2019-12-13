@@ -1,0 +1,3001 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "71",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 1338,
+        "previousPoints": 1353,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -15
+    },
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "77",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 1308,
+        "previousPoints": 1312,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -4
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "67",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 1360,
+        "previousPoints": 1355,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 5
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "79",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 1309,
+        "previousPoints": 1309,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "66",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 1365,
+        "previousPoints": 1360,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 5
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "65",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 1360,
+        "previousPoints": 1360,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "67",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 1353,
+        "previousPoints": 1365,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -12
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "79",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 430,
+        "previousPoints": 431,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "81",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 1305,
+        "previousPoints": 1308,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -3
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "77",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 1312,
+        "previousPoints": 1312,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "67",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 1355,
+        "previousPoints": 1309,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 46
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "74",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 1606,
+        "previousPoints": 1606,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "67",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 1360,
+        "previousPoints": 1360,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "73",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 476,
+        "previousPoints": 474,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 2
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "77",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 418,
+        "previousPoints": 405,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 13
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "73",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 474,
+        "previousPoints": 488,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -14
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "81",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 405,
+        "previousPoints": 405,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "79",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 1309,
+        "previousPoints": 1305,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 4
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "78",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 431,
+        "previousPoints": 436,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -5
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "78",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 436,
+        "previousPoints": 476,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -40
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "81",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 405,
+        "previousPoints": 430,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -25
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "72",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 488,
+        "previousPoints": 480,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 8
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "72",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 480,
+        "previousPoints": 459,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 21
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "75",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 450,
+        "previousPoints": 453,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -3
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "75",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 459,
+        "previousPoints": 450,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 9
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "74",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 459,
+        "previousPoints": 459,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "68",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 521,
+        "previousPoints": 524,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -3
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "75",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 453,
+        "previousPoints": 453,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "74",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 453,
+        "previousPoints": 521,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -68
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "68",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 524,
+        "previousPoints": 544,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -20
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "64",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 544,
+        "previousPoints": 542,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 2
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "64",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 542,
+        "previousPoints": 537,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 5
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "70",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 513,
+        "previousPoints": 504,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 9
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "64",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 537,
+        "previousPoints": 513,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 24
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "66",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 504,
+        "previousPoints": 484,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 20
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "74",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 484,
+        "previousPoints": 484,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "68",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 521,
+        "previousPoints": 521,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "74",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 484,
+        "previousPoints": 517,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -33
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "64",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 517,
+        "previousPoints": 520,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -3
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "68",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 521,
+        "previousPoints": 517,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 4
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "65",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 520,
+        "previousPoints": 547,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -27
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "70",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 517,
+        "previousPoints": 521,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -4
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "64",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 547,
+        "previousPoints": 543,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 4
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "65",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 543,
+        "previousPoints": 495,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 48
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "67",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 495,
+        "previousPoints": 491,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 4
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "70",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 491,
+        "previousPoints": 484,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 7
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "70",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 484,
+        "previousPoints": 484,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "70",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 484,
+        "previousPoints": 487,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -3
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "68",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 501,
+        "previousPoints": 501,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "69",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 487,
+        "previousPoints": 496,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -9
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "69",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 523,
+        "previousPoints": 529,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -6
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "68",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 501,
+        "previousPoints": 523,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -22
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "73",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 496,
+        "previousPoints": 501,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -5
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "66",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 529,
+        "previousPoints": 408,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 121
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "80",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 408,
+        "previousPoints": 393,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 15
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "79",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 413,
+        "previousPoints": 430,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -17
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "81",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 393,
+        "previousPoints": 385,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 8
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "85",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 385,
+        "previousPoints": 413,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -28
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "73",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 430,
+        "previousPoints": 464,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -34
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "65",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 464,
+        "previousPoints": 466,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "65",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 466,
+        "previousPoints": 460,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 6
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "67",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 499,
+        "previousPoints": 499,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "72",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 460,
+        "previousPoints": 499,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -39
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "67",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 499,
+        "previousPoints": 550,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -51
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "61",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 550,
+        "previousPoints": 565,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -15
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "71",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 507,
+        "previousPoints": 508,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "58",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 565,
+        "previousPoints": 548,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 17
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "63",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 548,
+        "previousPoints": 507,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 41
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "71",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 508,
+        "previousPoints": 496,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 12
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "71",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 496,
+        "previousPoints": 456,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 40
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "82",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 456,
+        "previousPoints": 429,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 27
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "85",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 432,
+        "previousPoints": 424,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 8
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "87",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 424,
+        "previousPoints": 423,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 1
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "89",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 423,
+        "previousPoints": 423,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "84",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 429,
+        "previousPoints": 432,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -3
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "99",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 364,
+        "previousPoints": 346,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 18
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "98",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 364,
+        "previousPoints": 364,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "89",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 423,
+        "previousPoints": 364,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 59
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "103",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 346,
+        "previousPoints": 367,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -21
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "109",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 320,
+        "previousPoints": 288,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 32
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "120",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 278,
+        "previousPoints": 279,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "116",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 288,
+        "previousPoints": 278,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 10
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "96",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 367,
+        "previousPoints": 320,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 47
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "rank": "116",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 287,
+        "previousPoints": 284,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 3
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "121",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 279,
+        "previousPoints": 287,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -8
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "rank": "120",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 281,
+        "previousPoints": 281,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "rank": "119",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 284,
+        "previousPoints": 281,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 3
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "rank": "121",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 281,
+        "previousPoints": 275,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 6
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "rank": "122",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 275,
+        "previousPoints": 243,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 32
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "rank": "132",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 243,
+        "previousPoints": 223,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 20
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "rank": "138",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 223,
+        "previousPoints": 250,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -27
+    },
+    {
+        "date": "2011-11-23T00:00:00",
+        "rank": "120",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 265,
+        "previousPoints": 276,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -11
+    },
+    {
+        "date": "2011-12-21T00:00:00",
+        "rank": "130",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 250,
+        "previousPoints": 265,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -15
+    },
+    {
+        "date": "2011-10-19T00:00:00",
+        "rank": "113",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 276,
+        "previousPoints": 287,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -11
+    },
+    {
+        "date": "2011-09-21T00:00:00",
+        "rank": "112",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 287,
+        "previousPoints": 299,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -12
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "109",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 300,
+        "previousPoints": 288,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 12
+    },
+    {
+        "date": "2011-06-29T00:00:00",
+        "rank": "110",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 289,
+        "previousPoints": 275,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 14
+    },
+    {
+        "date": "2011-05-18T00:00:00",
+        "rank": "111",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 273,
+        "previousPoints": 273,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2011-04-13T00:00:00",
+        "rank": "111",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 273,
+        "previousPoints": 264,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 9
+    },
+    {
+        "date": "2011-08-24T00:00:00",
+        "rank": "108",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 299,
+        "previousPoints": 301,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "2011-01-12T00:00:00",
+        "rank": "102",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 304,
+        "previousPoints": 301,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 3
+    },
+    {
+        "date": "2011-02-02T00:00:00",
+        "rank": "111",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 278,
+        "previousPoints": 304,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -26
+    },
+    {
+        "date": "2011-03-09T00:00:00",
+        "rank": "111",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 265,
+        "previousPoints": 279,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -14
+    },
+    {
+        "date": "2010-12-15T00:00:00",
+        "rank": "105",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 301,
+        "previousPoints": 318,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -17
+    },
+    {
+        "date": "2010-10-20T00:00:00",
+        "rank": "99",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 328,
+        "previousPoints": 349,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -21
+    },
+    {
+        "date": "2010-09-15T00:00:00",
+        "rank": "90",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 349,
+        "previousPoints": 348,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 1
+    },
+    {
+        "date": "2010-11-17T00:00:00",
+        "rank": "104",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 319,
+        "previousPoints": 328,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -9
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "90",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 348,
+        "previousPoints": 351,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -3
+    },
+    {
+        "date": "2010-07-14T00:00:00",
+        "rank": "88",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 351,
+        "previousPoints": 310,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 41
+    },
+    {
+        "date": "2010-05-26T00:00:00",
+        "rank": "101",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 310,
+        "previousPoints": 310,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2010-04-28T00:00:00",
+        "rank": "100",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 310,
+        "previousPoints": 297,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 13
+    },
+    {
+        "date": "2010-03-31T00:00:00",
+        "rank": "102",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 297,
+        "previousPoints": 230,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 67
+    },
+    {
+        "date": "2010-02-03T00:00:00",
+        "rank": "113",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 241,
+        "previousPoints": 248,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -7
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "115",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 230,
+        "previousPoints": 241,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -11
+    },
+    {
+        "date": "2009-12-16T00:00:00",
+        "rank": "112",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 248,
+        "previousPoints": 247,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 1
+    },
+    {
+        "date": "2009-11-20T00:00:00",
+        "rank": "111",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 247,
+        "previousPoints": 242,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 5
+    },
+    {
+        "date": "2009-10-16T00:00:00",
+        "rank": "115",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 242,
+        "previousPoints": 238,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 4
+    },
+    {
+        "date": "2009-09-02T00:00:00",
+        "rank": "123",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 238,
+        "previousPoints": 242,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -4
+    },
+    {
+        "date": "2009-07-01T00:00:00",
+        "rank": "122",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 243,
+        "previousPoints": 268,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -25
+    },
+    {
+        "date": "2009-08-05T00:00:00",
+        "rank": "124",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 242,
+        "previousPoints": 243,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "2009-06-03T00:00:00",
+        "rank": "122",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 268,
+        "previousPoints": 278,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -10
+    },
+    {
+        "date": "2009-05-06T00:00:00",
+        "rank": "120",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 278,
+        "previousPoints": 280,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "2009-04-08T00:00:00",
+        "rank": "122",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 280,
+        "previousPoints": 295,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -15
+    },
+    {
+        "date": "2009-03-11T00:00:00",
+        "rank": "116",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 295,
+        "previousPoints": 296,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "2008-12-17T00:00:00",
+        "rank": "110",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 320,
+        "previousPoints": 299,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 21
+    },
+    {
+        "date": "2009-02-11T00:00:00",
+        "rank": "114",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 296,
+        "previousPoints": 304,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -8
+    },
+    {
+        "date": "2008-11-12T00:00:00",
+        "rank": "113",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 299,
+        "previousPoints": 307,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -8
+    },
+    {
+        "date": "2009-01-14T00:00:00",
+        "rank": "114",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 304,
+        "previousPoints": 320,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -16
+    },
+    {
+        "date": "2008-09-03T00:00:00",
+        "rank": "109",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 323,
+        "previousPoints": 345,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -22
+    },
+    {
+        "date": "2008-10-08T00:00:00",
+        "rank": "110",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 307,
+        "previousPoints": 323,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -16
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "104",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 345,
+        "previousPoints": 348,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -3
+    },
+    {
+        "date": "2008-06-04T00:00:00",
+        "rank": "95",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 334,
+        "previousPoints": 333,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 1
+    },
+    {
+        "date": "2008-07-02T00:00:00",
+        "rank": "106",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 348,
+        "previousPoints": 334,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 14
+    },
+    {
+        "date": "2008-04-09T00:00:00",
+        "rank": "97",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 335,
+        "previousPoints": 336,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "2008-05-07T00:00:00",
+        "rank": "97",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 333,
+        "previousPoints": 335,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "2008-03-12T00:00:00",
+        "rank": "95",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 336,
+        "previousPoints": 343,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -7
+    },
+    {
+        "date": "2008-01-16T00:00:00",
+        "rank": "99",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 341,
+        "previousPoints": 342,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "2008-02-13T00:00:00",
+        "rank": "95",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 343,
+        "previousPoints": 341,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 2
+    },
+    {
+        "date": "2007-11-22T00:00:00",
+        "rank": "99",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 340,
+        "previousPoints": 348,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -8
+    },
+    {
+        "date": "2007-12-17T00:00:00",
+        "rank": "100",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 342,
+        "previousPoints": 340,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 2
+    },
+    {
+        "date": "2007-10-24T00:00:00",
+        "rank": "97",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 348,
+        "previousPoints": 338,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 10
+    },
+    {
+        "date": "2007-09-19T00:00:00",
+        "rank": "102",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 338,
+        "previousPoints": 347,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -9
+    },
+    {
+        "date": "2007-07-18T00:00:00",
+        "rank": "106",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 311,
+        "previousPoints": 341,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -30
+    },
+    {
+        "date": "2007-06-13T00:00:00",
+        "rank": "94",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 341,
+        "previousPoints": 344,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -3
+    },
+    {
+        "date": "2007-08-22T00:00:00",
+        "rank": "96",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 347,
+        "previousPoints": 311,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 36
+    },
+    {
+        "date": "2007-04-18T00:00:00",
+        "rank": "91",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 348,
+        "previousPoints": 349,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "2007-05-16T00:00:00",
+        "rank": "90",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 344,
+        "previousPoints": 348,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -4
+    },
+    {
+        "date": "2007-03-14T00:00:00",
+        "rank": "92",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 349,
+        "previousPoints": 362,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -13
+    },
+    {
+        "date": "2007-02-14T00:00:00",
+        "rank": "87",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 362,
+        "previousPoints": 371,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -9
+    },
+    {
+        "date": "2007-01-17T00:00:00",
+        "rank": "88",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 371,
+        "previousPoints": 375,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -4
+    },
+    {
+        "date": "2006-12-18T00:00:00",
+        "rank": "87",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 375,
+        "previousPoints": 394,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -19
+    },
+    {
+        "date": "2006-10-18T00:00:00",
+        "rank": "91",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 356,
+        "previousPoints": 345,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 11
+    },
+    {
+        "date": "2006-11-22T00:00:00",
+        "rank": "83",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 394,
+        "previousPoints": 356,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 38
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "88",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 345,
+        "previousPoints": 321,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 24
+    },
+    {
+        "date": "2006-08-16T00:00:00",
+        "rank": "88",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 321,
+        "previousPoints": 329,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -8
+    },
+    {
+        "date": "2006-07-12T00:00:00",
+        "rank": "90",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 329,
+        "previousPoints": 539,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -210
+    },
+    {
+        "date": "2006-03-15T00:00:00",
+        "rank": "80",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 537,
+        "previousPoints": 518,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 19
+    },
+    {
+        "date": "2006-05-17T00:00:00",
+        "rank": "71",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 539,
+        "previousPoints": 536,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 3
+    },
+    {
+        "date": "2006-04-19T00:00:00",
+        "rank": "78",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 536,
+        "previousPoints": 537,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "2006-02-15T00:00:00",
+        "rank": "84",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 518,
+        "previousPoints": 509,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 9
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "88",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 510,
+        "previousPoints": 507,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 3
+    },
+    {
+        "date": "2005-12-16T00:00:00",
+        "rank": "85",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 509,
+        "previousPoints": 510,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "2006-01-18T00:00:00",
+        "rank": "85",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 509,
+        "previousPoints": 509,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2005-10-17T00:00:00",
+        "rank": "89",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 507,
+        "previousPoints": 508,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "2005-09-12T00:00:00",
+        "rank": "88",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 508,
+        "previousPoints": 508,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2005-08-17T00:00:00",
+        "rank": "85",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 508,
+        "previousPoints": 500,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 8
+    },
+    {
+        "date": "2005-07-20T00:00:00",
+        "rank": "87",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 500,
+        "previousPoints": 503,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -3
+    },
+    {
+        "date": "2005-06-15T00:00:00",
+        "rank": "86",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 503,
+        "previousPoints": 503,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2005-05-18T00:00:00",
+        "rank": "88",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 503,
+        "previousPoints": 510,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -7
+    },
+    {
+        "date": "2005-04-20T00:00:00",
+        "rank": "85",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 510,
+        "previousPoints": 515,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -5
+    },
+    {
+        "date": "2004-12-20T00:00:00",
+        "rank": "82",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 523,
+        "previousPoints": 515,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 8
+    },
+    {
+        "date": "2005-03-23T00:00:00",
+        "rank": "83",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 515,
+        "previousPoints": 520,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -5
+    },
+    {
+        "date": "2005-01-19T00:00:00",
+        "rank": "83",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 521,
+        "previousPoints": 523,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "2005-02-16T00:00:00",
+        "rank": "83",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 520,
+        "previousPoints": 521,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "2004-11-10T00:00:00",
+        "rank": "88",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 515,
+        "previousPoints": 519,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -4
+    },
+    {
+        "date": "2004-09-01T00:00:00",
+        "rank": "77",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 520,
+        "previousPoints": 521,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "2004-10-06T00:00:00",
+        "rank": "84",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 519,
+        "previousPoints": 520,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "2004-07-07T00:00:00",
+        "rank": "71",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 523,
+        "previousPoints": 516,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 7
+    },
+    {
+        "date": "2004-08-04T00:00:00",
+        "rank": "75",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 521,
+        "previousPoints": 523,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "2004-05-12T00:00:00",
+        "rank": "70",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 519,
+        "previousPoints": 521,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "2004-06-09T00:00:00",
+        "rank": "76",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 516,
+        "previousPoints": 519,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -3
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "71",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 521,
+        "previousPoints": 511,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 10
+    },
+    {
+        "date": "2004-04-14T00:00:00",
+        "rank": "70",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 521,
+        "previousPoints": 521,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2004-02-18T00:00:00",
+        "rank": "77",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 511,
+        "previousPoints": 513,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "2004-01-14T00:00:00",
+        "rank": "77",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 513,
+        "previousPoints": 515,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "2003-12-15T00:00:00",
+        "rank": "75",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 515,
+        "previousPoints": 478,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 37
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "90",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 478,
+        "previousPoints": 410,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 68
+    },
+    {
+        "date": "2003-10-22T00:00:00",
+        "rank": "111",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 410,
+        "previousPoints": 412,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "2003-08-27T00:00:00",
+        "rank": "100",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 421,
+        "previousPoints": 430,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -9
+    },
+    {
+        "date": "2003-09-24T00:00:00",
+        "rank": "105",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 412,
+        "previousPoints": 421,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -9
+    },
+    {
+        "date": "2003-07-30T00:00:00",
+        "rank": "98",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 430,
+        "previousPoints": 439,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -9
+    },
+    {
+        "date": "2003-06-25T00:00:00",
+        "rank": "95",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 439,
+        "previousPoints": 448,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -9
+    },
+    {
+        "date": "2003-05-21T00:00:00",
+        "rank": "90",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 448,
+        "previousPoints": 453,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -5
+    },
+    {
+        "date": "2003-04-23T00:00:00",
+        "rank": "90",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 453,
+        "previousPoints": 458,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -5
+    },
+    {
+        "date": "2003-02-19T00:00:00",
+        "rank": "91",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 458,
+        "previousPoints": 460,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "2002-12-18T00:00:00",
+        "rank": "89",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 458,
+        "previousPoints": 475,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -17
+    },
+    {
+        "date": "2003-01-15T00:00:00",
+        "rank": "91",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 460,
+        "previousPoints": 458,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 2
+    },
+    {
+        "date": "2003-03-26T00:00:00",
+        "rank": "90",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 458,
+        "previousPoints": 458,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2002-11-20T00:00:00",
+        "rank": "80",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 475,
+        "previousPoints": 485,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -10
+    },
+    {
+        "date": "2002-10-23T00:00:00",
+        "rank": "78",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 485,
+        "previousPoints": 506,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -21
+    },
+    {
+        "date": "2002-07-03T00:00:00",
+        "rank": "61",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 528,
+        "previousPoints": 536,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -8
+    },
+    {
+        "date": "2002-08-14T00:00:00",
+        "rank": "59",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 526,
+        "previousPoints": 528,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "2002-09-18T00:00:00",
+        "rank": "69",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 506,
+        "previousPoints": 526,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -20
+    },
+    {
+        "date": "2002-05-15T00:00:00",
+        "rank": "63",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 536,
+        "previousPoints": 542,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -6
+    },
+    {
+        "date": "2002-03-20T00:00:00",
+        "rank": "63",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 546,
+        "previousPoints": 548,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "2002-04-17T00:00:00",
+        "rank": "62",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 542,
+        "previousPoints": 546,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -4
+    },
+    {
+        "date": "2002-01-16T00:00:00",
+        "rank": "60",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 550,
+        "previousPoints": 549,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 1
+    },
+    {
+        "date": "2001-12-19T00:00:00",
+        "rank": "60",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 549,
+        "previousPoints": 548,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 1
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "61",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 548,
+        "previousPoints": 550,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "2001-08-22T00:00:00",
+        "rank": "64",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 529,
+        "previousPoints": 518,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 11
+    },
+    {
+        "date": "2001-11-21T00:00:00",
+        "rank": "60",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 548,
+        "previousPoints": 553,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -5
+    },
+    {
+        "date": "2001-10-17T00:00:00",
+        "rank": "58",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 553,
+        "previousPoints": 532,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 21
+    },
+    {
+        "date": "2001-09-19T00:00:00",
+        "rank": "66",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 532,
+        "previousPoints": 529,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 3
+    },
+    {
+        "date": "2001-07-18T00:00:00",
+        "rank": "67",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 518,
+        "previousPoints": 519,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "2001-05-16T00:00:00",
+        "rank": "64",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 514,
+        "previousPoints": 504,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 10
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "65",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 519,
+        "previousPoints": 514,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 5
+    },
+    {
+        "date": "2001-04-11T00:00:00",
+        "rank": "66",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 504,
+        "previousPoints": 507,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -3
+    },
+    {
+        "date": "2001-03-14T00:00:00",
+        "rank": "64",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 507,
+        "previousPoints": 510,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -3
+    },
+    {
+        "date": "2001-02-14T00:00:00",
+        "rank": "64",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 510,
+        "previousPoints": 512,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "2000-12-20T00:00:00",
+        "rank": "64",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 512,
+        "previousPoints": 525,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -13
+    },
+    {
+        "date": "2001-01-17T00:00:00",
+        "rank": "64",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 512,
+        "previousPoints": 512,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "2000-10-11T00:00:00",
+        "rank": "59",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 523,
+        "previousPoints": 512,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 11
+    },
+    {
+        "date": "2000-11-15T00:00:00",
+        "rank": "60",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 525,
+        "previousPoints": 523,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 2
+    },
+    {
+        "date": "2000-09-06T00:00:00",
+        "rank": "59",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 512,
+        "previousPoints": 514,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "2000-08-09T00:00:00",
+        "rank": "59",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 514,
+        "previousPoints": 516,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "2000-07-05T00:00:00",
+        "rank": "57",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 516,
+        "previousPoints": 518,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "2000-06-07T00:00:00",
+        "rank": "56",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 518,
+        "previousPoints": 520,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "2000-04-12T00:00:00",
+        "rank": "56",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 522,
+        "previousPoints": 524,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "2000-05-10T00:00:00",
+        "rank": "58",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 520,
+        "previousPoints": 522,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "2000-02-16T00:00:00",
+        "rank": "57",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 513,
+        "previousPoints": 515,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "55",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 524,
+        "previousPoints": 513,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 11
+    },
+    {
+        "date": "1999-11-17T00:00:00",
+        "rank": "66",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 480,
+        "previousPoints": 485,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -5
+    },
+    {
+        "date": "1999-12-22T00:00:00",
+        "rank": "54",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 515,
+        "previousPoints": 480,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 35
+    },
+    {
+        "date": "2000-01-19T00:00:00",
+        "rank": "54",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 515,
+        "previousPoints": 515,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "1999-10-13T00:00:00",
+        "rank": "63",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 485,
+        "previousPoints": 487,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "1999-08-18T00:00:00",
+        "rank": "64",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 487,
+        "previousPoints": 490,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -3
+    },
+    {
+        "date": "1999-09-15T00:00:00",
+        "rank": "65",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 487,
+        "previousPoints": 487,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "1999-07-21T00:00:00",
+        "rank": "65",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 490,
+        "previousPoints": 494,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -4
+    },
+    {
+        "date": "1999-06-16T00:00:00",
+        "rank": "61",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 494,
+        "previousPoints": 496,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "1999-05-19T00:00:00",
+        "rank": "60",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 496,
+        "previousPoints": 499,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -3
+    },
+    {
+        "date": "1999-04-21T00:00:00",
+        "rank": "59",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 499,
+        "previousPoints": 501,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "1999-03-24T00:00:00",
+        "rank": "58",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 501,
+        "previousPoints": 502,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "1999-01-27T00:00:00",
+        "rank": "55",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 503,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 454
+    },
+    {
+        "date": "1999-02-24T00:00:00",
+        "rank": "56",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 502,
+        "previousPoints": 503,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "1998-12-23T00:00:00",
+        "rank": "42",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 49,
+        "previousPoints": 47,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 2
+    },
+    {
+        "date": "1998-11-18T00:00:00",
+        "rank": "42",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 47,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 4
+    },
+    {
+        "date": "1998-10-21T00:00:00",
+        "rank": "58",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 43,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 2
+    },
+    {
+        "date": "1998-09-16T00:00:00",
+        "rank": "64",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 41,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "1998-07-15T00:00:00",
+        "rank": "58",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 42,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "1998-08-19T00:00:00",
+        "rank": "57",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 42,
+        "previousPoints": 42,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "1998-04-22T00:00:00",
+        "rank": "53",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 45,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "1998-05-20T00:00:00",
+        "rank": "59",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 43,
+        "previousPoints": 45,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "1998-03-18T00:00:00",
+        "rank": "54",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 45,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "1998-02-18T00:00:00",
+        "rank": "53",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 46,
+        "previousPoints": 46,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "1997-12-23T00:00:00",
+        "rank": "50",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 46,
+        "previousPoints": 44,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 2
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "59",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 44,
+        "previousPoints": 43,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 1
+    },
+    {
+        "date": "1997-08-20T00:00:00",
+        "rank": "66",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 41,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 1
+    },
+    {
+        "date": "1997-10-17T00:00:00",
+        "rank": "60",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 43,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 3
+    },
+    {
+        "date": "1997-07-16T00:00:00",
+        "rank": "66",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 40,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "1997-06-18T00:00:00",
+        "rank": "67",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 40,
+        "previousPoints": 40,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "1997-04-09T00:00:00",
+        "rank": "68",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 37,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "1997-09-17T00:00:00",
+        "rank": "67",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 40,
+        "previousPoints": 41,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "1997-05-14T00:00:00",
+        "rank": "65",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 40,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 3
+    },
+    {
+        "date": "1997-02-27T00:00:00",
+        "rank": "64",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 37,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "1996-12-18T00:00:00",
+        "rank": "60",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 37,
+        "previousPoints": 35,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 2
+    },
+    {
+        "date": "1996-10-23T00:00:00",
+        "rank": "73",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 34,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "1996-11-20T00:00:00",
+        "rank": "69",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 35,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 1
+    },
+    {
+        "date": "1996-08-28T00:00:00",
+        "rank": "70",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 33,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "1996-09-25T00:00:00",
+        "rank": "63",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 36,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 3
+    },
+    {
+        "date": "1996-07-03T00:00:00",
+        "rank": "67",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 34,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 2
+    },
+    {
+        "date": "1996-04-24T00:00:00",
+        "rank": "65",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 32,
+        "previousPoints": 27,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 5
+    },
+    {
+        "date": "1996-02-21T00:00:00",
+        "rank": "81",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 27,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "1996-05-22T00:00:00",
+        "rank": "67",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 32,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "1995-11-21T00:00:00",
+        "rank": "73",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 30,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -6
+    },
+    {
+        "date": "1995-10-17T00:00:00",
+        "rank": "52",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 36,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 8
+    },
+    {
+        "date": "1996-01-24T00:00:00",
+        "rank": "78",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 28,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "45",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 37,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "1995-08-22T00:00:00",
+        "rank": "51",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 37,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "1995-12-19T00:00:00",
+        "rank": "75",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 28,
+        "previousPoints": 30,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -2
+    },
+    {
+        "date": "1995-09-19T00:00:00",
+        "rank": "59",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 28,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -9
+    },
+    {
+        "date": "1995-07-25T00:00:00",
+        "rank": "49",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 37,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "1994-12-20T00:00:00",
+        "rank": "46",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 37,
+        "previousPoints": 36,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 1
+    },
+    {
+        "date": "1994-11-22T00:00:00",
+        "rank": "47",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 36,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 3
+    },
+    {
+        "date": "1995-04-19T00:00:00",
+        "rank": "46",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 37,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "1995-05-16T00:00:00",
+        "rank": "47",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 37,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "1995-02-20T00:00:00",
+        "rank": "43",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 37,
+        "previousPoints": 37,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "1994-10-25T00:00:00",
+        "rank": "54",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 33,
+        "previousPoints": 28,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 5
+    },
+    {
+        "date": "1994-07-21T00:00:00",
+        "rank": "59",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "1994-09-13T00:00:00",
+        "rank": "59",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 28,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 2
+    },
+    {
+        "date": "1994-05-17T00:00:00",
+        "rank": "63",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 26,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -6
+    },
+    {
+        "date": "1994-03-15T00:00:00",
+        "rank": "50",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 33,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "1994-06-14T00:00:00",
+        "rank": "62",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 26,
+        "previousPoints": 26,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "1994-04-19T00:00:00",
+        "rank": "56",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 32,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "1993-12-23T00:00:00",
+        "rank": "51",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 34,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 2
+    },
+    {
+        "date": "1994-02-15T00:00:00",
+        "rank": "51",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 33,
+        "previousPoints": 34,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": -1
+    },
+    {
+        "date": "1993-11-19T00:00:00",
+        "rank": "55",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 32,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 1
+    },
+    {
+        "date": "1993-08-08T00:00:00",
+        "rank": "55",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 31,
+        "previousPoints": 25,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 6
+    },
+    {
+        "date": "1993-09-23T00:00:00",
+        "rank": "56",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 31,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "1993-10-22T00:00:00",
+        "rank": "55",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 31,
+        "previousPoints": 31,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae",
+        "delta": 0
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "59",
+        "country": "United Arab Emirates",
+        "ct": "UAE",
+        "points": 25,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/uae"
+    }
+]

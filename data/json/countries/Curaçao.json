@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "80",
+        "country": "Cura\u00e7ao",
+        "ct": "CUW",
+        "points": 1313,
+        "previousPoints": 1323,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": -10
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "100",
+        "country": "Cura\u00e7ao",
+        "ct": "CUW",
+        "points": 1450,
+        "previousPoints": 1450,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 0
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "71",
+        "country": "Cura\u00e7ao",
+        "ct": "CUW",
+        "points": 439,
+        "previousPoints": 407,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/cuw",
+        "delta": 32
+    }
+]

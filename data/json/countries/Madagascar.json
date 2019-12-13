@@ -1,0 +1,3001 @@
+[
+    {
+        "date": "2019-11-28T00:00:00",
+        "rank": "91",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 1267,
+        "previousPoints": 1249,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 18
+    },
+    {
+        "date": "2018-09-20T00:00:00",
+        "rank": "106",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 1205,
+        "previousPoints": 1199,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 6
+    },
+    {
+        "date": "2019-04-04T00:00:00",
+        "rank": "107",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 1203,
+        "previousPoints": 1209,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -6
+    },
+    {
+        "date": "2018-12-20T00:00:00",
+        "rank": "106",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 1209,
+        "previousPoints": 1209,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2019-09-19T00:00:00",
+        "rank": "95",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 1249,
+        "previousPoints": 1251,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -2
+    },
+    {
+        "date": "2019-07-25T00:00:00",
+        "rank": "96",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 1251,
+        "previousPoints": 1198,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 53
+    },
+    {
+        "date": "2019-10-24T00:00:00",
+        "rank": "95",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 1249,
+        "previousPoints": 1249,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2018-03-15T00:00:00",
+        "rank": "109",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 309,
+        "previousPoints": 309,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2018-10-25T00:00:00",
+        "rank": "100",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 1224,
+        "previousPoints": 1205,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 19
+    },
+    {
+        "date": "2018-08-16T00:00:00",
+        "rank": "107",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 1199,
+        "previousPoints": 1204,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -5
+    },
+    {
+        "date": "2019-02-07T00:00:00",
+        "rank": "107",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 1209,
+        "previousPoints": 1209,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2018-07-01T00:00:00",
+        "rank": "104",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 1414,
+        "previousPoints": 1420,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -6
+    },
+    {
+        "date": "2019-06-14T00:00:00",
+        "rank": "108",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 1198,
+        "previousPoints": 1203,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -5
+    },
+    {
+        "date": "2017-12-21T00:00:00",
+        "rank": "108",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 309,
+        "previousPoints": 309,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2018-06-07T00:00:00",
+        "rank": "106",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 308,
+        "previousPoints": 284,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 24
+    },
+    {
+        "date": "2017-11-23T00:00:00",
+        "rank": "108",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 309,
+        "previousPoints": 332,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -23
+    },
+    {
+        "date": "2018-05-17T00:00:00",
+        "rank": "114",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 284,
+        "previousPoints": 293,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -9
+    },
+    {
+        "date": "2018-11-29T00:00:00",
+        "rank": "106",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 1209,
+        "previousPoints": 1224,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -15
+    },
+    {
+        "date": "2018-02-15T00:00:00",
+        "rank": "108",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 309,
+        "previousPoints": 309,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2018-01-18T00:00:00",
+        "rank": "109",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 309,
+        "previousPoints": 309,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2018-04-12T00:00:00",
+        "rank": "111",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 293,
+        "previousPoints": 309,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -16
+    },
+    {
+        "date": "2017-10-16T00:00:00",
+        "rank": "103",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 332,
+        "previousPoints": 343,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -11
+    },
+    {
+        "date": "2017-09-14T00:00:00",
+        "rank": "101",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 343,
+        "previousPoints": 370,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -27
+    },
+    {
+        "date": "2017-06-01T00:00:00",
+        "rank": "97",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 341,
+        "previousPoints": 302,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 39
+    },
+    {
+        "date": "2017-07-06T00:00:00",
+        "rank": "89",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 380,
+        "previousPoints": 341,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 39
+    },
+    {
+        "date": "2017-08-10T00:00:00",
+        "rank": "90",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 370,
+        "previousPoints": 380,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -10
+    },
+    {
+        "date": "2017-03-09T00:00:00",
+        "rank": "137",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 220,
+        "previousPoints": 220,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2017-05-04T00:00:00",
+        "rank": "111",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 302,
+        "previousPoints": 276,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 26
+    },
+    {
+        "date": "2017-04-06T00:00:00",
+        "rank": "120",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 276,
+        "previousPoints": 220,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 56
+    },
+    {
+        "date": "2017-02-09T00:00:00",
+        "rank": "135",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 220,
+        "previousPoints": 220,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2017-01-12T00:00:00",
+        "rank": "135",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 220,
+        "previousPoints": 220,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2016-12-22T00:00:00",
+        "rank": "133",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 220,
+        "previousPoints": 220,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2016-10-20T00:00:00",
+        "rank": "133",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 243,
+        "previousPoints": 269,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -26
+    },
+    {
+        "date": "2016-11-24T00:00:00",
+        "rank": "136",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 220,
+        "previousPoints": 243,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -23
+    },
+    {
+        "date": "2016-09-15T00:00:00",
+        "rank": "131",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 269,
+        "previousPoints": 273,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -4
+    },
+    {
+        "date": "2016-08-11T00:00:00",
+        "rank": "129",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 273,
+        "previousPoints": 273,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2016-05-05T00:00:00",
+        "rank": "137",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 257,
+        "previousPoints": 257,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2016-07-14T00:00:00",
+        "rank": "131",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 273,
+        "previousPoints": 317,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -44
+    },
+    {
+        "date": "2016-03-03T00:00:00",
+        "rank": "130",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 272,
+        "previousPoints": 272,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2016-04-07T00:00:00",
+        "rank": "138",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 257,
+        "previousPoints": 272,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -15
+    },
+    {
+        "date": "2016-02-04T00:00:00",
+        "rank": "129",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 272,
+        "previousPoints": 272,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2016-06-02T00:00:00",
+        "rank": "108",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 317,
+        "previousPoints": 257,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 60
+    },
+    {
+        "date": "2016-01-07T00:00:00",
+        "rank": "129",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 272,
+        "previousPoints": 272,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2015-12-03T00:00:00",
+        "rank": "128",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 272,
+        "previousPoints": 290,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -18
+    },
+    {
+        "date": "2015-11-05T00:00:00",
+        "rank": "118",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 290,
+        "previousPoints": 262,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 28
+    },
+    {
+        "date": "2015-10-01T00:00:00",
+        "rank": "127",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 262,
+        "previousPoints": 251,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 11
+    },
+    {
+        "date": "2015-09-03T00:00:00",
+        "rank": "121",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 251,
+        "previousPoints": 251,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2015-08-06T00:00:00",
+        "rank": "122",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 251,
+        "previousPoints": 250,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 1
+    },
+    {
+        "date": "2015-05-07T00:00:00",
+        "rank": "150",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 156,
+        "previousPoints": 156,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2015-07-09T00:00:00",
+        "rank": "122",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 250,
+        "previousPoints": 278,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -28
+    },
+    {
+        "date": "2015-03-12T00:00:00",
+        "rank": "147",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 163,
+        "previousPoints": 166,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -3
+    },
+    {
+        "date": "2015-04-09T00:00:00",
+        "rank": "150",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 156,
+        "previousPoints": 163,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -7
+    },
+    {
+        "date": "2015-06-04T00:00:00",
+        "rank": "113",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 278,
+        "previousPoints": 156,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 122
+    },
+    {
+        "date": "2015-02-12T00:00:00",
+        "rank": "148",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 166,
+        "previousPoints": 166,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2015-01-08T00:00:00",
+        "rank": "147",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 166,
+        "previousPoints": 166,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2014-10-23T00:00:00",
+        "rank": "143",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 180,
+        "previousPoints": 180,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2014-12-18T00:00:00",
+        "rank": "147",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 166,
+        "previousPoints": 166,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2014-11-27T00:00:00",
+        "rank": "148",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 166,
+        "previousPoints": 180,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -14
+    },
+    {
+        "date": "2014-09-18T00:00:00",
+        "rank": "146",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 180,
+        "previousPoints": 179,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 1
+    },
+    {
+        "date": "2014-08-14T00:00:00",
+        "rank": "143",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 179,
+        "previousPoints": 179,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2014-07-17T00:00:00",
+        "rank": "143",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 179,
+        "previousPoints": 182,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -3
+    },
+    {
+        "date": "2014-05-08T00:00:00",
+        "rank": "189",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 32,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2014-06-05T00:00:00",
+        "rank": "144",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 182,
+        "previousPoints": 32,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 150
+    },
+    {
+        "date": "2014-04-10T00:00:00",
+        "rank": "189",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 32,
+        "previousPoints": 30,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 2
+    },
+    {
+        "date": "2014-03-13T00:00:00",
+        "rank": "190",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 30,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -3
+    },
+    {
+        "date": "2013-12-19T00:00:00",
+        "rank": "187",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 33,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2014-02-13T00:00:00",
+        "rank": "187",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 33,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2014-01-16T00:00:00",
+        "rank": "187",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 33,
+        "previousPoints": 33,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2013-11-28T00:00:00",
+        "rank": "186",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 33,
+        "previousPoints": 57,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -24
+    },
+    {
+        "date": "2013-10-17T00:00:00",
+        "rank": "180",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 57,
+        "previousPoints": 57,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2013-09-12T00:00:00",
+        "rank": "179",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 57,
+        "previousPoints": 50,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 7
+    },
+    {
+        "date": "2013-07-04T00:00:00",
+        "rank": "185",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 51,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -4
+    },
+    {
+        "date": "2013-06-06T00:00:00",
+        "rank": "184",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 55,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 4
+    },
+    {
+        "date": "2013-05-09T00:00:00",
+        "rank": "188",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 51,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2013-08-08T00:00:00",
+        "rank": "185",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 50,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "2013-02-14T00:00:00",
+        "rank": "181",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 55,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2013-03-14T00:00:00",
+        "rank": "188",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 49,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -6
+    },
+    {
+        "date": "2013-04-11T00:00:00",
+        "rank": "188",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 51,
+        "previousPoints": 49,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 2
+    },
+    {
+        "date": "2013-01-17T00:00:00",
+        "rank": "179",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 55,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2012-11-07T00:00:00",
+        "rank": "173",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 106,
+        "previousPoints": 106,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2012-09-05T00:00:00",
+        "rank": "163",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 127,
+        "previousPoints": 114,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 13
+    },
+    {
+        "date": "2012-10-03T00:00:00",
+        "rank": "171",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 106,
+        "previousPoints": 127,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -21
+    },
+    {
+        "date": "2012-12-19T00:00:00",
+        "rank": "179",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 55,
+        "previousPoints": 106,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -51
+    },
+    {
+        "date": "2012-07-04T00:00:00",
+        "rank": "167",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 115,
+        "previousPoints": 128,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -13
+    },
+    {
+        "date": "2012-08-08T00:00:00",
+        "rank": "165",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 114,
+        "previousPoints": 115,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "2012-05-09T00:00:00",
+        "rank": "166",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 121,
+        "previousPoints": 121,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2012-06-06T00:00:00",
+        "rank": "163",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 128,
+        "previousPoints": 121,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 7
+    },
+    {
+        "date": "2012-04-11T00:00:00",
+        "rank": "166",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 121,
+        "previousPoints": 123,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -2
+    },
+    {
+        "date": "2012-03-07T00:00:00",
+        "rank": "163",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 123,
+        "previousPoints": 135,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -12
+    },
+    {
+        "date": "2012-02-15T00:00:00",
+        "rank": "158",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 135,
+        "previousPoints": 135,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2012-01-18T00:00:00",
+        "rank": "160",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 135,
+        "previousPoints": 135,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2011-11-23T00:00:00",
+        "rank": "157",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 135,
+        "previousPoints": 111,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 24
+    },
+    {
+        "date": "2011-12-21T00:00:00",
+        "rank": "160",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 135,
+        "previousPoints": 135,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2011-10-19T00:00:00",
+        "rank": "165",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 111,
+        "previousPoints": 115,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -4
+    },
+    {
+        "date": "2011-09-21T00:00:00",
+        "rank": "158",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 115,
+        "previousPoints": 139,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -24
+    },
+    {
+        "date": "2011-07-27T00:00:00",
+        "rank": "150",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 143,
+        "previousPoints": 166,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -23
+    },
+    {
+        "date": "2011-06-29T00:00:00",
+        "rank": "138",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 166,
+        "previousPoints": 164,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 2
+    },
+    {
+        "date": "2011-05-18T00:00:00",
+        "rank": "138",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 164,
+        "previousPoints": 161,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 3
+    },
+    {
+        "date": "2011-04-13T00:00:00",
+        "rank": "138",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 161,
+        "previousPoints": 91,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 70
+    },
+    {
+        "date": "2011-08-24T00:00:00",
+        "rank": "152",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 139,
+        "previousPoints": 144,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -5
+    },
+    {
+        "date": "2011-01-12T00:00:00",
+        "rank": "154",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 91,
+        "previousPoints": 91,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2011-02-02T00:00:00",
+        "rank": "155",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 91,
+        "previousPoints": 91,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2011-03-09T00:00:00",
+        "rank": "156",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 91,
+        "previousPoints": 91,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2010-12-15T00:00:00",
+        "rank": "155",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 91,
+        "previousPoints": 91,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2010-10-20T00:00:00",
+        "rank": "160",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 90,
+        "previousPoints": 91,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "2010-09-15T00:00:00",
+        "rank": "154",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 91,
+        "previousPoints": 106,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -15
+    },
+    {
+        "date": "2010-11-17T00:00:00",
+        "rank": "158",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 91,
+        "previousPoints": 90,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 1
+    },
+    {
+        "date": "2010-08-11T00:00:00",
+        "rank": "148",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 106,
+        "previousPoints": 121,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -15
+    },
+    {
+        "date": "2010-07-14T00:00:00",
+        "rank": "144",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 121,
+        "previousPoints": 121,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2010-05-26T00:00:00",
+        "rank": "148",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 121,
+        "previousPoints": 115,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 6
+    },
+    {
+        "date": "2010-04-28T00:00:00",
+        "rank": "149",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 115,
+        "previousPoints": 110,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 5
+    },
+    {
+        "date": "2010-03-31T00:00:00",
+        "rank": "154",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 110,
+        "previousPoints": 105,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 5
+    },
+    {
+        "date": "2010-02-03T00:00:00",
+        "rank": "156",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 105,
+        "previousPoints": 105,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2010-03-03T00:00:00",
+        "rank": "157",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 105,
+        "previousPoints": 105,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2009-12-16T00:00:00",
+        "rank": "158",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 105,
+        "previousPoints": 105,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2009-11-20T00:00:00",
+        "rank": "155",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 105,
+        "previousPoints": 113,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -8
+    },
+    {
+        "date": "2009-10-16T00:00:00",
+        "rank": "154",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 113,
+        "previousPoints": 208,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -95
+    },
+    {
+        "date": "2009-09-02T00:00:00",
+        "rank": "131",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 208,
+        "previousPoints": 202,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 6
+    },
+    {
+        "date": "2009-07-01T00:00:00",
+        "rank": "128",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 227,
+        "previousPoints": 241,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -14
+    },
+    {
+        "date": "2009-08-05T00:00:00",
+        "rank": "132",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 202,
+        "previousPoints": 227,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -25
+    },
+    {
+        "date": "2009-06-03T00:00:00",
+        "rank": "130",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 241,
+        "previousPoints": 231,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 10
+    },
+    {
+        "date": "2009-05-06T00:00:00",
+        "rank": "131",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 231,
+        "previousPoints": 216,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 15
+    },
+    {
+        "date": "2009-04-08T00:00:00",
+        "rank": "134",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 216,
+        "previousPoints": 209,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 7
+    },
+    {
+        "date": "2009-03-11T00:00:00",
+        "rank": "138",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 209,
+        "previousPoints": 207,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 2
+    },
+    {
+        "date": "2008-12-17T00:00:00",
+        "rank": "135",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 207,
+        "previousPoints": 208,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "2009-02-11T00:00:00",
+        "rank": "139",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 207,
+        "previousPoints": 207,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2008-11-12T00:00:00",
+        "rank": "134",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 208,
+        "previousPoints": 220,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -12
+    },
+    {
+        "date": "2009-01-14T00:00:00",
+        "rank": "135",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 207,
+        "previousPoints": 207,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2008-09-03T00:00:00",
+        "rank": "141",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 190,
+        "previousPoints": 192,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -2
+    },
+    {
+        "date": "2008-10-08T00:00:00",
+        "rank": "136",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 220,
+        "previousPoints": 190,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 30
+    },
+    {
+        "date": "2008-08-06T00:00:00",
+        "rank": "136",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 192,
+        "previousPoints": 225,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -33
+    },
+    {
+        "date": "2008-06-04T00:00:00",
+        "rank": "135",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 198,
+        "previousPoints": 169,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 29
+    },
+    {
+        "date": "2008-07-02T00:00:00",
+        "rank": "130",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 225,
+        "previousPoints": 198,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 27
+    },
+    {
+        "date": "2008-04-09T00:00:00",
+        "rank": "151",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 142,
+        "previousPoints": 127,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 15
+    },
+    {
+        "date": "2008-05-07T00:00:00",
+        "rank": "146",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 169,
+        "previousPoints": 142,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 27
+    },
+    {
+        "date": "2008-03-12T00:00:00",
+        "rank": "149",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 127,
+        "previousPoints": 127,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2008-01-16T00:00:00",
+        "rank": "149",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 127,
+        "previousPoints": 127,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2008-02-13T00:00:00",
+        "rank": "150",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 127,
+        "previousPoints": 127,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2007-11-22T00:00:00",
+        "rank": "152",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 127,
+        "previousPoints": 102,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 25
+    },
+    {
+        "date": "2007-12-17T00:00:00",
+        "rank": "149",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 127,
+        "previousPoints": 127,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2007-10-24T00:00:00",
+        "rank": "158",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 102,
+        "previousPoints": 86,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 16
+    },
+    {
+        "date": "2007-09-19T00:00:00",
+        "rank": "164",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 86,
+        "previousPoints": 82,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 4
+    },
+    {
+        "date": "2007-07-18T00:00:00",
+        "rank": "167",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 59,
+        "previousPoints": 60,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "2007-06-13T00:00:00",
+        "rank": "167",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 60,
+        "previousPoints": 55,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 5
+    },
+    {
+        "date": "2007-08-22T00:00:00",
+        "rank": "163",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 82,
+        "previousPoints": 59,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 23
+    },
+    {
+        "date": "2007-04-18T00:00:00",
+        "rank": "182",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 27,
+        "previousPoints": 27,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2007-05-16T00:00:00",
+        "rank": "171",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 55,
+        "previousPoints": 27,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 28
+    },
+    {
+        "date": "2007-03-14T00:00:00",
+        "rank": "184",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 27,
+        "previousPoints": 30,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -3
+    },
+    {
+        "date": "2007-02-14T00:00:00",
+        "rank": "185",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 30,
+        "previousPoints": 30,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2007-01-17T00:00:00",
+        "rank": "184",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 30,
+        "previousPoints": 30,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2006-12-18T00:00:00",
+        "rank": "184",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 30,
+        "previousPoints": 30,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2006-10-18T00:00:00",
+        "rank": "174",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 51,
+        "previousPoints": 67,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -16
+    },
+    {
+        "date": "2006-11-22T00:00:00",
+        "rank": "188",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 30,
+        "previousPoints": 51,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -21
+    },
+    {
+        "date": "2006-09-13T00:00:00",
+        "rank": "168",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 67,
+        "previousPoints": 89,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -22
+    },
+    {
+        "date": "2006-08-16T00:00:00",
+        "rank": "154",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 89,
+        "previousPoints": 88,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 1
+    },
+    {
+        "date": "2006-07-12T00:00:00",
+        "rank": "156",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 88,
+        "previousPoints": 252,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -164
+    },
+    {
+        "date": "2006-03-15T00:00:00",
+        "rank": "150",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 261,
+        "previousPoints": 263,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -2
+    },
+    {
+        "date": "2006-05-17T00:00:00",
+        "rank": "151",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 252,
+        "previousPoints": 256,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -4
+    },
+    {
+        "date": "2006-04-19T00:00:00",
+        "rank": "151",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 256,
+        "previousPoints": 261,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -5
+    },
+    {
+        "date": "2006-02-15T00:00:00",
+        "rank": "150",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 263,
+        "previousPoints": 264,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "2005-11-21T00:00:00",
+        "rank": "149",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 273,
+        "previousPoints": 263,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 10
+    },
+    {
+        "date": "2005-12-16T00:00:00",
+        "rank": "149",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 264,
+        "previousPoints": 273,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -9
+    },
+    {
+        "date": "2006-01-18T00:00:00",
+        "rank": "150",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 264,
+        "previousPoints": 264,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2005-10-17T00:00:00",
+        "rank": "150",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 263,
+        "previousPoints": 273,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -10
+    },
+    {
+        "date": "2005-09-12T00:00:00",
+        "rank": "150",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 273,
+        "previousPoints": 280,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -7
+    },
+    {
+        "date": "2005-08-17T00:00:00",
+        "rank": "150",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 280,
+        "previousPoints": 288,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -8
+    },
+    {
+        "date": "2005-07-20T00:00:00",
+        "rank": "150",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 288,
+        "previousPoints": 295,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -7
+    },
+    {
+        "date": "2005-06-15T00:00:00",
+        "rank": "150",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 295,
+        "previousPoints": 301,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -6
+    },
+    {
+        "date": "2005-05-18T00:00:00",
+        "rank": "150",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 301,
+        "previousPoints": 305,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -4
+    },
+    {
+        "date": "2005-04-20T00:00:00",
+        "rank": "150",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 305,
+        "previousPoints": 308,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -3
+    },
+    {
+        "date": "2004-12-20T00:00:00",
+        "rank": "147",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 313,
+        "previousPoints": 330,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -17
+    },
+    {
+        "date": "2005-03-23T00:00:00",
+        "rank": "149",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 308,
+        "previousPoints": 311,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -3
+    },
+    {
+        "date": "2005-01-19T00:00:00",
+        "rank": "150",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 312,
+        "previousPoints": 313,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "2005-02-16T00:00:00",
+        "rank": "150",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 311,
+        "previousPoints": 312,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "2004-11-10T00:00:00",
+        "rank": "142",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 330,
+        "previousPoints": 342,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -12
+    },
+    {
+        "date": "2004-09-01T00:00:00",
+        "rank": "132",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 353,
+        "previousPoints": 360,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -7
+    },
+    {
+        "date": "2004-10-06T00:00:00",
+        "rank": "136",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 342,
+        "previousPoints": 353,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -11
+    },
+    {
+        "date": "2004-07-07T00:00:00",
+        "rank": "128",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 367,
+        "previousPoints": 374,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -7
+    },
+    {
+        "date": "2004-08-04T00:00:00",
+        "rank": "131",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 360,
+        "previousPoints": 367,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -7
+    },
+    {
+        "date": "2004-05-12T00:00:00",
+        "rank": "124",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 379,
+        "previousPoints": 384,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -5
+    },
+    {
+        "date": "2004-06-09T00:00:00",
+        "rank": "127",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 374,
+        "previousPoints": 379,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -5
+    },
+    {
+        "date": "2004-03-17T00:00:00",
+        "rank": "121",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 388,
+        "previousPoints": 390,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -2
+    },
+    {
+        "date": "2004-04-14T00:00:00",
+        "rank": "123",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 384,
+        "previousPoints": 388,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -4
+    },
+    {
+        "date": "2004-02-18T00:00:00",
+        "rank": "121",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 390,
+        "previousPoints": 392,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -2
+    },
+    {
+        "date": "2004-01-14T00:00:00",
+        "rank": "121",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 392,
+        "previousPoints": 392,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2003-12-15T00:00:00",
+        "rank": "118",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 392,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -4
+    },
+    {
+        "date": "2003-11-19T00:00:00",
+        "rank": "117",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 396,
+        "previousPoints": 399,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -3
+    },
+    {
+        "date": "2003-10-22T00:00:00",
+        "rank": "117",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 399,
+        "previousPoints": 396,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 3
+    },
+    {
+        "date": "2003-08-27T00:00:00",
+        "rank": "108",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 408,
+        "previousPoints": 409,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "2003-09-24T00:00:00",
+        "rank": "115",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 396,
+        "previousPoints": 408,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -12
+    },
+    {
+        "date": "2003-07-30T00:00:00",
+        "rank": "105",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 409,
+        "previousPoints": 418,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -9
+    },
+    {
+        "date": "2003-06-25T00:00:00",
+        "rank": "103",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 418,
+        "previousPoints": 421,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -3
+    },
+    {
+        "date": "2003-05-21T00:00:00",
+        "rank": "102",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 421,
+        "previousPoints": 427,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -6
+    },
+    {
+        "date": "2003-04-23T00:00:00",
+        "rank": "101",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 427,
+        "previousPoints": 418,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 9
+    },
+    {
+        "date": "2003-02-19T00:00:00",
+        "rank": "105",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 414,
+        "previousPoints": 415,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "2002-12-18T00:00:00",
+        "rank": "101",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 415,
+        "previousPoints": 415,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2003-01-15T00:00:00",
+        "rank": "105",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 415,
+        "previousPoints": 415,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2003-03-26T00:00:00",
+        "rank": "104",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 418,
+        "previousPoints": 414,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 4
+    },
+    {
+        "date": "2002-11-20T00:00:00",
+        "rank": "102",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 415,
+        "previousPoints": 415,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2002-10-23T00:00:00",
+        "rank": "101",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 415,
+        "previousPoints": 383,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 32
+    },
+    {
+        "date": "2002-07-03T00:00:00",
+        "rank": "119",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 359,
+        "previousPoints": 366,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -7
+    },
+    {
+        "date": "2002-08-14T00:00:00",
+        "rank": "122",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 355,
+        "previousPoints": 359,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -4
+    },
+    {
+        "date": "2002-09-18T00:00:00",
+        "rank": "112",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 383,
+        "previousPoints": 355,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 28
+    },
+    {
+        "date": "2002-05-15T00:00:00",
+        "rank": "117",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 366,
+        "previousPoints": 364,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 2
+    },
+    {
+        "date": "2002-03-20T00:00:00",
+        "rank": "122",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 358,
+        "previousPoints": 360,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -2
+    },
+    {
+        "date": "2002-04-17T00:00:00",
+        "rank": "120",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 364,
+        "previousPoints": 358,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 6
+    },
+    {
+        "date": "2002-01-16T00:00:00",
+        "rank": "122",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 361,
+        "previousPoints": 361,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2001-12-19T00:00:00",
+        "rank": "122",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 361,
+        "previousPoints": 361,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2002-02-13T00:00:00",
+        "rank": "122",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 360,
+        "previousPoints": 361,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "2001-08-22T00:00:00",
+        "rank": "120",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 366,
+        "previousPoints": 348,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 18
+    },
+    {
+        "date": "2001-11-21T00:00:00",
+        "rank": "122",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 361,
+        "previousPoints": 361,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2001-10-17T00:00:00",
+        "rank": "122",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 361,
+        "previousPoints": 361,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2001-09-19T00:00:00",
+        "rank": "122",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 361,
+        "previousPoints": 366,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -5
+    },
+    {
+        "date": "2001-07-18T00:00:00",
+        "rank": "124",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 348,
+        "previousPoints": 354,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -6
+    },
+    {
+        "date": "2001-05-16T00:00:00",
+        "rank": "119",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 354,
+        "previousPoints": 357,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -3
+    },
+    {
+        "date": "2001-06-20T00:00:00",
+        "rank": "123",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 354,
+        "previousPoints": 354,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2001-04-11T00:00:00",
+        "rank": "117",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 357,
+        "previousPoints": 363,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -6
+    },
+    {
+        "date": "2001-03-14T00:00:00",
+        "rank": "112",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 363,
+        "previousPoints": 364,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "2001-02-14T00:00:00",
+        "rank": "113",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 364,
+        "previousPoints": 365,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "2000-12-20T00:00:00",
+        "rank": "114",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 355,
+        "previousPoints": 354,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 1
+    },
+    {
+        "date": "2001-01-17T00:00:00",
+        "rank": "112",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 365,
+        "previousPoints": 355,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 10
+    },
+    {
+        "date": "2000-10-11T00:00:00",
+        "rank": "115",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 354,
+        "previousPoints": 351,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 3
+    },
+    {
+        "date": "2000-11-15T00:00:00",
+        "rank": "115",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 354,
+        "previousPoints": 354,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2000-09-06T00:00:00",
+        "rank": "115",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 351,
+        "previousPoints": 313,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 38
+    },
+    {
+        "date": "2000-08-09T00:00:00",
+        "rank": "121",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 313,
+        "previousPoints": 297,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 16
+    },
+    {
+        "date": "2000-07-05T00:00:00",
+        "rank": "122",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 297,
+        "previousPoints": 235,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 62
+    },
+    {
+        "date": "2000-06-07T00:00:00",
+        "rank": "140",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 235,
+        "previousPoints": 239,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -4
+    },
+    {
+        "date": "2000-04-12T00:00:00",
+        "rank": "139",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 226,
+        "previousPoints": 228,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -2
+    },
+    {
+        "date": "2000-05-10T00:00:00",
+        "rank": "138",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 239,
+        "previousPoints": 226,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 13
+    },
+    {
+        "date": "2000-02-16T00:00:00",
+        "rank": "136",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 230,
+        "previousPoints": 231,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "2000-03-15T00:00:00",
+        "rank": "136",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 228,
+        "previousPoints": 230,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -2
+    },
+    {
+        "date": "1999-11-17T00:00:00",
+        "rank": "134",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 231,
+        "previousPoints": 231,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1999-12-22T00:00:00",
+        "rank": "134",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 231,
+        "previousPoints": 231,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "2000-01-19T00:00:00",
+        "rank": "134",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 231,
+        "previousPoints": 231,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1999-10-13T00:00:00",
+        "rank": "133",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 231,
+        "previousPoints": 232,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "1999-08-18T00:00:00",
+        "rank": "132",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 234,
+        "previousPoints": 232,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 2
+    },
+    {
+        "date": "1999-09-15T00:00:00",
+        "rank": "133",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 232,
+        "previousPoints": 234,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -2
+    },
+    {
+        "date": "1999-07-21T00:00:00",
+        "rank": "132",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 232,
+        "previousPoints": 225,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 7
+    },
+    {
+        "date": "1999-06-16T00:00:00",
+        "rank": "133",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 225,
+        "previousPoints": 225,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1999-05-19T00:00:00",
+        "rank": "132",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 225,
+        "previousPoints": 225,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1999-04-21T00:00:00",
+        "rank": "132",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 225,
+        "previousPoints": 226,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "1999-03-24T00:00:00",
+        "rank": "132",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 226,
+        "previousPoints": 196,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 30
+    },
+    {
+        "date": "1999-01-27T00:00:00",
+        "rank": "145",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 189,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 176
+    },
+    {
+        "date": "1999-02-24T00:00:00",
+        "rank": "142",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 196,
+        "previousPoints": 189,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 7
+    },
+    {
+        "date": "1998-12-23T00:00:00",
+        "rank": "150",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1998-11-18T00:00:00",
+        "rank": "148",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 13,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "1998-10-21T00:00:00",
+        "rank": "148",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 14,
+        "previousPoints": 12,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 2
+    },
+    {
+        "date": "1998-09-16T00:00:00",
+        "rank": "152",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 12,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 4
+    },
+    {
+        "date": "1998-07-15T00:00:00",
+        "rank": "168",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1998-08-19T00:00:00",
+        "rank": "161",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 8,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 2
+    },
+    {
+        "date": "1998-04-22T00:00:00",
+        "rank": "167",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 6,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "1998-05-20T00:00:00",
+        "rank": "169",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 6,
+        "previousPoints": 6,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1998-03-18T00:00:00",
+        "rank": "166",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 7,
+        "previousPoints": 7,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1998-02-18T00:00:00",
+        "rank": "166",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 7,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "1997-12-23T00:00:00",
+        "rank": "163",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1997-11-19T00:00:00",
+        "rank": "163",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1997-08-20T00:00:00",
+        "rank": "161",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1997-10-17T00:00:00",
+        "rank": "164",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1997-07-16T00:00:00",
+        "rank": "161",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 8,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -2
+    },
+    {
+        "date": "1997-06-18T00:00:00",
+        "rank": "149",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 10,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "1997-04-09T00:00:00",
+        "rank": "142",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1997-09-17T00:00:00",
+        "rank": "162",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 8,
+        "previousPoints": 8,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1997-05-14T00:00:00",
+        "rank": "144",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1997-02-27T00:00:00",
+        "rank": "141",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1996-12-18T00:00:00",
+        "rank": "140",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 11,
+        "previousPoints": 12,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "1996-10-23T00:00:00",
+        "rank": "140",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 12,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "1996-11-20T00:00:00",
+        "rank": "140",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 12,
+        "previousPoints": 12,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1996-08-28T00:00:00",
+        "rank": "139",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 13,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "1996-09-25T00:00:00",
+        "rank": "139",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1996-07-03T00:00:00",
+        "rank": "137",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 14,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 4
+    },
+    {
+        "date": "1996-04-24T00:00:00",
+        "rank": "141",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 10,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "1996-02-21T00:00:00",
+        "rank": "137",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1996-05-22T00:00:00",
+        "rank": "143",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 10,
+        "previousPoints": 10,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1995-11-21T00:00:00",
+        "rank": "125",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 12,
+        "previousPoints": 12,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1995-10-17T00:00:00",
+        "rank": "125",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 12,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "1996-01-24T00:00:00",
+        "rank": "136",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 11,
+        "previousPoints": 11,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1995-06-13T00:00:00",
+        "rank": "115",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1995-08-22T00:00:00",
+        "rank": "121",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1995-12-19T00:00:00",
+        "rank": "132",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 11,
+        "previousPoints": 12,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "1995-09-19T00:00:00",
+        "rank": "103",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1995-07-25T00:00:00",
+        "rank": "118",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 13,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "1994-12-20T00:00:00",
+        "rank": "111",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 12,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "1994-11-22T00:00:00",
+        "rank": "112",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1995-04-19T00:00:00",
+        "rank": "110",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 14,
+        "previousPoints": 15,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "1995-05-16T00:00:00",
+        "rank": "110",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 14,
+        "previousPoints": 14,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1995-02-20T00:00:00",
+        "rank": "105",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 15,
+        "previousPoints": 12,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 3
+    },
+    {
+        "date": "1994-10-25T00:00:00",
+        "rank": "110",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1994-07-21T00:00:00",
+        "rank": "102",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1994-09-13T00:00:00",
+        "rank": "103",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1994-05-17T00:00:00",
+        "rank": "105",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1994-03-15T00:00:00",
+        "rank": "105",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1994-06-14T00:00:00",
+        "rank": "106",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1994-04-19T00:00:00",
+        "rank": "103",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 13,
+        "previousPoints": 13,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 0
+    },
+    {
+        "date": "1993-12-23T00:00:00",
+        "rank": "89",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 16,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -2
+    },
+    {
+        "date": "1994-02-15T00:00:00",
+        "rank": "99",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 13,
+        "previousPoints": 16,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -3
+    },
+    {
+        "date": "1993-11-19T00:00:00",
+        "rank": "86",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 18,
+        "previousPoints": 19,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "1993-08-08T00:00:00",
+        "rank": "81",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 21,
+        "previousPoints": 18,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": 3
+    },
+    {
+        "date": "1993-09-23T00:00:00",
+        "rank": "83",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 20,
+        "previousPoints": 21,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "1993-10-22T00:00:00",
+        "rank": "86",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 19,
+        "previousPoints": 20,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad",
+        "delta": -1
+    },
+    {
+        "date": "1992-12-31T00:00:00",
+        "rank": "74",
+        "country": "Madagascar",
+        "ct": "MAD",
+        "points": 18,
+        "previousPoints": null,
+        "flag": "https://api.fifa.com/api/v1/picture/flags-sq-4/mad"
+    }
+]
